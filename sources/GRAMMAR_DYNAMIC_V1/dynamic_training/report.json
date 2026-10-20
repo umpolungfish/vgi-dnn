@@ -1,0 +1,14 @@
+{
+  "cases": 192,
+  "split_by_seed": true,
+  "splits": {
+    "train": 144,
+    "validation": 24,
+    "test": 24
+  },
+  "identity_cases": 88,
+  "non_identity_cases": 104,
+  "native_probes": 0,
+  "provenance": "IMSCRIBERS_GUIDE_TO_IMASM.md, Part IV",
+  "asserted_grammar_kernel_verdicts": false
+}

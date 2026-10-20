@@ -1,0 +1,7 @@
+{
+  "source": "Vox/target/x86_64-unknown-linux-musl/release/vox",
+  "destination": "Vox/target/release/vox",
+  "sha256": "f24e8de829ccb664f9307fc3d27078f97c2aae916b5109c102a5239bb1730eda",
+  "build": "cargo build --offline --release --bin vox",
+  "configured_target": "x86_64-unknown-linux-musl"
+}

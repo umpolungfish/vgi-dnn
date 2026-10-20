@@ -1,0 +1,1587 @@
+{
+  "parent_model_sha256": "f3175cba07b16288cb8635c0f4716c9ebf68e589c998facf440eb5fad690d187",
+  "bank_sha256": "fe5e44c83ae8c1f054c0eb210b4e3688621e4cec40f0135ab8e4e772c01c0b9e",
+  "summary": [
+    {
+      "passes": 2,
+      "carried": false,
+      "count": 32,
+      "exact": 22,
+      "terminal_loss": 0.45256653429468263
+    },
+    {
+      "passes": 2,
+      "carried": true,
+      "count": 32,
+      "exact": 19,
+      "terminal_loss": 0.4656288129368464
+    },
+    {
+      "passes": 4,
+      "carried": false,
+      "count": 32,
+      "exact": 21,
+      "terminal_loss": 0.5775533090283981
+    },
+    {
+      "passes": 4,
+      "carried": true,
+      "count": 32,
+      "exact": 21,
+      "terminal_loss": 0.5491094605597704
+    },
+    {
+      "passes": 8,
+      "carried": false,
+      "count": 32,
+      "exact": 21,
+      "terminal_loss": 0.5775485956830892
+    },
+    {
+      "passes": 8,
+      "carried": true,
+      "count": 32,
+      "exact": 21,
+      "terminal_loss": 0.5491104773819052
+    }
+  ],
+  "observations": [
+    {
+      "id": "bd6292f8fe64e7c49088fb8505ae74dbf04d3155901d4cca3b3ac2b4da34dc95:0",
+      "target": 0,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 1.719337519393303,
+          "loss": 1.880453136941945
+        }
+      ]
+    },
+    {
+      "id": "c4a80652dd3880438b0646a1b70df89d5bca54db6c1308583b9d177da216842a:1",
+      "target": 1,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.006196879320495997,
+          "loss": 0.039347055293969216
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.01293199968085536,
+          "loss": 0.046816064253996946
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.015069750251478836,
+          "loss": 0.04875695978965799
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.015069750251478836,
+          "loss": 0.04912390408949217
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.015069750251478836,
+          "loss": 0.04902547657201096
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.015069750251478836,
+          "loss": 0.04920894872192805
+        }
+      ]
+    },
+    {
+      "id": "59f827dfb2a33c8fec36c4809f22761fc27b60aaafce9978dbd12990b2896b10:4",
+      "target": 4,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.0024940565411630624,
+          "loss": 0.030655539058395808
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.0016926687002734215,
+          "loss": 0.029535377652869593
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.004349473376312349,
+          "loss": 0.03240819284061856
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.004349473376312349,
+          "loss": 0.032251152273176015
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.004349473376312349,
+          "loss": 0.032365595086342826
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.004349473376312349,
+          "loss": 0.03228707480262155
+        }
+      ]
+    },
+    {
+      "id": "59f827dfb2a33c8fec36c4809f22761fc27b60aaafce9978dbd12990b2896b10:14",
+      "target": 14,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.007870062932483842,
+          "loss": 0.05721223735067217
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 15,
+          "terminal_loss": 0.610700198446398,
+          "loss": 0.6598471037526578
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.00268984698365709,
+          "loss": 0.051806238549362935
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.00268984698365709,
+          "loss": 0.05179013495710427
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.00268984698365709,
+          "loss": 0.051694539544581676
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.00268984698365709,
+          "loss": 0.051686487748452345
+        }
+      ]
+    },
+    {
+      "id": "007959ece460492d9b3460c363167de462d289faa4b29e868d0296b872cb93f4:14",
+      "target": 14,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.00718043400739227,
+          "loss": 0.074071844845512
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.002304662465519905,
+          "loss": 0.0716895187839345
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.0022624575860175906,
+          "loss": 0.06886531675456643
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.0022624575860175906,
+          "loss": 0.07011203949471387
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.0022624575860175906,
+          "loss": 0.06872104091978098
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.0022624575860175906,
+          "loss": 0.0693444022898547
+        }
+      ]
+    },
+    {
+      "id": "97eb6d33b2e37143ea14b4211ea33f0645a491cb0671ddf75e29884d9dbfa7bc:14",
+      "target": 14,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.03737571726162292,
+          "loss": 0.07079181233653045
+        }
+      ]
+    },
+    {
+      "id": "dcfce04d87a11f3963acd8f777fc6859faaf11b3d27ec2c7cc2ad57b7c1c8863:7",
+      "target": 7,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 7,
+          "terminal_loss": 0.013293331963087653,
+          "loss": 0.08609218280483052
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 7,
+          "terminal_loss": 0.00476879221053584,
+          "loss": 0.07727123531267444
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 7,
+          "terminal_loss": 0.12086982413686935,
+          "loss": 0.19459583965955568
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 7,
+          "terminal_loss": 0.12086982413686935,
+          "loss": 0.1944476357897535
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 7,
+          "terminal_loss": 0.12086982413686935,
+          "loss": 0.19505942200002735
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 7,
+          "terminal_loss": 0.12086982413686935,
+          "loss": 0.19498532006512626
+        }
+      ]
+    },
+    {
+      "id": "0feb57a16ebc9a577e505b9d7c5eedaff8f6808fe28c8997ded7a22e44f953bf:4",
+      "target": 4,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.002494066262958677,
+          "loss": 0.02665821546768095
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.0015879552928159844,
+          "loss": 0.025292101456606
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.004317611821302065,
+          "loss": 0.02833472122786527
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.004317611821302065,
+          "loss": 0.02810742209444926
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.004317611821302065,
+          "loss": 0.028273608480795617
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.004317611821302065,
+          "loss": 0.02815995891408761
+        }
+      ]
+    },
+    {
+      "id": "b3c1b7d69847f2588c9556eb27bf6e4347e12040cc2264a00a29e7b97164e7e7:1",
+      "target": 1,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.006018054294000394,
+          "loss": 0.042149742242965874
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.0049958178605711365,
+          "loss": 0.04125651861928892
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.05316030169778173,
+          "loss": 0.08948856695256446
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.05316030169778173,
+          "loss": 0.08953822483412331
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 0.05316030169778173,
+          "loss": 0.08972903340385346
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.05316030169778173,
+          "loss": 0.0897538623446329
+        }
+      ]
+    },
+    {
+      "id": "2180287f39ab9613dd72788d3588eea7fedf7aa09d1d8786893de917f139558f:5",
+      "target": 5,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.05596064447701745
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.055741812907116974
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.05586276178998767
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.05575334600503743
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.05581382044647279
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.005027749465063904,
+          "loss": 0.055759112553997674
+        }
+      ]
+    },
+    {
+      "id": "9f61bdb6ae22fa96365d985c65841d3761b17e36d96a71f8aafe4e6c51ee2ec4:13",
+      "target": 13,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.00365860443093294,
+          "loss": 0.07652434098413347
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0043499948962875375,
+          "loss": 0.07664094282865519
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0017011278093825234,
+          "loss": 0.07423781524581413
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0017011278093825234,
+          "loss": 0.07395042093539769
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0017011278093825234,
+          "loss": 0.07407329068742964
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0017011278093825234,
+          "loss": 0.07392959353222142
+        }
+      ]
+    },
+    {
+      "id": "2180287f39ab9613dd72788d3588eea7fedf7aa09d1d8786893de917f139558f:11",
+      "target": 11,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8432902823008923
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8434609265289053
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8431232290747266
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8432085511887328
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8430397024616436
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.7971544008663785,
+          "loss": 1.8430823635186468
+        }
+      ]
+    },
+    {
+      "id": "be479b66b3148028e5e1707ad7ffe5f11e47a4eb7da91c48791ad35bb002c366:13",
+      "target": 13,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.0924870837731707
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.09210842036529773
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.09229926324829427
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.09210993154435779
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.09220535298585607
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0034205790272393713,
+          "loss": 0.09211068713388783
+        }
+      ]
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:4",
+      "target": 4,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.0024940565411630624,
+          "loss": 0.03290457530865457
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.002444969787600779,
+          "loss": 0.032646799922361934
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.03457647262041767,
+          "loss": 0.06716760853333549
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.03457647262041767,
+          "loss": 0.06707015253006687
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 0.03457647262041767,
+          "loss": 0.06836116025087403
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 4,
+          "terminal_loss": 0.03457647262041767,
+          "loss": 0.06831243224923972
+        }
+      ]
+    },
+    {
+      "id": "35f4ed7c088340601e55f9bb7fa4313ff1d66367a3a187004940a2658d6472ad:7",
+      "target": 2,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 2,
+          "terminal_loss": 0.05174604447548837,
+          "loss": 0.07141309853743212
+        }
+      ]
+    },
+    {
+      "id": "99b74a7cf40c27595d11c85a170c724d0d2e5afc1981088d17196c4296b345d4:9",
+      "target": 9,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.0038229494091029216,
+          "loss": 0.04997316230234488
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 0.9391110083610117,
+          "loss": 0.9931595906721324
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.010114125432230595,
+          "loss": 0.0570810498334614
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.010114125432230595,
+          "loss": 0.060476632927951884
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.010114125432230595,
+          "loss": 0.05694178042249616
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.010114125432230595,
+          "loss": 0.0586395719697414
+        }
+      ]
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:8",
+      "target": 8,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.9738917009774968,
+          "loss": 1.0192809817574966
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.36714370678569286,
+          "loss": 0.4128766047441778
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.777018410054004,
+          "loss": 1.8254169893037342
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.777018410054004,
+          "loss": 1.8254513780907142
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.777018410054004,
+          "loss": 1.8291698980255335
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.777018410054004,
+          "loss": 1.8291870924190237
+        }
+      ]
+    },
+    {
+      "id": "ff3aeba43b421d1446282a52244519c95d0078afa0b03e38248efd10f8e7d689:11",
+      "target": 1,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 0.4091157192278783,
+          "loss": 0.4537299627643735
+        }
+      ]
+    },
+    {
+      "id": "3e991877898c09b1e0d3e2bc9d30b63ef16ac2596b24954bb5b8e8728542367d:2",
+      "target": 2,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 1.1813026409388228,
+          "loss": 1.2492144181385738
+        }
+      ]
+    },
+    {
+      "id": "9f61bdb6ae22fa96365d985c65841d3761b17e36d96a71f8aafe4e6c51ee2ec4:9",
+      "target": 9,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.0038229494091029216,
+          "loss": 0.0509773684623529
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.1482716858194237,
+          "loss": 1.223482959754317
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.3475205618649804,
+          "loss": 1.4112077699328642
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.3475205618649804,
+          "loss": 1.425236197373686
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.3475205618649804,
+          "loss": 1.4194741644401814
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.3475205618649804,
+          "loss": 1.4264883781605922
+        }
+      ]
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:5",
+      "target": 4,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.9343262173574777,
+          "loss": 0.9963965185029006
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 1.0520718499166732,
+          "loss": 1.1141478090473778
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 1.0169452923441864,
+          "loss": 1.0790673940495044
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 1.0169452923441864,
+          "loss": 1.0790709434557109
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 1.0169452923441864,
+          "loss": 1.0790948138885452
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 1.0169452923441864,
+          "loss": 1.0790965885916486
+        }
+      ]
+    },
+    {
+      "id": "b3c1b7d69847f2588c9556eb27bf6e4347e12040cc2264a00a29e7b97164e7e7:13",
+      "target": 13,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0037309198706858776,
+          "loss": 0.08967434281810427
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.004723769049566447,
+          "loss": 0.09024767186630597
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0016069831487704825,
+          "loss": 0.08730370131488034
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0016069831487704825,
+          "loss": 0.08709124796651897
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 13,
+          "terminal_loss": 0.0016069831487704825,
+          "loss": 0.08717898290388683
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 13,
+          "terminal_loss": 0.0016069831487704825,
+          "loss": 0.08707275622970614
+        }
+      ]
+    },
+    {
+      "id": "bd6292f8fe64e7c49088fb8505ae74dbf04d3155901d4cca3b3ac2b4da34dc95:3",
+      "target": 3,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 3,
+          "terminal_loss": 0.003264653613752687,
+          "loss": 0.012341948628493103
+        }
+      ]
+    },
+    {
+      "id": "23383b73fbdd478bf65794da792a6148bfadad9489331c3fffad3f357337f1eb:15",
+      "target": 10,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.816201125589386
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.815760900988915
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.8159695657762596
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.815749453476024
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.8158537858696966
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 15,
+          "terminal_loss": 2.7119849213591523,
+          "loss": 2.815743729719579
+        }
+      ]
+    },
+    {
+      "id": "4dc0d2e3651b61f81eb42d40b3dba38f02a0d9571f4accf6fcc435462a706bdf:8",
+      "target": 8,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.9814608310180656,
+          "loss": 1.0258651890057593
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.504824896539436,
+          "loss": 0.5496304062997337
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 1.5094799188412047,
+          "loss": 1.5537456867142765
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 1.5094799188412047,
+          "loss": 1.5539462626005787
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 1.5094799188412047,
+          "loss": 1.5536763916569658
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 1.5094799188412047,
+          "loss": 1.5537766796001167
+        }
+      ]
+    },
+    {
+      "id": "0feb57a16ebc9a577e505b9d7c5eedaff8f6808fe28c8997ded7a22e44f953bf:5",
+      "target": 5,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.006733668950187885,
+          "loss": 0.058585271688466965
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.003313476269422292,
+          "loss": 0.05483108458924475
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.0036762416939646477,
+          "loss": 0.05538094698039995
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.0036762416939646477,
+          "loss": 0.05521076218882238
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 5,
+          "terminal_loss": 0.0036762416939646477,
+          "loss": 0.05530513975924093
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 5,
+          "terminal_loss": 0.0036762416939646477,
+          "loss": 0.05522004736345215
+        }
+      ]
+    },
+    {
+      "id": "58a102709b1c369ed27fc47cb4ffe6a2d2c4bd3952f856d2fdf330dcbd1a28fc:8",
+      "target": 8,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.9738917009774968,
+          "loss": 1.0223132868443305
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.5254996261996289,
+          "loss": 0.574127613414426
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.9672939137071066,
+          "loss": 2.0306045168704827
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.9672939137071066,
+          "loss": 2.0307077175444648
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 1,
+          "terminal_loss": 1.9672939137071066,
+          "loss": 2.038049025518754
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 1,
+          "terminal_loss": 1.9672939137071066,
+          "loss": 2.038100625855745
+        }
+      ]
+    },
+    {
+      "id": "a293a946cb9f2586b763e178ae1721aaaf187f63a63fe54b0275587a10eaf925:9",
+      "target": 9,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.05521849320842208
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.05451705035137252
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.05486641100816149
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.05451568957963672
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.054690369908031215
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 9,
+          "terminal_loss": 0.0029744859282822677,
+          "loss": 0.05451500919376883
+        }
+      ]
+    },
+    {
+      "id": "35f4ed7c088340601e55f9bb7fa4313ff1d66367a3a187004940a2658d6472ad:9",
+      "target": 8,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090505
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090505
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090505
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090505
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090504
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 8,
+          "terminal_loss": 0.028898559953488785,
+          "loss": 0.03993668493090504
+        }
+      ]
+    },
+    {
+      "id": "1fc04f204a12f5d518f6fe71e95ef16aa50bd9d6c50bb12671410ebd69d1036b:4",
+      "target": 8,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 2.586603858850108,
+          "loss": 2.6406970066445266
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 1.7421346989089115,
+          "loss": 1.7904234311912006
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 2.651771702840734,
+          "loss": 2.7026022454276006
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 1.741568551844646,
+          "loss": 1.7894407475887937
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 4,
+          "terminal_loss": 2.6516208757908495,
+          "loss": 2.7007654919581126
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 0,
+          "terminal_loss": 1.7416010901529628,
+          "loss": 1.7892682287263644
+        }
+      ]
+    },
+    {
+      "id": "ccde662693de4314e1ecf67dfe3da0b938d7fa7b163ab001e14ab04130c067b7:10",
+      "target": 10,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.04965877747562784
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.04930212626078939
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.04947867748729851
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.04930035187987929
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.049388627493133885
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 10,
+          "terminal_loss": 0.0033613287985770355,
+          "loss": 0.04929946468942427
+        }
+      ]
+    },
+    {
+      "id": "cac7de792d897a018af839dad19bba9455d262e6a0ac0d4dbd18d85c59540261:14",
+      "target": 14,
+      "returns": [
+        {
+          "passes": 2,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.00718043400739227,
+          "loss": 0.07388778241624776
+        },
+        {
+          "passes": 2,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.01228591647940916,
+          "loss": 0.07852272430316902
+        },
+        {
+          "passes": 4,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.0023175523892876404,
+          "loss": 0.06873588231305552
+        },
+        {
+          "passes": 4,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.0023175523892876404,
+          "loss": 0.06850061202050771
+        },
+        {
+          "passes": 8,
+          "carried": false,
+          "returned": 14,
+          "terminal_loss": 0.0023175523892876404,
+          "loss": 0.06859137307051168
+        },
+        {
+          "passes": 8,
+          "carried": true,
+          "returned": 14,
+          "terminal_loss": 0.0023175523892876404,
+          "loss": 0.06847373792423779
+        }
+      ]
+    }
+  ],
+  "scope": "frozen pre-stage weights on selected training graphs; repeated transformations of the same input state, no optimizer updates or validation tuning"
+}

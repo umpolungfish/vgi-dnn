@@ -1,0 +1,26 @@
+{
+  "roots": [
+    {
+      "label": "ig_docs",
+      "path": "/home/mrnob0dy666/imsgct/ig-docs"
+    },
+    {
+      "label": "lean",
+      "path": "/home/mrnob0dy666/imsgct/p4rakernel/p4ramill/Imscribing"
+    }
+  ],
+  "counts": {
+    "document": 6172,
+    "chunks": 91091,
+    "filename_terms": 6132,
+    "lean": 3316,
+    "imports": 9087,
+    "declarations": 92208,
+    "extraction_errors": 2,
+    "skipped_oversize": 2
+  },
+  "indexed_files": 9488,
+  "errors": [],
+  "database": "/home/mrnob0dy666/imsgct/VGI/GRAMMAR_COMPLETE_HISTORY/sources/GRAMMAR_UNIFIED_RUN/grammar_corpus.sqlite",
+  "publication": "atomic_replacement"
+}

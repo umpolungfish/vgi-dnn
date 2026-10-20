@@ -1,0 +1,16 @@
+{
+  "passed": true,
+  "gradient_error": 2.6645352591003757e-15,
+  "score_error": 0.0,
+  "runs": [
+    {
+      "loss": 1.608689912333621,
+      "seconds": 5.494452637001814
+    },
+    {
+      "loss": 1.608689912333621,
+      "seconds": 1.5421290509984829
+    }
+  ],
+  "scope": "shared source-prefix computation versus independently replayed source for all twelve axis gradients; complete chunks and absolute positions preserved"
+}

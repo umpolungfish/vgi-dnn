@@ -1,0 +1,111 @@
+{
+  "partition": "validation",
+  "source_sha256": "092b07457376044f83f163fe9a65c20404701fa6df220249cbd80a82921f0685",
+  "evaluation": "label-free proposals compared afterward with counterfactual graph returns",
+  "reports": [
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_paired_distinction_comparison_20261017/returned_checkpoint",
+      "checkpoint_sha256": "0d11fdc9b693f82a45ef6370a4ab2cc96008af846385de1cfe1b7683af3549b5",
+      "view": "flat",
+      "counts": {
+        "evidence_exact": 324,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 528,
+        "held_correctly": 88,
+        "revision": 497,
+        "release": 151,
+        "supported_both_choice": 176,
+        "predicted_both_choice": 172,
+        "exact_both_choice": 100
+      },
+      "supported_choice_rate": 0.7096774193548387,
+      "evidence_exact_rate": 0.375,
+      "mean_bit_loss": 0.26106373699139723,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          160,
+          268,
+          32,
+          20
+        ],
+        [
+          124,
+          608,
+          16,
+          84
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          40,
+          184,
+          20,
+          172
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_paired_distinction_comparison_20261017/returned_checkpoint",
+      "checkpoint_sha256": "0d11fdc9b693f82a45ef6370a4ab2cc96008af846385de1cfe1b7683af3549b5",
+      "view": "retained",
+      "counts": {
+        "evidence_exact": 343,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 580,
+        "held_correctly": 20,
+        "revision": 594,
+        "release": 50,
+        "supported_both_choice": 188,
+        "predicted_both_choice": 111,
+        "exact_both_choice": 71
+      },
+      "supported_choice_rate": 0.7795698924731183,
+      "evidence_exact_rate": 0.39699074074074076,
+      "mean_bit_loss": 0.2238664859043484,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          112,
+          352,
+          8,
+          8
+        ],
+        [
+          100,
+          656,
+          8,
+          68
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          20,
+          217,
+          24,
+          155
+        ]
+      ]
+    }
+  ]
+}

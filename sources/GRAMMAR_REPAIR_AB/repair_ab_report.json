@@ -1,0 +1,148 @@
+{
+  "method": "Paired deterministic seeds, same carrier checkpoint, separate rollouts from same initial states",
+  "original": "/home/mrnob0dy666/imsgct/VGI/GRAMMAR_COMPLETE_HISTORY/sources/IMASM_GRAMMAR_DNN_OPS/operation_checkpoints/best_ops.pt",
+  "candidate": "/home/mrnob0dy666/imsgct/VGI/GRAMMAR_COMPLETE_HISTORY/sources/GRAMMAR_COORDINATE_REPAIR/coordinate_checkpoints/candidate_ops.pt",
+  "carrier": "/home/mrnob0dy666/imsgct/VGI/GRAMMAR_COMPLETE_HISTORY/sources/GRAMMAR_CARRIER_LEARNER/carrier_checkpoints/best_carrier.pt",
+  "cases_per_length": 256,
+  "results": [
+    {
+      "steps": 8,
+      "original": {
+        "coordinate_step_accuracy": 1.0,
+        "mixed_intermediate_accuracy": 1.0,
+        "full_trajectory_exact": 1.0,
+        "final_state_exact": 1.0
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 1.0,
+        "mixed_intermediate_accuracy": 1.0,
+        "full_trajectory_exact": 1.0,
+        "final_state_exact": 1.0
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": 0.0,
+        "mixed_intermediate_accuracy": 0.0,
+        "full_trajectory_exact": 0.0,
+        "final_state_exact": 0.0
+      },
+      "original_failed_cases": 0,
+      "candidate_failed_cases": 0
+    },
+    {
+      "steps": 16,
+      "original": {
+        "coordinate_step_accuracy": 0.999046,
+        "mixed_intermediate_accuracy": 0.999268,
+        "full_trajectory_exact": 0.996094,
+        "final_state_exact": 1.0
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 1.0,
+        "mixed_intermediate_accuracy": 1.0,
+        "full_trajectory_exact": 1.0,
+        "final_state_exact": 1.0
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": 0.000954,
+        "mixed_intermediate_accuracy": 0.000732,
+        "full_trajectory_exact": 0.003906,
+        "final_state_exact": 0.0
+      },
+      "original_failed_cases": 1,
+      "candidate_failed_cases": 0
+    },
+    {
+      "steps": 32,
+      "original": {
+        "coordinate_step_accuracy": 0.997293,
+        "mixed_intermediate_accuracy": 0.997437,
+        "full_trajectory_exact": 0.996094,
+        "final_state_exact": 0.996094
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 0.996062,
+        "mixed_intermediate_accuracy": 0.995605,
+        "full_trajectory_exact": 0.992188,
+        "final_state_exact": 0.992188
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": -0.001231,
+        "mixed_intermediate_accuracy": -0.001832,
+        "full_trajectory_exact": -0.003906,
+        "final_state_exact": -0.003906
+      },
+      "original_failed_cases": 1,
+      "candidate_failed_cases": 2
+    },
+    {
+      "steps": 64,
+      "original": {
+        "coordinate_step_accuracy": 0.992945,
+        "mixed_intermediate_accuracy": 0.992676,
+        "full_trajectory_exact": 0.964844,
+        "final_state_exact": 0.980469
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 0.997567,
+        "mixed_intermediate_accuracy": 0.998108,
+        "full_trajectory_exact": 0.988281,
+        "final_state_exact": 0.996094
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": 0.004622,
+        "mixed_intermediate_accuracy": 0.005432,
+        "full_trajectory_exact": 0.023437,
+        "final_state_exact": 0.015625
+      },
+      "original_failed_cases": 9,
+      "candidate_failed_cases": 3
+    },
+    {
+      "steps": 128,
+      "original": {
+        "coordinate_step_accuracy": 0.98712,
+        "mixed_intermediate_accuracy": 0.987488,
+        "full_trajectory_exact": 0.945312,
+        "final_state_exact": 0.988281
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 0.99435,
+        "mixed_intermediate_accuracy": 0.993652,
+        "full_trajectory_exact": 0.964844,
+        "final_state_exact": 0.984375
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": 0.00723,
+        "mixed_intermediate_accuracy": 0.006164,
+        "full_trajectory_exact": 0.019532,
+        "final_state_exact": -0.003906
+      },
+      "original_failed_cases": 14,
+      "candidate_failed_cases": 9
+    },
+    {
+      "steps": 256,
+      "original": {
+        "coordinate_step_accuracy": 0.992185,
+        "mixed_intermediate_accuracy": 0.992325,
+        "full_trajectory_exact": 0.910156,
+        "final_state_exact": 0.988281
+      },
+      "candidate": {
+        "coordinate_step_accuracy": 0.996367,
+        "mixed_intermediate_accuracy": 0.996017,
+        "full_trajectory_exact": 0.949219,
+        "final_state_exact": 0.992188
+      },
+      "candidate_minus_original": {
+        "coordinate_step_accuracy": 0.004182,
+        "mixed_intermediate_accuracy": 0.003692,
+        "full_trajectory_exact": 0.039063,
+        "final_state_exact": 0.003907
+      },
+      "original_failed_cases": 23,
+      "candidate_failed_cases": 13
+    }
+  ],
+  "note": "Paired coordinate/carrier operational-oracle evaluation."
+}

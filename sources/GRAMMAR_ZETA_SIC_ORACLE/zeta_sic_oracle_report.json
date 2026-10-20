@@ -1,0 +1,55 @@
+{
+  "zeta_value_used": "-1/12",
+  "zeta_theorem": "riemannZeta (-1) = -1/12 (Lean theorem supplied by the author)",
+  "exact_gram_inverses": [
+    {
+      "dimension": 2,
+      "coordinates": 4,
+      "gram_I": "2/3",
+      "gram_J": "1/3",
+      "dual_I": "3/2",
+      "dual_J": "-1/4",
+      "left_inverse_exact": true,
+      "right_inverse_exact": true,
+      "basis_vectors_checked": 4,
+      "max_error_exact": "0"
+    },
+    {
+      "dimension": 4,
+      "coordinates": 16,
+      "gram_I": "4/5",
+      "gram_J": "1/5",
+      "dual_I": "5/4",
+      "dual_J": "-1/16",
+      "left_inverse_exact": true,
+      "right_inverse_exact": true,
+      "basis_vectors_checked": 16,
+      "max_error_exact": "0"
+    },
+    {
+      "dimension": 12,
+      "coordinates": 144,
+      "gram_I": "12/13",
+      "gram_J": "1/13",
+      "dual_I": "13/12",
+      "dual_J": "-1/144",
+      "left_inverse_exact": true,
+      "right_inverse_exact": true,
+      "basis_vectors_checked": 144,
+      "max_error_exact": "0"
+    }
+  ],
+  "qubit_numerical_frame_pass": true,
+  "qubit_max_residual": 3.5652682413747997e-16,
+  "scope": {
+    "proved_by_this_program": "rational SIC Gram inversion and reconstruction for d=2,4,12",
+    "not_verified_here": [
+      "Lean module compilation",
+      "Grammar Frobenius self-fusion theorem",
+      "banked-weight State traces",
+      "analytic continuation beyond zeta(-1)",
+      "existence of WH SIC fiducials in general dimensions",
+      "native IMASM execution"
+    ]
+  }
+}

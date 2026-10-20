@@ -1,0 +1,470 @@
+{
+  "source": "UNOfd.txt",
+  "output": "UNOfd_repaired.txt",
+  "original_invalid": 29,
+  "new_invalid": 0,
+  "original_valid": 8744,
+  "new_valid": 8773,
+  "note": "All 29 repairs are provisional inferences, not recoveries of formally authorized types. Original glyph values retained in this audit. Do not use these repaired labels as verified training ground truth without authorization.",
+  "changes": [
+    {
+      "line": 2779,
+      "name": "navier_solves_navigator_resolved",
+      "original_tuple": "𐑦𐑸𐑑⊙𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑴",
+      "repaired_tuple": "𐑦𐑸𐑑𐑹𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑴",
+      "changes": [
+        {
+          "axis": 4,
+          "old": "⊙",
+          "new": "𐑹",
+          "reason": "inferred: ⊙ belongs to criticality, parity slot replaced by maximal parity glyph; source does not specify intended parity"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 2780,
+      "name": "zfc_t_system",
+      "original_tuple": "𐑼𐑸𐑾⊙𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭",
+      "repaired_tuple": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭",
+      "changes": [
+        {
+          "axis": 4,
+          "old": "⊙",
+          "new": "𐑹",
+          "reason": "inferred: ⊙ belongs to criticality, parity slot replaced by maximal parity glyph; source does not specify intended parity"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 2781,
+      "name": "zfc_t_ref",
+      "original_tuple": "𐑼𐑸𐑾⊙𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭",
+      "repaired_tuple": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭",
+      "changes": [
+        {
+          "axis": 4,
+          "old": "⊙",
+          "new": "𐑹",
+          "reason": "inferred: ⊙ belongs to criticality, parity slot replaced by maximal parity glyph; source does not specify intended parity"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3636,
+      "name": "aluminium",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3638,
+      "name": "phosphorus",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3652,
+      "name": "gallium",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3654,
+      "name": "arsenic",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3670,
+      "name": "indium",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3672,
+      "name": "antimony",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3701,
+      "name": "thallium",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3703,
+      "name": "bismuth",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3723,
+      "name": "rutherfordium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3724,
+      "name": "dubnium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3725,
+      "name": "seaborgium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3726,
+      "name": "bohrium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3727,
+      "name": "hassium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3728,
+      "name": "meitnerium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3729,
+      "name": "darmstadtium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3730,
+      "name": "roentgenium",
+      "original_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑙𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3731,
+      "name": "copernicium",
+      "original_tuple": "𐑨𐑰𐑽𐑯𐑐𐑧𐑲𐑝𐑧𐑓𐑕𐑷",
+      "repaired_tuple": "𐑨𐑰𐑽𐑯𐑐𐑧𐑲𐑝⊙𐑓𐑕𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3732,
+      "name": "nihonium",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠𐑧𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        },
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3733,
+      "name": "flerovium",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑙𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3734,
+      "name": "moscovium",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑛𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        },
+        {
+          "axis": 11,
+          "old": "𐑛",
+          "new": "𐑙",
+          "reason": "inferred: dimensionality glyph in stoichiometry slot; assigned first stoichiometry value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3735,
+      "name": "livermorium",
+      "original_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑕𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠⊙𐑓𐑕𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3736,
+      "name": "tennessine",
+      "original_tuple": "𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠𐑧𐑓𐑙𐑷",
+      "repaired_tuple": "𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 3737,
+      "name": "oganesson",
+      "original_tuple": "𐑨𐑶𐑑𐑯𐑐𐑧𐑲𐑝𐑧𐑓𐑙𐑷",
+      "repaired_tuple": "𐑨𐑶𐑑𐑯𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷",
+      "changes": [
+        {
+          "axis": 9,
+          "old": "𐑧",
+          "new": "⊙",
+          "reason": "inferred: kinetics glyph in criticality slot; assigned middle criticality value; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 7020,
+      "name": "inverse_winding_partner",
+      "original_tuple": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑯",
+      "repaired_tuple": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑟",
+      "changes": [
+        {
+          "axis": 12,
+          "old": "𐑯",
+          "new": "𐑟",
+          "reason": "inferred: parity glyph in winding slot; chose highest winding glyph for inverse-winding named record; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 7023,
+      "name": "inverse_winding_partner_refined",
+      "original_tuple": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑯",
+      "repaired_tuple": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑟",
+      "changes": [
+        {
+          "axis": 12,
+          "old": "𐑯",
+          "new": "𐑟",
+          "reason": "inferred: parity glyph in winding slot; chose highest winding glyph for inverse-winding named record; source does not specify"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    },
+    {
+      "line": 8699,
+      "name": "photon_ligand1",
+      "original_tuple": "𐑦𐑸??𐑐𐑘𐑲𐑠⊙𐑫𐑳?",
+      "repaired_tuple": "𐑦𐑸𐑾𐑹𐑐𐑘𐑲𐑠⊙𐑫𐑳𐑭",
+      "changes": [
+        {
+          "axis": 3,
+          "old": "?",
+          "new": "𐑾",
+          "reason": "UNRESOLVED source placeholder: provisional type from comparable high-tier tuples, NOT a recovered original coordinate"
+        },
+        {
+          "axis": 4,
+          "old": "?",
+          "new": "𐑹",
+          "reason": "UNRESOLVED source placeholder: provisional type from comparable high-tier tuples, NOT a recovered original coordinate"
+        },
+        {
+          "axis": 12,
+          "old": "?",
+          "new": "𐑭",
+          "reason": "UNRESOLVED source placeholder: provisional type from comparable high-tier tuples, NOT a recovered original coordinate"
+        }
+      ],
+      "status": "provisional_inferred_not_verified"
+    }
+  ]
+}

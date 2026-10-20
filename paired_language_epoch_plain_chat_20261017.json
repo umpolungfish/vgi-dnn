@@ -1,0 +1,1546 @@
+{
+  "checkpoint_sha256": "c52ef9c7c6415b4f4e619471147de7c5394d19ea78d98eb8f67bc92cd9639d09",
+  "context_bytes": [
+    85,
+    115,
+    101,
+    114,
+    58,
+    32,
+    87,
+    104,
+    97,
+    116,
+    32,
+    105,
+    115,
+    32,
+    116,
+    104,
+    101,
+    32,
+    73,
+    109,
+    115,
+    99,
+    114,
+    105,
+    98,
+    105,
+    110,
+    103,
+    32,
+    71,
+    114,
+    97,
+    109,
+    109,
+    97,
+    114,
+    63,
+    10,
+    65,
+    115,
+    115,
+    105,
+    115,
+    116,
+    97,
+    110,
+    116,
+    58,
+    10,
+    114,
+    101,
+    102,
+    117,
+    116,
+    97,
+    116,
+    105,
+    111,
+    110,
+    58,
+    32,
+    101,
+    32,
+    101,
+    117,
+    101,
+    117,
+    101,
+    117,
+    101,
+    32,
+    101,
+    101,
+    32,
+    114,
+    101,
+    32,
+    105,
+    101,
+    100,
+    101,
+    100,
+    32,
+    100,
+    101,
+    100,
+    101,
+    32,
+    105,
+    102,
+    101,
+    32,
+    105,
+    102,
+    117,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    100,
+    101,
+    32,
+    118,
+    101,
+    32,
+    118,
+    101,
+    100,
+    101,
+    100,
+    101,
+    114,
+    101,
+    32,
+    118,
+    105,
+    102,
+    117,
+    116,
+    115,
+    32,
+    105,
+    116,
+    32,
+    118,
+    105,
+    116,
+    32,
+    116,
+    32,
+    116,
+    32,
+    116,
+    32,
+    116,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    119,
+    101,
+    32,
+    114,
+    101,
+    32,
+    116,
+    115,
+    32,
+    116,
+    32,
+    105,
+    116,
+    115,
+    32,
+    118,
+    105,
+    116,
+    32,
+    118,
+    105,
+    116,
+    32,
+    118,
+    105,
+    101,
+    32,
+    105,
+    101,
+    101,
+    101,
+    101,
+    32,
+    105,
+    101,
+    32,
+    105,
+    101,
+    101,
+    10
+  ],
+  "turns": [
+    {
+      "prompt": "What is the Imscribing Grammar?",
+      "evidence_bits": 2,
+      "evidence_logits": [
+        -0.0235952449356735,
+        0.5488928138156688
+      ],
+      "source_bank": [
+        256,
+        85,
+        115,
+        101,
+        114,
+        58,
+        32,
+        87,
+        104,
+        97,
+        116,
+        32,
+        105,
+        115,
+        32,
+        116,
+        104,
+        101,
+        32,
+        73,
+        109,
+        115,
+        99,
+        114,
+        105,
+        98,
+        105,
+        110,
+        103,
+        32,
+        71,
+        114,
+        97,
+        109,
+        109,
+        97,
+        114,
+        63,
+        10,
+        65,
+        115,
+        115,
+        105,
+        115,
+        116,
+        97,
+        110,
+        116,
+        58,
+        257
+      ],
+      "memory_t": [
+        0.7851674803573779,
+        0.6956219186789011,
+        0.546623059509171,
+        0.09795174783398224,
+        0.4293015227059742,
+        0.35124587305063093,
+        0.34963649880890574,
+        0.6035685563381441,
+        0.5205776296148614,
+        0.6808176811561724,
+        0.5855647256898104,
+        0.8148712775465825,
+        0.2195839145065791,
+        0.3266699010066944,
+        0.5282121727374159,
+        0.5867525830748718
+      ],
+      "memory_f": [
+        0.8728720941688237,
+        0.6692810780266787,
+        0.5541341791594964,
+        0.11672359352973914,
+        0.33391423993312497,
+        0.2504729642350536,
+        0.304761482330363,
+        0.29498833235016897,
+        0.5697960456198854,
+        0.8479346168588249,
+        0.6513939054765541,
+        0.755788936466004,
+        0.18640229683799742,
+        0.39198375165669375,
+        0.56829186296966,
+        0.30251775642429446
+      ],
+      "branches": {
+        "support": null,
+        "refutation": {
+          "text": "e eueueue ee re ieded dede ife ifue ie ie e ie iede ve vededere vifuts it vit t t t t ie ie ie ie ie ie ie ie ie ie ie iewe re ts t its vit vit vie ieeee ie iee",
+          "generated_bytes": [
+            101,
+            32,
+            101,
+            117,
+            101,
+            117,
+            101,
+            117,
+            101,
+            32,
+            101,
+            101,
+            32,
+            114,
+            101,
+            32,
+            105,
+            101,
+            100,
+            101,
+            100,
+            32,
+            100,
+            101,
+            100,
+            101,
+            32,
+            105,
+            102,
+            101,
+            32,
+            105,
+            102,
+            117,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            100,
+            101,
+            32,
+            118,
+            101,
+            32,
+            118,
+            101,
+            100,
+            101,
+            100,
+            101,
+            114,
+            101,
+            32,
+            118,
+            105,
+            102,
+            117,
+            116,
+            115,
+            32,
+            105,
+            116,
+            32,
+            118,
+            105,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            119,
+            101,
+            32,
+            114,
+            101,
+            32,
+            116,
+            115,
+            32,
+            116,
+            32,
+            105,
+            116,
+            115,
+            32,
+            118,
+            105,
+            116,
+            32,
+            118,
+            105,
+            116,
+            32,
+            118,
+            105,
+            101,
+            32,
+            105,
+            101,
+            101,
+            101,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            101
+          ],
+          "ended_with_eos": false,
+          "trace": [
+            {
+              "token": 101,
+              "selected_readout_logit": 4.9846034199477565,
+              "paired_readout_logit": 2.333940411020794
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.167202619763542,
+              "paired_readout_logit": 5.483933412010738
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.419017031402415,
+              "paired_readout_logit": 2.830398363043878
+            },
+            {
+              "token": 117,
+              "selected_readout_logit": 4.253167976015858,
+              "paired_readout_logit": 4.290812550322388
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.3522983769719,
+              "paired_readout_logit": 4.293397817292621
+            },
+            {
+              "token": 117,
+              "selected_readout_logit": 4.248051600023921,
+              "paired_readout_logit": 4.2091222849499585
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.221631550354623,
+              "paired_readout_logit": 4.1340420683393635
+            },
+            {
+              "token": 117,
+              "selected_readout_logit": 4.20706486842745,
+              "paired_readout_logit": 4.064592922285805
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.183325644921386,
+              "paired_readout_logit": 4.150129814907765
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.141804539974182,
+              "paired_readout_logit": 4.7015774135831805
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.5426183860205334,
+              "paired_readout_logit": 2.4695969162263007
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.9020648736170593,
+              "paired_readout_logit": 3.1573425613091084
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.780776737763411,
+              "paired_readout_logit": 5.180680011713463
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 4.466149401967586,
+              "paired_readout_logit": 3.704990589136902
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.175595358871093,
+              "paired_readout_logit": 4.325475652042512
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.473850129003444,
+              "paired_readout_logit": 5.131617433619629
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.356771788643556,
+              "paired_readout_logit": 0.9108206330865884
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.683276501130612,
+              "paired_readout_logit": 2.397005423515455
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.4285250053497425,
+              "paired_readout_logit": 2.808121524427783
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.35715835431058,
+              "paired_readout_logit": 4.876632991804788
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.478631212684017,
+              "paired_readout_logit": 2.9354601889883263
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.486388918098354,
+              "paired_readout_logit": 3.881687587660945
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.344972291028598,
+              "paired_readout_logit": 1.2858072406535328
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.82963324230066,
+              "paired_readout_logit": 5.447765187094838
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.331002770816042,
+              "paired_readout_logit": 3.0700572535319326
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.48398235746105,
+              "paired_readout_logit": 4.949485872761422
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.283995447953688,
+              "paired_readout_logit": 5.908092744813675
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.134284859626331,
+              "paired_readout_logit": 2.8767150268316097
+            },
+            {
+              "token": 102,
+              "selected_readout_logit": 4.133057062226318,
+              "paired_readout_logit": 1.4622825359965692
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.983986539918821,
+              "paired_readout_logit": 5.395926791737864
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.886431853364891,
+              "paired_readout_logit": 5.392111925522968
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.533301723781454,
+              "paired_readout_logit": 3.1333143113188524
+            },
+            {
+              "token": 102,
+              "selected_readout_logit": 3.900794830485619,
+              "paired_readout_logit": 1.5918356787733017
+            },
+            {
+              "token": 117,
+              "selected_readout_logit": 3.8084182081597002,
+              "paired_readout_logit": 5.2357457254373045
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.877523650915711,
+              "paired_readout_logit": 4.740914739364918
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.779931355181998,
+              "paired_readout_logit": 5.40603406707277
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.313470637880227,
+              "paired_readout_logit": 3.113493078219687
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.557001823469167,
+              "paired_readout_logit": 2.9471692426579597
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.770703055084764,
+              "paired_readout_logit": 4.978164157817384
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.19185479576961,
+              "paired_readout_logit": 2.8942682606921792
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.6177286946171887,
+              "paired_readout_logit": 2.7848225900830097
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.02206854029926,
+              "paired_readout_logit": 5.514876132055127
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.198380492264999,
+              "paired_readout_logit": 2.5937077019264874
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.9226549032183993,
+              "paired_readout_logit": 5.365724085619328
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.188913573981156,
+              "paired_readout_logit": 2.542642765785973
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.291921541595407,
+              "paired_readout_logit": 3.754646547040943
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.186002387842818,
+              "paired_readout_logit": 5.414578893562163
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.021378661009438,
+              "paired_readout_logit": 2.471012923875239
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.015541542197641,
+              "paired_readout_logit": 3.8965806678586468
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.051260479789786,
+              "paired_readout_logit": 3.689561907484876
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.372629788260451,
+              "paired_readout_logit": 5.168528258086577
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.901868856935698,
+              "paired_readout_logit": 3.3988229941461756
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 4.735112559647961,
+              "paired_readout_logit": 2.7063049589284556
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 6.093885381108483,
+              "paired_readout_logit": 6.154591633434933
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.81093916184365,
+              "paired_readout_logit": 3.298420051566495
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 4.454813999763132,
+              "paired_readout_logit": 2.913891877945674
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.670194511374317,
+              "paired_readout_logit": 5.844233706170174
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.147459176148338,
+              "paired_readout_logit": 3.79766286771334
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.848391652357003,
+              "paired_readout_logit": 3.7467001511184477
+            },
+            {
+              "token": 100,
+              "selected_readout_logit": 4.138215020562327,
+              "paired_readout_logit": 3.7334667243071715
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.031855318044464,
+              "paired_readout_logit": 3.949785706809076
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 4.993543805840065,
+              "paired_readout_logit": 6.329044339939158
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.135317879680361,
+              "paired_readout_logit": 4.140379869198367
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.1895917848334205,
+              "paired_readout_logit": 5.0146046171729575
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 5.49741406631253,
+              "paired_readout_logit": 1.9348364627099524
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.267050147861418,
+              "paired_readout_logit": 3.969288330573771
+            },
+            {
+              "token": 102,
+              "selected_readout_logit": 4.909820359116264,
+              "paired_readout_logit": 1.6454224813160345
+            },
+            {
+              "token": 117,
+              "selected_readout_logit": 4.496864508911993,
+              "paired_readout_logit": 2.2341796471506497
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 5.8396532981686695,
+              "paired_readout_logit": 3.134117883636685
+            },
+            {
+              "token": 115,
+              "selected_readout_logit": 4.258928146948452,
+              "paired_readout_logit": 1.7111586839451385
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.365363970882613,
+              "paired_readout_logit": 4.085302629419601
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.617729048040267,
+              "paired_readout_logit": 0.8197128747727973
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.673817230363043,
+              "paired_readout_logit": 2.758541325147677
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.010963612220357,
+              "paired_readout_logit": 5.064436808016645
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 4.725850384794784,
+              "paired_readout_logit": 0.002769765849991196
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.013552137962347,
+              "paired_readout_logit": 4.024177443380336
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.633787221013974,
+              "paired_readout_logit": 2.9570344247301006
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.595842714150243,
+              "paired_readout_logit": 3.81433833608467
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.856942190442637,
+              "paired_readout_logit": 3.163821360407068
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.322146760004229,
+              "paired_readout_logit": 3.7186509115373823
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.712569947413345,
+              "paired_readout_logit": 3.2210419008134115
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.030132096943344,
+              "paired_readout_logit": 3.7228788013745113
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.778551126558175,
+              "paired_readout_logit": 3.3363929713888876
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.109481860148438,
+              "paired_readout_logit": 3.779288949437009
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.698292977544679,
+              "paired_readout_logit": 3.2775050006936626
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.98995931495598,
+              "paired_readout_logit": 3.669991166048297
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.292409323257527,
+              "paired_readout_logit": 1.6398126314642054
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.040692296885176,
+              "paired_readout_logit": 2.9843839896240127
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.039227090434626,
+              "paired_readout_logit": 4.6495146852008915
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.539208523902814,
+              "paired_readout_logit": 2.0849974965001556
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.7766271093497785,
+              "paired_readout_logit": 2.6722735441962815
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.09245529754893,
+              "paired_readout_logit": 4.7893828354720105
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.238010095433009,
+              "paired_readout_logit": 1.899496402041194
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.324305378958609,
+              "paired_readout_logit": 3.038830289269377
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.154960474216414,
+              "paired_readout_logit": 4.777381174102535
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.629795397706739,
+              "paired_readout_logit": 2.2142942657969154
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.925090093441824,
+              "paired_readout_logit": 2.823643911561357
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.27778239958117,
+              "paired_readout_logit": 4.8150115008590095
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.449458423673966,
+              "paired_readout_logit": 2.0593271306373744
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.060082427244644,
+              "paired_readout_logit": 2.871044339273934
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.07915745875619,
+              "paired_readout_logit": 4.571794324480276
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.71790237929061,
+              "paired_readout_logit": 1.3757253534975493
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.029421996955664,
+              "paired_readout_logit": 2.6183750196132176
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.118763371352364,
+              "paired_readout_logit": 5.274100006056587
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.510624779805082,
+              "paired_readout_logit": 1.189878911198112
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.195604889631993,
+              "paired_readout_logit": 2.717803498566887
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.0157067049286,
+              "paired_readout_logit": 5.174101255729021
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.892572785500542,
+              "paired_readout_logit": 1.5543550065284726
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.319854343085266,
+              "paired_readout_logit": 2.821715518627976
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.1233915241062755,
+              "paired_readout_logit": 5.19476687234076
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.551625757293915,
+              "paired_readout_logit": 1.226437031741692
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.496844370390045,
+              "paired_readout_logit": 2.695795021201911
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.961479201232382,
+              "paired_readout_logit": 5.234029942757616
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.934407837653927,
+              "paired_readout_logit": 1.6620142226078285
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.81825884695193,
+              "paired_readout_logit": 2.975538225293507
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.076547917933043,
+              "paired_readout_logit": 5.078671653335244
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.747244890855961,
+              "paired_readout_logit": 1.2025925145757694
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.397561016706686,
+              "paired_readout_logit": 1.8183201939217686
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.273669084371865,
+              "paired_readout_logit": 5.610505702870619
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.985931042761595,
+              "paired_readout_logit": 1.7286209296239647
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.5887049427743,
+              "paired_readout_logit": 2.8194726751253554
+            },
+            {
+              "token": 119,
+              "selected_readout_logit": 5.366968922012789,
+              "paired_readout_logit": 2.4335274126591435
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 3.492674577424664,
+              "paired_readout_logit": 3.9098143509670966
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 6.163074376735749,
+              "paired_readout_logit": 4.873497142210313
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 5.206089922263669,
+              "paired_readout_logit": 4.076817062576977
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.284015173312283,
+              "paired_readout_logit": 3.7733038308187026
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.752331151404657,
+              "paired_readout_logit": 5.536397426711001
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.972870067469,
+              "paired_readout_logit": 2.2547111705077247
+            },
+            {
+              "token": 115,
+              "selected_readout_logit": 3.9910376969830375,
+              "paired_readout_logit": 1.8258221552992688
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 6.2668660389132524,
+              "paired_readout_logit": 4.7047288252976385
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 5.0262422789305425,
+              "paired_readout_logit": 2.2716036609928345
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 2.4511402985248045,
+              "paired_readout_logit": 5.334903015063587
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.255449883174727,
+              "paired_readout_logit": 0.8552905301979006
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 5.693055699613877,
+              "paired_readout_logit": 2.537346085492977
+            },
+            {
+              "token": 115,
+              "selected_readout_logit": 4.2740662255830175,
+              "paired_readout_logit": 1.1002147032642478
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.335243503555923,
+              "paired_readout_logit": 3.521832395384932
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 6.414971386825468,
+              "paired_readout_logit": 0.8479124969448053
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.780353072340968,
+              "paired_readout_logit": 3.45502645294554
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 5.433382907844153,
+              "paired_readout_logit": 2.6312609894717665
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.92660056464708,
+              "paired_readout_logit": 3.2607524649782
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 5.19666523628185,
+              "paired_readout_logit": 1.8552622247365376
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.765360631583745,
+              "paired_readout_logit": 3.428752417088328
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.824611965534757,
+              "paired_readout_logit": 2.700846127110372
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.7327384695877295,
+              "paired_readout_logit": 4.034169557095985
+            },
+            {
+              "token": 118,
+              "selected_readout_logit": 4.987552224666299,
+              "paired_readout_logit": 1.7157246390395302
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.782112117772354,
+              "paired_readout_logit": 3.614126503352843
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.404529810412377,
+              "paired_readout_logit": 3.4977735549314515
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.538050091644119,
+              "paired_readout_logit": 4.935257683882033
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.60633416069027,
+              "paired_readout_logit": 1.6550547353944993
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.855959797711578,
+              "paired_readout_logit": 2.9400654818403136
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.757984334230428,
+              "paired_readout_logit": 3.4823299935584413
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.762623695977759,
+              "paired_readout_logit": 3.5836236794893104
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.674326834878045,
+              "paired_readout_logit": 3.5324451885642505
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.641448501493132,
+              "paired_readout_logit": 3.873343368554816
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.635597933874694,
+              "paired_readout_logit": 1.7356299513570275
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.769597926155256,
+              "paired_readout_logit": 2.5918485900120927
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.597746268658594,
+              "paired_readout_logit": 3.900237493230203
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.6421845676529365,
+              "paired_readout_logit": 1.8909438762292674
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.442536270736375,
+              "paired_readout_logit": 3.7386069394648866
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 4.6050919678027356,
+              "paired_readout_logit": 3.4279685012881473
+            }
+          ],
+          "source_bank": [
+            256,
+            85,
+            115,
+            101,
+            114,
+            58,
+            32,
+            87,
+            104,
+            97,
+            116,
+            32,
+            105,
+            115,
+            32,
+            116,
+            104,
+            101,
+            32,
+            73,
+            109,
+            115,
+            99,
+            114,
+            105,
+            98,
+            105,
+            110,
+            103,
+            32,
+            71,
+            114,
+            97,
+            109,
+            109,
+            97,
+            114,
+            63,
+            10,
+            65,
+            115,
+            115,
+            105,
+            115,
+            116,
+            97,
+            110,
+            116,
+            58,
+            257,
+            101,
+            32,
+            101,
+            117,
+            101,
+            117,
+            101,
+            117,
+            101,
+            32,
+            101,
+            101,
+            32,
+            114,
+            101,
+            32,
+            105,
+            101,
+            100,
+            101,
+            100,
+            32,
+            100,
+            101,
+            100,
+            101,
+            32,
+            105,
+            102,
+            101,
+            32,
+            105,
+            102,
+            117,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            100,
+            101,
+            32,
+            118,
+            101,
+            32,
+            118,
+            101,
+            100,
+            101,
+            100,
+            101,
+            114,
+            101,
+            32,
+            118,
+            105,
+            102,
+            117,
+            116,
+            115,
+            32,
+            105,
+            116,
+            32,
+            118,
+            105,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            116,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            119,
+            101,
+            32,
+            114,
+            101,
+            32,
+            116,
+            115,
+            32,
+            116,
+            32,
+            105,
+            116,
+            115,
+            32,
+            118,
+            105,
+            116,
+            32,
+            118,
+            105,
+            116,
+            32,
+            118,
+            105,
+            101,
+            32,
+            105,
+            101,
+            101,
+            101,
+            101,
+            32,
+            105,
+            101,
+            32,
+            105,
+            101,
+            101
+          ],
+          "memory_t": [
+            0.7900752057587865,
+            0.31252833263006013,
+            0.8730700753278202,
+            0.11656376766908474,
+            0.5879445761208477,
+            0.35913281097208205,
+            0.354469558330076,
+            0.2731107634945088,
+            0.512150479859666,
+            0.6881249881224754,
+            0.6668576903569867,
+            0.5154341984084863,
+            0.02603597227434784,
+            0.252936243768615,
+            0.6186796796367133,
+            0.6575315903312438
+          ],
+          "memory_f": [
+            0.835144629028271,
+            0.3220306137640794,
+            0.69139630083054,
+            0.047614464140552634,
+            0.1163169396856518,
+            0.41892621278712516,
+            0.3584160962597817,
+            0.8469615404689476,
+            0.804315036583074,
+            0.9289406047014309,
+            0.5733552517682035,
+            0.8401789538400617,
+            0.06090383444852644,
+            0.4171369120299935,
+            0.868047557506236,
+            0.3240293407167736
+          ]
+        }
+      }
+    }
+  ],
+  "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_paired_language_epoch_20261017/returned_checkpoint",
+  "execution": "learned constructive T/F presence and independently generated language readouts; both branches retained through conversation re-entry"
+}

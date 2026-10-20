@@ -1,0 +1,3915 @@
+{
+  "records": "/home/mrnob0dy666/imsgct/VGI/training_views_artifact_ready_r4_20261016/validation.jsonl",
+  "records_sha256": "7c0bd72dd08a3bbcc0f6ecab336918f7c44f9439010e2b011185cf048a91fb26",
+  "scope": "first bounded catalog tuple sample from supplied validation file; type validity is by construction, value accuracy is measured",
+  "results": [
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_source_joint_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "111e9b07cec0b921b10dc8214d10ca9420ea2e38c0af203fa3c5bb4445ad8fc9",
+      "rows": [
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"dark_matter\", \"description\": \"Non-luminous matter interacting gravitationally but not electromagnetically\"}",
+            "target": "𐑼𐑡𐑩𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/2"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -8.066980888653294,
+                  -8.97926336580666,
+                  -4.948934738292682,
+                  -7.848623058382874
+                ],
+                "source_tokens_processed": 229
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.067974177291116,
+                  -9.605140911954258,
+                  -6.692157510036308,
+                  -7.429982390347838,
+                  -6.693400178190023
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.201909531993524,
+                  -8.75071821530266,
+                  -3.470320474904555,
+                  -6.328581918716186
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.216984711452027,
+                  -6.953692400323487,
+                  -5.296459041026019,
+                  -6.835032489433505,
+                  -5.804408814242661
+                ],
+                "source_tokens_processed": 233
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.156327042782476,
+                  -6.203418422077244,
+                  -5.015501151721482
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.6561164639133175,
+                  -5.763236049249716,
+                  -4.95468794819369,
+                  -7.923675334311585,
+                  -14.511566633082603
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.863788517247334,
+                  -4.75028935477123,
+                  -6.482196531073475
+                ],
+                "source_tokens_processed": 250
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.187582578331618,
+                  -9.543009701255755,
+                  -5.877669759638195,
+                  -6.6223179357246
+                ],
+                "source_tokens_processed": 254
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.8824965804036795,
+                  -11.817331911632959,
+                  -18.728625624412544,
+                  -14.60951528480237,
+                  -6.347090957983482
+                ],
+                "source_tokens_processed": 258
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.21160024285137,
+                  -8.020624759263429,
+                  -10.527487421880494,
+                  -9.338698974463547
+                ],
+                "source_tokens_processed": 260
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.885719475595678,
+                  -9.851940678869012,
+                  -8.93050100054028
+                ],
+                "source_tokens_processed": 268
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.941223652526187,
+                  -7.758645457579856,
+                  -5.279194825062995,
+                  -13.670538382583578
+                ],
+                "source_tokens_processed": 266
+              }
+            ]
+          },
+          "loss": 1.659324355943011,
+          "correct_coordinates": 5,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"dark_sector_meet\", \"description\": \"Shared structure of dark matter and dark energy\"}",
+            "target": "𐑼𐑡𐑩𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/3"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.945669276076844,
+                  -6.862662587810149,
+                  -2.796722598901062,
+                  -5.808875933493605
+                ],
+                "source_tokens_processed": 206
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.532914367622203,
+                  -9.557554588141912,
+                  -7.005068989810156,
+                  -7.968894808319198,
+                  -6.96323090433658
+                ],
+                "source_tokens_processed": 204
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.287367538549336,
+                  -8.100933124211064,
+                  -3.5341759794849397,
+                  -6.099895564705172
+                ],
+                "source_tokens_processed": 208
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.790475989120315,
+                  -7.935572814106644,
+                  -6.288687305457858,
+                  -7.606221648129939,
+                  -6.664326439621158
+                ],
+                "source_tokens_processed": 210
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -6.394279440804713,
+                  -7.499331714088065,
+                  -6.718454510878086
+                ],
+                "source_tokens_processed": 216
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.8119912332071735,
+                  -6.656812292360282,
+                  -5.145367554772554,
+                  -8.365483827124098,
+                  -14.825727254350806
+                ],
+                "source_tokens_processed": 220
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.156245141907089,
+                  -4.675527021401372,
+                  -5.488179370842548
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.323012997485884,
+                  -9.674264863644884,
+                  -5.837346516459435,
+                  -7.062965225021709
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -5.153439902591333,
+                  -7.400371414703355,
+                  -17.4742287005085,
+                  -12.609286074884979,
+                  -3.9268591589969533
+                ],
+                "source_tokens_processed": 235
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.376973462515989,
+                  -8.04945955915165,
+                  -10.743000891243952,
+                  -9.202606204004024
+                ],
+                "source_tokens_processed": 237
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -3.9321630645115326,
+                  -9.022247515291632,
+                  -7.735080299555573
+                ],
+                "source_tokens_processed": 245
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.560956328926434,
+                  -7.6463250678054955,
+                  -4.849063534411217,
+                  -14.065668637668587
+                ],
+                "source_tokens_processed": 243
+              }
+            ]
+          },
+          "loss": 1.781192293093346,
+          "correct_coordinates": 4,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"biological_senescence\", \"description\": \"Natural biological aging process - accumulation of cellular damage, telomere shortening, epigenetic changes\"}",
+            "target": "𐑛𐑡𐑑𐑗𐑱𐑧𐑚𐑠𐑢𐑖𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/30"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -6.7256391124033446,
+                  -8.04493173719292,
+                  -4.56694628377743,
+                  -6.296855514748373
+                ],
+                "source_tokens_processed": 271
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.419415483743499,
+                  -7.871515676434079,
+                  -5.230704990409917,
+                  -6.734183845729437,
+                  -6.080909753982668
+                ],
+                "source_tokens_processed": 269
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -10.140098481297644,
+                  -10.611314591019282,
+                  -5.159264439715403,
+                  -7.26119795173954
+                ],
+                "source_tokens_processed": 273
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -6.227195380130938,
+                  -9.770067002203819,
+                  -8.30122639593868,
+                  -9.394140266896791,
+                  -8.83283785753613
+                ],
+                "source_tokens_processed": 275
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.46622398704047,
+                  -6.744045269596619,
+                  -5.289151775450684
+                ],
+                "source_tokens_processed": 281
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.955928721558555,
+                  -5.581584604153845,
+                  -5.900698541484825,
+                  -8.605003444995159,
+                  -14.799611330361717
+                ],
+                "source_tokens_processed": 285
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -7.020878095596013,
+                  -4.5086267733781025,
+                  -6.5091906475466494
+                ],
+                "source_tokens_processed": 292
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.690058138258262,
+                  -9.943195223428466,
+                  -6.201773755087388,
+                  -7.231653132462604
+                ],
+                "source_tokens_processed": 296
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -4.597056359792067,
+                  -8.83853871843736,
+                  -17.380550860478905,
+                  -12.348237828453666,
+                  -3.4744503019239623
+                ],
+                "source_tokens_processed": 300
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.559173614706577,
+                  -7.463172242910883,
+                  -10.130779725311577,
+                  -9.19166882660156
+                ],
+                "source_tokens_processed": 302
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.191959469969178,
+                  -8.961716293879807,
+                  -8.265804339955505
+                ],
+                "source_tokens_processed": 310
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -7.676207639691324,
+                  -9.415415968203327,
+                  -6.917506776576095,
+                  -14.45333326298899
+                ],
+                "source_tokens_processed": 308
+              }
+            ]
+          },
+          "loss": 2.132738909219615,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:43:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:43",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"standard_proof_system\", \"description\": \"Classical mathematical proof system baseline (Lean/Coq/ZFC-level)\"}",
+            "target": "𐑨𐑶𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/43"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -8.08174453651233,
+                  -9.00818901300733,
+                  -4.989871051565636,
+                  -7.857593324888043
+                ],
+                "source_tokens_processed": 229
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.137648399166655,
+                  -9.774879480080976,
+                  -6.8806409856480375,
+                  -7.555444041475216,
+                  -6.761346510844099
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.282438373815701,
+                  -8.813785909777138,
+                  -3.5256406685287427,
+                  -6.386745171505206
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.29363901106904,
+                  -7.078057286455757,
+                  -5.378666929856808,
+                  -6.846037602863221,
+                  -5.888170766970643
+                ],
+                "source_tokens_processed": 233
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.267520691931736,
+                  -6.258071373154484,
+                  -5.119044964684628
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.656962085008579,
+                  -5.761795694797548,
+                  -5.045639482144119,
+                  -7.9620177341064915,
+                  -14.638826414843574
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.837583672763916,
+                  -4.878622553502653,
+                  -6.440430853334159
+                ],
+                "source_tokens_processed": 250
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -9.533972881472817,
+                  -10.85731421509101,
+                  -7.206126616473242,
+                  -7.93688691434497
+                ],
+                "source_tokens_processed": 254
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.914190333391974,
+                  -11.958056308007741,
+                  -18.744765585628535,
+                  -14.673732592929742,
+                  -6.361715885677473
+                ],
+                "source_tokens_processed": 258
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.245206048479482,
+                  -8.046259090065986,
+                  -10.592093621300354,
+                  -9.379071225542841
+                ],
+                "source_tokens_processed": 260
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.901579159239333,
+                  -9.936840431515861,
+                  -9.006119862236908
+                ],
+                "source_tokens_processed": 268
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -6.126181175365266,
+                  -7.950058524997775,
+                  -5.4669023645731905,
+                  -13.792002233041021
+                ],
+                "source_tokens_processed": 266
+              }
+            ]
+          },
+          "loss": 2.108112850090644,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"seven_meet_de_inf_ax_higgs_grav_dm_omg\", \"description\": \"Meet of dark_energy, inflaton, axion, higgs, graviton, dark matter, and OMG particle\"}",
+            "target": "𐑛𐑡𐑑𐑗𐑐𐑘𐑔𐑝𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/64"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.5385597652662995,
+                  -6.843080581534935,
+                  -2.753075852479751,
+                  -5.09850435550051
+                ],
+                "source_tokens_processed": 265
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.11524554526524,
+                  -7.500371068120026,
+                  -5.570024405358934,
+                  -5.8051338292570875,
+                  -4.961419358867492
+                ],
+                "source_tokens_processed": 263
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -7.497665118442964,
+                  -7.104779710771206,
+                  -2.155866778016323,
+                  -4.514687405508686
+                ],
+                "source_tokens_processed": 267
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.6308749157149385,
+                  -6.746538574532085,
+                  -5.054289765255492,
+                  -6.512661741446141,
+                  -5.431281499417835
+                ],
+                "source_tokens_processed": 269
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -5.996921318549534,
+                  -7.2186142081028875,
+                  -6.768601139004018
+                ],
+                "source_tokens_processed": 275
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.601965734543644,
+                  -7.051534484035426,
+                  -5.129128483693216,
+                  -8.360786155912663,
+                  -14.747502406089326
+                ],
+                "source_tokens_processed": 279
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -8.30776788912646,
+                  -7.363018873341703,
+                  -8.460044703941882
+                ],
+                "source_tokens_processed": 286
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -9.010874057495993,
+                  -10.29754295080549,
+                  -6.4279572797997115,
+                  -7.678837088420506
+                ],
+                "source_tokens_processed": 290
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.706937289234276,
+                  -11.080755062399675,
+                  -18.65945402986869,
+                  -14.840001634922979,
+                  -5.524163247663974
+                ],
+                "source_tokens_processed": 294
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -4.832514659925087,
+                  -6.851676488469999,
+                  -9.249713461385833,
+                  -7.777071224654754
+                ],
+                "source_tokens_processed": 296
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -6.2589693730097995,
+                  -10.637540326494769,
+                  -9.831335235751412
+                ],
+                "source_tokens_processed": 304
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -8.273214148804923,
+                  -9.587691252563461,
+                  -7.0856531375250285,
+                  -15.158088670892235
+                ],
+                "source_tokens_processed": 302
+              }
+            ]
+          },
+          "loss": 1.447931101322207,
+          "correct_coordinates": 6,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"partial_feminization_preserved_testicular\", \"description\": \"Partial systemic feminization while preserving local testicular function - the structurally possible compromise\"}",
+            "target": "𐑼𐑸𐑽𐑗𐑞𐑧𐑲𐑵⊙𐑖𐑳𐑴",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/78"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.288028927737039,
+                  -6.574874979153908,
+                  -2.5522905592384593,
+                  -4.8256742366121195
+                ],
+                "source_tokens_processed": 295
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.0222599668876673,
+                  -7.228467131650202,
+                  -5.364028612102004,
+                  -5.669808559712274,
+                  -4.7955330315242
+                ],
+                "source_tokens_processed": 293
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -8.74115328864236,
+                  -8.21550537134025,
+                  -3.4039855618910657,
+                  -5.628363932308196
+                ],
+                "source_tokens_processed": 297
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.828336696459701,
+                  -6.994753456454351,
+                  -5.114991353962411,
+                  -6.540831135626908,
+                  -5.385591540607331
+                ],
+                "source_tokens_processed": 299
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -6.339574297780214,
+                  -8.02572545051774,
+                  -7.119341582673078
+                ],
+                "source_tokens_processed": 305
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.756257862393806,
+                  -6.9289892057274125,
+                  -5.323797933387173,
+                  -8.570520932305751,
+                  -15.685349506634724
+                ],
+                "source_tokens_processed": 309
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -9.334441486439696,
+                  -8.454719143297552,
+                  -8.979499883058818
+                ],
+                "source_tokens_processed": 316
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.014998350817915,
+                  -9.34340869068186,
+                  -5.557203324822977,
+                  -6.6105117943083
+                ],
+                "source_tokens_processed": 320
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -5.953936252772939,
+                  -10.383351181126491,
+                  -17.722069403051396,
+                  -14.001612240997177,
+                  -4.975201937506789
+                ],
+                "source_tokens_processed": 324
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -4.747796106130261,
+                  -6.802274161243604,
+                  -9.101701474013032,
+                  -7.518064071576877
+                ],
+                "source_tokens_processed": 326
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -2.9967593109988124,
+                  -7.3759435924405965,
+                  -6.236973370885526
+                ],
+                "source_tokens_processed": 334
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -7.407607071025717,
+                  -8.682143663822558,
+                  -6.252761730248547,
+                  -14.47053455278308
+                ],
+                "source_tokens_processed": 332
+              }
+            ]
+          },
+          "loss": 2.148975416258029,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"gimel\", \"description\": \"Third Hebrew letter: ג - camel, bridge, giving, numerical value 3\"}",
+            "target": "𐑛𐑥𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/119"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -8.164606692634974,
+                  -9.404724615665792,
+                  -5.479431842566685,
+                  -8.085411606067801
+                ],
+                "source_tokens_processed": 214
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.913672913158884,
+                  -10.933538925869517,
+                  -8.062305463820381,
+                  -8.685397494823096,
+                  -7.848573630973797
+                ],
+                "source_tokens_processed": 212
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.330095389327475,
+                  -8.476990955429653,
+                  -3.4308766132848936,
+                  -6.514381279932289
+                ],
+                "source_tokens_processed": 216
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.35386336507285,
+                  -7.0606842878595515,
+                  -5.489901838778613,
+                  -7.00931238788508,
+                  -5.981291461930835
+                ],
+                "source_tokens_processed": 218
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.104016721029805,
+                  -5.753202045319364,
+                  -4.700771866734854
+                ],
+                "source_tokens_processed": 224
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -5.979960848223134,
+                  -6.766569590193295,
+                  -6.18724854734629,
+                  -9.096720616880202,
+                  -16.14947145833539
+                ],
+                "source_tokens_processed": 228
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.185946573671625,
+                  -3.458651570920056,
+                  -5.726120560620912
+                ],
+                "source_tokens_processed": 235
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -9.483583409096926,
+                  -10.841156550002859,
+                  -7.061825094639014,
+                  -7.956867218728275
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.237690014402446,
+                  -11.740646735358155,
+                  -18.56505128829903,
+                  -14.344693471298788,
+                  -5.518357584323707
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -5.990720027100687,
+                  -7.090853604857368,
+                  -10.193089410618148,
+                  -9.22221584519905
+                ],
+                "source_tokens_processed": 245
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.258309295763835,
+                  -9.30615616695099,
+                  -8.280351181382592
+                ],
+                "source_tokens_processed": 253
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.5973120477870175,
+                  -7.5991582087767116,
+                  -4.937176825504194,
+                  -13.666607229972907
+                ],
+                "source_tokens_processed": 251
+              }
+            ]
+          },
+          "loss": 1.4685431550250196,
+          "correct_coordinates": 5,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"tzadi\", \"description\": \"Eighteenth Hebrew letter: צ - fishhook, righteousness, hunt, numerical value 90\"}",
+            "target": "𐑛𐑥𐑾𐑗𐑱𐑤𐑚𐑠𐑢𐑒𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/134"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -6.98444490473793,
+                  -7.7929920062553135,
+                  -4.021535159775927,
+                  -6.971977080846368
+                ],
+                "source_tokens_processed": 228
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -2.7439773372325185,
+                  -7.2470269948150206,
+                  -5.437198544741125,
+                  -6.53084011396026,
+                  -5.713070362529641
+                ],
+                "source_tokens_processed": 226
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.246306991331332,
+                  -8.227453567742248,
+                  -3.9968503332199727,
+                  -6.557118829936558
+                ],
+                "source_tokens_processed": 230
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.7812410902137903,
+                  -6.895668183343995,
+                  -5.287815448519703,
+                  -6.631957791870052,
+                  -5.798160296111034
+                ],
+                "source_tokens_processed": 232
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -5.343472935633569,
+                  -6.701313826653076,
+                  -5.923571304537893
+                ],
+                "source_tokens_processed": 238
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -6.642980200257597,
+                  -8.354053631062074,
+                  -7.253039567592809,
+                  -10.46754817764371,
+                  -17.681981265734628
+                ],
+                "source_tokens_processed": 242
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -5.882489614959645,
+                  -4.580499624742357,
+                  -4.934018464547002
+                ],
+                "source_tokens_processed": 249
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -7.517432041892185,
+                  -8.565540198564841,
+                  -5.390336655322087,
+                  -6.048903050445908
+                ],
+                "source_tokens_processed": 253
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -5.38459756028717,
+                  -9.179099190978157,
+                  -17.300905325049417,
+                  -14.12854421485106,
+                  -4.855165968013157
+                ],
+                "source_tokens_processed": 257
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -7.792573086493918,
+                  -9.243145217676698,
+                  -11.485843431923227,
+                  -10.685689508201582
+                ],
+                "source_tokens_processed": 259
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.473344252016986,
+                  -9.457303229986215,
+                  -8.533250094125124
+                ],
+                "source_tokens_processed": 267
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.315141557200864,
+                  -7.356888406480222,
+                  -4.902422009101141,
+                  -13.12063805196116
+                ],
+                "source_tokens_processed": 265
+              }
+            ]
+          },
+          "loss": 1.5042243719613735,
+          "correct_coordinates": 4,
+          "exact": false
+        }
+      ],
+      "exact": 0,
+      "coordinates_correct": 33,
+      "coordinates": 96,
+      "mean_axis_loss": 1.7813803066141556
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_typed_source_graph_return_20261017/returned_checkpoint",
+      "checkpoint_sha256": "2ee0cbfeeed6a31d8fb077ddf72341ad36d93383a282b8df3a77f3bedfbc9bff",
+      "rows": [
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"dark_matter\", \"description\": \"Non-luminous matter interacting gravitationally but not electromagnetically\"}",
+            "target": "𐑼𐑡𐑩𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/2"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -8.083913339548715,
+                  -8.985548937326381,
+                  -4.950548740182082,
+                  -7.8019905471383675
+                ],
+                "source_tokens_processed": 229
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.120708104958184,
+                  -9.658904714201281,
+                  -6.799924757801043,
+                  -7.495154007910519,
+                  -6.649722970062717
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.227943853753308,
+                  -8.729494374854536,
+                  -3.424025038984774,
+                  -6.386794486910537
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.193401539641472,
+                  -7.0276134355574404,
+                  -5.417672355175808,
+                  -6.915888572019002,
+                  -5.771029089815556
+                ],
+                "source_tokens_processed": 233
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.298321269395156,
+                  -6.320312849436196,
+                  -4.931479325729189
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.6106792792574876,
+                  -5.8843394622316065,
+                  -4.986862430496906,
+                  -7.979432255399603,
+                  -14.465061407241796
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.880566532545982,
+                  -4.859482952165918,
+                  -6.389359051608974
+                ],
+                "source_tokens_processed": 250
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.333977729302191,
+                  -9.663177103366857,
+                  -5.937901842765976,
+                  -6.711150762192169
+                ],
+                "source_tokens_processed": 254
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.923180174142532,
+                  -11.663377111658853,
+                  -18.667435774799934,
+                  -14.569843341813563,
+                  -6.128899744510484
+                ],
+                "source_tokens_processed": 258
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.2436462868917655,
+                  -8.13868798546489,
+                  -10.545556754104844,
+                  -9.280416878832051
+                ],
+                "source_tokens_processed": 260
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.9416146571492385,
+                  -9.885330726454148,
+                  -8.972353624679485
+                ],
+                "source_tokens_processed": 268
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.872412542398695,
+                  -7.820819553115396,
+                  -5.343924392874654,
+                  -13.707481218508397
+                ],
+                "source_tokens_processed": 266
+              }
+            ]
+          },
+          "loss": 1.6815994450689116,
+          "correct_coordinates": 5,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"dark_sector_meet\", \"description\": \"Shared structure of dark matter and dark energy\"}",
+            "target": "𐑼𐑡𐑩𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/3"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.973434768798955,
+                  -6.880022545314491,
+                  -2.7989779175781058,
+                  -5.769547500783443
+                ],
+                "source_tokens_processed": 206
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.206224115225518,
+                  -9.238422520144105,
+                  -6.735242400243025,
+                  -7.665388402947586,
+                  -6.536657144066983
+                ],
+                "source_tokens_processed": 204
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.33371085828263,
+                  -8.107474165848172,
+                  -3.509474664138755,
+                  -6.181276125431061
+                ],
+                "source_tokens_processed": 208
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.710028412128418,
+                  -7.973269215587671,
+                  -6.362180125758261,
+                  -7.633315512354575,
+                  -6.5914107300272375
+                ],
+                "source_tokens_processed": 210
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -6.522235923737294,
+                  -7.634906848022681,
+                  -6.5945393021122065
+                ],
+                "source_tokens_processed": 216
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.776871462040804,
+                  -6.786251302259667,
+                  -5.171354704134664,
+                  -8.427698071137797,
+                  -14.859635825302997
+                ],
+                "source_tokens_processed": 220
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.193081824980014,
+                  -4.785588279023909,
+                  -5.422215222935709
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.386119548734557,
+                  -9.72535218249077,
+                  -5.8133741428857535,
+                  -7.076155370820662
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -5.290251576862248,
+                  -7.416870450744358,
+                  -17.487425311928245,
+                  -12.630106717375197,
+                  -3.89334135482497
+                ],
+                "source_tokens_processed": 235
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.356911787901264,
+                  -8.112400960508422,
+                  -10.71601379568998,
+                  -9.103425591702836
+                ],
+                "source_tokens_processed": 237
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.0187924118690335,
+                  -9.082876157063668,
+                  -7.800246333065274
+                ],
+                "source_tokens_processed": 245
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.481660863914713,
+                  -7.695846542656329,
+                  -4.907023220180468,
+                  -14.0829610819301
+                ],
+                "source_tokens_processed": 243
+              }
+            ]
+          },
+          "loss": 1.7978054691533896,
+          "correct_coordinates": 4,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"biological_senescence\", \"description\": \"Natural biological aging process - accumulation of cellular damage, telomere shortening, epigenetic changes\"}",
+            "target": "𐑛𐑡𐑑𐑗𐑱𐑧𐑚𐑠𐑢𐑖𐑕𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/30"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:30",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -6.743690071341929,
+                  -8.054183778672613,
+                  -4.564757097384259,
+                  -6.244964236504419
+                ],
+                "source_tokens_processed": 271
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.520710319752715,
+                  -7.986157078171454,
+                  -5.3955716799718285,
+                  -6.857297947796427,
+                  -6.098914116907298
+                ],
+                "source_tokens_processed": 269
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.508344002017331,
+                  -9.943400072781891,
+                  -4.456475871258501,
+                  -6.67072102987719
+                ],
+                "source_tokens_processed": 273
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -6.178451976069121,
+                  -9.822459488448532,
+                  -8.4153064330459,
+                  -9.456155038794893,
+                  -8.798138552210016
+                ],
+                "source_tokens_processed": 275
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.600160780580112,
+                  -6.882709631819993,
+                  -5.169235648220396
+                ],
+                "source_tokens_processed": 281
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.913121397282473,
+                  -5.691115218380993,
+                  -5.9143538252941585,
+                  -8.658272325265017,
+                  -14.801104290068157
+                ],
+                "source_tokens_processed": 285
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -7.04987060926511,
+                  -4.6128504343139,
+                  -6.4213166577645
+                ],
+                "source_tokens_processed": 292
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.761860062344592,
+                  -10.004423519468997,
+                  -6.187551806900624,
+                  -7.2577706851284285
+                ],
+                "source_tokens_processed": 296
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -4.711788428556192,
+                  -8.836688246556935,
+                  -17.37849621519379,
+                  -12.352980643246195,
+                  -3.418949783649864
+                ],
+                "source_tokens_processed": 300
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.615211305443768,
+                  -7.586144579674817,
+                  -10.183380690027345,
+                  -9.178052796955923
+                ],
+                "source_tokens_processed": 302
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.276309246577373,
+                  -9.009753870027172,
+                  -8.317957560301977
+                ],
+                "source_tokens_processed": 310
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -7.619274294392631,
+                  -9.482880319550864,
+                  -7.004138907420328,
+                  -14.488376720636369
+                ],
+                "source_tokens_processed": 308
+              }
+            ]
+          },
+          "loss": 2.1388919601439222,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:43:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:43",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"standard_proof_system\", \"description\": \"Classical mathematical proof system baseline (Lean/Coq/ZFC-level)\"}",
+            "target": "𐑨𐑶𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/43"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:393",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -8.134134117757236,
+                  -9.045496098844804,
+                  -5.020485600241628,
+                  -7.8438643807481885
+                ],
+                "source_tokens_processed": 229
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.242520471142855,
+                  -9.880428338222265,
+                  -7.040207149397169,
+                  -7.672154290779252,
+                  -6.7697911437592
+                ],
+                "source_tokens_processed": 227
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.310311678260632,
+                  -8.804290113022947,
+                  -3.483834829945691,
+                  -6.446821835578968
+                ],
+                "source_tokens_processed": 231
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.271601645329183,
+                  -7.159921189475802,
+                  -5.5064646394267225,
+                  -6.93063317912383,
+                  -5.859477367832411
+                ],
+                "source_tokens_processed": 233
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.407463090958348,
+                  -6.37725782055234,
+                  -5.033168855919023
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.608685516955106,
+                  -5.882170836436315,
+                  -5.075897593788079,
+                  -8.019613494035355,
+                  -14.592114378763958
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.832505227473808,
+                  -4.969139199735423,
+                  -6.325208149255599
+                ],
+                "source_tokens_processed": 250
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -9.812484901000982,
+                  -11.111645153759975,
+                  -7.397882884271651,
+                  -8.158560617084511
+                ],
+                "source_tokens_processed": 254
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.945759132941725,
+                  -11.808768309713502,
+                  -18.68345671215105,
+                  -14.63422556748967,
+                  -6.128685620601331
+                ],
+                "source_tokens_processed": 258
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -6.276612709292539,
+                  -8.163295756072994,
+                  -10.609488786352177,
+                  -9.32128987428825
+                ],
+                "source_tokens_processed": 260
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.957680341009535,
+                  -9.971130529614303,
+                  -9.04822299915647
+                ],
+                "source_tokens_processed": 268
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -6.061699829852126,
+                  -8.01622053619496,
+                  -5.5360759922720835,
+                  -13.833006222009578
+                ],
+                "source_tokens_processed": 266
+              }
+            ]
+          },
+          "loss": 2.1328470699699937,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"seven_meet_de_inf_ax_higgs_grav_dm_omg\", \"description\": \"Meet of dark_energy, inflaton, axion, higgs, graviton, dark matter, and OMG particle\"}",
+            "target": "𐑛𐑡𐑑𐑗𐑐𐑘𐑔𐑝𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/64"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:64",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.573378867164077,
+                  -6.869827987844365,
+                  -2.7684456661185295,
+                  -5.06156622356962
+                ],
+                "source_tokens_processed": 265
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.1097831130575226,
+                  -7.512143814111763,
+                  -5.623210417214204,
+                  -5.827648577287108,
+                  -4.868154086304043
+                ],
+                "source_tokens_processed": 263
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -7.524277041251985,
+                  -7.103120065552643,
+                  -2.108654724011981,
+                  -4.572421851617557
+                ],
+                "source_tokens_processed": 267
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.576513346892537,
+                  -6.806951729734681,
+                  -5.150786852377033,
+                  -6.572491000767494,
+                  -5.384203863302453
+                ],
+                "source_tokens_processed": 269
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -5.837156441680317,
+                  -7.086708209140761,
+                  -6.3876737003805335
+                ],
+                "source_tokens_processed": 275
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.547969842507651,
+                  -7.1749669219688155,
+                  -5.130976187513587,
+                  -8.406514591795895,
+                  -14.805701816135784
+                ],
+                "source_tokens_processed": 279
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -8.674014472966828,
+                  -7.834058759885898,
+                  -8.510263842170472
+                ],
+                "source_tokens_processed": 286
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.945055511290782,
+                  -10.216430721767368,
+                  -6.274606531375224,
+                  -7.558086955489792
+                ],
+                "source_tokens_processed": 290
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.843061754289615,
+                  -11.097055660075176,
+                  -18.67112910687712,
+                  -14.85016338835526,
+                  -5.480457336417547
+                ],
+                "source_tokens_processed": 294
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -4.878235626964425,
+                  -6.9749643221106945,
+                  -9.284691252268518,
+                  -7.738701679220419
+                ],
+                "source_tokens_processed": 296
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -6.334907142032092,
+                  -10.688705486528782,
+                  -9.877842186711058
+                ],
+                "source_tokens_processed": 304
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -8.213881345242406,
+                  -9.656305147288185,
+                  -7.167428019415334,
+                  -15.196326812572332
+                ],
+                "source_tokens_processed": 302
+              }
+            ]
+          },
+          "loss": 1.452002098269891,
+          "correct_coordinates": 6,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"partial_feminization_preserved_testicular\", \"description\": \"Partial systemic feminization while preserving local testicular function - the structurally possible compromise\"}",
+            "target": "𐑼𐑸𐑽𐑗𐑞𐑧𐑲𐑵⊙𐑖𐑳𐑴",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/78"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:78",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -5.358267342876253,
+                  -6.636029828788576,
+                  -2.5999702947306504,
+                  -4.8248681031243885
+                ],
+                "source_tokens_processed": 295
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -3.0276622502678916,
+                  -7.25008731908795,
+                  -5.430049567541568,
+                  -5.701777694147028,
+                  -4.710268246015133
+                ],
+                "source_tokens_processed": 293
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -8.733414723901483,
+                  -8.19141570292352,
+                  -3.329070054125199,
+                  -5.651466818463076
+                ],
+                "source_tokens_processed": 297
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.7714253759183816,
+                  -7.053439279854746,
+                  -5.212368869143943,
+                  -6.598602269802151,
+                  -5.339422044601577
+                ],
+                "source_tokens_processed": 299
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -6.453057875395842,
+                  -8.134434697123641,
+                  -6.991840958154682
+                ],
+                "source_tokens_processed": 305
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -4.7305354434926405,
+                  -7.062052002911121,
+                  -5.363646724775723,
+                  -8.640727583950735,
+                  -15.734706458740673
+                ],
+                "source_tokens_processed": 309
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -9.23003155661577,
+                  -8.421136607830292,
+                  -8.775220014823976
+                ],
+                "source_tokens_processed": 316
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -8.108622041115863,
+                  -9.420291062918386,
+                  -5.574655678316813,
+                  -6.656043288260631
+                ],
+                "source_tokens_processed": 320
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.02203845563553,
+                  -10.288860749633571,
+                  -17.673572612714466,
+                  -13.935319600392127,
+                  -4.867946780155295
+                ],
+                "source_tokens_processed": 324
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -4.7911832683815625,
+                  -6.925257149938008,
+                  -9.13526480375837,
+                  -7.478910339506947
+                ],
+                "source_tokens_processed": 326
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -3.053902945462771,
+                  -7.425722682632103,
+                  -6.285316461539257
+                ],
+                "source_tokens_processed": 334
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -7.375777448924069,
+                  -8.777479010972087,
+                  -6.360517830743287,
+                  -14.530116324964704
+                ],
+                "source_tokens_processed": 332
+              }
+            ]
+          },
+          "loss": 2.139114527239462,
+          "correct_coordinates": 3,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"gimel\", \"description\": \"Third Hebrew letter: ג - camel, bridge, giving, numerical value 3\"}",
+            "target": "𐑛𐑥𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/119"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:119",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9102434,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -7.673839395219512,
+                  -8.90662936421364,
+                  -4.975808237991302,
+                  -7.521124975698235
+                ],
+                "source_tokens_processed": 214
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -4.9131259149704585,
+                  -10.946509076894817,
+                  -8.12795160831553,
+                  -8.70803775929614,
+                  -7.761103320770702
+                ],
+                "source_tokens_processed": 212
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.354654280796632,
+                  -8.470665316046816,
+                  -3.3862785150656807,
+                  -6.571331738737401
+                ],
+                "source_tokens_processed": 216
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -4.295719409137504,
+                  -7.119031376358141,
+                  -5.585185743681625,
+                  -7.070896288587015,
+                  -5.9358582119418415
+                ],
+                "source_tokens_processed": 218
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑐",
+                "scores": [
+                  -5.2577588817490675,
+                  -5.905858970046274,
+                  -4.612185367298115
+                ],
+                "source_tokens_processed": 224
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -6.1106208677501055,
+                  -7.0693939501173375,
+                  -6.401059078269354,
+                  -9.337292925937637,
+                  -16.33994349736016
+                ],
+                "source_tokens_processed": 228
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.225941411880853,
+                  -3.576107822087118,
+                  -5.656748542749871
+                ],
+                "source_tokens_processed": 235
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -9.572946567662722,
+                  -10.913961919938917,
+                  -7.061835398788403,
+                  -7.99555830958042
+                ],
+                "source_tokens_processed": 239
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -6.267443719353846,
+                  -11.589016712106933,
+                  -18.48689760611878,
+                  -14.300788675400803,
+                  -5.329909911243155
+                ],
+                "source_tokens_processed": 243
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -5.932715386935888,
+                  -7.11449411455997,
+                  -10.12534256649969,
+                  -9.085525837022931
+                ],
+                "source_tokens_processed": 245
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.550990778059991,
+                  -9.569781968165632,
+                  -8.548141436693314
+                ],
+                "source_tokens_processed": 253
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.522225861862926,
+                  -7.659101145576512,
+                  -5.0051521485917885,
+                  -13.705769750907642
+                ],
+                "source_tokens_processed": 251
+              }
+            ]
+          },
+          "loss": 1.4828888059433487,
+          "correct_coordinates": 5,
+          "exact": false
+        },
+        {
+          "source": {
+            "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134:catalog_to_tuple:tuple",
+            "task": "catalog_to_tuple",
+            "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "split": "validation",
+            "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"tzadi\", \"description\": \"Eighteenth Hebrew letter: צ - fishhook, righteousness, hunt, numerical value 90\"}",
+            "target": "𐑛𐑥𐑾𐑗𐑱𐑤𐑚𐑠𐑢𐑒𐑙𐑷",
+            "evidence": "catalog_attestation",
+            "source": {
+              "path": "imscribing_grammar/IG_catalog.json",
+              "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+              "bytes": 3677806,
+              "kind": "catalog",
+              "json_pointer": "/134"
+            },
+            "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+            "prior_split": "validation",
+            "dataset_revision": "artifact_family_closure_v1",
+            "family_history": [
+              {
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:134",
+                "split": "validation"
+              }
+            ]
+          },
+          "prediction": {
+            "address": "𐑼𐑡𐑽𐑗𐑱𐑘𐑔𐑠𐑣𐑓𐑙𐑭",
+            "crystal_index": 9073634,
+            "observations": [
+              {
+                "axis": "⊢",
+                "allowed": [
+                  "𐑛",
+                  "𐑨",
+                  "𐑼",
+                  "𐑦"
+                ],
+                "selected": "𐑼",
+                "scores": [
+                  -7.139213417978777,
+                  -7.944959992484019,
+                  -4.168295681380659,
+                  -7.051300327066391
+                ],
+                "source_tokens_processed": 228
+              },
+              {
+                "axis": "⊣",
+                "allowed": [
+                  "𐑡",
+                  "𐑰",
+                  "𐑥",
+                  "𐑶",
+                  "𐑸"
+                ],
+                "selected": "𐑡",
+                "scores": [
+                  -2.742270433526835,
+                  -7.275002001393598,
+                  -5.49275767562619,
+                  -6.573436637416911,
+                  -5.642746280604279
+                ],
+                "source_tokens_processed": 226
+              },
+              {
+                "axis": "≻",
+                "allowed": [
+                  "𐑩",
+                  "𐑑",
+                  "𐑽",
+                  "𐑾"
+                ],
+                "selected": "𐑽",
+                "scores": [
+                  -9.603777149399948,
+                  -8.582145273744933,
+                  -4.288861553384857,
+                  -6.952447843269777
+                ],
+                "source_tokens_processed": 230
+              },
+              {
+                "axis": "≺",
+                "allowed": [
+                  "𐑗",
+                  "𐑿",
+                  "𐑬",
+                  "𐑯",
+                  "𐑹"
+                ],
+                "selected": "𐑗",
+                "scores": [
+                  -3.7397025340142025,
+                  -6.96731792020256,
+                  -5.397485150726607,
+                  -6.701311722042727,
+                  -5.765024609617439
+                ],
+                "source_tokens_processed": 232
+              },
+              {
+                "axis": "⋈",
+                "allowed": [
+                  "𐑱",
+                  "𐑞",
+                  "𐑐"
+                ],
+                "selected": "𐑱",
+                "scores": [
+                  -5.428930081907646,
+                  -6.814321108162055,
+                  -5.7693037457343
+                ],
+                "source_tokens_processed": 238
+              },
+              {
+                "axis": "⊤",
+                "allowed": [
+                  "𐑘",
+                  "𐑤",
+                  "𐑧",
+                  "𐑪",
+                  "𐑺"
+                ],
+                "selected": "𐑘",
+                "scores": [
+                  -6.6002923196006265,
+                  -8.493218259511497,
+                  -7.288192064895736,
+                  -10.540586660816864,
+                  -17.685204449019587
+                ],
+                "source_tokens_processed": 242
+              },
+              {
+                "axis": "∈",
+                "allowed": [
+                  "𐑚",
+                  "𐑔",
+                  "𐑲"
+                ],
+                "selected": "𐑔",
+                "scores": [
+                  -6.01005778336463,
+                  -4.753762828083721,
+                  -4.967666708507236
+                ],
+                "source_tokens_processed": 249
+              },
+              {
+                "axis": "∋",
+                "allowed": [
+                  "𐑝",
+                  "𐑜",
+                  "𐑠",
+                  "𐑵"
+                ],
+                "selected": "𐑠",
+                "scores": [
+                  -7.587906296330784,
+                  -8.629355908309051,
+                  -5.375253458269883,
+                  -6.06847187952355
+                ],
+                "source_tokens_processed": 253
+              },
+              {
+                "axis": "⊙",
+                "allowed": [
+                  "𐑢",
+                  "⊙",
+                  "𐑮",
+                  "𐑻",
+                  "𐑣"
+                ],
+                "selected": "𐑣",
+                "scores": [
+                  -5.514415878551686,
+                  -9.23146398037644,
+                  -17.313745444662267,
+                  -14.150158480486434,
+                  -4.80809739362938
+                ],
+                "source_tokens_processed": 257
+              },
+              {
+                "axis": "⊥",
+                "allowed": [
+                  "𐑓",
+                  "𐑒",
+                  "𐑖",
+                  "𐑫"
+                ],
+                "selected": "𐑓",
+                "scores": [
+                  -7.860218918300896,
+                  -9.398177213856675,
+                  -11.548126313201605,
+                  -10.681691583472777
+                ],
+                "source_tokens_processed": 259
+              },
+              {
+                "axis": "⊞",
+                "allowed": [
+                  "𐑙",
+                  "𐑕",
+                  "𐑳"
+                ],
+                "selected": "𐑙",
+                "scores": [
+                  -4.357842844599837,
+                  -9.3217316557865,
+                  -8.401972055776861
+                ],
+                "source_tokens_processed": 267
+              },
+              {
+                "axis": "⊡",
+                "allowed": [
+                  "𐑷",
+                  "𐑴",
+                  "𐑭",
+                  "𐑟"
+                ],
+                "selected": "𐑭",
+                "scores": [
+                  -5.076492431164431,
+                  -7.24974507966313,
+                  -4.7990627483549035,
+                  -12.956278831044202
+                ],
+                "source_tokens_processed": 265
+              }
+            ]
+          },
+          "loss": 1.5420645653601623,
+          "correct_coordinates": 4,
+          "exact": false
+        }
+      ],
+      "exact": 0,
+      "coordinates_correct": 33,
+      "coordinates": 96,
+      "mean_axis_loss": 1.7959017426436352
+    }
+  ]
+}

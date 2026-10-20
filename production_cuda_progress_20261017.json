@@ -1,0 +1,44 @@
+{
+  "status": "production_cuda_graph_stages_verified",
+  "production_campaigns": [
+    "corpus_cuda_composed_campaign_20261017",
+    "corpus_cuda_anchor_campaign_20261017"
+  ],
+  "verified_production_records": 3156,
+  "verified_composed_updates": 128,
+  "active_journal": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_anchor_campaign_20261017/campaign.json",
+  "corpus_execution": "Vox profile-native CPU",
+  "graph_execution": "composed Torch graph gradients alternating RTX 3060 and RTX 4070",
+  "retention_comparison": {
+    "same_parent_and_graph_order": true,
+    "graphs": 80,
+    "graph_only_exact": 39,
+    "rehearsal_exact": 58
+  },
+  "receipts": {
+    "VGI/corpus_cuda_composed_campaign_20261017/joint_return_verification.json": {
+      "sha256": "28c2f4b6383d5de97704abae413b6d0af522c91e4b04ef3208597047f44080ca"
+    },
+    "VGI/corpus_cuda_anchor_campaign_20261017/joint_return_verification.json": {
+      "sha256": "d21fa7cc6d17c33578ba91271127efa8a8f4d051ca5daae2b4efc0cb81bb0183"
+    },
+    "VGI/cuda_carrier_reentry_20261017/verification.json": {
+      "sha256": "d9cafb048f9cbd0e416556b06e7ff36d0202bdcf228183efdf68c61e3b02136e"
+    },
+    "VGI/cuda_composed_anchor_comparison_20261017/cuda_return_verification.json": {
+      "sha256": "a0a40d311d6cd4794499f9ea7f79c5ce3ad5e29b1747f940df948ffd25f64fe7"
+    },
+    "VGI/cuda_composed_retention_baseline_20261017.json": {
+      "sha256": "d3104b80d2e36344be6fecc6da6875a76b9d590bd0aa228a86aac3ae8182bd12"
+    },
+    "VGI/cuda_composed_retention_boundaries_20261017.json": {
+      "sha256": "e40ef1b8ecbbfe47198753df6e8b940a24a2ad9706d1118d2311a52b1af0fe0b"
+    },
+    "VGI/cuda_composed_anchor_retention_20261017.json": {
+      "sha256": "925dea0934e8b85d8d0522027e6bcbac742e6cf45ade4115a007f5a076e4e113"
+    },
+    "VGI/cuda_anchor_campaign_retention_20261017.json": {
+      "sha256": "b8ea7be2d6282a8cefa8ff9c435a9d9abc62bc81829647eb8b758bdf9e4d25c9"
+    }
+  }
+}

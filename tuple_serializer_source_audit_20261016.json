@@ -1,0 +1,2968 @@
+{
+  "instrument": "canonical Lean serializer source extraction compared with the exporter axis alphabets",
+  "source_bindings": {
+    "p4rakernel/p4ramill/Imscribing/Primitives/Imscription.lean": "ed0838c7e8adfc102bc5bda32c3256febb822815ce272627f35b89f80b2952a6",
+    "p4rakernel/p4ramill/Imscribing/Primitives/Core.lean": "b1c197cb32fbde95771fd71c1310e7600023a126f5be7675c1efb3d62d242a7e",
+    "VGI/sources/grammar_training_v1/bootstrap.py": "f841327254aa4f07d8adb8b3fdbf94a7e046ac33d5b3529a659c6c4f57cb9034",
+    "VGI/linked_corpus_20261015/records.jsonl": "91813853042b6d51de3786e7721e432b49082693cf3e561f986d66420f70aaec"
+  },
+  "serializer_definition_lines": [
+    380,
+    464
+  ],
+  "axes": [
+    {
+      "axis": "⊢",
+      "lean_type": "Dimensionality",
+      "constructors": [
+        "dead",
+        "ash",
+        "array",
+        "if'"
+      ],
+      "glyphs": "𐑛𐑨𐑼𐑦"
+    },
+    {
+      "axis": "⊣",
+      "lean_type": "Topology",
+      "constructors": [
+        "judge",
+        "eat",
+        "mime",
+        "oil",
+        "are"
+      ],
+      "glyphs": "𐑡𐑰𐑥𐑶𐑸"
+    },
+    {
+      "axis": "≻",
+      "lean_type": "Relational",
+      "constructors": [
+        "ado",
+        "tot",
+        "ear",
+        "ian"
+      ],
+      "glyphs": "𐑩𐑑𐑽𐑾"
+    },
+    {
+      "axis": "≺",
+      "lean_type": "Polarity",
+      "constructors": [
+        "church",
+        "yew",
+        "out",
+        "nun",
+        "or'"
+      ],
+      "glyphs": "𐑗𐑿𐑬𐑯𐑹"
+    },
+    {
+      "axis": "⋈",
+      "lean_type": "Fidelity",
+      "constructors": [
+        "age",
+        "they",
+        "peep"
+      ],
+      "glyphs": "𐑱𐑞𐑐"
+    },
+    {
+      "axis": "⊤",
+      "lean_type": "KineticChar",
+      "constructors": [
+        "yea",
+        "loll",
+        "egg",
+        "on",
+        "air"
+      ],
+      "glyphs": "𐑘𐑤𐑧𐑪𐑺"
+    },
+    {
+      "axis": "∈",
+      "lean_type": "Granularity",
+      "constructors": [
+        "bib",
+        "thigh",
+        "ice"
+      ],
+      "glyphs": "𐑚𐑔𐑲"
+    },
+    {
+      "axis": "∋",
+      "lean_type": "Grammar",
+      "constructors": [
+        "vow",
+        "gag",
+        "measure",
+        "ooze"
+      ],
+      "glyphs": "𐑝𐑜𐑠𐑵"
+    },
+    {
+      "axis": "⊙",
+      "lean_type": "Criticality",
+      "constructors": [
+        "woe",
+        "monad",
+        "roar",
+        "err",
+        "haha"
+      ],
+      "glyphs": "𐑢⊙𐑮𐑻𐑣"
+    },
+    {
+      "axis": "⊥",
+      "lean_type": "Chirality",
+      "constructors": [
+        "fee",
+        "kick",
+        "sure",
+        "wool"
+      ],
+      "glyphs": "𐑓𐑒𐑖𐑫"
+    },
+    {
+      "axis": "⊞",
+      "lean_type": "Stoichiometry",
+      "constructors": [
+        "hung",
+        "so",
+        "up"
+      ],
+      "glyphs": "𐑙𐑕𐑳"
+    },
+    {
+      "axis": "⊡",
+      "lean_type": "Protection",
+      "constructors": [
+        "awe",
+        "oak",
+        "ah",
+        "zoo"
+      ],
+      "glyphs": "𐑷𐑴𐑭𐑟"
+    }
+  ],
+  "all_axis_sequences_match": true,
+  "counts": {
+    "axis_literals_with_ordinal": 105469,
+    "complete_catalog_tuples": 8761,
+    "axis_literals_without_ordinal": 59,
+    "catalog_tuples_with_unassigned_ordinals": 33
+  },
+  "partial_axis_observations": [
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2775",
+      "name": "ns_regularity_refined_v2",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/2775"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2776",
+      "name": "ns_regularity_field_target",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/2776"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "UNDEFINED",
+          "canonical_ordinal": null
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2777",
+      "name": "navier_solves_navigator_resolved",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/2777"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑦",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑑",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑪",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑵",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑫",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑴",
+          "canonical_ordinal": 1
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2778",
+      "name": "zfc_t_system",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/2778"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑼",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑾",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑖",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑭",
+          "canonical_ordinal": 2
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2779",
+      "name": "zfc_t_ref",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/2779"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑼",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑾",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑖",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑭",
+          "canonical_ordinal": 2
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3629",
+      "name": "boron",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3629"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3631",
+      "name": "nitrogen",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3631"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3636",
+      "name": "aluminium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3636"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3638",
+      "name": "phosphorus",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3638"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3652",
+      "name": "gallium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3652"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3654",
+      "name": "arsenic",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3654"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3670",
+      "name": "indium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3670"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3672",
+      "name": "antimony",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3672"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3701",
+      "name": "thallium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3701"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3703",
+      "name": "bismuth",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3703"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3723",
+      "name": "rutherfordium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3723"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3724",
+      "name": "dubnium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3724"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3725",
+      "name": "seaborgium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3725"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3726",
+      "name": "bohrium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3726"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3727",
+      "name": "hassium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3727"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3728",
+      "name": "meitnerium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3728"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3729",
+      "name": "darmstadtium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3729"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3730",
+      "name": "roentgenium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3730"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑙",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3731",
+      "name": "copernicium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3731"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑰",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑯",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑕",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3732",
+      "name": "nihonium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3732"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3733",
+      "name": "flerovium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3733"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑙",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3734",
+      "name": "moscovium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3734"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑛",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3735",
+      "name": "livermorium",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3735"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑬",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑕",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3736",
+      "name": "tennessine",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3736"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑡",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑽",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑗",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑙",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3737",
+      "name": "oganesson",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/3737"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑨",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑶",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑑",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑯",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑝",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "𐑧",
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑓",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑙",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑷",
+          "canonical_ordinal": 0
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7020",
+      "name": "inverse_winding_partner",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/7020"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑦",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑾",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑹",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑪",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑫",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑯",
+          "canonical_ordinal": null
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7023",
+      "name": "inverse_winding_partner_refined",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/7023"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑦",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": true,
+          "raw_value": "𐑾",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "≺",
+          "present": true,
+          "raw_value": "𐑹",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑪",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑔",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑫",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": true,
+          "raw_value": "𐑯",
+          "canonical_ordinal": null
+        }
+      ]
+    },
+    {
+      "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:8699",
+      "name": "photon_ligand1",
+      "source": {
+        "path": "imscribing_grammar/IG_catalog.json",
+        "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+        "bytes": 3677806,
+        "kind": "catalog",
+        "json_pointer": "/8699"
+      },
+      "axis_readings": [
+        {
+          "axis": "⊢",
+          "present": true,
+          "raw_value": "𐑦",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊣",
+          "present": true,
+          "raw_value": "𐑸",
+          "canonical_ordinal": 4
+        },
+        {
+          "axis": "≻",
+          "present": false,
+          "raw_value": null,
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "≺",
+          "present": false,
+          "raw_value": null,
+          "canonical_ordinal": null
+        },
+        {
+          "axis": "⋈",
+          "present": true,
+          "raw_value": "𐑐",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊤",
+          "present": true,
+          "raw_value": "𐑘",
+          "canonical_ordinal": 0
+        },
+        {
+          "axis": "∈",
+          "present": true,
+          "raw_value": "𐑲",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "∋",
+          "present": true,
+          "raw_value": "𐑠",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊙",
+          "present": true,
+          "raw_value": "⊙",
+          "canonical_ordinal": 1
+        },
+        {
+          "axis": "⊥",
+          "present": true,
+          "raw_value": "𐑫",
+          "canonical_ordinal": 3
+        },
+        {
+          "axis": "⊞",
+          "present": true,
+          "raw_value": "𐑳",
+          "canonical_ordinal": 2
+        },
+        {
+          "axis": "⊡",
+          "present": false,
+          "raw_value": null,
+          "canonical_ordinal": null
+        }
+      ]
+    }
+  ],
+  "preservation": "recorded glyphs and source identities retained exactly; no values substituted",
+  "all_constructor_orders_match": true,
+  "core_declaration_lines": [
+    1,
+    175
+  ]
+}

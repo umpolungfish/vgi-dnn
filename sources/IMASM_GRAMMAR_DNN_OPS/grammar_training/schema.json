@@ -1,0 +1,140 @@
+{
+  "axes": [
+    {
+      "symbol": "⊢",
+      "name": "dimensionality",
+      "alphabet": [
+        "𐑛",
+        "𐑨",
+        "𐑼",
+        "𐑦"
+      ],
+      "radix": 4
+    },
+    {
+      "symbol": "⊣",
+      "name": "topology",
+      "alphabet": [
+        "𐑡",
+        "𐑰",
+        "𐑥",
+        "𐑶",
+        "𐑸"
+      ],
+      "radix": 5
+    },
+    {
+      "symbol": "≻",
+      "name": "coupling",
+      "alphabet": [
+        "𐑩",
+        "𐑑",
+        "𐑽",
+        "𐑾"
+      ],
+      "radix": 4
+    },
+    {
+      "symbol": "≺",
+      "name": "parity",
+      "alphabet": [
+        "𐑗",
+        "𐑿",
+        "𐑬",
+        "𐑯",
+        "𐑹"
+      ],
+      "radix": 5
+    },
+    {
+      "symbol": "⋈",
+      "name": "fidelity",
+      "alphabet": [
+        "𐑱",
+        "𐑞",
+        "𐑐"
+      ],
+      "radix": 3
+    },
+    {
+      "symbol": "⊤",
+      "name": "kinetics",
+      "alphabet": [
+        "𐑘",
+        "𐑤",
+        "𐑧",
+        "𐑪",
+        "𐑺"
+      ],
+      "radix": 5
+    },
+    {
+      "symbol": "∈",
+      "name": "cardinality",
+      "alphabet": [
+        "𐑚",
+        "𐑔",
+        "𐑲"
+      ],
+      "radix": 3
+    },
+    {
+      "symbol": "∋",
+      "name": "composition",
+      "alphabet": [
+        "𐑝",
+        "𐑜",
+        "𐑠",
+        "𐑵"
+      ],
+      "radix": 4
+    },
+    {
+      "symbol": "⊙",
+      "name": "criticality",
+      "alphabet": [
+        "𐑢",
+        "⊙",
+        "𐑮",
+        "𐑻",
+        "𐑣"
+      ],
+      "radix": 5
+    },
+    {
+      "symbol": "⊥",
+      "name": "chirality",
+      "alphabet": [
+        "𐑓",
+        "𐑒",
+        "𐑖",
+        "𐑫"
+      ],
+      "radix": 4
+    },
+    {
+      "symbol": "⊞",
+      "name": "stoichiometry",
+      "alphabet": [
+        "𐑙",
+        "𐑕",
+        "𐑳"
+      ],
+      "radix": 3
+    },
+    {
+      "symbol": "⊡",
+      "name": "winding",
+      "alphabet": [
+        "𐑷",
+        "𐑴",
+        "𐑭",
+        "𐑟"
+      ],
+      "radix": 4
+    }
+  ],
+  "input": "native_catalog_object",
+  "target": "twelve_typed_glyphs_and_crystal_index",
+  "note": "No executable IMASM evidence in this export; do not train logical verdicts from this file."
+}

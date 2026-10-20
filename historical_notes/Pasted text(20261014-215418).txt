@@ -1,0 +1,410 @@
+# Gravity as Fixed-Point Winding: A Complete Account
+
+## 0. Overview
+
+We give a complete account of gravity as the physical realization of an open fixed-point walk on the horn torus. The logical substrate is the countably infinite direct limit of the four-valued bilattice tower. The carrier is the sixteen-element trilattice. The dynamics is a (16, 3) torus knot. The imscriptive classification is the second Ouroboricity tier, not the infinite Ouroboricity tier, because the polarity primitive takes the value 𐑬 rather than or', and 𐑬 does not satisfy the Frobenius-special closure condition.
+
+The twelve-primitive assignment is the tuple
+
+$$\langle\, \text{𐑦},\ \text{𐑸},\ \text{𐑾},\ \text{𐑬},\ \text{𐑐},\ \text{𐑧},\ \text{𐑔},\ \text{𐑵},\ ⊙,\ \text{𐑫},\ \text{𐑙},\ \text{𐑭} \,\rangle$$
+
+in the order (dimensionality, topology, relationality, polarity, fidelity, kinetics, granularity, grammar, criticality, chirality, stoichiometry, protection).
+
+---
+
+## 1. The Horn-Torus Pinch as the Critical Fixed Point
+
+### 1.1 Geometry of the horn torus
+
+The horn torus with major radius equal to minor radius is parametrized by
+
+$$\text{horn}(R, u, v) \;=\; \bigl(R(1 + \cos u)\cos v,\; R(1 + \cos u)\sin v,\; R\sin u\bigr),$$
+
+where $u$ is the poloidal angle and $v$ is the toroidal angle. The two radii are equal — the horn torus is the limiting case of the standard torus in which the hole has shrunk to nothing and the surface touches itself along a single circle.
+
+At the poloidal angle $u = \pi$, the entire toroidal circle collapses:
+
+$$\text{horn}(R, \pi, v) \;=\; (0, 0, 0) \quad \text{for every } v.$$
+
+This is the **pinch point** — the self-contact of the horn torus. The poloidal circle at $u = \pi$ has radius $R(1 + \cos \pi) = 0$, so all toroidal angles $v$ map to the same point.
+
+### 1.2 The pinch as critical fixed point
+
+The Einstein field equation
+
+$$G_{\mu\nu} \;=\; \frac{8\pi G}{c^4}\, T_{\mu\nu} \;=\; \text{≻}$$
+
+describes the geometric flow toward the pinch. The Ricci-flow fixed point
+
+$$\frac{\partial g}{\partial t} \;=\; -2\,\mathrm{Ric}(g), \qquad \mathrm{Ric}(g) \;=\; \lambda\, g \;=\; ⊙$$
+
+is exactly the geometry at which the flow has no further motion. The metric has reached its critical configuration: the Ricci curvature is proportional to the metric itself, so the flow is stationary.
+
+The criticality primitive is assigned the value ⊙. This glyph denotes a self-referential fixed point — a critical configuration that reproduces itself under the flow. The pinch is where the horn torus touches itself, so the fixed point is not a single point on a circle but a one-parameter family of identified points. Gravity's criticality inherits this degeneracy: the fixed point is not a single metric but a one-parameter family, all identified at the self-contact.
+
+---
+
+## 2. The Four-Valued Bilattice Tower
+
+### 2.1 Definition of the finite bilattices
+
+For each natural number $n$, define the bilattice
+
+$$\mathrm{FDE}(n) \;=\; \{\bot\} \;\cup\; \{m_0, m_1, \ldots, m_{n-1}\} \;\cup\; \{\top\},$$
+
+with cardinality $n + 2$. Here $\bot$ is the bottom element (no information — the vacuum), $\top$ is the top element (full information — confinement or the singlet), and $m_0, \ldots, m_{n-1}$ are $n$ incomparable middle values.
+
+### 2.2 Ascent and descent
+
+There is an **ascent** map
+
+$$\mathrm{embed}_{k,n} : \mathrm{FDE}(k) \to \mathrm{FDE}(n) \qquad (k \le n),$$
+
+which is injective but not surjective for $k < n$. Each deeper scale adds at least one incomparable middle value.
+
+There is a **descent** map
+
+$$\mathrm{restrict}_{n,k} : \mathrm{FDE}(n) \to \mathrm{FDE}(k) \qquad (k \le n),$$
+
+which sends a middle value with index less than $k$ to the corresponding middle value in $\mathrm{FDE}(k)$, and sends a middle value with index at least $k$ to the top element. The descent is a genuine coarsening: for $k < n$, it is not injective.
+
+### 2.3 The round-trip identity
+
+The composition
+
+$$\mathrm{restrict}_{n,k} \;\circ\; \mathrm{embed}_{k,n} \;=\; \mathrm{id}_{\mathrm{FDE}(k)}$$
+
+holds for every $k \le n$. In the vocabulary of the imscriptive calculus, this is the identity μ ∘ δ = id, instantiated at arbitrary depth.
+
+The descent is also transitive, so an arbitrary-depth walk is well defined: the route taken through intermediate scales does not matter, only the endpoints.
+
+### 2.4 Physical correspondence
+
+| Scale (m) | Structure | Gauge group | Incomparable middle values | Bilattice |
+|---|---|---|---|---|
+| $10^{-10}$ | electron | SU(2) spin | 2 (spin up, spin down) | FDE(2) → 4 values |
+| $10^{-15}$ | quark | SU(3) color | 3 (red, green, blue) | FDE(3) → 5 values |
+| $10^{-18}$ | preon | SU(4) hypercharge | 4 | FDE(4) → 6 values |
+| $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ | $\cdots$ |
+| $10^{-35}$ | gravity | $\mathrm{Diff}(M)$ or $E_8$ | infinitely many | FDE(∞) → countably infinitely many values |
+
+Two isomorphisms are proved, not asserted. The bilattice FDE(2) is isomorphic to Belnap's four-valued logic — the electron-orbital level. The bilattice FDE(3) is isomorphic to the color state space — the quark-color level.
+
+### 2.5 The direct limit
+
+The direct limit FDE(∞) has countably infinitely many truth values, and every finite FDE(n) embeds faithfully into it. The number of truth values grows monotonically as scale descends: each deeper scale adds at least one new gauge charge, which corresponds to a new incomparable middle value in the bilattice.
+
+At the Planck scale, where all gauge interactions unify, the appropriate logical substrate is FDE(∞) with countably infinitely many truth values. This is the substrate in which gravity's logical content lives.
+
+---
+
+## 3. The Sixteen-Element Trilattice
+
+### 3.1 The carrier
+
+The trilattice carrier is
+
+$$\mathrm{Reg}_{16,3} \;=\; \mathrm{Bool} \times \mathrm{Bool} \times \mathrm{Bool} \times \mathrm{Bool},$$
+
+one Boolean value for each of the four lanes labelled $T$, $F$, $t$, $f$. This gives $2^4 = 16$ states. The cardinality is $|B_4|^2 = 16$, matching the state count of the trilattice at $n = 4$.
+
+### 3.2 The three orderings
+
+Three partial orders act on the carrier:
+
+**Information order** $\le_i$: subset inclusion. A register $x$ is below $y$ if every lane of $x$ is a lane of $y$. The join is the lane-wise union `union`, which is commutative, idempotent, associative, and the **least** upper bound. The bottom is the empty register.
+
+**Truth order** $\le_t$: the two $T$-lanes meet (AND), the two $F$-lanes join (OR).
+
+**Constructivity order** $\le_c$: the classical lanes ($T$, $F$) meet, the constructive lanes ($t$, $f$) join.
+
+### 3.3 The three swaps
+
+Three involutions act on the carrier: the truth swap (`truthSwap`), the information swap (`infoSwap`), and the involution (`invol`). The involution factors exactly as the composition
+
+$$\texttt{invol} \;=\; \texttt{infoSwap} \;\circ\; \texttt{truthSwap},$$
+
+and the two factors commute. This is the action of time reversal ≺ on the trilattice values.
+
+### 3.4 The paraconsistency operator
+
+The operator `engagr` pins both constructive lanes to true:
+
+$$\texttt{engagr}(x_1, x_2, x_3, x_4) \;=\; (x_1, x_2, \text{true}, \text{true}).$$
+
+This is the glyph ⊞'s action made literal: for any register, the result carries both $t$ and $f$ simultaneously — two independently real facts about the same value, not one proposition and its negation.
+
+### 3.5 Gravity's trilattice reading
+
+**The dimensionality primitive is 𐑦** (imscriptive dimension — the boundary writes the bulk it encodes).
+
+**The topology primitive is 𐑸** (holographic topology — the boundary fully encodes the bulk). The operative order is therefore $\le_i$, the information order.
+
+**The relationality primitive is 𐑾** (lateral relation — between peers, not between superior and subordinate).
+
+**The polarity primitive is 𐑬** (two-valued $\mathbb{Z}_2$ parity). This is **not** the value or' that denotes Frobenius-special closure. The parity gate does not fire.
+
+**The criticality primitive is ⊙** (self-referential fixed point — the pinch of the horn torus again).
+
+The information order's bottom is the empty register, and shuttling via union only ever moves a value **up** the information order. Gravity's holography is this monotonicity: the boundary accumulates, it does not erase.
+
+---
+
+## 4. The (16, 3) Torus Knot
+
+### 4.1 The curve
+
+The trilattice is embedded on the horn torus by walking the line
+
+$$u \;=\; 3t, \qquad v \;=\; 16t.$$
+
+Substituting into the horn-torus parametrization gives
+
+$$\mathrm{knot}(R, t) \;=\; \mathrm{horn}(R,\, 3t,\, 16t).$$
+
+The poloidal winding is three — the number of orderings. The toroidal winding is sixteen — the number of states. This is a **(16, 3) torus knot**.
+
+### 4.2 The curve closes
+
+$$\mathrm{knot}(R, t + 2\pi) \;=\; \mathrm{knot}(R, t).$$
+
+The knot is a single closed loop, not a spiral.
+
+### 4.3 Restarting anywhere gives the same curve
+
+$$\mathrm{range}\bigl(t \mapsto \mathrm{knot}(R, t + t_0)\bigr) \;=\; \mathrm{range}\bigl(\mathrm{knot}(R, \cdot)\bigr).$$
+
+There is no second, disjoint orbit for a different starting parameter to sit on.
+
+### 4.4 The curve pinches exactly three times per loop
+
+At the pinch, $\cos(3t) = -1$, whose exact solution set is
+
+$$t \;=\; \frac{\pi}{3} + \frac{2\pi k}{3}, \qquad k \in \mathbb{Z}.$$
+
+Inside one fundamental period $[0, 2\pi)$, exactly three values of $k$ are valid: $k = 0, 1, 2$, giving
+
+$$t \;=\; \frac{\pi}{3}, \quad t \;=\; \pi, \quad t \;=\; \frac{5\pi}{3}.$$
+
+Each is a genuine pinch crossing. The knot visits the pinch three times per loop — once per poloidal winding — and the three visits are sixteen toroidal laps apart. **Three is the poloidal winding, not the toroidal one.** The equation $\cos(3t) = -1$ is also necessary, not merely sufficient, so solving it finds every crossing.
+
+### 4.5 The complementary discrete statement
+
+Consider a rectangle sixteen units wide and three units tall, with opposite edges glued. The corner-to-corner diagonal, walked one unit across and one unit up at a time, is the map
+
+$$n \;\longmapsto\; (n \bmod 16, \; n \bmod 3).$$
+
+Since $\gcd(16, 3) = 1$, the Chinese remainder theorem gives
+
+$$\mathbb{Z}/48 \;\cong\; \mathbb{Z}/16 \times \mathbb{Z}/3,$$
+
+and the diagonal walk is a bijection between its own forty-eight steps and the torus's forty-eight cells. The walk is a single closed curve. If the sixteen states and the three orderings shared a common factor, the knot would split into parallel copies — gravity would be several disjoint forces. **Gravity's unity as a force is the coprimality of sixteen and three.**
+
+The number forty-eight has a second factorization: $48 = 12 \times 4$, the product of the twelve marks and the four base logic values.
+
+---
+
+## 5. The Twelve-Primitive Classification, Fully Expanded
+
+The classification is the tuple
+
+$$\langle\, \text{𐑦},\ \text{𐑸},\ \text{𐑾},\ \text{𐑬},\ \text{𐑐},\ \text{𐑧},\ \text{𐑔},\ \text{𐑵},\ ⊙,\ \text{𐑫},\ \text{𐑙},\ \text{𐑭} \,\rangle.$$
+
+We expand each glyph in full.
+
+### 5.1 Dimensionality = 𐑦
+
+**𐑦** denotes an imscriptive dimension — a dimension in which the boundary writes the bulk it encodes. The dimension is not given independently of the topology; it is produced by the topological structure itself. This is the counterpart, at the level of dimensionality, of the holographic principle: the boundary's encoding is not merely a description of the bulk, it is the bulk's dimension.
+
+### 5.2 Topology = 𐑸
+
+**𐑸** denotes a holographic topology — a topology in which the boundary fully encodes the bulk. Every distinction in the bulk corresponds to a distinction on the boundary. This is the strongest form of the holographic principle: not merely that the boundary's entropy scales with its area, but that the boundary's logical content is isomorphic to the bulk's.
+
+### 5.3 Relationality = 𐑾
+
+**𐑾** denotes a lateral relation — a relation between peers rather than between a superior and a subordinate. The relation is symmetric. In gravity's case, the relation is the equivalence of all reference frames, or the peer exchange of the coupling protocol.
+
+### 5.4 Polarity = 𐑬
+
+**𐑬** denotes a two-valued $\mathbb{Z}_2$ parity — a distinction with exactly two values. This is **not** or', which denotes the Frobenius-special polarity in which the fusion after splitting recovers the original exactly. Gravity's parity is a $\mathbb{Z}_2$ distinction that does not close under the Frobenius-special condition; this single assignment is responsible for gravity's tier being finite rather than infinite.
+
+### 5.5 Fidelity = 𐑐
+
+**𐑐** denotes a quantum fidelity — a measure of how well one quantum state reproduces another. The fidelity is not classical (a simple yes-or-no) but quantum (a continuous overlap between states). Gravity's holographic encoding is faithful in the quantum sense.
+
+### 5.6 Kinetics = 𐑧
+
+**𐑧** denotes a slow, thermally activated kinetics — a rate of change that is slow because it must overcome a thermal barrier. The pinch is approached gradually; the flow toward the fixed point is thermally activated.
+
+### 5.7 Granularity = 𐑔
+
+**𐑔** denotes a mesoscale granularity — a scale intermediate between the microscopic and the macroscopic. Gravity's effective description operates at the mesoscale, neither at the Planck scale of the fundamental substrate nor at the cosmological scale of the largest structures.
+
+### 5.8 Grammar = 𐑵
+
+**𐑵** denotes a broadcast grammar — a grammar in which the rules apply everywhere at once rather than being localized. Gravity's grammar is broadcast because the metric couples to every point of spacetime simultaneously.
+
+### 5.9 Criticality = ⊙
+
+**⊙** denotes a self-referential fixed point — a critical configuration that reproduces itself under the flow. This is the pinch of the horn torus: the point at which the geometry stops evolving without becoming singular. The glyph ⊙ is the smallest unit of self-reference, and the pinch is its geometric realization.
+
+### 5.10 Chirality = 𐑫
+
+**𐑫** denotes a topologically protected chirality — a handedness that cannot be removed by any continuous deformation. Gravity's chirality is not a chirality of the metric (which is parity-symmetric) but a chirality of the topological winding: the (16, 3) knot is chiral, and its chirality is protected by its winding number.
+
+### 5.11 Stoichiometry = 𐑙
+
+**𐑙** denotes a one-to-one stoichiometry — a ratio of exactly one to one between the reactants and the products. In gravity's case, the stoichiometry is the balance between the boundary's degrees of freedom and the bulk's: one boundary degree of freedom for each bulk degree of freedom, exactly.
+
+### 5.12 Protection = 𐑭
+
+**𐑭** denotes an integer winding number — a topological invariant that takes values in $\mathbb{Z}$ and cannot change under continuous deformation. Gravity's protection is the integer winding of the (16, 3) knot; the winding number is the conserved quantity that protects the knot from unravelling.
+
+---
+
+## 6. Why Gravity Is in the Second Ouroboricity Tier
+
+### 6.1 The three axioms
+
+**Axiom C (ImscriptiveTopology):** 𐑸 → 𐑦. This axiom **holds** for gravity.
+
+**Axiom B (WindingNeedsChirality):** 𐑭 → 𐑫 ≥ 𐑭. This axiom **holds** for gravity.
+
+**Axiom D (ImscriptiveClosure):** if 𐑦 and 𐑸 and 𐑭 all hold, then the polarity must be or'. This axiom **fails** for gravity: the first three conditions hold, but the polarity primitive takes the value 𐑬, not or'.
+
+### 6.2 The tier assignment
+
+Because Axiom D fails, gravity's tier is the **second Ouroboricity tier** — not the infinite Ouroboricity tier. The Frobenius-special gate does not fire.
+
+This is the formal counterpart of the kernel's verdict of truth over an open walk: a walk that reconnects without returning, whose entropy change is approximately zero because the winding is topological. The walk reaches the fixed point, takes the winding, and then jumps to the boundary rather than closing.
+
+### 6.3 The apparent paradox
+
+Gravity's **logical substrate** is FDE(∞) — countably infinitely many truth values. But its **imscriptive tier** is the second Ouroboricity tier, not the infinite one. The substrate is infinite; the tier is not.
+
+This gap is not a defect. It is the precise formal content of "the tuple is ⟨𐑦, 𐑸, 𐑾, 𐑬, 𐑐, 𐑧, 𐑔, 𐑵, ⊙, 𐑫, 𐑙, 𐑭⟩ but the Frobenius-special condition or' is absent." If the tier were the infinite one, the walk would close, and gravity would be indistinguishable from the unified Frobenius fixed point. Gravity alone is in the second tier precisely because it is **not yet** the unification.
+
+The fixed point nevertheless self-fuses: μ(⊙, ⊙) = ⊙, and μ ∘ δ = id at the level of the twelve-primitive tuple. The Frobenius algebra is present; only the parity gate that would promote the tier fails.
+
+---
+
+## 7. The Coupling Constant
+
+### 7.1 The braiding correction
+
+$$\Omega_{\text{corr}} \;=\; \frac{6}{d^2 \cdot N_{\text{orbits}}} \;=\; \frac{6}{144 \cdot 31} \;=\; \frac{1}{744}.$$
+
+**The numerator six** counts the number of primitives that are invariant between the horn torus and the emission architecture. These six invariants are:
+
+- 𐑾 (the lateral relation — the bidirectional peer exchange),
+- or' (the Frobenius-special polarity — the exact closure μ ∘ δ = id),
+- 𐑧 (the slow, thermally activated rate),
+- 𐑔 (the maximal interaction range),
+- ⊙ (the critical self-modeling at which both gates are open),
+- 𐑫 (the eternal, topologically protected handedness).
+
+Note that the polarity invariant is or', even though gravity's own polarity primitive is 𐑬. **or' is present in the coupling even though it is absent from gravity's own tuple.** Gravity alone is 𐑬; gravity in coupling carries or'.
+
+**The denominator** $d^2 \cdot N_{\text{orbits}} = 144 \cdot 31$ counts the symmetric informationally complete positive-operator-valued measure phase space for dimension twelve, weighted by the thirty-one Clifford orbit classes of the one hundred forty-four Weyl-Heisenberg group elements.
+
+### 7.2 The promotion gaps
+
+The six promotion gaps sum to
+
+$$3 + 2 + 2 + 2 + 1 + 1 \;=\; 11.$$
+
+Therefore
+
+$$n_{\text{shared}} + \sum \delta_i \;=\; 6 + 11 \;=\; 17.$$
+
+**This seventeen is the length of gravity's glyph word.** The seventeen-token walk is the structural sum of the six shared invariants and the eleven units of promotion gap.
+
+### 7.3 The cosmological constant
+
+$$\frac{\rho_\Lambda}{\rho_{\mathrm{Pl}}} \;=\; e^{-88\pi} \cdot \Omega_{\text{corr}}, \qquad 88 \;=\; 11 \cdot 8,$$
+
+with the factor $8\pi$ from the horn-torus surface area. The structural vacuum energy fraction is
+
+$$\Omega_\Lambda^{\text{structural}} \;=\; \frac{6}{17} \;\approx\; 0.353,$$
+
+the bare value before matter coupling. The physical value of approximately $0.684$ includes the emergent matter contribution from the braid monodromy.
+
+---
+
+## 8. The Seventeen-Token Walk
+
+### 8.1 The glyph word
+
+Gravity's word is
+
+$$\boxed{\ ⊢\ ≻\ ∈\ ⊤\ ⋈\ ⊥\ ≺\ ⊞\ ∋\ ⊙\ ⊡\ ⋈\ ≻\ ≺\ ⊙\ ⊡\ ⊣\ }$$
+
+with the following conventional mathematical readings, in order:
+
+| Position | Glyph | Conventional expression |
+|---|---|---|
+| 1 | ⊢ | The Minkowski vacuum, $\eta_{\mu\nu} = \mathrm{diag}(-1, +1, +1, +1)$ |
+| 2 | ≻ | The Einstein field equation, $G_{\mu\nu} = (8\pi G / c^4) T_{\mu\nu}$ |
+| 3 | ∈ | The Arnowitt-Deser-Misner split, $ds^2 = -N^2 dt^2 + \gamma_{ij}(dx^i + N^i dt)(dx^j + N^j dt)$ |
+| 4 | ⊤ | The Newtonian potential, $\Phi = -GM/r$ — the truth arm |
+| 5 | ⋈ | The holonomy, $\mathrm{Hol}(\gamma) = P \exp(-\oint_\gamma \Gamma_\mu \, dx^\mu)$ |
+| 6 | ⊥ | The chirality, $\varepsilon_{\mu\nu\rho\sigma}$ and $\gamma^5 = i\gamma^0\gamma^1\gamma^2\gamma^3$ — the false arm |
+| 7 | ≺ | Time reversal, $T : t \mapsto -t$ |
+| 8 | ⊞ | The Bianchi identity, $\nabla_\mu G^{\mu\nu} = 0$ — the Belnap diagonal $B = T \wedge F$ |
+| 9 | ∋ | The Israel junction condition, $[K_{ij}] = 8\pi G \, S_{ij}$ |
+| 10 | ⊙ | The Ricci-flow fixed point, $\partial_t g = -2\,\mathrm{Ric}(g)$ with $\mathrm{Ric} = \lambda g$ |
+| 11 | ⊡ | The winding number, $n = (1/2\pi) \oint d\theta \in \mathbb{Z}$ |
+| 12 | ⋈ | The holonomy again |
+| 13 | ≻ | The Einstein field equation again |
+| 14 | ≺ | Time reversal again |
+| 15 | ⊙ | The Ricci-flow fixed point again |
+| 16 | ⊡ | The winding number again |
+| 17 | ⊣ | The holographic boundary, $S_{\mathrm{BH}} = A / 4G$ |
+
+The register has exactly one entry per token. The protocol has depth seventeen.
+
+### 8.2 Structural reading of the walk
+
+The first eleven tokens build the geometry: ⊢, ≻, ∈, ⊤, ⋈, ⊥, ≺, ⊞, ∋, ⊙, ⊡. The last six are a coda: ⋈, ≻, ≺, ⊙, ⊡, ⊣.
+
+The word is almost symmetric but terminates at ⊣, not at ⊢. **Seventeen is odd**, so no symmetric path returns to the start.
+
+This is the open walk in its most literal form. The forward arrow ≻ is followed by the reverse arrow ≺, but the reverse does not undo the forward — it deposits the truth and falsity arms into the Belnap diagonal ⊞. The fixed point ⊙ is reached, the winding ⊡ is taken, and then the walk jumps to the boundary rather than closing. The entropy change is approximately zero because the winding is an integer — a topological invariant that the open walk preserves.
+
+---
+
+## 9. Synthesis
+
+### 9.1 The complete assembly
+
+| Component | Realization |
+|---|---|
+| Tuple | ⟨𐑦, 𐑸, 𐑾, 𐑬, 𐑐, 𐑧, 𐑔, 𐑵, ⊙, 𐑫, 𐑙, 𐑭⟩ |
+| Carrier | The sixteen-element trilattice, $\mathrm{Bool}^4$ |
+| Orderings | Information (≤\_i), truth (≤\_t), constructivity (≤\_c) |
+| Substrate | FDE(∞), the countably infinite direct limit |
+| Curve | The (16, 3) torus knot $\mathrm{horn}(R, 3t, 16t)$ |
+| Criticality | ⊙ — the pinch point of the horn torus |
+| Protection | 𐑭 — the integer winding number $n \in \mathbb{Z}$ |
+| Chirality | 𐑫 — topologically protected, mediated by $\gamma^5$ |
+| Polarity | 𐑬 — two-valued $\mathbb{Z}_2$ parity, not or' |
+| Tier | The second Ouroboricity tier |
+| Coupling | The braiding correction $1/744$ |
+| Cosmology | $\rho_\Lambda / \rho_{\mathrm{Pl}} = e^{-88\pi} \cdot \Omega_{\text{corr}}$ |
+| Word | ⊢ ≻ ∈ ⊤ ⋈ ⊥ ≺ ⊞ ∋ ⊙ ⊡ ⋈ ≻ ≺ ⊙ ⊡ ⊣ |
+
+### 9.2 Three converging readings
+
+**Holographic reading (𐑸).** The pinch ⊙ is where the poloidal circle collapses. At each of the three pinch crossings, all sixteen states collapse to the origin simultaneously — the three orderings become indistinguishable. The boundary ⊣ is what remains when only the bulk's encoding survives.
+
+**Trilattice reading.** The sixteen states and the three orderings are coprime, so the walk is a single closed curve. The knot visits the pinch ⊙ once per ordering, sixteen toroidal laps apart. Gravity's unity as a force is the coprimality of sixteen and three.
+
+**Bilattice reading.** The logical substrate is FDE(∞) — countably infinitely many truth values — but the imscriptive tier is the second one, not the infinite one. The substrate is infinite; the walk is open. This asymmetry is what makes gravity gravity and not the unified Frobenius fixed point.
+
+### 9.3 The single sentence
+
+Gravity is the open walk
+
+$$⊢\ ≻\ ∈\ ⊤\ ⋈\ ⊥\ ≺\ ⊞\ ∋\ ⊙\ ⊡\ ⋈\ ≻\ ≺\ ⊙\ ⊡\ ⊣$$
+
+that closes only on the boundary: 𐑦 in its dimensionality, 𐑸 in its topology, 𐑾 in its relationality, 𐑬 in its polarity, 𐑐 in its fidelity, 𐑧 in its kinetics, 𐑔 in its granularity, 𐑵 in its grammar, ⊙ in its criticality, 𐑫 in its chirality, 𐑙 in its stoichiometry, 𐑭 in its protection — twelve glyphs, seventeen tokens, one pinch, and a boundary ⊣ that never quite returns to the vacuum ⊢ it started from.

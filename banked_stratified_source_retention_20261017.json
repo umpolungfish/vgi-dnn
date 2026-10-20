@@ -1,0 +1,1616 @@
+{
+  "scope": "fixed stratified complete validation records; tuple value accuracy separate from text loss; no updates",
+  "corpus": "/home/mrnob0dy666/imsgct/VGI/training_views_artifact_ready_r4_20261016/validation.jsonl",
+  "corpus_sha256": "7c0bd72dd08a3bbcc0f6ecab336918f7c44f9439010e2b011185cf048a91fb26",
+  "seed": 83,
+  "per_task": 2,
+  "population_by_task": {
+    "ob3ect_recorded_construction": 1121,
+    "lean_source_continuation": 595,
+    "document_continuation": 3683,
+    "ob3ect_attestation": 161,
+    "ob3ect_artifact_attestation": 167,
+    "ob3ect_artifact_continuation": 711,
+    "ob3ect_to_tuple": 43,
+    "catalog_to_tuple": 723,
+    "tuple_to_catalog": 723,
+    "catalog_attestation": 726
+  },
+  "results": [
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_banked_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "a589b2531e82d864b8cfe73ec9624dc4dce45c5d3baecd7a27fcb02f1388860c",
+      "tasks": {
+        "catalog_attestation": {
+          "summary": {
+            "mean_record_text_loss": 1.9666258333495155,
+            "label_mean_text_loss": 2.0802691058122336
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7034:catalog_attestation",
+                "task": "catalog_attestation",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7034",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:6877",
+                "split": "validation",
+                "prompt": "Reproduce the saved catalog attestation for measure_holonomy.\nSource SHA256: 6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba\nFields describe the saved record.",
+                "target": "{\"name\": \"measure_holonomy\", \"description\": \"diagnostic to quantify the residual non-Abelian flux in a braid-channel\", \"⊢\": \"𐑦\", \"⊣\": \"𐑥\", \"≻\": \"𐑾\", \"≺\": \"𐑹\", \"⋈\": \"𐑐\", \"⊤\": \"𐑧\", \"∈\": \"𐑚\", \"∋\": \"𐑠\", \"⊙\": \"⊙\", \"⊥\": \"𐑫\", \"⊞\": \"𐑳\", \"⊡\": \"𐑟\"}",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/7034"
+                },
+                "evidence": "source_attestation",
+                "tuple_codec_status": "passed_existing_codec",
+                "live_execution": null,
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:6877",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:6877",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 1.571939447244557,
+              "labels": 298,
+              "source_tokens_processed": 474
+            },
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3946:catalog_attestation",
+                "task": "catalog_attestation",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3946",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3946",
+                "split": "validation",
+                "prompt": "Reproduce the saved catalog attestation for abramelin_system_dehn_guth.\nSource SHA256: 6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba\nFields describe the saved record.",
+                "target": "{\"name\": \"abramelin_system_dehn_guth\", \"description\": \"The complete four-book Abramelin system as transmitted in the Dehn/Guth edition: Book I (Abraham's autobiographical path through false systems to the true one), Book II (practical folk remedies — the exoteric face, possibly a protective cover under the MaHaRIL pseudonym hypothesis), Book III (the 18\", \"⊢\": \"𐑼\", \"⊣\": \"𐑥\", \"≻\": \"𐑾\", \"≺\": \"𐑹\", \"⋈\": \"𐑞\", \"⊤\": \"𐑧\", \"∈\": \"𐑔\", \"∋\": \"𐑠\", \"⊙\": \"⊙\", \"⊥\": \"𐑖\", \"⊞\": \"𐑳\", \"⊡\": \"𐑴\"}",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/3946"
+                },
+                "evidence": "source_attestation",
+                "tuple_codec_status": "passed_existing_codec",
+                "live_execution": null,
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3946",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:3946",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.361312219454474,
+              "labels": 539,
+              "source_tokens_processed": 725
+            }
+          ]
+        },
+        "catalog_to_tuple": {
+          "summary": {
+            "axis_loss": 2.0683264465930367,
+            "correct_coordinates": 9,
+            "coordinates": 24,
+            "exact": 0
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2866:catalog_to_tuple:tuple",
+                "task": "catalog_to_tuple",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2866",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2866",
+                "split": "validation",
+                "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"formal_language\", \"description\": \"Formal language\"}",
+                "target": "𐑼𐑡𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷",
+                "evidence": "catalog_attestation",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/2866"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2866",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:2866",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "axis_loss": 2.2826125492736313,
+              "prediction": {
+                "address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑲𐑠𐑢𐑫𐑙𐑭",
+                "crystal_index": 13472198,
+                "observations": [
+                  {
+                    "axis": "⊢",
+                    "allowed": [
+                      "𐑛",
+                      "𐑨",
+                      "𐑼",
+                      "𐑦"
+                    ],
+                    "selected": "𐑦",
+                    "scores": [
+                      -9.43083612214217,
+                      -8.444719830010467,
+                      -8.399053386801262,
+                      -5.458062102236773
+                    ],
+                    "source_tokens_processed": 173
+                  },
+                  {
+                    "axis": "⊣",
+                    "allowed": [
+                      "𐑡",
+                      "𐑰",
+                      "𐑥",
+                      "𐑶",
+                      "𐑸"
+                    ],
+                    "selected": "𐑡",
+                    "scores": [
+                      -6.212317287391981,
+                      -6.720860018297728,
+                      -9.822732669548252,
+                      -9.759230283665199,
+                      -6.796942000350766
+                    ],
+                    "source_tokens_processed": 171
+                  },
+                  {
+                    "axis": "≻",
+                    "allowed": [
+                      "𐑩",
+                      "𐑑",
+                      "𐑽",
+                      "𐑾"
+                    ],
+                    "selected": "𐑽",
+                    "scores": [
+                      -12.443642373243636,
+                      -9.310223629633043,
+                      -5.743472639311332,
+                      -8.22093769873233
+                    ],
+                    "source_tokens_processed": 175
+                  },
+                  {
+                    "axis": "≺",
+                    "allowed": [
+                      "𐑗",
+                      "𐑿",
+                      "𐑬",
+                      "𐑯",
+                      "𐑹"
+                    ],
+                    "selected": "𐑿",
+                    "scores": [
+                      -6.361890064440941,
+                      -5.508507978915144,
+                      -6.615531533177916,
+                      -6.616704237244552,
+                      -8.057402728232564
+                    ],
+                    "source_tokens_processed": 177
+                  },
+                  {
+                    "axis": "⋈",
+                    "allowed": [
+                      "𐑱",
+                      "𐑞",
+                      "𐑐"
+                    ],
+                    "selected": "𐑐",
+                    "scores": [
+                      -9.300719051985203,
+                      -7.864511166445872,
+                      -4.983026431425642
+                    ],
+                    "source_tokens_processed": 183
+                  },
+                  {
+                    "axis": "⊤",
+                    "allowed": [
+                      "𐑘",
+                      "𐑤",
+                      "𐑧",
+                      "𐑪",
+                      "𐑺"
+                    ],
+                    "selected": "𐑧",
+                    "scores": [
+                      -8.796029450109652,
+                      -7.8894083404379565,
+                      -7.5013528953554305,
+                      -8.348822056656621,
+                      -16.875749053494484
+                    ],
+                    "source_tokens_processed": 187
+                  },
+                  {
+                    "axis": "∈",
+                    "allowed": [
+                      "𐑚",
+                      "𐑔",
+                      "𐑲"
+                    ],
+                    "selected": "𐑲",
+                    "scores": [
+                      -8.361855002045132,
+                      -7.603068124897744,
+                      -5.572300148470372
+                    ],
+                    "source_tokens_processed": 194
+                  },
+                  {
+                    "axis": "∋",
+                    "allowed": [
+                      "𐑝",
+                      "𐑜",
+                      "𐑠",
+                      "𐑵"
+                    ],
+                    "selected": "𐑠",
+                    "scores": [
+                      -9.84968852926076,
+                      -9.622400506773122,
+                      -7.57032441584348,
+                      -8.337622786317283
+                    ],
+                    "source_tokens_processed": 198
+                  },
+                  {
+                    "axis": "⊙",
+                    "allowed": [
+                      "𐑢",
+                      "⊙",
+                      "𐑮",
+                      "𐑻",
+                      "𐑣"
+                    ],
+                    "selected": "𐑢",
+                    "scores": [
+                      -6.571210021418401,
+                      -7.089342123701296,
+                      -17.44729239452583,
+                      -12.624191135221508,
+                      -8.674631611123598
+                    ],
+                    "source_tokens_processed": 202
+                  },
+                  {
+                    "axis": "⊥",
+                    "allowed": [
+                      "𐑓",
+                      "𐑒",
+                      "𐑖",
+                      "𐑫"
+                    ],
+                    "selected": "𐑫",
+                    "scores": [
+                      -7.136820596109676,
+                      -6.781581748833455,
+                      -6.007253403381425,
+                      -5.314960057677702
+                    ],
+                    "source_tokens_processed": 204
+                  },
+                  {
+                    "axis": "⊞",
+                    "allowed": [
+                      "𐑙",
+                      "𐑕",
+                      "𐑳"
+                    ],
+                    "selected": "𐑙",
+                    "scores": [
+                      -6.3202741788263435,
+                      -10.141234211695798,
+                      -6.346813401154331
+                    ],
+                    "source_tokens_processed": 212
+                  },
+                  {
+                    "axis": "⊡",
+                    "allowed": [
+                      "𐑷",
+                      "𐑴",
+                      "𐑭",
+                      "𐑟"
+                    ],
+                    "selected": "𐑭",
+                    "scores": [
+                      -4.734936985063577,
+                      -8.187173304289212,
+                      -4.271990821620999,
+                      -12.576715796842993
+                    ],
+                    "source_tokens_processed": 210
+                  }
+                ]
+              },
+              "correct_coordinates": 3,
+              "exact": false
+            },
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7229:catalog_to_tuple:tuple",
+                "task": "catalog_to_tuple",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7229",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7229",
+                "split": "validation",
+                "prompt": "Return the recorded twelve-axis tuple for this catalog entry.\n{\"name\": \"lapis\", \"description\": \"Target sink state for Gaussian moat manifold convergence with L9 manifest ⟨𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭⟩\"}",
+                "target": "𐑛𐑥𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+                "evidence": "catalog_attestation",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/7229"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7229",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:7229",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "axis_loss": 1.8540403439124418,
+              "prediction": {
+                "address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭",
+                "crystal_index": 13472254,
+                "observations": [
+                  {
+                    "axis": "⊢",
+                    "allowed": [
+                      "𐑛",
+                      "𐑨",
+                      "𐑼",
+                      "𐑦"
+                    ],
+                    "selected": "𐑦",
+                    "scores": [
+                      -7.808945739370598,
+                      -6.678240599507792,
+                      -7.0921321077287125,
+                      -4.02193658416948
+                    ],
+                    "source_tokens_processed": 275
+                  },
+                  {
+                    "axis": "⊣",
+                    "allowed": [
+                      "𐑡",
+                      "𐑰",
+                      "𐑥",
+                      "𐑶",
+                      "𐑸"
+                    ],
+                    "selected": "𐑡",
+                    "scores": [
+                      -6.487649232495471,
+                      -7.9821358119282975,
+                      -10.576769795263989,
+                      -10.347436976005557,
+                      -7.538022780283502
+                    ],
+                    "source_tokens_processed": 273
+                  },
+                  {
+                    "axis": "≻",
+                    "allowed": [
+                      "𐑩",
+                      "𐑑",
+                      "𐑽",
+                      "𐑾"
+                    ],
+                    "selected": "𐑽",
+                    "scores": [
+                      -12.172952459817354,
+                      -10.277684493641495,
+                      -5.8755535614296335,
+                      -8.793904822102867
+                    ],
+                    "source_tokens_processed": 277
+                  },
+                  {
+                    "axis": "≺",
+                    "allowed": [
+                      "𐑗",
+                      "𐑿",
+                      "𐑬",
+                      "𐑯",
+                      "𐑹"
+                    ],
+                    "selected": "𐑿",
+                    "scores": [
+                      -7.070176212943811,
+                      -6.321741008005764,
+                      -7.437468611510414,
+                      -7.624130381905805,
+                      -8.736886505094098
+                    ],
+                    "source_tokens_processed": 279
+                  },
+                  {
+                    "axis": "⋈",
+                    "allowed": [
+                      "𐑱",
+                      "𐑞",
+                      "𐑐"
+                    ],
+                    "selected": "𐑐",
+                    "scores": [
+                      -9.006215433984393,
+                      -7.722404364562886,
+                      -6.0651405334482895
+                    ],
+                    "source_tokens_processed": 285
+                  },
+                  {
+                    "axis": "⊤",
+                    "allowed": [
+                      "𐑘",
+                      "𐑤",
+                      "𐑧",
+                      "𐑪",
+                      "𐑺"
+                    ],
+                    "selected": "𐑧",
+                    "scores": [
+                      -8.949285040873526,
+                      -8.099366040987142,
+                      -7.727355069438826,
+                      -8.401901836179935,
+                      -15.98381422050436
+                    ],
+                    "source_tokens_processed": 289
+                  },
+                  {
+                    "axis": "∈",
+                    "allowed": [
+                      "𐑚",
+                      "𐑔",
+                      "𐑲"
+                    ],
+                    "selected": "𐑲",
+                    "scores": [
+                      -7.261454404177389,
+                      -6.241036890843542,
+                      -5.147778239891721
+                    ],
+                    "source_tokens_processed": 296
+                  },
+                  {
+                    "axis": "∋",
+                    "allowed": [
+                      "𐑝",
+                      "𐑜",
+                      "𐑠",
+                      "𐑵"
+                    ],
+                    "selected": "𐑠",
+                    "scores": [
+                      -7.9493163356876,
+                      -8.074758056505312,
+                      -5.9787202012316545,
+                      -6.888228717839366
+                    ],
+                    "source_tokens_processed": 300
+                  },
+                  {
+                    "axis": "⊙",
+                    "allowed": [
+                      "𐑢",
+                      "⊙",
+                      "𐑮",
+                      "𐑻",
+                      "𐑣"
+                    ],
+                    "selected": "⊙",
+                    "scores": [
+                      -6.736290814669159,
+                      -5.679476084693223,
+                      -16.944718015580666,
+                      -11.403052417058671,
+                      -8.998580440610233
+                    ],
+                    "source_tokens_processed": 304
+                  },
+                  {
+                    "axis": "⊥",
+                    "allowed": [
+                      "𐑓",
+                      "𐑒",
+                      "𐑖",
+                      "𐑫"
+                    ],
+                    "selected": "𐑫",
+                    "scores": [
+                      -9.394857464408716,
+                      -9.177250034889607,
+                      -8.619520905223226,
+                      -8.13956132045254
+                    ],
+                    "source_tokens_processed": 305
+                  },
+                  {
+                    "axis": "⊞",
+                    "allowed": [
+                      "𐑙",
+                      "𐑕",
+                      "𐑳"
+                    ],
+                    "selected": "𐑳",
+                    "scores": [
+                      -6.519849263833369,
+                      -9.206179321761123,
+                      -6.046542175936444
+                    ],
+                    "source_tokens_processed": 313
+                  },
+                  {
+                    "axis": "⊡",
+                    "allowed": [
+                      "𐑷",
+                      "𐑴",
+                      "𐑭",
+                      "𐑟"
+                    ],
+                    "selected": "𐑭",
+                    "scores": [
+                      -6.403537843992288,
+                      -8.835396264756984,
+                      -5.710962657465134,
+                      -16.38591115602278
+                    ],
+                    "source_tokens_processed": 311
+                  }
+                ]
+              },
+              "correct_coordinates": 6,
+              "exact": false
+            }
+          ]
+        },
+        "document_continuation": {
+          "summary": {
+            "mean_record_text_loss": 3.4405931090190602,
+            "label_mean_text_loss": 3.2689473089169394
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1902:document_continuation:53",
+                "task": "document_continuation",
+                "source_id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1902",
+                "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                "split": "validation",
+                "prompt": "Continue this source passage.\nLarson's 1961 introduction to the IRE Special Issue on Computers — \"When the practitioner has overcome his fear of the machine, and when the scientist and practitioner are communicating, the attack is relentless\" — captures the collaboration this treatise demands. The scientist (formalist) and the practitioner (herbalist) must communicate. The leaf is a machine. The attack — the relentless identification and organization of the basic elemen",
+                "target": "ts of pharmaceutical encoding — is this work.\n\n---\n\n## References\n\n1. Harry T. Larson, \"Introduction,\" *Proceedings of the IRE*, vol. 49, no. 1, pp. 3–4, January 1961. (Special Issue on Computers, Guest Editor: Harry T. Larson.)\n2. Marvin Minsky, \"Steps Toward Artificial Intelligence,\" *Proceedings of the IRE*, vol. 49, no. 1, pp. 8–30, January 1961. DOI: 10.1109/JRPROC.1961.287775.\n3. Harry T. Larson, \"Catch a Rising Problem and Never Ever Let It Go,\" *IEEE Computer*, vol. 19, no. 2, pp. 61–63, February 1986. DOI: 10.1109/MC.1986.1641382.\n4. Lando⊗⊙perator, *Ars Phytoglyphica* (First Edition), 2026. `/home/mrnob0dy666/imsgct/ig-docs/ars_phytoglyphica/ARS_PHYTOGLYPHICA.md`.\n5. The Imscribing Grammar — machine-verified in Lean 4 at `/home/mrnob0dy666/imsgct/p4rakernel/p4ramill/`.\n\n---\n\n*Sic itur ad astra. The leaf executes. The grammar verifies. The Operator reads.*\n\n**Finis**\n\n",
+                "evidence": "source_text",
+                "source": {
+                  "id": 1902,
+                  "root": "ig_docs",
+                  "relative_path": "esoterica/alchemy_congealum/ars_phytoglyphica_expanded/ARS_PHYTOGLYPHICA_EXPANDED.md",
+                  "path": "/home/mrnob0dy666/imsgct/ig-docs/esoterica/alchemy_congealum/ars_phytoglyphica_expanded/ARS_PHYTOGLYPHICA_EXPANDED.md",
+                  "kind": "document",
+                  "sha256": "233d3071920b349ce9344debf56151ca423053c6df0c7c8bc272cd0c72c33aff",
+                  "bytes": 151827,
+                  "chars": 148575,
+                  "extraction": "text",
+                  "error": null,
+                  "start_line": 1143
+                },
+                "prior_family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 3.8866902326060218,
+              "labels": 905,
+              "source_tokens_processed": 1386
+            },
+            {
+              "source": {
+                "id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:6043:document_continuation:7",
+                "task": "document_continuation",
+                "source_id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:6043",
+                "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                "split": "validation",
+                "prompt": "Continue this source passage.\nextraction instruction. The compound ratio channel encodes a lower-temperature XOR\ngate than oregano: marjoram’s volatiles are more delicate, and the plant’s morphology\nsignals this through thinner, more fragile leaves that bruise more easily.\n11. Lavender | Lavandula angustifolia Mill. | Lamiaceae — [Type I]\nThe inflorescence is the pharmaceutical organ — the calyx trichomes hold the essential oil.\nThe verticillaster arrangement (whorled flower clusters) encodes a sequential extraction:\neach whorl releases its oil at a specific point in the distillation process, and the Operator\nwho harvests from the bottom whorl upward is following the plant’s encoded extraction\nsequence. The flower color — from pale blue to deep purple — is the self-report: color\nsaturation correlates with ester content. Covered in brief in the first edition; the sequential\nextraction encoding is new to this edition.\n12. Hyssop | Hyssopus officinalis L. | Lamiaceae — [Type I]\nThe verticillaster inflorescence wit",
+                "target": "h strongly bilateral flowers encodes a directional extrac-\ntion: the flowers point predominantly in one direction (toward the sun), and the Operator\nwho harvests by stripping upward against the flower direction maximizes trichome rupture.\nThe narrow, linear leaves with revolute margins encode the same protected-microclimate\narchitecture as rosemary but at smaller scale. The compound ratio XOR gate operates\nbetween pinocamphone and isopinocamphone — stereoisomers with distinct volatility\nprofiles.\n13. Winter Savory | Satureja montana L. | Lamiaceae — [Type I]\nThe stiff, pungent leaves with entire margins encode a crush instruction. Unlike the\nArtemisias, which encode tear (ROTR), winter savory’s leathery texture says: ”do not\nattempt to tear — crush thoroughly.” The high thymol content (30–50% of essential\noil) produces an intense bitterness that IS the CMP instruction (Channel 4): bitterness\nintensity = phenolic concentration. The plant’s semi-evergreen habit — retaining leaves\nthrough winter — encodes persistence of the pharmaceutical program across seasons.\n14. Lemon Balm | Melissa officinalis L. | Lamiaceae — [Type I]\nThe broadly ovate, crenate leaves with lemon scent on bruising encode a gentle crush\ninstruction. The crenate (rounded) rather than serrate (sharp) teeth encode a lower\nshear threshold: the leaf surrenders its volatiles more readily than wormwood. The\n10\n\n11\ncitronellal / citral / geranial compound ratio is highly labile — the XOR gate operates\nat room temperature. The plant’s name (”bee leaf” in Greek) points to the interspecies\npharmaceutical readout: bees’ attraction to the flowers IS a pointer to the medicine’s\nlocation and timing.\n15. Peppermint | Mentha × piperita L. | Lamiaceae — [Type I]\nThe broadly serrate leaves with menthol-dominant volatile profile encode a cooling XOR\ngate: menthol activates TRPM8 cold receptors, and the plant’s morphology — the\nvigorous, spreading growth, the square stems, the axillary flower clusters — encodes\n",
+                "evidence": "source_text",
+                "source": {
+                  "id": 6043,
+                  "root": "ig_docs",
+                  "relative_path": "publishing/pdfs/ARS_PHYTOGLYPHICA.pdf",
+                  "path": "/home/mrnob0dy666/imsgct/ig-docs/publishing/pdfs/ARS_PHYTOGLYPHICA.pdf",
+                  "kind": "document",
+                  "sha256": "ec9dc5ea3c482a6abfc5fffb92db9d860ce487d67b761756d55eddb9c645aefb",
+                  "bytes": 330472,
+                  "chars": 137767,
+                  "extraction": "pdf",
+                  "error": null,
+                  "start_line": 539
+                },
+                "prior_family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:1897",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.9944959854320987,
+              "labels": 2037,
+              "source_tokens_processed": 3080
+            }
+          ]
+        },
+        "lean_source_continuation": {
+          "summary": {
+            "mean_record_text_loss": 2.779064003177823,
+            "label_mean_text_loss": 2.7517402056341336
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:2463:lean_source_continuation:2",
+                "task": "lean_source_continuation",
+                "source_id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:2463",
+                "family": "artifact-bytes:017b3abb7228ab7bd54b11b1f5f6a29a357de03b746271ebbf8a195ed330b199",
+                "split": "validation",
+                "prompt": "Continue this source passage.\n    (.arrow 𐑙 𐑙 𐑖)  -- [8] FFUSE | stoi := 𐑙 (Quantum error correction reintegration)\n  (.arrow 𐑖 𐑙 𐑳)  -- [9] EVALF | chir := 𐑖 | evaluate-false — chirality check (Information loss negation)\n  (.arrow 𐑳 𐑖 𐑭)  -- [10] ENGAGR | stoi := 𐑳 | engage paradox — B-state, both arms (Firewall paradox paradice)\n  (.arrow 𐑭 𐑳 𐑾)  -- [11] IFIX | prot := 𐑭 | irreversible fixation — winding number (Horizon area law fixation)\n  (.arrow 𐑾 𐑭 𐑗)  -- [12] AFWD | rel := 𐑾 | forward morphism — bidirectional arrow (Ryu-Takayanagi area-entropy mapping)\n  (.arrow 𐑗 𐑾 𐑱)  -- [13] AREV | pol := 𐑗 | reverse morphism — parity flip (Modular Hamiltonian reconstruction)\n  (.arrow 𐑱 𐑗 𐑠)  -- [14] CLINK | fid := 𐑱 | composition — regime coherence (AdS/CFT dictionary chaining)\n  (.arrow 𐑠 𐑱 𐑚)  -- [15] IMSCRIB | gram := 𐑠 | identity — self-imscription (Entanglement wedge self-encoding)\n  -- FSPLIT [16] (gran := 𐑚) (Black hole pair creation) / FFUSE [18] (stoi := 𐑙)\n  .seq\n    (.prod\n      -- T-branch",
+                "target": " (1 nodes)\n      (.arrow ⊙ 𐑚 𐑙)  -- [17] EVALT | crit := ⊙ | evaluate-true — criticality gate open (Unitary evolution affirmation)\n      -- F-branch (0 nodes)\n      (.refl 𐑙))  -- F-branch: empty arc (direct to FFUSE.F)\n    -- reconnect at FFUSE [18]: μ closes the Frobenius pair\n    (.arrow 𐑙 𐑙 𐑖)  -- [18] FFUSE | stoi := 𐑙 (Page curve saturation)\n  (.arrow 𐑖 𐑙 𐑳)  -- [19] EVALF | chir := 𐑖 | evaluate-false — chirality check (Information paradox negation)\n  (.arrow 𐑳 𐑖 𐑭)  -- [20] ENGAGR | stoi := 𐑳 | engage paradox — B-state, both arms (Interior/exterior duality paradice)\n  (.arrow 𐑭 𐑳 𐑾)  -- [21] IFIX | prot := 𐑭 | irreversible fixation — winding number (Bekenstein-Hawking entropy record)\n  (.arrow 𐑾 𐑭 𐑗)  -- [22] AFWD | rel := 𐑾 | forward morphism — bidirectional arrow (Gravitational path integral forward)\n  (.arrow 𐑗 𐑾 𐑱)  -- [23] AREV | pol := 𐑗 | reverse morphism — parity flip (CFT correlator reverse)\n  (.arrow 𐑱 𐑗 𐑠)  -- [24] CLINK | fid := 𐑱 | composition — regime coherence (Holographic code composition)\n  (.arrow 𐑠 𐑱 𐑚)  -- [25] IMSCRIB | gram := 𐑠 | identity — self-imscription (Quantum extremal surface identity)\n  -- FSPLIT [26] (gran := 𐑚) (Wormhole throat opening) / FFUSE [28] (stoi := 𐑙)\n  .seq\n    (.prod\n      -- T-branch (1 nodes)\n      (.arrow ⊙ 𐑚 𐑙)  -- [27] EVALT | crit := ⊙ | evaluate-true — criticality gate open (Geometric smoothness affirmation)\n      -- F-branch (0 nodes)\n      (.refl 𐑙))  -- F-branch: empty arc (direct to FFUSE.F)\n    -- reconnect at FFUSE [28]: μ closes the Frobenius pair\n    (.arrow 𐑙 𐑙 𐑖)  -- [28] FFUSE | stoi := 𐑙 (Entanglement entropy fusion)\n  (.arrow 𐑖 𐑙 𐑳)  -- [29] EVALF | chir := 𐑖 | evaluate-false — chirality check (Singularity formation negation)\n  (.arrow 𐑳 𐑖 𐑭)  -- [30] ENGAGR | stoi := 𐑳 | engage paradox — B-state, both arms (Complementarity paradice)\n  (.arrow 𐑭 𐑳 𐑾)  -- [31] IFIX | prot := 𐑭 | irreversible fixation — winding number (Quantum information conservation record)\n",
+                "evidence": "source_text",
+                "source": {
+                  "id": 2463,
+                  "root": "ig_docs",
+                  "relative_path": "esoterica/sanguine_zpe/modern_homunculus_recipe/lifted_vault/er_epr/er_epr_scaffold.lean",
+                  "path": "/home/mrnob0dy666/imsgct/ig-docs/esoterica/sanguine_zpe/modern_homunculus_recipe/lifted_vault/er_epr/er_epr_scaffold.lean",
+                  "kind": "lean",
+                  "sha256": "5e9fb95a48f305db6d223974a5d3eb0ac73ce4e20b2042b4fdd2eec1123d756c",
+                  "bytes": 12143,
+                  "chars": 10513,
+                  "extraction": "text",
+                  "error": null,
+                  "start_line": 80
+                },
+                "prior_family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:2463",
+                "prior_split": "train",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:2463",
+                    "split": "train"
+                  }
+                ]
+              },
+              "text_loss": 2.6777877535865393,
+              "labels": 2165,
+              "source_tokens_processed": 3293
+            },
+            {
+              "source": {
+                "id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:7919:lean_source_continuation:2",
+                "task": "lean_source_continuation",
+                "source_id": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:7919",
+                "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:7919",
+                "split": "validation",
+                "prompt": "Continue this source passage.\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := ah }\nprivate def 127_l10 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\n\n-- ── Main IGProtocol term ────────────────────────────────────\nnoncomputable def 127_protocol : IGProtocol 127_s0 127_s10 :=\n  .withGram Grammar.measure <|\n  -- Dual-Link self-pai",
+                "target": "ring: .prod arms fuse via tensorProduct 127_s6 127_s6 = 127_s6 (idempotent)\n  (.seq (.arrow 127_l0 127_s0 127_s1) (.seq (.arrow 127_l1 127_s1 127_s2) (.seq (.arrow 127_l2 127_s2 127_s3) (.seq (.prod (.arrow 127_l3 127_s3 127_s6) (.arrow 127_l3 127_s3 127_s6)) (.seq (.arrow 127_l6 127_s6 127_s6) (.seq (.arrow 127_l6 127_s6 127_s7) (.seq (.arrow 127_l7 127_s7 127_s8) (.seq (.arrow 127_l8 127_s8 127_s9) (.arrow 127_l9 127_s9 127_s10)))))))))\n\n-- ── Evaluation arm sub-defs ───────────────────────────────────\n\n-- truth arm\nnoncomputable def 127_true_arm : IGProtocol 127_s0 127_s10 :=\n  (127_protocol).restrictToEVALT\n\n-- ── Verification theorems ─────────────────────────────────────\n\n-- Tier: apply the Grammar to the object (self-application). assess_tier verdict on the imscribed tuple: .O₂dag.\ndef 127_tier : OuroboricityTier := TierFunctor.obj 127_s0\n#eval 127_tier  -- the Grammar's own verdict on its tier\n\n-- Frobenius (split → fuse): μ∘δ = id on the ground imscription\ntheorem 127_frobenius :\n    igFrobeniusAlg.mul 127_s0 127_s0 = 127_s0 :=\n  igFrobAlg_self_fusion 127_s0\n",
+                "evidence": "source_text",
+                "source": {
+                  "id": 7919,
+                  "root": "lean",
+                  "relative_path": "Ob3ects/GateCheck/127_gate_check.lean",
+                  "path": "/home/mrnob0dy666/imsgct/p4rakernel/p4ramill/Imscribing/Ob3ects/GateCheck/127_gate_check.lean",
+                  "kind": "lean",
+                  "sha256": "cf749803c6a638b8fb08c1549296683df2e2164ea242037d28338dfd6c664c05",
+                  "bytes": 7991,
+                  "chars": 7409,
+                  "extraction": "text",
+                  "error": null,
+                  "start_line": 74
+                },
+                "prior_family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:7919",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:7919",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.8803402527691064,
+              "labels": 1245,
+              "source_tokens_processed": 1893
+            }
+          ]
+        },
+        "ob3ect_artifact_attestation": {
+          "summary": {
+            "mean_record_text_loss": 2.786314688855586,
+            "label_mean_text_loss": 2.7912580767199673
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "artifact-path:d936c896c05293374e06b2de5a570e2e90b5d5d51c0edaf406b877ba4e9d809b:ob3ect_artifact_attestation:record",
+                "source_id": "artifact-path:d936c896c05293374e06b2de5a570e2e90b5d5d51c0edaf406b877ba4e9d809b",
+                "family": "artifact-bytes:7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa",
+                "split": "validation",
+                "task": "ob3ect_artifact_attestation",
+                "prompt": "Return the saved associated-artifact record for this source path.\nob3ect/digital/the_weyl_heisenberg_shift_and_phase_operators_be/the_weyl_heisenberg_shift_and_phase_operators_be_scaffold.lean",
+                "target": "{\"id\": \"artifact-path:d936c896c05293374e06b2de5a570e2e90b5d5d51c0edaf406b877ba4e9d809b\", \"path\": \"ob3ect/digital/the_weyl_heisenberg_shift_and_phase_operators_be/the_weyl_heisenberg_shift_and_phase_operators_be_scaffold.lean\", \"owners\": [{\"id\": \"ob3ect:ob3ect/digital/the_weyl_heisenberg_shift_and_phase_operators_be/the_weyl_heisenberg_shift_and_phase_operators_be_ob3ect.json:afdc927454847e76429055b3ff648aaca6e44f6915083c9290b2690ba43ee00d\", \"source\": {\"path\": \"ob3ect/digital/the_weyl_heisenberg_shift_and_phase_operators_be/the_weyl_heisenberg_shift_and_phase_operators_be_ob3ect.json\", \"sha256\": \"afdc927454847e76429055b3ff648aaca6e44f6915083c9290b2690ba43ee00d\", \"bytes\": 20917, \"kind\": \"ob3ect\"}}], \"relation\": \"inventoried sibling of recorded ob3ect\", \"execution_status\": \"not executed by attachment\", \"status\": \"retained\", \"sha256\": \"7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa\", \"bytes\": 12366, \"blob\": \"blobs/7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa\", \"suffix\": \".lean\", \"text_status\": \"complete strict UTF-8\"}",
+                "source": {
+                  "path": "ob3ect/digital/the_weyl_heisenberg_shift_and_phase_operators_be/the_weyl_heisenberg_shift_and_phase_operators_be_scaffold.lean",
+                  "sha256": "7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa",
+                  "bytes": 12366,
+                  "blob": "/home/mrnob0dy666/imsgct/VGI/ob3ect_artifact_corpus_20261016/blobs/7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa",
+                  "artifact_id": "artifact-path:d936c896c05293374e06b2de5a570e2e90b5d5d51c0edaf406b877ba4e9d809b"
+                },
+                "evidence": "saved associated artifact bytes",
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "artifact-bytes:7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "artifact-bytes:7de686c85de99e52ca1dfd702ef0928dd9ed829c411ff7f1393791a23e4220aa",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.8522375860805895,
+              "labels": 1068,
+              "source_tokens_processed": 1261
+            },
+            {
+              "source": {
+                "id": "artifact-path:ddb30471c15f1f5921cc6937f30e2a9c3da2fed67147cc08c5c8d249626697e0:ob3ect_artifact_attestation:record",
+                "source_id": "artifact-path:ddb30471c15f1f5921cc6937f30e2a9c3da2fed67147cc08c5c8d249626697e0",
+                "family": "artifact-bytes:0ff4e1e6aac9a81b2d3bf0008a262626792f16083f919aa743c52ebdca4eb2c3",
+                "split": "validation",
+                "task": "ob3ect_artifact_attestation",
+                "prompt": "Return the saved associated-artifact record for this source path.\nob3ect/digital/.vault/sigil_charging_ob3ect/sigil_charging_ob3ect_ob3ect.py",
+                "target": "{\"id\": \"artifact-path:ddb30471c15f1f5921cc6937f30e2a9c3da2fed67147cc08c5c8d249626697e0\", \"path\": \"ob3ect/digital/.vault/sigil_charging_ob3ect/sigil_charging_ob3ect_ob3ect.py\", \"owners\": [{\"id\": \"ob3ect:ob3ect/digital/.vault/sigil_charging_ob3ect/sigil_charging_ob3ect_ob3ect.json:ce588113f92bb6706965826623d5ba2960d7bb5cd4f78348966ae26232c53c78\", \"source\": {\"path\": \"ob3ect/digital/.vault/sigil_charging_ob3ect/sigil_charging_ob3ect_ob3ect.json\", \"sha256\": \"ce588113f92bb6706965826623d5ba2960d7bb5cd4f78348966ae26232c53c78\", \"bytes\": 9311, \"kind\": \"ob3ect\"}}], \"relation\": \"inventoried sibling of recorded ob3ect\", \"execution_status\": \"not executed by attachment\", \"status\": \"retained\", \"sha256\": \"4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801\", \"bytes\": 1229, \"blob\": \"blobs/4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801\", \"suffix\": \".py\", \"text_status\": \"complete strict UTF-8\"}",
+                "source": {
+                  "path": "ob3ect/digital/.vault/sigil_charging_ob3ect/sigil_charging_ob3ect_ob3ect.py",
+                  "sha256": "4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801",
+                  "bytes": 1229,
+                  "blob": "/home/mrnob0dy666/imsgct/VGI/ob3ect_artifact_corpus_20261016/blobs/4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801",
+                  "artifact_id": "artifact-path:ddb30471c15f1f5921cc6937f30e2a9c3da2fed67147cc08c5c8d249626697e0"
+                },
+                "evidence": "saved associated artifact bytes",
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "artifact-bytes:4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801",
+                "prior_split": "test",
+                "family_history": [
+                  {
+                    "family": "artifact-bytes:4e49ecbe64a9d9b606778fa813a09117f57a4b04f09985a26e6ced54f0f6d801",
+                    "split": "test"
+                  }
+                ]
+              },
+              "text_loss": 2.7203917916305826,
+              "labels": 919,
+              "source_tokens_processed": 1061
+            }
+          ]
+        },
+        "ob3ect_artifact_continuation": {
+          "summary": {
+            "mean_record_text_loss": 2.538814861950403,
+            "label_mean_text_loss": 2.5284955090789576
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "artifact-path:967ac530b14a243a825610b452e7fe0b6b7710469cf210bfb81a425535ca49f1:ob3ect_artifact_continuation:0",
+                "source_id": "artifact-path:967ac530b14a243a825610b452e7fe0b6b7710469cf210bfb81a425535ca49f1",
+                "family": "artifact-bytes:de9c20b88900dfa5f64395f7ecdd3606e2fe4a4fc19a6d6c65b917eee6f43996",
+                "split": "validation",
+                "task": "ob3ect_artifact_continuation",
+                "prompt": "Continue this source passage.\n-- IGProtocol scaffold: VINIT → FSPLIT → IMSCRIB → AFWD → CLINK → FSPLIT → EVALT → EVALF → FFUSE → AREV → IFIX → ENGAGR → FFUSE → IMSCRIB → TANCH\n-- Class: closing the d equals two thousand forty eight shadow means exhibiting one exact fiducial psi in the two thousand forty eight dimensional complex Hilbert space whose two thousand forty eight squared minus one equal four million one hundred ninety four thousand three hundred and three Weyl-Heisenberg overlaps every have squared modulus one over two thousand forty nine and whose norm is one, and the first move is not brute force but symmetry: the order-three Zauner unitary F_z, the canonical Clifford element, fixes a SIC fiducial up to phase, so the free data collapses from two thousand forty eight complex amplitudes to roughly d over three and the four million overlaps collapse into Weyl-Heisenberg orbits crossed with the Zauner three-cycle, which is the only reason a d equals two thousand forty eight constructi",
+                "target": "on is even approachable — the entity states the target as the Zauner-covariant fiducial and its orbit-reduced overlap set, the object every later plank must reproduce, and it carries the register caution that this is the empirical-shadow existence claim distinct from the unconditionally proved multilattice skeleton\n-- Fingerprint: sig=(7,4,3,1)\n--   self_ref=False | frobenius_order=1\n--   dialetheia_complete=True | period=15\n-- Expected tier: O₁\n-- FSPLIT/FFUSE pairs: [(5, 8), (1, 12)]\n\nimport Imscribing.IGMorphism\nimport Imscribing.IGFunctor\n\nnamespace Imscribing\nopen Primitives Frobenius IGProtocol\nopen Dimensionality Topology Relational Polarity Grammar\n     Fidelity KineticChar Granularity Criticality Protection Stoichiometry Chirality\n\n-- ── Token → IG field mapping ──────────────────────────────────────────────\n--   [0] VINIT     dim    := 𐑼               𐑼 → 𐑚  | initial object — ground of distinction\n--   [1] FSPLIT    gran   := 𐑚               𐑚 → 𐑚  | split δ — range decomposition\n--   [2] IMSCRIB   gram   := 𐑠               𐑚 → 𐑙  | identity — self-imscription\n--   [3] AFWD      rel    := 𐑾               𐑚 → 𐑙  | forward morphism — bidirectional arrow\n--   [4] CLINK     fid    := 𐑱               𐑚 → 𐑙  | composition — regime coherence\n--   [5] FSPLIT    gran   := 𐑚               𐑚 → 𐑚  | split δ — range decomposition\n--   [6] EVALT     crit   := ⊙               𐑚 → 𐑙  | evaluate-true — criticality gate open\n--   [7] EVALF     chir   := 𐑖               𐑚 → 𐑙  | evaluate-false — chirality check\n--   [8] FFUSE     stoi   := 𐑙               𐑙 → 𐑙  | fuse μ — assembly mode\n--   [9] AREV      pol    := 𐑗               𐑚 → 𐑙  | reverse morphism — parity flip\n--   [10] IFIX      prot   := 𐑭               𐑚 → 𐑙  | irreversible fixation — winding number\n--   [11] ENGAGR    stoi   := 𐑳               𐑚 → 𐑙  | engage paradox — B-state, both arms\n--   [12] FFUSE     stoi   := 𐑙               𐑙 → 𐑠  | fuse μ — assembly mode\n",
+                "source": {
+                  "path": "ob3ect/digital/closing_the_d_equals_two_thousand_forty_eight_sh/closing_the_d_equals_two_thousand_forty_eight_sh_scaffold.lean",
+                  "sha256": "de9c20b88900dfa5f64395f7ecdd3606e2fe4a4fc19a6d6c65b917eee6f43996",
+                  "bytes": 14872,
+                  "blob": "/home/mrnob0dy666/imsgct/VGI/ob3ect_artifact_corpus_20261016/blobs/de9c20b88900dfa5f64395f7ecdd3606e2fe4a4fc19a6d6c65b917eee6f43996",
+                  "artifact_id": "artifact-path:967ac530b14a243a825610b452e7fe0b6b7710469cf210bfb81a425535ca49f1",
+                  "start_line": 1,
+                  "start_character": 0,
+                  "end_character": 2931
+                },
+                "evidence": "saved associated artifact bytes",
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "artifact-bytes:de9c20b88900dfa5f64395f7ecdd3606e2fe4a4fc19a6d6c65b917eee6f43996",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "artifact-bytes:de9c20b88900dfa5f64395f7ecdd3606e2fe4a4fc19a6d6c65b917eee6f43996",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.3550258810627667,
+              "labels": 2229,
+              "source_tokens_processed": 3265
+            },
+            {
+              "source": {
+                "id": "artifact-path:772af2ed7db03adcfa4049c34f9df4c18afa04983ee3ce524b102d62b9a27778:ob3ect_artifact_continuation:2",
+                "source_id": "artifact-path:772af2ed7db03adcfa4049c34f9df4c18afa04983ee3ce524b102d62b9a27778",
+                "family": "artifact-bytes:68a92f8a219c0d78d4973a9b67b8544a7bb822333f426174840976b50585a35e",
+                "split": "validation",
+                "task": "ob3ect_artifact_continuation",
+                "prompt": "Continue this source passage.\nprivate def the_exact_induction_in_only_logical_69d3f4_l3 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := monad, chir := fee, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l4 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := sure, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l5 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l6 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\nprivat",
+                "target": "e def the_exact_induction_in_only_logical_69d3f4_l7 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := up, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l8 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l9 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l10 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\nprivate def the_exact_induction_in_only_logical_69d3f4_l11 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := ah }\nprivate def the_exact_induction_in_only_logical_69d3f4_l12 : Imscription :=\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\n  --\n-- ── Main IGProtocol term ────────────────────────────────────\nnoncomputable def the_exact_induction_in_only_logical_69d3f4_protocol : IGProtocol the_exact_induction_in_only_logical_69d3f4_s0 the_exact_induction_in_only_logical_69d3f4_s12 :=\n  .withGram Grammar.measure <|\n  -- Dual-Link self-pairing: .prod arms fuse via tensorProduct the_exact_induction_in_only_logical_69d3f4_s8 the_exact_induction_in_only_logical_69d3f4_s8 = the_exact_induction_in_only_logical_69d3f4_s8 (idempotent)\n",
+                "source": {
+                  "path": "ob3ect/digital/.vault/the_exact_induction_in_only_logical_operators_a/the_exact_induction_in_only_logical_operators_a_scaffold.lean",
+                  "sha256": "d45a1e4604c8a2231e690704f5b1ffc44f99dad2386c52da35e0efa985dfea94",
+                  "bytes": 12196,
+                  "blob": "/home/mrnob0dy666/imsgct/VGI/ob3ect_artifact_corpus_20261016/blobs/d45a1e4604c8a2231e690704f5b1ffc44f99dad2386c52da35e0efa985dfea94",
+                  "artifact_id": "artifact-path:772af2ed7db03adcfa4049c34f9df4c18afa04983ee3ce524b102d62b9a27778",
+                  "start_line": 67,
+                  "start_character": 5939,
+                  "end_character": 8811
+                },
+                "evidence": "saved associated artifact bytes",
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "artifact-bytes:d45a1e4604c8a2231e690704f5b1ffc44f99dad2386c52da35e0efa985dfea94",
+                "prior_split": "train",
+                "family_history": [
+                  {
+                    "family": "artifact-bytes:d45a1e4604c8a2231e690704f5b1ffc44f99dad2386c52da35e0efa985dfea94",
+                    "split": "train"
+                  }
+                ]
+              },
+              "text_loss": 2.722603842838039,
+              "labels": 1992,
+              "source_tokens_processed": 2980
+            }
+          ]
+        },
+        "ob3ect_attestation": {
+          "summary": {
+            "mean_record_text_loss": 2.6707059580070855,
+            "label_mean_text_loss": 2.6699017879804914
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json:9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad:ob3ect_attestation",
+                "task": "ob3ect_attestation",
+                "source_id": "ob3ect:ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json:9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad",
+                "family": "ob3ect:ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json:9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad",
+                "split": "validation",
+                "prompt": "Reproduce the saved ob3ect attestation for Ein Sof Zero-Point Field.\nSource SHA256: 9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad\nFields describe the saved record.",
+                "target": "{\"name\": \"Ein Sof Zero-Point Field\", \"is_valid_ob3ect\": true, \"validations\": {\"phase_0\": [], \"phase_1\": [], \"phase_2\": [], \"phase_3\": [], \"phase_4\": [], \"phase_5\": [], \"phase_6\": []}, \"phases\": {\"phase_0\": {\"domain_name\": \"Ein Sof Zero-Point Field\", \"domain_type\": \"metaphysical\", \"scope\": \"local\", \"surface_tokens\": [\"Tzimtzum\", \"Vacuum Fluctuation\", \"Sefirot\"], \"boundary_condition\": \"The Or Ein Sof which encompasses and permeates the vacuum through the Kav.\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"VINIT\": {\"opcode\": \"VINIT\", \"chosen_element\": \"Ayin\", \"justification\": \"The absolute nothingness and undifferentiated state of the Godhead before the first contraction.\", \"rejected_candidates\": []}, \"TANCH\": {\"opcode\": \"TANCH\", \"chosen_element\": \"Reshimu\", \"justification\": \"The residual impression of the divine light that remains within the void to define its limits.\", \"rejected_candidates\": []}, \"AFWD\": {\"opcode\": \"AFWD\", \"chosen_element\": \"Kav\", \"justification\": \"The thin line of divine light that descends into the vacuum to initiate creation.\", \"rejected_candidates\": []}, \"AREV\": {\"opcode\": \"AREV\", \"chosen_element\": \"Ohr Chozer\", \"justification\": \"The reflected light that returns to the source as a counter-morphism to the initial emanation.\", \"rejected_candidates\": []}, \"CLINK\": {\"opcode\": \"CLINK\", \"chosen_element\": \"Sefirotic Chain\", \"justification\": \"The sequential concatenation of divine attributes that structures the flow of energy.\", \"rejected_candidates\": []}, \"IMSCRIB\": {\"opcode\": \"IMSCRIB\", \"chosen_element\": \"Self-Recognition\", \"justification\": \"The vacuum recognizing its own fluctuation spectrum as an expression of the infinite.\", \"rejected_candidates\": []}, \"FSPLIT\": {\"opcode\": \"FSPLIT\", \"chosen_element\": \"Virtual Pair Production\", \"justification\": \"The division of the vacuum potential into distinct particle and anti-particle trajectories.\", \"rejected_candidates\": []}, \"FFUSE\": {\"opcode\": \"FFUSE\", \"chosen_element\": \"Quantum Recombination\", \"justification\": \"The annihilation of virtual pairs back into the ground state of the zero-point field.\", \"rejected_candidates\": []}, \"EVALT\": {\"opcode\": \"EVALT\", \"chosen_element\": \"Net Work Extraction\", \"justification\": \"The successful capture of energy from the fluctuation gradient.\", \"rejected_candidates\": []}, \"EVALF\": {\"opcode\": \"EVALF\", \"chosen_element\": \"Back-Reaction\", \"justification\": \"The dissipative return of energy to the vacuum without work being performed.\", \"rejected_candidates\": []}, \"ENGAGR\": {\"opcode\": \"ENGAGR\", \"chosen_element\": \"Tzimtzum Paradox\", \"justification\": \"The simultaneous presence and absence of the infinite light within the same spatial coordinate.\", \"rejected_candidates\": []}, \"IFIX\": {\"opcode\": \"IFIX\", \"chosen_element\": \"Akashic Record\", \"justification\": \"The permanent fixation of the event within the cosmic memory as an irreversible measurement.\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"Virtual Pair Production\", \"split_input\": \"Vacuum Ground State\", \"split_outputs\": [\"Particle Path\", \"Anti-particle Path\"], \"fuse_element\": \"Quantum Recombination\", \"fuse_result\": \"Vacuum Ground State\", \"frobenius_verdict\": \"PASS\", \"test_instance\": \"\", \"failure_reason\": \"\"}, \"phase_3\": {\"void_description\": \"The pre-Tzimtzum state where no space or differentiation exists.\", \"true_description\": \"The manifestation of light and the successful extraction of energy.\", \"false_description\": \"The concealment of light and the return to potentiality.\", \"both_description\": \"The state of the vacuum containing both the presence of the Kav and the void of the Reshimu.\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}, \"phase_4\": {\"steps\": [{\"step_num\": 1, \"opcode\": \"VINIT\", \"domain_action\": \"The Ayin exists as undifferentiated infinite potential.\"}, {\"step_num\": 2, \"opcode\": \"IMSCRIB\", \"domain_action\": \"The Ein Sof recognizes its own infinity through self-reference.\"}, {\"step_num\": 3, \"opcode\": \"TANCH\", \"domain_action\": \"Tzimtzum occurs to establish the boundary of the vacuum.\"}, {\"step_num\": 4, \"opcode\": \"AFWD\", \"domain_action\": \"The Kav descends into the void to provide a vector for emanation.\"}, {\"step_num\": 5, \"opcode\": \"CLINK\", \"domain_action\": \"The light organizes into the first Sefirah of Keter.\"}, {\"step_num\": 6, \"opcode\": \"FSPLIT\", \"domain_action\": \"The vacuum potential splits into virtual particle-antiparticle pairs.\"}, {\"step_num\": 7, \"opcode\": \"AFWD\", \"domain_action\": \"The particle path moves toward the extraction boundary.\"}, {\"step_num\": 8, \"opcode\": \"EVALT\", \"domain_action\": \"Energy is successfully captured as net work.\"}, {\"step_num\": 9, \"opcode\": \"AREV\", \"domain_action\": \"The anti-particle path descends to maintain symmetry.\"}, {\"step_num\": 10, \"opcode\": \"EVALF\", \"domain_action\": \"The energy returns to the field to prevent depletion.\"}, {\"step_num\": 11, \"opcode\": \"FFUSE\", \"domain_action\": \"The paths recombine to restore the vacuum ground state.\"}, {\"step_num\": 12, \"opcode\": \"ENGAGR\", \"domain_action\": \"The system holds the paradox of finite manifestation within infinite essence.\"}, {\"step_num\": 13, \"opcode\": \"IFIX\", \"domain_action\": \"The cycle is recorded as a permanent fluctuation in the zero-point field.\"}, {\"step_num\": 14, \"opcode\": \"IMSCRIB\", \"domain_action\": \"The system returns to self-recognition of its completed state.\"}], \"closure_verified\": true, \"failure_modes\": []}, \"phase_5\": {\"compiler_frontend\": \"The Will of the Ein Sof which translates infinite intent into finite structure.\", \"ipc_mechanism\": \"The Sefirotic channels that transmit divine light between levels of reality.\", \"memory_mechanism\": \"The Reshimu which stores the impression of all previous states of the light.\", \"scheduler_mechanism\": \"The cosmic rhythm of Ratzo V'Shov (running and returning).\", \"alfs_store\": \"The Torah as the blueprint of the primordial structure of the universe.\", \"alfs_bootstrap_program\": \"\"}, \"phase_6\": {\"cycle_cost\": \"The contraction of the infinite light into finite vessels.\", \"pre_cycle_state\": \"Infinite undifferentiated potential.\", \"post_cycle_state\": \"Infinite potential with a localized record of manifestation.\", \"delta_s_verdict\": \"ΔS ≈ 0 — The Frobenius cycle ensures that every extraction is balanced by a return to the ground state.\", \"failure_mode\": \"\"}}, \"lean_scaffold\": \"-- IGProtocol scaffold: VINIT → IMSCRIB → TANCH → AFWD → CLINK → FSPLIT → AFWD → EVALT → AREV → EVALF → FFUSE → ENGAGR → IFIX → IMSCRIB\\n-- Class: Ein Sof Zero-Point Field\\n-- Fingerprint: sig=(8,2,3,1)\\n--   self_ref=False | frobenius_order=1\\n--   dialetheia_complete=True | period=14\\n-- Expected tier: O₁\\n-- FSPLIT/FFUSE pairs: [(5, 10)]\\n\\nimport Imscribing.IGMorphism\\nimport Imscribing.IGFunctor\\n\\nnamespace Imscribing\\nopen Primitives Frobenius IGProtocol\\nopen Dimensionality Topology Relational Polarity Grammar\\n     Fidelity KineticChar Granularity Criticality Protection Stoichiometry Chirality\\n\\n-- ── Token → IG field mapping ──────────────────────────────────────────────\\n--   [0] VINIT     dim    := 𐑼               𐑼 → 𐑠  | initial object — ground of distinction\\n--   [1] IMSCRIB   gram   := 𐑠               𐑼 → 𐑡  | identity — self-imscription\\n--   [2] TANCH     top    := 𐑡               𐑠 → 𐑾  | terminal object — connectivity boundary\\n--   [3] AFWD      rel    := 𐑾               𐑡 → 𐑱  | forward morphism — bidirectional arrow\\n--   [4] CLINK     fid    := 𐑱               𐑾 → 𐑚  | composition — regime coherence\\n--   [5] FSPLIT    gran   := 𐑚               𐑚 → 𐑚  | split δ — range decomposition\\n--   [6] AFWD      rel    := 𐑾               𐑚 → 𐑙  | forward morphism — bidirectional arrow\\n--   [7] EVALT     crit   := ⊙               𐑚 → 𐑙  | evaluate-true — criticality gate open\\n--   [8] AREV      pol    := 𐑗               𐑚 → 𐑙  | reverse morphism — parity flip\\n--   [9] EVALF     chir   := 𐑖               𐑚 → 𐑙  | evaluate-false — chirality check\\n--   [10] FFUSE     stoi   := 𐑙               𐑙 → 𐑳  | fuse μ — assembly mode\\n--   [11] ENGAGR    stoi   := 𐑳               𐑙 → 𐑭  | engage paradox — B-state, both arms\\n--   [12] IFIX      prot   := 𐑭               𐑳 → 𐑠  | irreversible fixation — winding number\\n--   [13] IMSCRIB   gram   := 𐑠               𐑭 → 𐑼  | identity — self-imscription\\n\\n-- ── Stage Imscriptions (per-node cumulative) ────────────────\\nprivate def ein_sof_zero_point_field_s0 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s1 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s2 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s3 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s4 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s5 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s6 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s7 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s8 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s9 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s10 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_s11 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := awe }\\nprivate def ein_sof_zero_point_field_s12 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := ah }\\nprivate def ein_sof_zero_point_field_s13 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := ah }\\n\\n-- ── Label Imscriptions (per-node delta) ─────────────────────\\nprivate def ein_sof_zero_point_field_l0 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l1 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l2 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l3 : Imscription :=\\n  { dim := dead, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l4 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l5 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := thigh, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l6 : Imscription :=\\n  { dim := dead, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l7 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l8 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l9 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := sure, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l10 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def ein_sof_zero_point_field_l11 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := up, prot := awe }\\nprivate def ein_sof_zero_point_field_l12 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := ah }\\nprivate def ein_sof_zero_point_field_l13 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\n\\n-- ── Main IGProtocol term ────────────────────────────────────\\nnoncomputable def ein_sof_zero_point_field_protocol : IGProtocol ein_sof_zero_point_field_s0 ein_sof_zero_point_field_s13 :=\\n  .withGram Grammar.measure ≺|\\n  -- Dual-Link self-pairing: .prod arms fuse via tensorProduct ein_sof_zero_point_field_s10 ein_sof_zero_point_field_s10 = ein_sof_zero_point_field_s10 (idempotent)\\n  (.seq (.arrow ein_sof_zero_point_field_l0 ein_sof_zero_point_field_s0 ein_sof_zero_point_field_s1) (.seq (.arrow ein_sof_zero_point_field_l1 ein_sof_zero_point_field_s1 ein_sof_zero_point_field_s2) (.seq (.arrow ein_sof_zero_point_field_l2 ein_sof_zero_point_field_s2 ein_sof_zero_point_field_s3) (.seq (.arrow ein_sof_zero_point_field_l3 ein_sof_zero_point_field_s3 ein_sof_zero_point_field_s4) (.seq (.arrow ein_sof_zero_point_field_l4 ein_sof_zero_point_field_s4 ein_sof_zero_point_field_s5) (.seq (.prod (.arrow ein_sof_zero_point_field_l5 ein_sof_zero_point_field_s5 ein_sof_zero_point_field_s10) (.arrow ein_sof_zero_point_field_l5 ein_sof_zero_point_field_s5 ein_sof_zero_point_field_s10)) (.seq (.arrow ein_sof_zero_point_field_l10 ein_sof_zero_point_field_s10 ein_sof_zero_point_field_s10) (.seq (.arrow ein_sof_zero_point_field_l10 ein_sof_zero_point_field_s10 ein_sof_zero_point_field_s11) (.seq (.arrow ein_sof_zero_point_field_l11 ein_sof_zero_point_field_s11 ein_sof_zero_point_field_s12) (.arrow ein_sof_zero_point_field_l12 ein_sof_zero_point_field_s12 ein_sof_zero_point_field_s13))))))))))\\n\\n-- ── Evaluation arm sub-defs ───────────────────────────────────\\n\\n-- truth arm\\nnoncomputable def ein_sof_zero_point_field_true_arm : IGProtocol ein_sof_zero_point_field_s0 ein_sof_zero_point_field_s13 :=\\n  (ein_sof_zero_point_field_protocol).restrictToEVALT\\n\\n-- false arm\\nnoncomputable def ein_sof_zero_point_field_false_arm : IGProtocol ein_sof_zero_point_field_s0 ein_sof_zero_point_field_s13 :=\\n  (ein_sof_zero_point_field_protocol).restrictToEVALF\\n\\n-- ── Verification theorems ─────────────────────────────────────\\n\\n-- Tier: apply the Grammar to the object (self-application). assess_tier verdict on the imscribed tuple: .O₁.\\ndef ein_sof_zero_point_field_tier : OuroboricityTier := TierFunctor.obj ein_sof_zero_point_field_s0\\n#eval ein_sof_zero_point_field_tier  -- the Grammar's own verdict on its tier\\n\\n-- Frobenius (split → fuse): μ∘δ = id on the ground imscription\\ntheorem ein_sof_zero_point_field_frobenius :\\n    igFrobeniusAlg.mul ein_sof_zero_point_field_s0 ein_sof_zero_point_field_s0 = ein_sof_zero_point_field_s0 :=\\n  igFrobAlg_self_fusion ein_sof_zero_point_field_s0\\n\", \"notes\": \"Auto-designed from: Ein Sof Zero-Point Field\", \"topology_report\": {\"topology_class\": \"flat_chain\", \"nesting_depth\": 0, \"total_pairs\": 1, \"open_forks\": 0, \"cross_branches\": 0, \"empty_branches\": 0, \"sequence_length\": 14, \"t_branch_ops\": 2, \"f_branch_ops\": 1, \"branch_ratio\": 2.0, \"fork_positions\": [5], \"fuse_positions\": [10], \"pair_list\": [[5, 10]], \"has_cascading_ifix\": false, \"max_ifix_cascade\": 1, \"has_negation_first\": false, \"has_dual_fixation\": false}}",
+                "source": {
+                  "path": "ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json",
+                  "sha256": "9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad",
+                  "bytes": 20139,
+                  "kind": "ob3ect"
+                },
+                "evidence": "source_attestation",
+                "tuple_codec_status": "pending_or_unavailable",
+                "live_execution": null,
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "ob3ect:ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json:9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "ob3ect:ob3ect/digital/ein_sof_zero_point_field/ein_sof_zero_point_field_ob3ect.json:9af26b9b6a38bb3d441450146d8802d503a8af7d4608f67af74d21dcccb1a8ad",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.7161312546374967,
+              "labels": 18394,
+              "source_tokens_processed": 18577
+            },
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json:fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04:ob3ect_attestation",
+                "task": "ob3ect_attestation",
+                "source_id": "ob3ect:ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json:fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04",
+                "family": "ob3ect:ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json:fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04",
+                "split": "validation",
+                "prompt": "Reproduce the saved ob3ect attestation for Gödel Sentence Becomes a Theorem.\nSource SHA256: fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04\nFields describe the saved record.",
+                "target": "{\"name\": \"Gödel Sentence Becomes a Theorem\", \"is_valid_ob3ect\": true, \"validations\": {\"phase_0\": [], \"phase_1\": [], \"phase_2\": [], \"phase_3\": [], \"phase_4\": [], \"phase_5\": [], \"phase_6\": []}, \"phases\": {\"phase_0\": {\"domain_name\": \"Gödel Sentence Becomes a Theorem\", \"domain_type\": \"logical\", \"scope\": \"local\", \"surface_tokens\": [\"formal system\", \"Gödel sentence\", \"B state\"], \"boundary_condition\": \"The paraconsistent kernel enriched over the Belnap FOUR lattice, which contains the B state dialetheia without triggering the principle of explosion.\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"VINIT\": {\"opcode\": \"VINIT\", \"chosen_element\": \"The uninterpreted formal system before the construction of self referential syntax.\", \"justification\": \"Represents the void state prior to any naming or self reference.\", \"rejected_candidates\": []}, \"TANCH\": {\"opcode\": \"TANCH\", \"chosen_element\": \"The paraconsistent kernel boundary that admits the B state as a designated value without collapsing into triviality.\", \"justification\": \"Serves as the terminal anchor containing the entire logical space.\", \"rejected_candidates\": []}, \"AFWD\": {\"opcode\": \"AFWD\", \"chosen_element\": \"The forward application of the incompleteness operator generating the gap between semantic truth and syntactic provability.\", \"justification\": \"Acts as the forward morphism driving the system toward evaluation.\", \"rejected_candidates\": []}, \"AREV\": {\"opcode\": \"AREV\", \"chosen_element\": \"The descent into the paraconsistent substrate where the unprovable branch is accepted as a structural fact rather than a failure.\", \"justification\": \"Functions as the reverse morphism handling the negative evaluation branch.\", \"rejected_candidates\": []}, \"CLINK\": {\"opcode\": \"CLINK\", \"chosen_element\": \"The composition of the iterated incompleteness operator satisfying the fixed point condition.\", \"justification\": \"Chains the operations to verify the Frobenius closure identity.\", \"rejected_candidates\": []}, \"IMSCRIB\": {\"opcode\": \"IMSCRIB\", \"chosen_element\": \"The self referential fixed point where the Gödel sentence encodes its own unprovability.\", \"justification\": \"Establishes the identity of the system through self recognition.\", \"rejected_candidates\": []}, \"FSPLIT\": {\"opcode\": \"FSPLIT\", \"chosen_element\": \"The decomposition of the Gödel sentence into its semantic truth value and its syntactic provability status.\", \"justification\": \"Forks the single statement into two distinct evaluation branches.\", \"rejected_candidates\": []}, \"FFUSE\": {\"opcode\": \"FFUSE\", \"chosen_element\": \"The reintegration of the truth and unprovability branches into the unified B state dialetheia.\", \"justification\": \"Reconstitutes the original input exactly as a closed logical state.\", \"rejected_candidates\": []}, \"EVALT\": {\"opcode\": \"EVALT\", \"chosen_element\": \"The affirmative evaluation confirming the sentence holds in the standard model of arithmetic.\", \"justification\": \"Anchors the positive branch with a true verdict.\", \"rejected_candidates\": []}, \"EVALF\": {\"opcode\": \"EVALF\", \"chosen_element\": \"The negative evaluation confirming the sentence lacks a formal derivation within the system.\", \"justification\": \"Anchors the negative branch with a false verdict.\", \"rejected_candidates\": []}, \"ENGAGR\": {\"opcode\": \"ENGAGR\", \"chosen_element\": \"The paradice where the sentence is simultaneously true and unprovable, held as a stable attractor.\", \"justification\": \"Enters the B state where both truth values are held without resolution.\", \"rejected_candidates\": []}, \"IFIX\": {\"opcode\": \"IFIX\", \"chosen_element\": \"The permanent fixation of the B state as a structural theorem, closing the incompleteness gap.\", \"justification\": \"Records the final closed state as an append only logical fact.\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"Decomposition of the Gödel sentence\", \"split_input\": \"The self referential Gödel sentence\", \"split_outputs\": [\"Semantic truth\", \"Syntactic unprovability\"], \"fuse_element\": \"Reintegration into the B state\", \"fuse_result\": \"The Gödel sentence as a closed B state dialetheia\", \"frobenius_verdict\": \"PASS\", \"test_instance\": \"\", \"failure_reason\": \"\"}, \"phase_3\": {\"void_description\": \"The formal system prior to the introduction of self referential encoding, containing no Gödel sentence.\", \"true_description\": \"The semantic evaluation where the Gödel sentence is recognized as holding in the standard model.\", \"false_description\": \"The syntactic evaluation where the Gödel sentence is recognized as lacking a formal derivation.\", \"both_description\": \"The B state dialetheia where the sentence is simultaneously true and unprovable, saturating the incompleteness gap.\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}, \"phase_4\": {\"steps\": [{\"step_num\": 1, \"opcode\": \"VINIT\", \"domain_action\": \"Initialize the formal system in the void before self referential syntax is constructed.\"}, {\"step_num\": 2, \"opcode\": \"IMSCRIB\", \"domain_action\": \"Construct the self referential Gödel sentence that encodes its own unprovability.\"}, {\"step_num\": 3, \"opcode\": \"TANCH\", \"domain_action\": \"Establish the paraconsistent kernel as the boundary containing the system without explosion.\"}, {\"step_num\": 4, \"opcode\": \"FSPLIT\", \"domain_action\": \"Decompose the Gödel sentence into its semantic truth branch and its syntactic provability branch.\"}, {\"step_num\": 5, \"opcode\": \"AFWD\", \"domain_action\": \"Apply the forward morphism of truth evaluation along the T arm.\"}, {\"step_num\": 6, \"opcode\": \"EVALT\", \"domain_action\": \"Affirm the semantic truth of the sentence in the standard model, anchoring the T arm.\"}, {\"step_num\": 7, \"opcode\": \"AREV\", \"domain_action\": \"Apply the reverse morphism of unprovability descent along the F arm.\"}, {\"step_num\": 8, \"opcode\": \"EVALF\", \"domain_action\": \"Affirm the syntactic unprovability of the sentence in the formal system, anchoring the F arm.\"}, {\"step_num\": 9, \"opcode\": \"FFUSE\", \"domain_action\": \"Reintegrate the truth and unprovability branches into the unified B state dialetheia.\"}, {\"step_num\": 10, \"opcode\": \"ENGAGR\", \"domain_action\": \"Enter the paradice where the sentence is simultaneously true and unprovable.\"}, {\"step_num\": 11, \"opcode\": \"CLINK\", \"domain_action\": \"Compose the iterated incompleteness operator to verify the Frobenius closure condition.\"}, {\"step_num\": 12, \"opcode\": \"IFIX\", \"domain_action\": \"Fix the B state as a permanent structural theorem, closing the incompleteness gap.\"}], \"closure_verified\": true, \"failure_modes\": []}, \"phase_5\": {\"compiler_frontend\": \"The paraconsistent Lean kernel that blocks the principle of explosion and admits the B state.\", \"ipc_mechanism\": \"The Frobenius round trip morphism that transports structural verdicts across the truth lattice.\", \"memory_mechanism\": \"The topological winding number that records the exact count of Frobenius verified closure cycles.\", \"scheduler_mechanism\": \"The Lawvere Tierney closure operator that drives the system to the B state fixed point.\", \"alfs_store\": \"The Frobenius exact ZFC foundation that serves as the canonical reference for self verifying truth.\", \"alfs_bootstrap_program\": \"\"}, \"phase_6\": {\"cycle_cost\": \"Zero entropy consumption because the topological invariant is read from the boundary without erasing information.\", \"pre_cycle_state\": \"The formal system with an open incompleteness gap oscillating between truth and unprovability.\", \"post_cycle_state\": \"The formal system saturated at the B state fixed point with the gap permanently closed.\", \"delta_s_verdict\": \"ΔS ≈ 0 because the cycle is a topological invariant and the B state is a stable attractor that preserves all information without erasure.\", \"failure_mode\": \"\"}}, \"lean_scaffold\": \"-- IGProtocol scaffold: VINIT → IMSCRIB → TANCH → FSPLIT → AFWD → EVALT → AREV → EVALF → FFUSE → ENGAGR → CLINK → IFIX\\n-- Class: Gödel Sentence Becomes a Theorem\\n-- Fingerprint: sig=(6,2,3,1)\\n--   self_ref=False | frobenius_order=1\\n--   dialetheia_complete=True | period=12\\n-- Expected tier: O₁\\n-- FSPLIT/FFUSE pairs: [(3, 8)]\\n\\nimport Imscribing.IGMorphism\\nimport Imscribing.IGFunctor\\n\\nnamespace Imscribing\\nopen Primitives Frobenius IGProtocol\\nopen Dimensionality Topology Relational Polarity Grammar\\n     Fidelity KineticChar Granularity Criticality Protection Stoichiometry Chirality\\n\\n-- ── Token → IG field mapping ──────────────────────────────────────────────\\n--   [0] VINIT     dim    := 𐑼               𐑼 → 𐑠  | initial object — ground of distinction\\n--   [1] IMSCRIB   gram   := 𐑠               𐑼 → 𐑡  | identity — self-imscription\\n--   [2] TANCH     top    := 𐑡               𐑠 → 𐑚  | terminal object — connectivity boundary\\n--   [3] FSPLIT    gran   := 𐑚               𐑚 → 𐑚  | split δ — range decomposition\\n--   [4] AFWD      rel    := 𐑾               𐑚 → 𐑙  | forward morphism — bidirectional arrow\\n--   [5] EVALT     crit   := ⊙               𐑚 → 𐑙  | evaluate-true — criticality gate open\\n--   [6] AREV      pol    := 𐑗               𐑚 → 𐑙  | reverse morphism — parity flip\\n--   [7] EVALF     chir   := 𐑖               𐑚 → 𐑙  | evaluate-false — chirality check\\n--   [8] FFUSE     stoi   := 𐑙               𐑙 → 𐑳  | fuse μ — assembly mode\\n--   [9] ENGAGR    stoi   := 𐑳               𐑙 → 𐑱  | engage paradox — B-state, both arms\\n--   [10] CLINK     fid    := 𐑱               𐑳 → 𐑭  | composition — regime coherence\\n--   [11] IFIX      prot   := 𐑭               𐑱 → 𐑼  | irreversible fixation — winding number\\n\\n-- ── Stage Imscriptions (per-node cumulative) ────────────────\\nprivate def g_del_sentence_becomes_a_theorem_s0 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s1 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s2 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s3 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s4 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s5 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s6 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s7 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s8 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s9 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s10 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_s11 : Imscription :=\\n  { dim := array, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := thigh, gram := measure, crit := monad, chir := sure, stoi := up, prot := ah }\\n\\n-- ── Label Imscriptions (per-node delta) ─────────────────────\\nprivate def g_del_sentence_becomes_a_theorem_l0 : Imscription :=\\n  { dim := array, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l1 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := measure, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l2 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l3 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := thigh, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l4 : Imscription :=\\n  { dim := dead, top := judge, rel := ian, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l5 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := monad, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l6 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l7 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := sure, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l8 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l9 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := up, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l10 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := awe }\\nprivate def g_del_sentence_becomes_a_theorem_l11 : Imscription :=\\n  { dim := dead, top := judge, rel := ado, pol := church, fid := age, kin := yea, gran := bib, gram := vow, crit := woe, chir := fee, stoi := hung, prot := ah }\\n\\n-- ── Main IGProtocol term ────────────────────────────────────\\nnoncomputable def g_del_sentence_becomes_a_theorem_protocol : IGProtocol g_del_sentence_becomes_a_theorem_s0 g_del_sentence_becomes_a_theorem_s11 :=\\n  .withGram Grammar.measure ≺|\\n  -- Dual-Link self-pairing: .prod arms fuse via tensorProduct g_del_sentence_becomes_a_theorem_s8 g_del_sentence_becomes_a_theorem_s8 = g_del_sentence_becomes_a_theorem_s8 (idempotent)\\n  (.seq (.arrow g_del_sentence_becomes_a_theorem_l0 g_del_sentence_becomes_a_theorem_s0 g_del_sentence_becomes_a_theorem_s1) (.seq (.arrow g_del_sentence_becomes_a_theorem_l1 g_del_sentence_becomes_a_theorem_s1 g_del_sentence_becomes_a_theorem_s2) (.seq (.arrow g_del_sentence_becomes_a_theorem_l2 g_del_sentence_becomes_a_theorem_s2 g_del_sentence_becomes_a_theorem_s3) (.seq (.prod (.arrow g_del_sentence_becomes_a_theorem_l3 g_del_sentence_becomes_a_theorem_s3 g_del_sentence_becomes_a_theorem_s8) (.arrow g_del_sentence_becomes_a_theorem_l3 g_del_sentence_becomes_a_theorem_s3 g_del_sentence_becomes_a_theorem_s8)) (.seq (.arrow g_del_sentence_becomes_a_theorem_l8 g_del_sentence_becomes_a_theorem_s8 g_del_sentence_becomes_a_theorem_s8) (.seq (.arrow g_del_sentence_becomes_a_theorem_l8 g_del_sentence_becomes_a_theorem_s8 g_del_sentence_becomes_a_theorem_s9) (.seq (.arrow g_del_sentence_becomes_a_theorem_l9 g_del_sentence_becomes_a_theorem_s9 g_del_sentence_becomes_a_theorem_s10) (.arrow g_del_sentence_becomes_a_theorem_l10 g_del_sentence_becomes_a_theorem_s10 g_del_sentence_becomes_a_theorem_s11))))))))\\n\\n-- ── Evaluation arm sub-defs ───────────────────────────────────\\n\\n-- truth arm\\nnoncomputable def g_del_sentence_becomes_a_theorem_true_arm : IGProtocol g_del_sentence_becomes_a_theorem_s0 g_del_sentence_becomes_a_theorem_s11 :=\\n  (g_del_sentence_becomes_a_theorem_protocol).restrictToEVALT\\n\\n-- false arm\\nnoncomputable def g_del_sentence_becomes_a_theorem_false_arm : IGProtocol g_del_sentence_becomes_a_theorem_s0 g_del_sentence_becomes_a_theorem_s11 :=\\n  (g_del_sentence_becomes_a_theorem_protocol).restrictToEVALF\\n\\n-- ── Verification theorems ─────────────────────────────────────\\n\\n-- Tier: apply the Grammar to the object (self-application). assess_tier verdict on the imscribed tuple: .O₁.\\ndef g_del_sentence_becomes_a_theorem_tier : OuroboricityTier := TierFunctor.obj g_del_sentence_becomes_a_theorem_s0\\n#eval g_del_sentence_becomes_a_theorem_tier  -- the Grammar's own verdict on its tier\\n\\n-- Frobenius (split → fuse): μ∘δ = id on the ground imscription\\ntheorem g_del_sentence_becomes_a_theorem_frobenius :\\n    igFrobeniusAlg.mul g_del_sentence_becomes_a_theorem_s0 g_del_sentence_becomes_a_theorem_s0 = g_del_sentence_becomes_a_theorem_s0 :=\\n  igFrobAlg_self_fusion g_del_sentence_becomes_a_theorem_s0\\n\", \"notes\": \"Auto-designed from: Gödel Sentence Becomes a Theorem\", \"topology_report\": {\"topology_class\": \"flat_chain\", \"nesting_depth\": 0, \"total_pairs\": 1, \"open_forks\": 0, \"cross_branches\": 0, \"empty_branches\": 0, \"sequence_length\": 12, \"t_branch_ops\": 2, \"f_branch_ops\": 1, \"branch_ratio\": 2.0, \"fork_positions\": [3], \"fuse_positions\": [8], \"pair_list\": [[3, 8]], \"has_cascading_ifix\": false, \"max_ifix_cascade\": 1, \"has_negation_first\": false, \"has_dual_fixation\": false}}",
+                "source": {
+                  "path": "ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json",
+                  "sha256": "fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04",
+                  "bytes": 20706,
+                  "kind": "ob3ect"
+                },
+                "evidence": "source_attestation",
+                "tuple_codec_status": "pending_or_unavailable",
+                "live_execution": null,
+                "dataset_revision": "artifact_family_closure_v1",
+                "prior_family": "ob3ect:ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json:fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04",
+                "prior_split": "validation",
+                "family_history": [
+                  {
+                    "family": "ob3ect:ob3ect/digital/g_del_sentence_becomes_a_theorem/g_del_sentence_becomes_a_theorem_ob3ect.json:fb92a1c4b09537e01904f5d0ea70b4d9dfb2c4fa7ab6caf7188675a7fb842d04",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.6252806613766744,
+              "labels": 19057,
+              "source_tokens_processed": 19249
+            }
+          ]
+        },
+        "ob3ect_recorded_construction": {
+          "summary": {
+            "mean_record_text_loss": 2.679773517123884,
+            "label_mean_text_loss": 2.660063623506103
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json:9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063:ob3ect_recorded_construction:phase_6",
+                "task": "ob3ect_recorded_construction",
+                "source_id": "ob3ect:ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json:9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063",
+                "family": "ob3ect:ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json:9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063",
+                "split": "validation",
+                "prompt": "Continue this recorded ob3ect construction at phase_6.\n{\"name\": \"The operation that grows, out of a disordered pool of units in solution, the single most-ordered closed lattice those units can settle into, admitting only the units that fit the lattice and rejecting the remainder as a leftover mother-pool; a purification that forms order from a mixture and discards what will not join it, distinct from merely relaxing an already-closed loop toward its lowest internal stress.\", \"recorded_phases\": {\"phase_0\": {\"domain_name\": \"The operation that grows, out of a disordered pool of units in solution, the single most-ordered closed lattice those units can settle into, admitting only the units that fit the lattice and rejecting the remainder as a leftover mother-pool; a purification that forms order from a mixture and discards what will not join it, distinct from merely relaxing an already-closed loop toward its lowest internal stress.\", \"domain_type\": \"computational\", \"scope\": \"local\", \"surface_tokens\": [\"mother-pool\", \"nucleation-site\", \"crystalline-lattice\"], \"boundary_condition\": \"The solubility limit of the computational substrate\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"VINIT\": {\"opcode\": \"VINIT\", \"chosen_element\": \"unstructured-heat\", \"justification\": \"The high-entropy disordered state prior to any algorithmic selectivity\", \"rejected_candidates\": []}, \"TANCH\": {\"opcode\": \"TANCH\", \"chosen_element\": \"unit-cell-closure\", \"justification\": \"The final bounding geometry that prevents further growth\", \"rejected_candidates\": []}, \"AFWD\": {\"opcode\": \"AFWD\", \"chosen_element\": \"monomer-collision\", \"justification\": \"The movement of potential units toward the growing interface\", \"rejected_candidates\": []}, \"AREV\": {\"opcode\": \"AREV\", \"chosen_element\": \"solvation-dissolution\", \"justification\": \"The return of unfitted units back into the disordered pool\", \"rejected_candidates\": []}, \"CLINK\": {\"opcode\": \"CLINK\", \"chosen_element\": \"epitaxial-bond\", \"justification\": \"The sequential addition of units following the existing pattern geometry\", \"rejected_candidates\": []}, \"IMSCRIB\": {\"opcode\": \"IMSCRIB\", \"chosen_element\": \"lattice-symmetry-operator\", \"justification\": \"The internal rule that recognizes the unit as a mirror of the lattice itself\", \"rejected_candidates\": []}, \"FSPLIT\": {\"opcode\": \"FSPLIT\", \"chosen_element\": \"stereochemical-filter\", \"justification\": \"The logic gate that splits the incoming unit into either a structural match or a mismatch\", \"rejected_candidates\": []}, \"FFUSE\": {\"opcode\": \"FFUSE\", \"chosen_element\": \"mass-accounting-node\", \"justification\": \"The conservation vertex that ensures total material equals lattice-sum plus mother-pool-residue\", \"rejected_candidates\": []}, \"EVALT\": {\"opcode\": \"EVALT\", \"chosen_element\": \"congruent-integration\", \"justification\": \"The successful locking of a unit into the lattice coordinates\", \"rejected_candidates\": []}, \"EVALF\": {\"opcode\": \"EVALF\", \"chosen_element\": \"steric-clash-rejection\", \"justification\": \"The failure of a unit to mate With the interface due to geometric mismatch\", \"rejected_candidates\": []}, \"ENGAGR\": {\"opcode\": \"ENGAGR\", \"chosen_element\": \"amorphous-transition-state\", \"justification\": \"The indeterminate state where a unit is partially bound but not yet crystallized or rejected\", \"rejected_candidates\": []}, \"IFIX\": {\"opcode\": \"IFIX\", \"chosen_element\": \"phase-transition-record\", \"justification\": \"The permanent log of the solidified structure that cannot be dissolved back into the sequence\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"stereochemical-filter\", \"split_input\": \"candidate-monomer\", \"split_outputs\": [\"lattice-bound-unit\", \"rejected-supernatant\"], \"fuse_element\": \"mass-accounting-node\", \"fuse_result\": \"candidate-monomer\", \"frobenius_verdict\": \"PASS\", \"test_instance\": \"\", \"failure_reason\": \"\"}, \"phase_3\": {\"void_description\": \"disordered supernatant without defined subunits\", \"true_description\": \"inclusion within the perfect lattice order\", \"false_description\": \"exclusion and displacement into the disordered pool\", \"both_description\": \"an unstable interfacial layer existing between order and chaos\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}, \"phase_4\": {\"steps\": [{\"step_num\": 1, \"opcode\": \"VINIT\", \"domain_action\": \"Establishing the high-entropy disordered monomer pool\"}, {\"step_num\": 2, \"opcode\": \"IMSCRIB\", \"domain_action\": \"Identifying the specific geometry of the seed-nucleation site\"}, {\"step_num\": 3, \"opcode\": \"AFWD\", \"domain_action\": \"Propagating units toward the active growth front\"}, {\"step_num\": 4, \"opcode\": \"FSPLIT\", \"domain_action\": \"Branching the incoming monomer into selectivity paths\"}, {\"step_num\": 5, \"opcode\": \"EVALT\", \"domain_action\": \"Validating the unit fit against the lattice-symmetry-operator\"}, {\"step_num\": 6, \"opcode\": \"CLINK\", \"domain_action\": \"Chaining the validated unit to the terminal lattice edge\"}, {\"step_num\": 7, \"opcode\": \"IFIX\", \"domain_action\": \"Recording the irreversible fixation of the unit into the solid state\"}, {\"step_num\": 8, \"opcode\": \"FFUSE\", \"domain_action\": \"Recombining the lattice-path with the rejected-path to maintain total mass balance\"}, {\"step_num\": 9, \"opcode\": \"FSPLIT\", \"domain_action\": \"Branching again to check for remaining units in the mother-pool\"}, {\"step_num\": 10, \"opcode\": \"EVALF\", \"domain_action\": \"Identifying an unfitted unit that causes a steric clash\"}, {\"step_num\": 11, \"opcode\": \"AREV\", \"domain_action\": \"Descending the unfitted unit back into the mother-pool solution\"}, {\"step_num\": 12, \"opcode\": \"FFUSE\", \"domain_action\": \"Closing the balance loop to prove no matter was created or destroyed\"}, {\"step_num\": 13, \"opcode\": \"TANCH\", \"domain_action\": \"Sealing the boundaries of the purification cycle upon exhaustion of fits\"}], \"closure_verified\": true, \"failure_modes\": []}, \"phase_5\": {\"compiler_frontend\": \"Lattice-Growth-Instruction-Set\", \"ipc_mechanism\": \"Chemical-Potential-Gradient\", \"memory_mechanism\": \"Crystalline-Structural-State\", \"scheduler_mechanism\": \"Kinetic-Reaction-Rates\", \"alfs_store\": \"Space-Group-Symmetry-Table\", \"alfs_bootstrap_program\": \"\"}}}",
+                "target": "{\"cycle_cost\": \"Gibbs free energy of crystallization\", \"pre_cycle_state\": \"High-entropy mixture in solution\", \"post_cycle_state\": \"Low-entropy solid plus high-entropy leftover mother-pool\", \"delta_s_verdict\": \"ΔS ≈ 0 — The decrease in lattice entropy is balanced by the heat released and mother-pool disorder\", \"failure_mode\": \"\"}",
+                "evidence": "saved_ob3ect_phase",
+                "source": {
+                  "path": "ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json",
+                  "sha256": "9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063",
+                  "bytes": 21563,
+                  "kind": "ob3ect"
+                },
+                "prior_family": "ob3ect:ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json:9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "ob3ect:ob3ect/digital/the_operation_that_grows_out_of_a_disordered_poo/the_operation_that_grows_out_of_a_disordered_poo_ob3ect.json:9eafa94ebf4c07fa5fb7f091623e58720761944f957cc2d95500f70e6063b063",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.768468038403899,
+              "labels": 336,
+              "source_tokens_processed": 6478
+            },
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/collatz_cross_average/collatz_cross_average_ob3ect.json:49759eb2d5967e7eae9c27671e47a1afa4ea37f7fe22fe92347f3987a4928639:ob3ect_recorded_construction:phase_3",
+                "task": "ob3ect_recorded_construction",
+                "source_id": "ob3ect:ob3ect/digital/collatz_cross_average/collatz_cross_average_ob3ect.json:49759eb2d5967e7eae9c27671e47a1afa4ea37f7fe22fe92347f3987a4928639",
+                "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:8091",
+                "split": "validation",
+                "prompt": "Continue this recorded ob3ect construction at phase_3.\n{\"name\": \"collatz_cross_average\", \"recorded_phases\": {\"phase_0\": {\"domain_name\": \"collatz_cross_average\", \"domain_type\": \"computational\", \"scope\": \"local\", \"surface_tokens\": [\"cross-correlation\", \"residue-bijection\", \"lag-sum-rule\", \"conductor-tower\", \"phase-cancellation\"], \"boundary_condition\": \"The finite tower of conductors 3^r ≤ N, where the weighted cross sum is defined and the residue bijections act as bijections on residues mod 3^r.\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"⊢\": {\"opcode\": \"⊢\", \"chosen_element\": \"void-level\", \"justification\": \"The state before any level of the predecessor tree is constructed, where no nodes exist and the cross-correlation is undefined.\", \"rejected_candidates\": []}, \"⊣\": {\"opcode\": \"⊣\", \"chosen_element\": \"conductor-bound\", \"justification\": \"The maximum conductor 3^r ≤ N that bounds the tower, containing all residue classes and character sums within a finite, closed system.\", \"rejected_candidates\": []}, \"≻\": {\"opcode\": \"≻\", \"chosen_element\": \"doubling-map\", \"justification\": \"The forward morphism m ↦ 2m, which is a bijection on residues mod 3^r and permutes the characters of a fixed conductor without changing the conductor.\", \"rejected_candidates\": []}, \"≺\": {\"opcode\": \"≺\", \"chosen_element\": \"odd-lift\", \"justification\": \"The reverse/descent morphism m ↦ 2t+1 for m=3t+2, which reaches one conductor higher (3^(r+1)) and feeds the coefficient at conductor r from the level above.\", \"rejected_candidates\": []}, \"⋈\": {\"opcode\": \"⋈\", \"chosen_element\": \"level-recursion\", \"justification\": \"The composition of the doubling and odd-lift maps to build one level of the tree from the previous, chaining the residue structure across depths.\", \"rejected_candidates\": []}, \"⊙\": {\"opcode\": \"⊙\", \"chosen_element\": \"self-reference\", \"justification\": \"The identity of the level map with itself, where the cross-correlation is an autocorrelation of the deviation at a nonzero lag, reading the level against its own image.\", \"rejected_candidates\": []}, \"∈\": {\"opcode\": \"∈\", \"chosen_element\": \"arm-separation\", \"justification\": \"The split of the cross-correlation into the doubling arm (even) and the odd arm (odd), which are disjoint by parity and feed different conductors.\", \"rejected_candidates\": []}, \"∋\": {\"opcode\": \"∋\", \"chosen_element\": \"cross-sum\", \"justification\": \"The reconstitution of the weighted cross sum from the two arms, where the flat parts cancel and only the correlation of the deviations survives.\", \"rejected_candidates\": []}, \"⊤\": {\"opcode\": \"⊤\", \"chosen_element\": \"negative-sign\", \"justification\": \"The affirmative state where the cross-correlation is negative, which is the systematic behavior at conductor 3 due to the involution of doubling on the live classes.\", \"rejected_candidates\": []}, \"⊥\": {\"opcode\": \"⊥\", \"chosen_element\": \"positive-excursion\", \"justification\": \"The negative state where the cross-correlation is positive, which occurs in a minority of levels and represents the fluctuation that the average must absorb.\", \"rejected_candidates\": []}, \"⊞\": {\"opcode\": \"⊞\", \"chosen_element\": \"phase-cancellation\", \"justification\": \"The paradice where the doubling term and the odd-arm difference term are held simultaneously, canceling in phase rather than in magnitude, which is the source of the square-root decay.\", \"rejected_candidates\": []}, \"⊡\": {\"opcode\": \"⊡\", \"chosen_element\": \"lag-sum-zero\", \"justification\": \"The permanent record that the autocorrelations of a mean-zero function sum to zero over all lags, which is the structural input that forces the nonzero lags to sum to -||d||^2.\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"arm-separation\", \"split_input\": \"the level's deviation vector d\", \"split_outputs\": [\"doubling-arm deviation\", \"odd-arm deviation\"], \"fuse_element\": \"cross-sum\", \"fuse_result\": \"the weighted cross correlation c\", \"frobenius_verdict\": \"T\", \"test_instance\": \"\", \"failure_reason\": \"Tri-ancestral reconnection over a transformed object — closes\"}}}",
+                "target": "{\"void_description\": \"No level constructed, no residue classes, no cross-correlation defined.\", \"true_description\": \"The cross-correlation is negative, contributing to the decay of the norm.\", \"false_description\": \"The cross-correlation is positive, contributing to the expansion of the norm.\", \"both_description\": \"The phase cancellation holds: the terms are of comparable magnitude but opposite sign, resulting in a small net contribution despite large individual terms.\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}",
+                "evidence": "saved_ob3ect_phase",
+                "source": {
+                  "path": "ob3ect/digital/collatz_cross_average/collatz_cross_average_ob3ect.json",
+                  "sha256": "49759eb2d5967e7eae9c27671e47a1afa4ea37f7fe22fe92347f3987a4928639",
+                  "bytes": 28028,
+                  "kind": "ob3ect"
+                },
+                "prior_family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:8091",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "ob3ect:ob3ect/digital/collatz_cross_average/collatz_cross_average_ob3ect.json:49759eb2d5967e7eae9c27671e47a1afa4ea37f7fe22fe92347f3987a4928639",
+                    "split": "train"
+                  },
+                  {
+                    "family": "corpus:12be10a9caef19ae0064a8ce4f0c0ae6240963a0810c52823f24fa319b10c743:file:8091",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.5910789958438687,
+              "labels": 528,
+              "source_tokens_processed": 4648
+            }
+          ]
+        },
+        "ob3ect_to_tuple": {
+          "summary": {
+            "axis_loss": 1.7940447813206215,
+            "correct_coordinates": 10,
+            "coordinates": 24,
+            "exact": 0
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/p_vs_np_structure/p_vs_np_structure_ob3ect.json:021274794747c1db40fa2889086a541bfd04e5a03ec6b896111374bf3a29547c:ob3ect_to_tuple:tuple",
+                "task": "ob3ect_to_tuple",
+                "source_id": "ob3ect:ob3ect/digital/p_vs_np_structure/p_vs_np_structure_ob3ect.json:021274794747c1db40fa2889086a541bfd04e5a03ec6b896111374bf3a29547c",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:5355",
+                "split": "validation",
+                "prompt": "Return the recorded grounded tuple for this ob3ect.\n{\"name\": \"P vs NP structure\", \"recorded_phases\": {\"phase_0\": {\"domain_name\": \"P vs NP structure\", \"domain_type\": \"computational\", \"scope\": \"local\", \"surface_tokens\": [\"polynomial_solver\", \"certificate_verifier\", \"winding_gap\", \"critical_pinch\", \"completeness_shell\"], \"boundary_condition\": \"The horn torus pinch where the verification loop closes on the solution space, creating a figure-8 topology between P and NP\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"⊢\": {\"opcode\": \"⊢\", \"chosen_element\": \"uninitialized_problem_instance\", \"justification\": \"The void state before a specific decision problem is instantiated or a certificate is proposed\", \"rejected_candidates\": []}, \"⊣\": {\"opcode\": \"⊣\", \"chosen_element\": \"polynomial_time_bound\", \"justification\": \"The closed boundary that contains the system, defining the limit of tractable computation\", \"rejected_candidates\": []}, \"≻\": {\"opcode\": \"≻\", \"chosen_element\": \"solution_construction\", \"justification\": \"The forward morphism attempting to build a solution from scratch in polynomial time\", \"rejected_candidates\": []}, \"≺\": {\"opcode\": \"≺\", \"chosen_element\": \"certificate_validation\", \"justification\": \"The reverse morphism checking a given certificate against the problem constraints\", \"rejected_candidates\": []}, \"⋈\": {\"opcode\": \"⋈\", \"chosen_element\": \"reduction_chain\", \"justification\": \"Sequential chaining of problem instances via polynomial-time reductions\", \"rejected_candidates\": []}, \"⊙\": {\"opcode\": \"⊙\", \"chosen_element\": \"self_referential_complexity\", \"justification\": \"The identity of the problem class where the verification process reflects the solution space\", \"rejected_candidates\": []}, \"∈\": {\"opcode\": \"∈\", \"chosen_element\": \"decision_branch\", \"justification\": \"Splits the computational path into the affirmative arm (P exists) and the negative arm (P does not exist)\", \"rejected_candidates\": []}, \"∋\": {\"opcode\": \"∋\", \"chosen_element\": \"complexity_verdict\", \"justification\": \"Reconstitutes the divergent paths into a single B4 verdict regarding the equality of P and NP\", \"rejected_candidates\": []}, \"⊤\": {\"opcode\": \"⊤\", \"chosen_element\": \"polynomial_solver_exists\", \"justification\": \"The affirmative state where a polynomial-time algorithm is constructively proven\", \"rejected_candidates\": []}, \"⊥\": {\"opcode\": \"⊥\", \"chosen_element\": \"exponential_barrier\", \"justification\": \"The negative state where the search space requires exponential time, refuting polynomial solvability\", \"rejected_candidates\": []}, \"⊞\": {\"opcode\": \"⊞\", \"chosen_element\": \"meta_barrier_paradox\", \"justification\": \"The paradice state holding both relativization and natural proofs barriers simultaneously without resolution\", \"rejected_candidates\": []}, \"⊡\": {\"opcode\": \"⊡\", \"chosen_element\": \"winding_number_record\", \"justification\": \"The permanent, append-only record of the integer separation (16 turns) defining the knot topology\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"decision_branch\", \"split_input\": \"unresolved_complexity_question\", \"split_outputs\": [\"polynomial_solver_exists\", \"exponential_barrier\"], \"fuse_element\": \"complexity_verdict\", \"fuse_result\": \"B (both P=NP and P!=NP held as a stable contradiction in the meta-theory)\", \"frobenius_verdict\": \"T\", \"test_instance\": \"\", \"failure_reason\": \"Tri-ancestral reconnection over a transformed object — closes\"}, \"phase_3\": {\"void_description\": \"No problem instance defined; the empty set of constraints\", \"true_description\": \"A polynomial-time algorithm has been found and verified for the NP-complete problem\", \"false_description\": \"The problem is proven to require super-polynomial time; no efficient solver exists\", \"both_description\": \"The system simultaneously holds the existence of a solver and the proof of its non-existence, stabilized by the meta-barriers of relativization and natural proofs\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}, \"phase_4\": {\"steps\": [{\"step_num\": 1, \"opcode\": \"⊢\", \"domain_action\": \"Initialize the void state before any decision problem is instantiated\"}, {\"step_num\": 2, \"opcode\": \"⊙\", \"domain_action\": \"Establish the self-referential nature of the P vs NP question as a critical threshold\"}, {\"step_num\": 3, \"opcode\": \"∈\", \"domain_action\": \"Branch the domain into the two competing hypotheses: P equals NP and P does not equal NP\"}, {\"step_num\": 4, \"opcode\": \"≻\", \"domain_action\": \"Traverse the T-arm attempting to construct a polynomial-time solver for SAT\"}, {\"step_num\": 5, \"opcode\": \"⊤\", \"domain_action\": \"Affirm the existence of a solver if the construction succeeds within the polynomial bound\"}, {\"step_num\": 6, \"opcode\": \"⋈\", \"domain_action\": \"Chain the solver construction through a sequence of polynomial-time reductions\"}, {\"step_num\": 7, \"opcode\": \"≺\", \"domain_action\": \"Traverse the F-arm validating the certificate against the problem constraints\"}, {\"step_num\": 8, \"opcode\": \"⊥\", \"domain_action\": \"Refute the solver existence by demonstrating the exponential barrier in the search space\"}, {\"step_num\": 9, \"opcode\": \"⊞\", \"domain_action\": \"Hold the meta-barriers (relativization, natural proofs, algebrization) as a simultaneous contradiction\"}, {\"step_num\": 10, \"opcode\": \"⊡\", \"domain_action\": \"Record the integer winding number (16 turns) as a permanent feature of the (16,3) knot\"}, {\"step_num\": 11, \"opcode\": \"⋈\", \"domain_action\": \"Compose the verification path looping back to the solution space\"}, {\"step_num\": 12, \"opcode\": \"⊙\", \"domain_action\": \"Re-assert the identity of the pinch point where the two lobes of the horn torus touch\"}, {\"step_num\": 13, \"opcode\": \"∋\", \"domain_action\": \"Rejoin the T and F arms into a single B4 verdict representing the unresolved but stable state of the domain\"}, {\"step_num\": 14, \"opcode\": \"⊣\", \"domain_action\": \"Anchor the entire system within the polynomial time boundary\"}, {\"step_num\": 15, \"opcode\": \"⊡\", \"domain_action\": \"Fix the final winding count as an immutable record of the complexity gap\"}], \"closure_verified\": true, \"failure_modes\": []}, \"phase_5\": {\"compiler_frontend\": \"The reduction engine that translates arbitrary NP problems into SAT instances\", \"ipc_mechanism\": \"The certificate exchange protocol between the prover and the verifier\", \"memory_mechanism\": \"The state space of the (16,3) knot storing the 16 toroidal windings\", \"scheduler_mechanism\": \"The polynomial-time clock that gates the verification process\", \"alfs_store\": \"The horn torus geometry itself, serving as the bootstrap store for the complexity classes\", \"alfs_bootstrap_program\": \"\"}, \"phase_6\": {\"cycle_cost\": \"The computational resources consumed in traversing the search space\", \"pre_cycle_state\": \"The system in a state of superposition between P and NP\", \"post_cycle_state\": \"The system in a state of B (both), holding the contradiction without collapse\", \"delta_s_verdict\": \"ΔS ≈ 0 — The cycle is entropy-conservative because the meta-barriers prevent the system from resolving to a single classical truth value, maintaining the information content of the paradox.\", \"failure_mode\": \"\"}}}",
+                "target": "𐑦𐑥𐑽𐑬𐑞𐑧𐑔𐑝⊙𐑖𐑳𐑭",
+                "evidence": "saved_ob3ect_grounding",
+                "source": {
+                  "path": "ob3ect/digital/p_vs_np_structure/p_vs_np_structure_ob3ect.json",
+                  "sha256": "021274794747c1db40fa2889086a541bfd04e5a03ec6b896111374bf3a29547c",
+                  "bytes": 30118,
+                  "kind": "ob3ect"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:5355",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:5355",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "axis_loss": 1.5136340284604877,
+              "prediction": {
+                "address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭",
+                "crystal_index": 13472254,
+                "observations": [
+                  {
+                    "axis": "⊢",
+                    "allowed": [
+                      "𐑛",
+                      "𐑨",
+                      "𐑼",
+                      "𐑦"
+                    ],
+                    "selected": "𐑦",
+                    "scores": [
+                      -8.946017168861879,
+                      -7.855741868261701,
+                      -7.770517439285356,
+                      -5.207662366430371
+                    ],
+                    "source_tokens_processed": 7229
+                  },
+                  {
+                    "axis": "⊣",
+                    "allowed": [
+                      "𐑡",
+                      "𐑰",
+                      "𐑥",
+                      "𐑶",
+                      "𐑸"
+                    ],
+                    "selected": "𐑡",
+                    "scores": [
+                      -6.432607342916265,
+                      -7.524118225120629,
+                      -10.43426532633276,
+                      -10.14300910560919,
+                      -7.343509300166902
+                    ],
+                    "source_tokens_processed": 7227
+                  },
+                  {
+                    "axis": "≻",
+                    "allowed": [
+                      "𐑩",
+                      "𐑑",
+                      "𐑽",
+                      "𐑾"
+                    ],
+                    "selected": "𐑽",
+                    "scores": [
+                      -14.999459998965737,
+                      -13.727419975284807,
+                      -9.236205392365653,
+                      -12.267205379763684
+                    ],
+                    "source_tokens_processed": 7231
+                  },
+                  {
+                    "axis": "≺",
+                    "allowed": [
+                      "𐑗",
+                      "𐑿",
+                      "𐑬",
+                      "𐑯",
+                      "𐑹"
+                    ],
+                    "selected": "𐑿",
+                    "scores": [
+                      -10.347046011594085,
+                      -9.359521485606537,
+                      -11.283321175390471,
+                      -11.431748400098163,
+                      -12.590977797255078
+                    ],
+                    "source_tokens_processed": 7233
+                  },
+                  {
+                    "axis": "⋈",
+                    "allowed": [
+                      "𐑱",
+                      "𐑞",
+                      "𐑐"
+                    ],
+                    "selected": "𐑐",
+                    "scores": [
+                      -9.590967835397977,
+                      -8.428368209774405,
+                      -5.294823543864773
+                    ],
+                    "source_tokens_processed": 7239
+                  },
+                  {
+                    "axis": "⊤",
+                    "allowed": [
+                      "𐑘",
+                      "𐑤",
+                      "𐑧",
+                      "𐑪",
+                      "𐑺"
+                    ],
+                    "selected": "𐑧",
+                    "scores": [
+                      -8.94492193724176,
+                      -8.194390430890298,
+                      -7.22278083116955,
+                      -8.585999408895855,
+                      -15.06114162183696
+                    ],
+                    "source_tokens_processed": 7243
+                  },
+                  {
+                    "axis": "∈",
+                    "allowed": [
+                      "𐑚",
+                      "𐑔",
+                      "𐑲"
+                    ],
+                    "selected": "𐑲",
+                    "scores": [
+                      -7.121471407566303,
+                      -5.840324856529348,
+                      -4.8810913706543015
+                    ],
+                    "source_tokens_processed": 7250
+                  },
+                  {
+                    "axis": "∋",
+                    "allowed": [
+                      "𐑝",
+                      "𐑜",
+                      "𐑠",
+                      "𐑵"
+                    ],
+                    "selected": "𐑠",
+                    "scores": [
+                      -8.768196115696155,
+                      -8.831251718088664,
+                      -7.270940979957155,
+                      -8.008501700941203
+                    ],
+                    "source_tokens_processed": 7254
+                  },
+                  {
+                    "axis": "⊙",
+                    "allowed": [
+                      "𐑢",
+                      "⊙",
+                      "𐑮",
+                      "𐑻",
+                      "𐑣"
+                    ],
+                    "selected": "⊙",
+                    "scores": [
+                      -6.1429299949749945,
+                      -5.397368684825334,
+                      -17.195156758272798,
+                      -10.730654603576674,
+                      -8.70311573792388
+                    ],
+                    "source_tokens_processed": 7258
+                  },
+                  {
+                    "axis": "⊥",
+                    "allowed": [
+                      "𐑓",
+                      "𐑒",
+                      "𐑖",
+                      "𐑫"
+                    ],
+                    "selected": "𐑫",
+                    "scores": [
+                      -7.744325395838905,
+                      -7.403921849504544,
+                      -6.370328424762172,
+                      -5.534646590977873
+                    ],
+                    "source_tokens_processed": 7259
+                  },
+                  {
+                    "axis": "⊞",
+                    "allowed": [
+                      "𐑙",
+                      "𐑕",
+                      "𐑳"
+                    ],
+                    "selected": "𐑳",
+                    "scores": [
+                      -6.217630533097687,
+                      -9.351522187388241,
+                      -5.937715516926717
+                    ],
+                    "source_tokens_processed": 7267
+                  },
+                  {
+                    "axis": "⊡",
+                    "allowed": [
+                      "𐑷",
+                      "𐑴",
+                      "𐑭",
+                      "𐑟"
+                    ],
+                    "selected": "𐑭",
+                    "scores": [
+                      -7.211284514977886,
+                      -9.700794613472858,
+                      -6.795071363863263,
+                      -16.562812994259257
+                    ],
+                    "source_tokens_processed": 7265
+                  }
+                ]
+              },
+              "correct_coordinates": 6,
+              "exact": false
+            },
+            {
+              "source": {
+                "id": "ob3ect:ob3ect/digital/yang_mills_existence_and_mass_gap_theorem/yang_mills_existence_and_mass_gap_theorem_ob3ect.json:5afe2a569dbc7b1638a6d31f9d93faa832663638011b0bea6c0951eaf756ad1c:ob3ect_to_tuple:tuple",
+                "task": "ob3ect_to_tuple",
+                "source_id": "ob3ect:ob3ect/digital/yang_mills_existence_and_mass_gap_theorem/yang_mills_existence_and_mass_gap_theorem_ob3ect.json:5afe2a569dbc7b1638a6d31f9d93faa832663638011b0bea6c0951eaf756ad1c",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:8377",
+                "split": "validation",
+                "prompt": "Return the recorded grounded tuple for this ob3ect.\n{\"name\": \"Yang–Mills Existence and Mass Gap Theorem\", \"recorded_phases\": {\"phase_0\": {\"domain_name\": \"Yang–Mills Existence and Mass Gap Theorem\", \"domain_type\": \"physical\", \"scope\": \"local\", \"surface_tokens\": [\"gauge_field\", \"instanton\", \"mass_gap\", \"vacuum_state\", \"gluon_mode\"], \"boundary_condition\": \"The compact simple gauge group topology that enforces the non-trivial vacuum structure and prevents continuous deformation to a trivial state.\", \"justification\": \"Auto-designed by Ob3ect Auto-Designer\"}, \"phase_1\": {\"⊢\": {\"opcode\": \"⊢\", \"chosen_element\": \"Euclidean_4D_Space\", \"justification\": \"The void substrate before the gauge field configuration is defined; the empty manifold awaiting the Yang-Mills action.\", \"rejected_candidates\": []}, \"⊣\": {\"opcode\": \"⊣\", \"chosen_element\": \"Compact_Gauge_Group\", \"justification\": \"The terminal anchor that contains the system; the boundary condition requiring the field to return to the identity at infinity, closing the topology.\", \"rejected_candidates\": []}, \"≻\": {\"opcode\": \"≻\", \"chosen_element\": \"Scale_Breaking\", \"justification\": \"The forward morphism where conformal invariance is broken to generate the mass gap, moving from the critical threshold to the massive regime.\", \"rejected_candidates\": []}, \"≺\": {\"opcode\": \"≺\", \"chosen_element\": \"Topological_Winding\", \"justification\": \"The reverse descent into the vacuum structure; the non-perturbative configurations (instantons) that pull the system back from the perturbative vacuum.\", \"rejected_candidates\": []}, \"⋈\": {\"opcode\": \"⋈\", \"chosen_element\": \"Gluon_Self_Coupling\", \"justification\": \"The composition of non-Abelian interactions; the sequential chaining of gluon modes that enforces the geometry of the mass gap.\", \"rejected_candidates\": []}, \"⊙\": {\"opcode\": \"⊙\", \"chosen_element\": \"Critical_Threshold\", \"justification\": \"The self-referential point where the theory defines its own transition; the state where scale invariance breaks and the mass gap emerges.\", \"rejected_candidates\": []}, \"∈\": {\"opcode\": \"∈\", \"chosen_element\": \"Vacuum_Decomposition\", \"justification\": \"The splitting of the vacuum state into the perturbative sector (massless) and the non-perturbative sector (instanton-induced mass gap).\", \"rejected_candidates\": []}, \"∋\": {\"opcode\": \"∋\", \"chosen_element\": \"Spectral_Gap\", \"justification\": \"The reconstitution of the spectrum where the conflicting arms (massless perturbative vs massive non-perturbative) fuse into a single positive mass gap.\", \"rejected_candidates\": []}, \"⊤\": {\"opcode\": \"⊤\", \"chosen_element\": \"Positive_Mass_Gap\", \"justification\": \"The affirmative state where the energy barrier prevents fluctuation into massless configurations, confirming the existence of the gap.\", \"rejected_candidates\": []}, \"⊥\": {\"opcode\": \"⊥\", \"chosen_element\": \"Massless_Fluctuation\", \"justification\": \"The negative state representing the hypothetical massless configuration that is refuted by the topological barrier.\", \"rejected_candidates\": []}, \"⊞\": {\"opcode\": \"⊞\", \"chosen_element\": \"Z2_Symmetry_Breaking\", \"justification\": \"The paradice state holding both the symmetric vacuum and the broken orientational symmetry simultaneously; the critical point where the gap is generated.\", \"rejected_candidates\": []}, \"⊡\": {\"opcode\": \"⊡\", \"chosen_element\": \"Rigorous_Proof\", \"justification\": \"The permanent fixation of the theorem; the append-only record that the mass gap exists for any compact simple gauge group.\", \"rejected_candidates\": []}}, \"phase_2\": {\"split_element\": \"Vacuum_Decomposition\", \"split_input\": \"The unified gauge field configuration space\", \"split_outputs\": [\"Perturbative_Vacuum_Arm\", \"Non_Perturbative_Instanton_Arm\"], \"fuse_element\": \"Spectral_Gap\", \"fuse_result\": \"A single positive mass gap state (B) where the conflict between massless and massive sectors is resolved into a stable energy barrier.\", \"frobenius_verdict\": \"T\", \"test_instance\": \"\", \"failure_reason\": \"Tri-ancestral reconnection over a transformed object — closes\"}, \"phase_3\": {\"void_description\": \"The 4D Euclidean space before the gauge field is instantiated; no topology or mass defined.\", \"true_description\": \"The existence of a positive mass gap is constructively proven; the spectrum is bounded away from zero.\", \"false_description\": \"The hypothesis of a massless spectrum is refuted; the vacuum cannot fluctuate into a trivial state.\", \"both_description\": \"The critical threshold where the theory holds both conformal symmetry and broken symmetry simultaneously, generating the gap.\", \"transitions\": [], \"entropy_assertion\": \"ΔS ≈ 0\"}, \"phase_4\": {\"steps\": [{\"step_num\": 1, \"opcode\": \"⊢\", \"domain_action\": \"Initialize the 4D Euclidean space as the void substrate for the gauge theory.\"}, {\"step_num\": 2, \"opcode\": \"⊣\", \"domain_action\": \"Anchor the system with the compact simple gauge group boundary conditions.\"}, {\"step_num\": 3, \"opcode\": \"∈\", \"domain_action\": \"Decompose the vacuum into perturbative and non-perturbative sectors.\"}, {\"step_num\": 4, \"opcode\": \"≻\", \"domain_action\": \"Advance the perturbative arm toward scale invariance and massless behavior.\"}, {\"step_num\": 5, \"opcode\": \"⊤\", \"domain_action\": \"Affirm the perturbative vacuum state as the baseline for comparison.\"}, {\"step_num\": 6, \"opcode\": \"≺\", \"domain_action\": \"Descend the non-perturbative arm into the instanton configurations.\"}, {\"step_num\": 7, \"opcode\": \"⊥\", \"domain_action\": \"Refute the massless hypothesis within the instanton sector.\"}, {\"step_num\": 8, \"opcode\": \"⋈\", \"domain_action\": \"Compose the gluon self-interactions to enforce non-Abelian geometry.\"}, {\"step_num\": 9, \"opcode\": \"⊞\", \"domain_action\": \"Hold the Z2 symmetry breaking state where both vacuum types coexist.\"}, {\"step_num\": 10, \"opcode\": \"⊙\", \"domain_action\": \"Identify the critical threshold where scale invariance breaks.\"}, {\"step_num\": 11, \"opcode\": \"∋\", \"domain_action\": \"Rejoin the perturbative and instanton arms to form the spectral gap.\"}, {\"step_num\": 12, \"opcode\": \"⊡\", \"domain_action\": \"Permanently record the existence of the positive mass gap.\"}, {\"step_num\": 13, \"opcode\": \"⋈\", \"domain_action\": \"Chain the result to the holographic principle linking boundary to bulk.\"}, {\"step_num\": 14, \"opcode\": \"≻\", \"domain_action\": \"Propagate the mass gap across all scales via the adjoint action.\"}, {\"step_num\": 15, \"opcode\": \"≺\", \"domain_action\": \"Reverse the flow to verify topological stability against deformation.\"}, {\"step_num\": 16, \"opcode\": \"⊤\", \"domain_action\": \"Confirm the high energy barrier prevents low-energy perturbations.\"}, {\"step_num\": 17, \"opcode\": \"⊥\", \"domain_action\": \"Reject the possibility of continuous deformation to a trivial state.\"}, {\"step_num\": 18, \"opcode\": \"⊞\", \"domain_action\": \"Maintain the paradice of asymmetric field configurations.\"}, {\"step_num\": 19, \"opcode\": \"⊡\", \"domain_action\": \"Fix the rigorous proof of the mass gap in the append-only record.\"}, {\"step_num\": 20, \"opcode\": \"⊣\", \"domain_action\": \"Close the system with the final boundary of the proven theorem.\"}], \"closure_verified\": true, \"failure_modes\": []}, \"phase_5\": {\"compiler_frontend\": \"The Yang-Mills action functional that translates gauge field configurations into energy states.\", \"ipc_mechanism\": \"Non-Abelian gluon exchange that mediates interactions between field modes.\", \"memory_mechanism\": \"The topological winding number that stores the vacuum structure.\", \"scheduler_mechanism\": \"The renormalization group flow that determines the order of scale transformations.\", \"alfs_store\": \"The Millennium Prize Problem definition for Yang-Mills existence and mass gap.\", \"alfs_bootstrap_program\": \"\"}, \"phase_6\": {\"cycle_cost\": \"The computational complexity of resolving the non-perturbative vacuum structure.\", \"pre_cycle_state\": \"A system with undefined mass and potential scale invariance.\", \"post_cycle_state\": \"A system with a defined positive mass gap and broken scale invariance.\", \"delta_s_verdict\": \"ΔS ≈ 0 — The topological constraints preserve the information of the vacuum structure while generating the mass gap.\", \"failure_mode\": \"\"}}}",
+                "target": "𐑦𐑥𐑽𐑹𐑐𐑧𐑚𐑵⊙𐑫𐑳𐑟",
+                "evidence": "saved_ob3ect_grounding",
+                "source": {
+                  "path": "ob3ect/digital/yang_mills_existence_and_mass_gap_theorem/yang_mills_existence_and_mass_gap_theorem_ob3ect.json",
+                  "sha256": "5afe2a569dbc7b1638a6d31f9d93faa832663638011b0bea6c0951eaf756ad1c",
+                  "bytes": 38529,
+                  "kind": "ob3ect"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:8377",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:8377",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "axis_loss": 2.074455534180755,
+              "prediction": {
+                "address": "𐑦𐑡𐑽𐑿𐑐𐑤𐑲𐑠𐑢𐑫𐑙𐑭",
+                "crystal_index": 13469318,
+                "observations": [
+                  {
+                    "axis": "⊢",
+                    "allowed": [
+                      "𐑛",
+                      "𐑨",
+                      "𐑼",
+                      "𐑦"
+                    ],
+                    "selected": "𐑦",
+                    "scores": [
+                      -8.03142023111428,
+                      -7.041946196543329,
+                      -7.131927765981659,
+                      -4.197016010967751
+                    ],
+                    "source_tokens_processed": 8235
+                  },
+                  {
+                    "axis": "⊣",
+                    "allowed": [
+                      "𐑡",
+                      "𐑰",
+                      "𐑥",
+                      "𐑶",
+                      "𐑸"
+                    ],
+                    "selected": "𐑡",
+                    "scores": [
+                      -6.953647510298417,
+                      -7.405780913520776,
+                      -10.774354327837493,
+                      -10.37202938796629,
+                      -7.2926917683972015
+                    ],
+                    "source_tokens_processed": 8233
+                  },
+                  {
+                    "axis": "≻",
+                    "allowed": [
+                      "𐑩",
+                      "𐑑",
+                      "𐑽",
+                      "𐑾"
+                    ],
+                    "selected": "𐑽",
+                    "scores": [
+                      -12.435808346875083,
+                      -11.769119715049875,
+                      -6.870495285397785,
+                      -8.970327264022849
+                    ],
+                    "source_tokens_processed": 8237
+                  },
+                  {
+                    "axis": "≺",
+                    "allowed": [
+                      "𐑗",
+                      "𐑿",
+                      "𐑬",
+                      "𐑯",
+                      "𐑹"
+                    ],
+                    "selected": "𐑿",
+                    "scores": [
+                      -8.60444856155384,
+                      -7.29268149991357,
+                      -9.138670561492653,
+                      -9.362719398664641,
+                      -10.185986061974747
+                    ],
+                    "source_tokens_processed": 8239
+                  },
+                  {
+                    "axis": "⋈",
+                    "allowed": [
+                      "𐑱",
+                      "𐑞",
+                      "𐑐"
+                    ],
+                    "selected": "𐑐",
+                    "scores": [
+                      -9.012308938377775,
+                      -8.053905532007846,
+                      -6.021530101705064
+                    ],
+                    "source_tokens_processed": 8245
+                  },
+                  {
+                    "axis": "⊤",
+                    "allowed": [
+                      "𐑘",
+                      "𐑤",
+                      "𐑧",
+                      "𐑪",
+                      "𐑺"
+                    ],
+                    "selected": "𐑤",
+                    "scores": [
+                      -7.366721122178678,
+                      -6.545195672256712,
+                      -6.8406203490687005,
+                      -7.097370231793361,
+                      -17.380826388726838
+                    ],
+                    "source_tokens_processed": 8249
+                  },
+                  {
+                    "axis": "∈",
+                    "allowed": [
+                      "𐑚",
+                      "𐑔",
+                      "𐑲"
+                    ],
+                    "selected": "𐑲",
+                    "scores": [
+                      -7.743206922410712,
+                      -6.257239892788075,
+                      -5.432550534241491
+                    ],
+                    "source_tokens_processed": 8256
+                  },
+                  {
+                    "axis": "∋",
+                    "allowed": [
+                      "𐑝",
+                      "𐑜",
+                      "𐑠",
+                      "𐑵"
+                    ],
+                    "selected": "𐑠",
+                    "scores": [
+                      -9.097145751691523,
+                      -8.720134308914645,
+                      -7.031059148030363,
+                      -7.752332908925703
+                    ],
+                    "source_tokens_processed": 8260
+                  },
+                  {
+                    "axis": "⊙",
+                    "allowed": [
+                      "𐑢",
+                      "⊙",
+                      "𐑮",
+                      "𐑻",
+                      "𐑣"
+                    ],
+                    "selected": "𐑢",
+                    "scores": [
+                      -7.039030994456592,
+                      -7.063645487654253,
+                      -18.530580180845792,
+                      -13.358845417018909,
+                      -9.469664178123653
+                    ],
+                    "source_tokens_processed": 8264
+                  },
+                  {
+                    "axis": "⊥",
+                    "allowed": [
+                      "𐑓",
+                      "𐑒",
+                      "𐑖",
+                      "𐑫"
+                    ],
+                    "selected": "𐑫",
+                    "scores": [
+                      -8.919039125455509,
+                      -7.40845613426542,
+                      -7.151616164626809,
+                      -6.306645397788787
+                    ],
+                    "source_tokens_processed": 8266
+                  },
+                  {
+                    "axis": "⊞",
+                    "allowed": [
+                      "𐑙",
+                      "𐑕",
+                      "𐑳"
+                    ],
+                    "selected": "𐑙",
+                    "scores": [
+                      -5.4275606779009875,
+                      -10.550817605937127,
+                      -6.648078716940415
+                    ],
+                    "source_tokens_processed": 8274
+                  },
+                  {
+                    "axis": "⊡",
+                    "allowed": [
+                      "𐑷",
+                      "𐑴",
+                      "𐑭",
+                      "𐑟"
+                    ],
+                    "selected": "𐑭",
+                    "scores": [
+                      -6.4316315794627315,
+                      -9.11336456459916,
+                      -5.936004636075423,
+                      -14.769629657195388
+                    ],
+                    "source_tokens_processed": 8272
+                  }
+                ]
+              },
+              "correct_coordinates": 4,
+              "exact": false
+            }
+          ]
+        },
+        "tuple_to_catalog": {
+          "summary": {
+            "mean_record_text_loss": 2.605165215917629,
+            "label_mean_text_loss": 2.595554402937198
+          },
+          "rows": [
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:647:tuple_to_catalog:meaning",
+                "task": "tuple_to_catalog",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:647",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:647",
+                "split": "validation",
+                "prompt": "Describe the catalog entry named protecting_group_chemistry at tuple 𐑛𐑰𐑑𐑗𐑱𐑤𐑚𐑠𐑢𐑒𐑳𐑷.",
+                "target": "{\"name\": \"protecting_group_chemistry\", \"description\": \"Conventional organic synthesis using protecting groups to mask reactive functional groups during transformations\"}",
+                "evidence": "catalog_attestation",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/647"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:647",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:647",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.459172390167274,
+              "labels": 170,
+              "source_tokens_processed": 289
+            },
+            {
+              "source": {
+                "id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:1492:tuple_to_catalog:meaning",
+                "task": "tuple_to_catalog",
+                "source_id": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:1492",
+                "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:1492",
+                "split": "validation",
+                "prompt": "Describe the catalog entry named gap_phantoms at tuple 𐑨𐑶𐑩𐑿𐑞𐑤𐑔𐑜⊙𐑒𐑳𐑷.",
+                "target": "{\"name\": \"gap_phantoms\", \"description\": \"Gap phantoms floor: no Omega_dzlig enforcement on output count, soft constraints allow phantom detections\"}",
+                "evidence": "catalog_attestation",
+                "source": {
+                  "path": "imscribing_grammar/IG_catalog.json",
+                  "sha256": "6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba",
+                  "bytes": 3677806,
+                  "kind": "catalog",
+                  "json_pointer": "/1492"
+                },
+                "prior_family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:1492",
+                "prior_split": "validation",
+                "dataset_revision": "artifact_family_closure_v1",
+                "family_history": [
+                  {
+                    "family": "catalog:6083d8e5c43c96517add69072fc3b6ca105681bdf079223dabe13500524adcba:1492",
+                    "split": "validation"
+                  }
+                ]
+              },
+              "text_loss": 2.751158041667984,
+              "labels": 149,
+              "source_tokens_processed": 253
+            }
+          ]
+        }
+      },
+      "task_balanced_text_loss": 2.6833821484251232
+    }
+  ]
+}

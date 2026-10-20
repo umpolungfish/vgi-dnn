@@ -1,0 +1,231 @@
+{
+  "ops_checkpoint": "../IMASM_GRAMMAR_DNN_OPS/operation_checkpoints/best_ops.pt",
+  "carrier_checkpoint": "../GRAMMAR_CARRIER_LEARNER/carrier_checkpoints/best_carrier.pt",
+  "results": [
+    {
+      "cases": 256,
+      "steps_per_case": 8,
+      "total_steps": 2048,
+      "coordinate_step_accuracy": 1.0,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 1.0,
+      "full_trajectory_exact": 1.0,
+      "final_state_exact": 1.0,
+      "cases_with_intermediate_failure": 0,
+      "cases_recovered_by_final": 0,
+      "first_failure_mean": null,
+      "failure_examples": [],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    },
+    {
+      "cases": 256,
+      "steps_per_case": 16,
+      "total_steps": 4096,
+      "coordinate_step_accuracy": 0.999046,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 0.999268,
+      "full_trajectory_exact": 0.996094,
+      "final_state_exact": 1.0,
+      "cases_with_intermediate_failure": 1,
+      "cases_recovered_by_final": 1,
+      "first_failure_mean": 3.0,
+      "failure_examples": [
+        {
+          "case": 217,
+          "first_failure_step": 3,
+          "final_recovered": true
+        }
+      ],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    },
+    {
+      "cases": 256,
+      "steps_per_case": 32,
+      "total_steps": 8192,
+      "coordinate_step_accuracy": 0.997293,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 0.997437,
+      "full_trajectory_exact": 0.996094,
+      "final_state_exact": 0.996094,
+      "cases_with_intermediate_failure": 1,
+      "cases_recovered_by_final": 0,
+      "first_failure_mean": 12.0,
+      "failure_examples": [
+        {
+          "case": 162,
+          "first_failure_step": 12,
+          "final_recovered": false
+        }
+      ],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    },
+    {
+      "cases": 256,
+      "steps_per_case": 64,
+      "total_steps": 16384,
+      "coordinate_step_accuracy": 0.992945,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 0.992676,
+      "full_trajectory_exact": 0.964844,
+      "final_state_exact": 0.980469,
+      "cases_with_intermediate_failure": 9,
+      "cases_recovered_by_final": 4,
+      "first_failure_mean": 40.222,
+      "failure_examples": [
+        {
+          "case": 21,
+          "first_failure_step": 39,
+          "final_recovered": true
+        },
+        {
+          "case": 28,
+          "first_failure_step": 28,
+          "final_recovered": true
+        },
+        {
+          "case": 99,
+          "first_failure_step": 33,
+          "final_recovered": false
+        },
+        {
+          "case": 200,
+          "first_failure_step": 29,
+          "final_recovered": true
+        },
+        {
+          "case": 208,
+          "first_failure_step": 52,
+          "final_recovered": false
+        },
+        {
+          "case": 218,
+          "first_failure_step": 64,
+          "final_recovered": false
+        },
+        {
+          "case": 221,
+          "first_failure_step": 44,
+          "final_recovered": false
+        },
+        {
+          "case": 245,
+          "first_failure_step": 24,
+          "final_recovered": true
+        }
+      ],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    },
+    {
+      "cases": 256,
+      "steps_per_case": 128,
+      "total_steps": 32768,
+      "coordinate_step_accuracy": 0.98712,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 0.987488,
+      "full_trajectory_exact": 0.945312,
+      "final_state_exact": 0.988281,
+      "cases_with_intermediate_failure": 14,
+      "cases_recovered_by_final": 11,
+      "first_failure_mean": 54.214,
+      "failure_examples": [
+        {
+          "case": 31,
+          "first_failure_step": 93,
+          "final_recovered": true
+        },
+        {
+          "case": 51,
+          "first_failure_step": 82,
+          "final_recovered": true
+        },
+        {
+          "case": 56,
+          "first_failure_step": 31,
+          "final_recovered": true
+        },
+        {
+          "case": 59,
+          "first_failure_step": 127,
+          "final_recovered": false
+        },
+        {
+          "case": 60,
+          "first_failure_step": 109,
+          "final_recovered": false
+        },
+        {
+          "case": 67,
+          "first_failure_step": 4,
+          "final_recovered": true
+        },
+        {
+          "case": 135,
+          "first_failure_step": 126,
+          "final_recovered": false
+        },
+        {
+          "case": 138,
+          "first_failure_step": 21,
+          "final_recovered": true
+        }
+      ],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    },
+    {
+      "cases": 256,
+      "steps_per_case": 256,
+      "total_steps": 65536,
+      "coordinate_step_accuracy": 0.992185,
+      "carrier_step_accuracy": 1.0,
+      "mixed_intermediate_accuracy": 0.992325,
+      "full_trajectory_exact": 0.910156,
+      "final_state_exact": 0.988281,
+      "cases_with_intermediate_failure": 23,
+      "cases_recovered_by_final": 20,
+      "first_failure_mean": 135.826,
+      "failure_examples": [
+        {
+          "case": 20,
+          "first_failure_step": 108,
+          "final_recovered": true
+        },
+        {
+          "case": 30,
+          "first_failure_step": 6,
+          "final_recovered": true
+        },
+        {
+          "case": 31,
+          "first_failure_step": 27,
+          "final_recovered": true
+        },
+        {
+          "case": 33,
+          "first_failure_step": 15,
+          "final_recovered": true
+        },
+        {
+          "case": 34,
+          "first_failure_step": 152,
+          "final_recovered": true
+        },
+        {
+          "case": 43,
+          "first_failure_step": 113,
+          "final_recovered": true
+        },
+        {
+          "case": 65,
+          "first_failure_step": 36,
+          "final_recovered": true
+        },
+        {
+          "case": 69,
+          "first_failure_step": 75,
+          "final_recovered": true
+        }
+      ],
+      "qualification": "pretrained coordinate and carrier neural operators with exact operational targets"
+    }
+  ]
+}

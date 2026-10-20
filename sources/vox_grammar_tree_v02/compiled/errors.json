@@ -1,0 +1,231 @@
+[
+  {
+    "line": 2780,
+    "error": "malformed row"
+  },
+  {
+    "line": 2781,
+    "error": "malformed row"
+  },
+  {
+    "line": 2782,
+    "name": "navier_solves_navigator_resolved",
+    "errors": [
+      "axis 4 (parity) rejects '⊙'"
+    ]
+  },
+  {
+    "line": 2783,
+    "name": "zfc_t_system",
+    "errors": [
+      "axis 4 (parity) rejects '⊙'"
+    ]
+  },
+  {
+    "line": 2784,
+    "name": "zfc_t_ref",
+    "errors": [
+      "axis 4 (parity) rejects '⊙'"
+    ]
+  },
+  {
+    "line": 3634,
+    "name": "boron",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3636,
+    "name": "nitrogen",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3641,
+    "name": "aluminium",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3643,
+    "name": "phosphorus",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3657,
+    "name": "gallium",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3659,
+    "name": "arsenic",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3675,
+    "name": "indium",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3677,
+    "name": "antimony",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3706,
+    "name": "thallium",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3708,
+    "name": "bismuth",
+    "errors": [
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3728,
+    "name": "rutherfordium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3729,
+    "name": "dubnium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3730,
+    "name": "seaborgium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3731,
+    "name": "bohrium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3732,
+    "name": "hassium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3733,
+    "name": "meitnerium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3734,
+    "name": "darmstadtium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3735,
+    "name": "roentgenium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3736,
+    "name": "copernicium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3737,
+    "name": "nihonium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'",
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3738,
+    "name": "flerovium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3739,
+    "name": "moscovium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'",
+      "axis 11 (stoichiometry) rejects '𐑛'"
+    ]
+  },
+  {
+    "line": 3740,
+    "name": "livermorium",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3741,
+    "name": "tennessine",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 3742,
+    "name": "oganesson",
+    "errors": [
+      "axis 9 (criticality) rejects '𐑧'"
+    ]
+  },
+  {
+    "line": 7025,
+    "name": "inverse_winding_partner",
+    "errors": [
+      "axis 12 (winding) rejects '𐑯'"
+    ]
+  },
+  {
+    "line": 7028,
+    "name": "inverse_winding_partner_refined",
+    "errors": [
+      "axis 12 (winding) rejects '𐑯'"
+    ]
+  },
+  {
+    "line": 8704,
+    "name": "photon_ligand1",
+    "errors": [
+      "axis 3 (coupling) rejects '?'",
+      "axis 4 (parity) rejects '?'",
+      "axis 12 (winding) rejects '?'"
+    ]
+  }
+]

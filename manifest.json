@@ -1,0 +1,155 @@
+{
+  "archives": [
+    {
+      "archive": "GRAMMAR_CARRIER_LEARNER.zip",
+      "entries": 15,
+      "sha256": "31c3da3ce3c70f91dfac02028bea7ee55b9777575fc2c001b5bd3135657956ca"
+    },
+    {
+      "archive": "GRAMMAR_CERTIFIED_EXECUTION.zip",
+      "entries": 12,
+      "sha256": "59f7384c7c97c75e84b899744194ceb3a4ec2be84c9f2a5aec90721faa7b01a2"
+    },
+    {
+      "archive": "GRAMMAR_CHAIN_TEST_ADDON.zip",
+      "entries": 4,
+      "sha256": "b4712d9affe71f82de5492678cab77766eff48f7873db2c06c1301b580145acf"
+    },
+    {
+      "archive": "GRAMMAR_COORDINATE_REPAIR.zip",
+      "entries": 5,
+      "sha256": "85788ab4c74204c068c18e5ecd7db9e120aab315c194b64bb3e3aacb7d5cf20b"
+    },
+    {
+      "archive": "GRAMMAR_DYNAMIC_V1.zip",
+      "entries": 10,
+      "sha256": "d29ee288c87f64810c530d52e00e042068b6961c567bcfad3edae9e6577882e1"
+    },
+    {
+      "archive": "GRAMMAR_INTEGRATED_AUDIT.zip",
+      "entries": 5,
+      "sha256": "7bf0111bea70bc880b7cc7565397f504a97fc41d9ebcf2018c5f283764e401b0"
+    },
+    {
+      "archive": "GRAMMAR_INTEGRATED_V1.zip",
+      "entries": 9,
+      "sha256": "21be54577eeb3ea866df5e56549d62c0c6d7d8d431ed456a5007826f997e5280"
+    },
+    {
+      "archive": "GRAMMAR_ORACLE_ATTRIBUTION.zip",
+      "entries": 5,
+      "sha256": "e5d057fa5e8f8e5d97b52b9b38a4fb038e881d6faa1e17a4114b8fdf142ccfb3"
+    },
+    {
+      "archive": "GRAMMAR_REPAIR_AB.zip",
+      "entries": 5,
+      "sha256": "d7b32a4475ab28f48fb86681d53c877132aa5e51ec4cf989e5c1a20786b2b740"
+    },
+    {
+      "archive": "GRAMMAR_SIC_GATE.zip",
+      "entries": 6,
+      "sha256": "323a74d6d6e60b389d32c46eb836b5a14d9dfd8eb083053f0203dcc705ab3921"
+    },
+    {
+      "archive": "GRAMMAR_UNIFIED_RUN.zip",
+      "entries": 21,
+      "sha256": "b0b266d49347737bf086391a8edae2bacabd8b1ce426f56adc576112a5e25a59"
+    },
+    {
+      "archive": "GRAMMAR_UNIFIED_RUN_FIXED.zip",
+      "entries": 25,
+      "sha256": "d010464dbcbbb71446dc63d7412e6c9c7dd8faad6d9860bf1d45275fb13d73ab"
+    },
+    {
+      "archive": "GRAMMAR_ZETA_SIC_ORACLE.zip",
+      "entries": 8,
+      "sha256": "22a23421b7abbdc4fdc4e79babf8aae6ab64289acfbb7087f8384ae5f1a0171f"
+    },
+    {
+      "archive": "IMASM_GRAMMAR_COMPLETE.zip",
+      "entries": 23,
+      "sha256": "92b732a1f71dfb968b7ca24c07cb94813961adcae9d18ea251e20a6424aa2ed0"
+    },
+    {
+      "archive": "IMASM_GRAMMAR_DNN_FIXED.zip",
+      "entries": 30,
+      "sha256": "235542549decab185fba22cef5d69f7f130be6b5cf6e57b9352580552ed7e4b9"
+    },
+    {
+      "archive": "IMASM_GRAMMAR_DNN_OPS.zip",
+      "entries": 36,
+      "sha256": "5d8377754be77c84b8d2ded69c535dfd493973bdd50e78d470b1e375d0113e56"
+    },
+    {
+      "archive": "IMASM_GRAMMAR_DNN_V1.zip",
+      "entries": 26,
+      "sha256": "60f55f266f078ee1bc8f7bfa8c36704f487421a9bc9b94804bcbdc10de65eb27"
+    },
+    {
+      "archive": "grammar_training_v1.zip",
+      "entries": 11,
+      "sha256": "426a05c0c477377d57f5d380ffe51246e6c5a7e8d6ba0ae428b73093456bcb4a"
+    },
+    {
+      "archive": "vox_grammar_bootstrap.zip",
+      "entries": 10,
+      "sha256": "a309e1b35fc0bbe3509a2967a44079396b41e2cc3217b223b1427b8c42198fe3"
+    },
+    {
+      "archive": "vox_grammar_induxion_v01.zip",
+      "entries": 9,
+      "sha256": "f3989e52790c9cd004dcde79cb734ee9cc609c0a9f8d58710fa5d1fad8176a60"
+    },
+    {
+      "archive": "vox_grammar_tree_v02.zip",
+      "entries": 14,
+      "sha256": "bca6c02e3693251dd7b33ca85605a353cd0c2ce5691d0b7859d4aa31c8a7c5b7"
+    },
+    {
+      "archive": "vox_imasm_traces_v03.zip",
+      "entries": 5,
+      "sha256": "f4359b7f6255ab4beec4bd8060aa59d0218bea9ba90418df9ae063c229cb6cc1"
+    }
+  ],
+  "notes": [
+    "UNOfd.txt",
+    "Pasted text(20261014-215418).txt",
+    "INDUXION.pdf",
+    "HORN_TORUS_GEOMETRY_CONTEXT.md",
+    "grammartree_unresolved_rows.txt",
+    "SNS_PRIME.md",
+    "grammartree_fixed.txt",
+    "Pasted markdown(7).md",
+    "UNOfd_repair_audit.json",
+    "Pasted text(20261014-223612).txt",
+    "INDUXION(1).pdf",
+    "UNOfd_repaired.txt",
+    "IMSCRIBERS_GUIDE_TO_IMASM.md",
+    "grammartree_names_restored.txt",
+    "ZPE_Specs.md",
+    "grammartree.txt"
+  ],
+  "stages": [
+    "GRAMMAR_CERTIFIED_EXECUTION",
+    "vox_grammar_bootstrap",
+    "GRAMMAR_CHAIN_TEST",
+    "IMASM_GRAMMAR_DNN_OPS",
+    "GRAMMAR_ZETA_SIC_ORACLE",
+    "GRAMMAR_REPAIR_AB",
+    "GRAMMAR_INTEGRATED_V1",
+    "vox_grammar_tree_v02",
+    "IMASM_GRAMMAR_DNN_FIXED",
+    "GRAMMAR_DYNAMIC_V1",
+    "GRAMMAR_ORACLE_ATTRIBUTION",
+    "grammar_training_v1",
+    "vox_grammar_induxion_v01",
+    "GRAMMAR_SIC_GATE",
+    "vox_imasm_traces_v03",
+    "GRAMMAR_CARRIER_LEARNER",
+    "GRAMMAR_INTEGRATED_AUDIT",
+    "GRAMMAR_COORDINATE_REPAIR",
+    "GRAMMAR_UNIFIED_RUN",
+    "IMASM_GRAMMAR_COMPLETE",
+    "IMASM_GRAMMAR_DNN_V1"
+  ]
+}

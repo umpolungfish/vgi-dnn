@@ -1,0 +1,11 @@
+{
+  "parsed_objects": 8773,
+  "invalid_rows": 0,
+  "unique_addresses": 6117,
+  "split_counts": {
+    "train": 6943,
+    "validation": 940,
+    "test": 890
+  },
+  "names_with_truncation": 0
+}

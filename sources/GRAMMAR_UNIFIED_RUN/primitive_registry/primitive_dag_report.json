@@ -1,0 +1,29 @@
+{
+  "type_values": 49,
+  "axes": 12,
+  "opcode_alphabet": "⊢⊣≻≺⋈⊤∈∋⊙⊥⊞⊡",
+  "radices": [
+    4,
+    5,
+    4,
+    5,
+    3,
+    5,
+    3,
+    4,
+    5,
+    4,
+    3,
+    4
+  ],
+  "distinct_type_programs": 35,
+  "shared_dag_nodes": 213,
+  "root_nodes": 35,
+  "roundtrips_exact": true,
+  "program_lengths": {
+    "min": 11,
+    "max": 17
+  },
+  "source": "SNS_PRIME.md",
+  "graph_wiring": "specified separately from opcode word"
+}

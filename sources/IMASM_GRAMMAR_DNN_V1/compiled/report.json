@@ -1,0 +1,158 @@
+{
+  "parsed_objects": 8773,
+  "unique_addresses": 6117,
+  "repeated_address_extra_entries": 2656,
+  "collision_groups": 936,
+  "coordinate_neighbor_edges": 5481,
+  "invalid_rows": 0,
+  "potential_name_truncations": 0,
+  "address_capacity": 17280000,
+  "occupied_fraction": 0.0003539930555555556,
+  "splits": {
+    "train": 6943,
+    "validation": 940,
+    "test": 890
+  },
+  "top_collision_groups": [
+    {
+      "address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑖𐑳𐑭",
+      "count": 89,
+      "names": [
+        "voynich_astronomical_section",
+        "voynich_cosmological_section",
+        "artemisia_absinthium",
+        "calea_zacatechichi",
+        "wormwood",
+        "yarrow",
+        "rosemary",
+        "sage"
+      ]
+    },
+    {
+      "address": "𐑛𐑶𐑑𐑗𐑞𐑘𐑚𐑠𐑢𐑒𐑙𐑷",
+      "count": 85,
+      "names": [
+        "cherokee_a",
+        "cherokee_e",
+        "cherokee_i",
+        "cherokee_o",
+        "cherokee_u",
+        "cherokee_v",
+        "cherokee_ga",
+        "cherokee_ka"
+      ]
+    },
+    {
+      "address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷",
+      "count": 48,
+      "names": [
+        "resh",
+        "alpha",
+        "gamma",
+        "epsilon",
+        "kappa",
+        "nu",
+        "tengwa_thule",
+        "tengwa_formen"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭",
+      "count": 48,
+      "names": [
+        "eden_conjecture_proven",
+        "richardson_model_proven",
+        "center_pillar",
+        "hekhalot_palace_7",
+        "holospinor_algebra",
+        "topological_vortex_algebra",
+        "A1",
+        "optimal_oinf_block"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑾𐑬𐑱𐑧𐑔𐑠⊙𐑖𐑳𐑭",
+      "count": 44,
+      "names": [
+        "asian_ginseng",
+        "american_ginseng",
+        "ashwagandha",
+        "rhodiola",
+        "schisandra",
+        "eleuthero",
+        "astragalus",
+        "jiaogulan"
+      ]
+    },
+    {
+      "address": "𐑨𐑥𐑾𐑹𐑱𐑧𐑚𐑠𐑮𐑫𐑳𐑭",
+      "count": 30,
+      "names": [
+        "cheyenne_massaum",
+        "hopi_snake_antelope",
+        "pawnee_hako_ceremony",
+        "omaha_pipe_ceremony",
+        "zuni_kachina_ceremony",
+        "yupik_bladder_festival",
+        "blackfoot_beaver_bundle_ceremony",
+        "lakota_inipi_sweat_lodge"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭",
+      "count": 29,
+      "names": [
+        "IUG",
+        "oinf5",
+        "reality",
+        "operator_reality_composite",
+        "schwarzschild_black_hole",
+        "luca",
+        "uig_liar_completion_state",
+        "universal_imscriptive_grammar_calib"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴",
+      "count": 28,
+      "names": [
+        "berry_tabor_proven",
+        "fujita_theorem",
+        "caratheodory_theorem",
+        "umbilic_index_bound",
+        "curvature_line_global_structure",
+        "kusner_theorem",
+        "collatz_theorem_proven",
+        "proven_manifold"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭",
+      "count": 27,
+      "names": [
+        "goldbach_conjecture_proven",
+        "twin_prime_conjecture_proven",
+        "collatz_conjecture_proven",
+        "abc_conjecture_proven",
+        "legendres_conjecture_proven",
+        "sophie_germain_prime_conjecture_proven",
+        "mersenne_prime_conjecture_proven",
+        "odd_perfect_number_conjecture_proven"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑵𐑣𐑫𐑳𐑟",
+      "count": 27,
+      "names": [
+        "problem_107",
+        "problem_1135",
+        "erdos_szekeres_107",
+        "ramsey_number",
+        "van_der_waerden",
+        "triple_sum_distinct",
+        "erdos_hajnal",
+        "incidence_geometry"
+      ]
+    }
+  ]
+}

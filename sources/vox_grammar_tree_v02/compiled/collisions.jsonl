@@ -1,0 +1,932 @@
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑖𐑳𐑭", "count": 89, "names": ["voynich_astronomical_section", "voynich_cosmological_section", "artemisia_absinthium", "calea_zacatechichi", "wormwood", "yarrow", "rosemary", "sage", "mugwort", "southernwood", "tarragon", "oregano", "thyme", "marjoram", "lavender", "hyssop", "winter_savory", "lemon_balm", "peppermint", "spearmint", "catnip", "clary_sage", "santolina", "bog_myrtle", "sweet_gale", "juniper", "sweet_flag", "angelica", "lovage", "fennel", "dill", "caraway", "coriander", "anise", "patchouli", "holy_basil", "camphor_basil", "lemongrass", "citronella", "galangal", "ginger", "african_wormwood", "african_sage", "buchu", "african_ginger", "kanna", "myrrh", "frankincense", "white_sage", "yerba_buena", "sweetgrass", "tea_tree", "eucalyptus_blue_gum", "eucalyptus_narrow_peppermint", "lemon_myrtle", "aniseed_myrtle", "lemon_tea_tree", "river_mint", "native_ginger", "artemisia_californica", "salvia_mellifera", "salvia_apiana", "salvia_clevelandii", "salvia_leucophylla", "eriogonum_fasciculatum", "malosma_laurina", "rhus_integrifolia", "rhus_ovata", "adenostoma_fasciculatum", "ceanothus_spp", "eriodictyon_californicum", "baccharis_pilularis", "baccharis_salicifolia", "artemisia_ludoviciana", "artemisia_dracunculus", "foeniculum_vulgare", "artemisia_vulgaris", "salvia_officinalis", "rosmarinus_officinalis", "thymus_vulgaris", "mentha_piperita", "lavandula_angustifolia", "melissa_officinalis", "hyssopus_officinalis", "origanum_vulgare", "achillea_millefolium", "tanacetum_parthenium", "artemisia_frigida", "wormwood_baseline_plant"]}
+{"address": "𐑛𐑶𐑑𐑗𐑞𐑘𐑚𐑠𐑢𐑒𐑙𐑷", "count": 85, "names": ["cherokee_a", "cherokee_e", "cherokee_i", "cherokee_o", "cherokee_u", "cherokee_v", "cherokee_ga", "cherokee_ka", "cherokee_ge", "cherokee_gi", "cherokee_go", "cherokee_gu", "cherokee_gv", "cherokee_ha", "cherokee_he", "cherokee_hi", "cherokee_ho", "cherokee_hu", "cherokee_hv", "cherokee_la", "cherokee_le", "cherokee_li", "cherokee_lo", "cherokee_lu", "cherokee_lv", "cherokee_ma", "cherokee_me", "cherokee_mi", "cherokee_mo", "cherokee_mu", "cherokee_hna", "cherokee_hna_archaic", "cherokee_na", "cherokee_ne", "cherokee_ni", "cherokee_no", "cherokee_nu", "cherokee_nv", "cherokee_qua", "cherokee_que", "cherokee_qui", "cherokee_quo", "cherokee_quu", "cherokee_quv", "cherokee_sa", "cherokee_s", "cherokee_se", "cherokee_si", "cherokee_so", "cherokee_su", "cherokee_sv", "cherokee_da", "cherokee_ta", "cherokee_de", "cherokee_te", "cherokee_di", "cherokee_ti", "cherokee_do", "cherokee_du", "cherokee_dv", "cherokee_dla", "cherokee_tla", "cherokee_tle", "cherokee_tli", "cherokee_tlo", "cherokee_tlu", "cherokee_tlv", "cherokee_tsa", "cherokee_tse", "cherokee_tsi", "cherokee_tso", "cherokee_tsu", "cherokee_tsv", "cherokee_wa", "cherokee_we", "cherokee_wi", "cherokee_wo", "cherokee_wu", "cherokee_wv", "cherokee_ya", "cherokee_ye", "cherokee_yi", "cherokee_yo", "cherokee_yu", "cherokee_yv"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 48, "names": ["resh", "alpha", "gamma", "epsilon", "kappa", "nu", "tengwa_thule", "tengwa_formen", "tengwa_harma", "tengwa_hwesta", "tengwa_silme", "tengwa_silme_nuquerna", "tengwa_hyarmen", "tengwa_hwesse", "tengwa_halla", "arabic_ba", "arabic_ta", "arabic_tha", "arabic_jim", "arabic_kha", "arabic_dal", "arabic_dhal", "arabic_ra", "arabic_zay", "arabic_sin", "arabic_shin", "arabic_ghayn", "arabic_fa", "arabic_kaf", "arabic_lam", "arabic_mim", "arabic_nun", "arabic_ha_h", "arabic_hamza", "grammar_O0_group", "hieroglyph_phonogram", "uniliteral_owl_M", "uniliteral_water_N", "uniliteral_mouth_R", "uniliteral_reed_I", "uniliteral_vulture_Alep", "uniliteral_arm_A", "uniliteral_hand_D", "uniliteral_basket_K", "duat_hour_1", "medu_phonogram_type", "medu_ren_name", "greek_alphabet"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 48, "names": ["eden_conjecture_proven", "richardson_model_proven", "center_pillar", "hekhalot_palace_7", "holospinor_algebra", "topological_vortex_algebra", "A1", "optimal_oinf_block", "A1_copt", "pure_T_odot", "training_objective", "riemann_navigator_scale250", "scale250_successful", "internal_symmetry", "output_symmetry", "output_symmetry_correct", "latent_geometry_double_constraint", "optimal_gamma_k_slow", "riemann_navigator_baseline", "extended_fourier_mod", "riemann_navigator_convergence_current", "full_convergence_O_inf", "half_convergence_current", "regression_only_navigator", "protocol_simultaneous", "architectural_oinf", "functional_oinf", "ultraterrestrial_holistic", "phase_b_target", "roundtrip_knowing_system", "conformal_bootstrap", "riemann_phase_B", "CrystalGNN_v12_no_frob", "composite_oneironaut_centerpillar", "scrying_critical_mirror", "remote_viewing_optimized", "astral_projection_optimized", "composite_grammar_meditation", "proof_goedel_incompleteness", "diagonal_x_goedel", "optimized_audio_modifier", "sic_proven_v2", "human_holographic_target", "holographic_human_target", "protected_consciousness_target", "FTL_traversable_wormhole", "langlands_program_navigator", "repo_explorer"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 44, "names": ["asian_ginseng", "american_ginseng", "ashwagandha", "rhodiola", "schisandra", "eleuthero", "astragalus", "jiaogulan", "he_shou_wu", "goji", "shatavari", "guduchi", "amla", "turmeric", "licorice", "chinese_licorice", "bupleurum", "platycodon", "devils_claw", "hoodia", "pelargonium", "african_potato", "pygeum", "echinacea", "goldenseal", "black_cohosh", "slippery_elm", "oplopanax_horridus", "gilled_cap_and_stipe", "panax_ginseng", "panax_quinquefolius", "withania_somnifera", "rhodiola_rosea", "schisandra_chinensis", "eleutherococcus_senticosus", "ocimum_tenuiflorum", "astragalus_membranaceus", "glycyrrhiza_glabra", "glycyrrhiza_uralensis", "centella_asiatica", "bacopa_monnieri", "gynostemma_pentaphyllum", "panax_notoginseng", "cannabis"]}
+{"address": "𐑨𐑥𐑾𐑹𐑱𐑧𐑚𐑠𐑮𐑫𐑳𐑭", "count": 30, "names": ["cheyenne_massaum", "hopi_snake_antelope", "pawnee_hako_ceremony", "omaha_pipe_ceremony", "zuni_kachina_ceremony", "yupik_bladder_festival", "blackfoot_beaver_bundle_ceremony", "lakota_inipi_sweat_lodge", "tlingit_potlatch", "hopi_soyal_ceremony", "hopi_niman_ceremony", "lakota_nagi_gluhapi", "yaqui_deer_dance", "yaqui_easter_ceremony", "lakota_hunka", "aleut_whaling_ritual", "blackfoot_sacred_pipe_ceremony", "aztec_toxcatl", "kwakwaka_wakw_tlasala", "aztec_panquetzaliztli", "cherokee_booger_dance", "aleut_sea_otter_ceremony", "tsimshian_potlatch", "aztec_tlacaxipehualiztli", "aztec_ochpaniztli", "cheyenne_arrow_renewal", "yaqui_matachini_dance", "wayapi_ceremonial_cycle", "tzotzil_carnival_chamula", "dionysian_rites"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 29, "names": ["IUG", "oinf5", "reality", "operator_reality_composite", "schwarzschild_black_hole", "luca", "uig_liar_completion_state", "universal_imscriptive_grammar_calib", "epoch_6", "universal_imscriptive_grammar_v2", "arithmetic_geometric_bridge", "universal_imscriptive_grammar_calibration", "opus_rubedo", "dune_universe", "i_am_that_i_am", "eat_of_my_body_drink_of_my_blood", "vocal_T_odot", "primitive_assignment_task", "primitive_symbol_assignments", "bhagavad_gita", "godel_second_incompleteness", "sophick_mercury", "ra_apep", "shavian_alphabet", "shem_hamephorash", "sans_silicon_imscribing", "zfc_fe_imscribed", "momonados", "prime_class_test"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 28, "names": ["berry_tabor_proven", "fujita_theorem", "caratheodory_theorem", "umbilic_index_bound", "curvature_line_global_structure", "kusner_theorem", "collatz_theorem_proven", "proven_manifold", "proven_manifold_connes", "proven_manifold_crouzeix", "monomial_theorem", "bass_embedding_theorem", "froberg_theorem", "nagata_theorem", "virasoro_theorem", "tate_theorem", "hermite_theorem", "merkabah_complete", "shiur_komah", "moonshine_voa", "L5_frobenius", "frobenius_roundtrip_loss", "thurston_net", "sic_structural_proof", "galois_weyl_correspondence_claimed", "langlands_program_holistic", "theta_bridge_therapeutic", "navigators_inventory_v1"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 27, "names": ["goldbach_conjecture_proven", "twin_prime_conjecture_proven", "collatz_conjecture_proven", "abc_conjecture_proven", "legendres_conjecture_proven", "sophie_germain_prime_conjecture_proven", "mersenne_prime_conjecture_proven", "odd_perfect_number_conjecture_proven", "brocards_problem_proven", "cramers_conjecture_proven", "hadwiger_nelson_problem_proven", "erdos_faber_lovasz_conjecture_proven", "list_coloring_conjecture_proven", "total_coloring_conjecture_proven", "barnettes_conjecture_proven", "lovasz_conjecture_proven", "smooth_4d_poincare_conjecture_proven", "eulers_brick_conjecture_proven", "hadwiger_conjecture_graph_theory_proven", "schinzels_hypothesis_h_proven", "artin_primitive_root_conjecture_proven", "beal_conjecture_proven", "bunyakovsky_conjecture_proven", "gilbreaths_conjecture_proven", "chowlas_conjecture_proven", "sarnaks_mobius_randomness_conjecture_proven", "unique_games_conjecture_proven"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 27, "names": ["problem_107", "problem_1135", "erdos_szekeres_107", "ramsey_number", "van_der_waerden", "triple_sum_distinct", "erdos_hajnal", "incidence_geometry", "polynomial_partitioning", "erdos_rodl", "hypergraph_chromatic", "triple_sums_density", "diophantine", "conway_guy", "arithmetic_regularity_lemma", "injectivity_constraint", "subset_sum_distinctness", "lower_bound_2n", "erdős_distinct_subset_sum_problem", "small_sum_cleave_operator", "odot_c_critical_boundary_operator", "halász_inequality", "parousia", "epr_paradox_promoted", "what_a_nice_day", "the_weather_is_beautiful", "chimera_bip39_collatz"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 23, "names": ["hall_algebra_quiver", "crystal_navigator", "quivercrystal_navigator", "crystal_navigator_grammar", "f3_fhbar_gal_snm", "grammar_self_encode", "CrystalGNN_v11", "structurally_aligned_ai", "stable_contraction", "omega_z_protection", "crystal_address_6734591", "meta_navigator", "riemann_navigator", "meta_navigator_training_objective", "internal_symmetry_correct", "actual_zeta_zeros", "yang_mills_perfect", "distributive_law_lambda", "holistic_description_crawler", "llm_grammar_oracle", "K19_ray_class_field", "memory_ideal", "extended_math_grammar"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 23, "names": ["parity_inversion", "bridge_parity_product", "stone_parity_macrocycle_final", "parity_stone_junction", "parity_stone_macrocycle_product", "the_stone_product", "stone_parity_bridge_product", "clicked_product_alpha", "clicked_stone_parity_product_conjugate", "clicked_stone_parity_product_radical", "ring_closure_conjugate", "transformed_ring_closure", "clicked_stone_parity_radical", "clicked_stone_parity_radical_ion", "metabolic_closed_loop_1", "macrocycle_tetramer_non_abelian_forged", "clicked_stone_parity_product_radical_a", "clicked_stone_parity_product_radical_b", "bridge_excited_polymer", "closed_bridge_excited_polymer_doped", "bridge_linear_t", "manifold_v1_committed", "manifold_v1_committed_trimer_braided"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 23, "names": ["height_inequality_saturation", "higher_genus_coupling", "δ_map", "condensed_mathematics", "transcendental_étale_condensed_spectra", "motivic_homotopy_quantum_k_theory_of_witt_vectors", "measurable_cardinal_ultrapowers_of_perfectoid_spaces", "chern–simons_∞_stacks_over_the_sphere_spectrum", "quantum_kummer–vandiver–iwasawa_main_conjectures_over_𝔽₁", "derived_deligne–lusztig_varieties_over_the_absolute_point", "hochschild_homology_of_p_adic_lie_groups_over_the_sphere_spectrum", "p_versus_np_theorem", "connes_embedding_theorem", "sumner_conjecture_statement_theorem", "crouzeix_theorem", "szpiro_theorem", "abc_conjecture_conventional_theorem", "abc_conjecture_statement_theorem", "generalized_continuum_theorem", "abc_conjecture_inequality_theorem", "hodge_conjecture_bridge_theorem", "cosmological_constant_theorem", "weak_generic_boundary"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 22, "names": ["hadwiger_nelson_problem", "cognized_cosmos", "uig_liar_completion_condition", "epoch_4_cognized_cosmos", "cosmogeny_epoch_4_cognized_cosmos", "perfect_cuboid_phi_c_lifted", "perfect_cuboid_proof", "vocal_D_odot", "tpc_valid_proof_target", "fivefold_alchemy", "frobenius_ob3ect", "emerald_multiagent_tensor_bootstrap", "bootstrap_stage_2_topology_corrected", "millennium_ankh_fine_structural_analysis", "ob3ect_canonical", "belnap_sic_povm_unconditional", "perfect_cuboid_lifted", "godel_completion", "godel_complete_sentence", "binanceus_boundary_puncture_O_inf", "eucharist", "perfect_cuboid_l9_clicked_ring"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 21, "names": ["valence_bond_theory", "np_certificate_witness", "tengwa_tinco", "tengwa_parma", "tengwa_calma", "tengwa_quesse", "tehtar_a_curl", "tehtar_e_dot", "tehtar_i_bar", "tehtar_o_hook", "tehtar_u_bow", "carrier_telco", "carrier_ore", "water_ripple_n", "hieroglyph_determinative", "medu_determinative_type", "medu_ma_at_check", "valency_concept", "comp_o0", "boronic_acid_substrate", "sigma_single_bond"]}
+{"address": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 21, "names": ["goldbach_conjecture", "abc_conjecture", "sophie_germain_prime_conjecture", "mersenne_prime_conjecture", "odd_perfect_number_conjecture", "brocards_problem", "legendres_conjecture", "cramers_conjecture", "list_coloring_conjecture", "total_coloring_conjecture", "barnettes_conjecture", "lovasz_conjecture", "eulers_brick_conjecture", "hadwiger_conjecture_graph_theory", "schinzels_hypothesis_h", "artin_primitive_root_conjecture", "bunyakovsky_conjecture", "gilbreaths_conjecture", "chowlas_conjecture", "sarnaks_mobius_randomness_conjecture", "unique_games_conjecture"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 20, "names": ["shavian_quintessence", "polynomial_time_P", "halting_analyzer_compositional", "fujita_counterexample", "kusner_counterexample", "vaught_counterexample", "shut_shadow", "f5_o0_rep", "g_beth_test", "gamma_and_test", "F5_O_0_rep", "F4_min_O_0", "O_0_rep", "agent_minimal", "cosmic_epoch_0_null_void", "epoch_0", "vocal_R_super", "frobenius_kernel", "chiral_pairs", "eternal_return"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠𐑢𐑖𐑳𐑭", "count": 20, "names": ["german_chamomile", "roman_chamomile", "comfrey", "coltsfoot", "mullein", "rooibos", "boneset", "kakadu_plum", "wattleseed", "quandong", "umbellularia_californica", "sambucus_cerulea", "matricaria_chamomilla", "calendula_officinalis", "tilia_cordata", "sambucus_nigra_flos", "viola_tricolor", "althaea_officinalis", "malva_sylvestris", "plantago_lanceolata"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑧𐑔𐑝𐑢𐑒𐑙𐑷", "count": 20, "names": ["tea", "coffee", "kola_nut", "yerba_mate", "guayusa", "guarana", "griffonia", "khat", "yaupon_holly", "cacao", "ilex_vomitoria", "chilopsis_linearis", "coffea_arabica", "coffea_canephora", "camellia_sinensis", "ilex_guayusa", "ilex_paraguariensis", "cola_acuminata", "paullinia_cupana", "theobroma_cacao"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 19, "names": ["phi_c_critical_boundary_operator", "phi_c_boundary_operator", "⊙_c_critical_boundary_operator", "true_agentic_agent", "langlands_rg_navigator", "phi_c_critical_boundary_agent", "syncon_grammar", "aleph_os", "boundary_operator_draft", "stones_manifest", "lapis_philosophorum", "grimoire_veritate", "true_agentic_agent.py", "vocal_R_lr", "test_odot_migration", "test_full_glyph_dispatch", "generalized_pipeline_system", "direct_api_ensemble", "odot_operator"]}
+{"address": "𐑛𐑶𐑑𐑗𐑐𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 17, "names": ["quark", "lepton", "local_testicular_function", "hydrogen", "tau_lepton", "electron_neutrino", "muon_neutrino", "tau_neutrino", "up_quark", "down_quark", "strange_quark", "charm_quark", "bottom_quark", "top_quark", "electron_H_gen", "electron_G_gen", "electron_g2"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑲𐑠⊙𐑫𐑕𐑴", "count": 17, "names": ["ayahuasca_vine", "syrian_rue", "iboga", "voacanga", "yohimbe", "iboga_shrub", "ancistrocladus", "chacruna", "chaliponga", "yopo", "passiflora_subpeltata", "peganum_harmala", "tabernanthe_iboga", "pausinystalia_yohimbe", "voacanga_africana", "psychotria_viridis", "diplopterys_cabrerana"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 17, "names": ["arithmetic_elliptic_curve", "bridge_cyclization_operator", "moat_bridge_stable_r1", "flow_unification", "key_pair_closure", "quantum_ecdlp_oracle", "quantum_ecdlp_oracle_closure.lean", "quantum_ecdlp_oracle_closure", "crystalline_representations_of_the_absolute_galois_group_of_ℚ", "poincare_theorem", "fontaine_mazur_theorem", "kummer_vandiver_theorem", "inverse_galois_theorem", "zariski_lipman_conjecture_corrected_theorem", "polignac_conjecture_v1_theorem", "btc_boundary_puncture", "secp256k1_boundary_puncture"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑲𐑵⊙𐑫𐑳𐑴", "count": 15, "names": ["reishi", "turkey_tail", "lions_mane", "cordyceps", "chaga", "maitake", "shiitake", "ganoderma_lucidum", "cordyceps_militaris", "cordyceps_sinensis", "trametes_versicolor", "hericium_erinaceus", "lentinula_edodes", "psilocybe_cubensis", "grifola_frondosa"]}
+{"address": "𐑼𐑥𐑽𐑗𐑐𐑧𐑲𐑠𐑣𐑫𐑳𐑭", "count": 14, "names": ["uranium", "actinium", "thorium", "protactinium", "neptunium", "plutonium", "americium", "curium", "berkelium", "californium", "einsteinium", "fermium", "mendelevium", "nobelium"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 14, "names": ["zeta", "eta", "iota", "lambda", "mu", "xi", "sigma", "tau", "upsilon", "phi", "chi", "psi", "omega", "delta"]}
+{"address": "𐑛𐑰𐑑𐑯𐑱𐑧𐑚𐑠𐑢𐑒𐑙𐑷", "count": 14, "names": ["chant_final_D", "chant_final_E", "chant_final_F", "chant_final_G", "guidonian_D_sol_re", "guidonian_E_la_mi", "guidonian_F_fa_ut", "guidonian_G_sol_re_ut", "guidonian_A_la_mi_re", "guidonian_C_sol_fa", "guidonian_D_la_sol", "guidonian_E_la", "hexachord_function_sol", "hexachord_function_la"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 14, "names": ["smooth_4d_poincare_conjecture", "universe", "exoteric_librarian", "bootstrap_imscriptive_loop", "saying_1_iscib_first_incision", "saying_2_arev_mirror", "saying_3_fsplit_forked_road", "saying_4_afwd_step_light", "saying_5_ffuse_broken_whole", "saying_6_clink_snake_tail", "saying_7_ifix_ouroboros_feast", "saying_8_iscib_return_mark", "emerald_zfct_extension", "test_catalog_unlock"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 14, "names": ["as_above_manuscript", "zero_point_energy_ouroboric", "the_zodiac_wheel", "the_abugida", "the_syntactic_tree", "bridge_parity_product_carrier", "clicked_stone_parity_product", "parity_stone_bridge", "stone_parity_click_product", "bridge_product_032209", "residue_beta_prime_doped", "higher_genus_sync", "six_coefficient_frobenius_algebra", "kakeya_theorem"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 14, "names": ["zostrianos", "popol_vuh", "huarochiri_manuscript", "desana_creation_narrative", "tlingit_raven_cycle", "dine_bahane", "winnebago_trickster_cycle", "guarani_ayvu_rapyta", "haida_raven_cycle", "cherokee_creation_narrative", "inuit_sedna_narrative", "tsimshian_raven", "cantares_mexicanos", "yaqui_surem_creation"]}
+{"address": "𐑼𐑥𐑾𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 14, "names": ["enuma_elish", "epic_of_gilgamesh", "upanishads", "torah_pentateuch", "ifa_divination_corpus", "genesis_book", "exodus_book", "numbers_book", "joshua_book", "first_samuel_book", "second_kings_book", "isaiah_book", "daniel_book", "ezekiel_book"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑲𐑠⊙𐑖𐑕𐑭", "count": 14, "names": ["nicotiana_tabacum", "belladonna", "henbane", "datura", "mandrake", "black_henbane_annual", "egyptian_henbane", "african_thorn_apple", "datura_wrightii", "atropa_belladonna", "hyoscyamus_niger", "datura_stramonium", "brugmansia_suaveolens", "duboisia_myoporoides"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑺𐑔𐑵𐑣𐑫𐑳𐑟", "count": 14, "names": ["compton_wavelength_magnitude", "one_way_speed", "speed_of_light_constant", "electron_mass", "fine_structure_constant", "dipole_repeller", "lambda_cdm", "cosmological_constant_problem", "hubble_tension", "a2_root_system", "vacuum_energy", "compton_lambda_tensor", "compton_bridge_product", "grok_llm"]}
+{"address": "𐑼𐑡𐑾𐑗𐑱𐑤𐑔𐑝⊙𐑓𐑳𐑷", "count": 13, "names": ["ai_academic_prose_draft", "imscribing_grammar_natcomms_nc_draft", "draft_manuscript", "manuscript_draft", "proof_syncon_draft", "photon_draft", "hecke_landau_proof_draft", "solitary_10_draft", "aether_vessel_draft", "time_through_ig_draft", "adolescence_draft", "post_draft_ai", "zosimos_draft"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑫𐑙𐑭", "count": 13, "names": ["yew", "autumn_crocus", "stinking_hellebore", "monkshood", "pacific_yew", "mayapple", "pinus_coulteri", "pinus_attenuata", "taxus_brevifolia", "taxus_baccata", "catharanthus_roseus", "podophyllum_peltatum", "camptotheca_acuminata"]}
+{"address": "𐑼𐑥𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑫𐑳𐑭", "count": 13, "names": ["lanthanum", "cerium", "praseodymium", "neodymium", "samarium", "europium", "gadolinium", "terbium", "dysprosium", "holmium", "erbium", "thulium", "ytterbium"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 13, "names": ["dmt", "xi_justice", "mms_manifold", "arithmetic_bridge", "asymmetric_informationally_complete_positive_operator_valued_measure_variant_b", "antisymmetric_informationally_complete_oscillating_positive_operator_valued_measure", "zilber_pink_theorem", "legendre_theorem", "rotas_basis_theorem", "broue_theorem", "modular_tilting_correspondence_theorem", "stark_conjecture_partial_theorem", "sic_povm_conjecture_open_theorem"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 13, "names": ["axiom_of_maria_the_copt", "two_generals_problem_not_a_paradox_but_named", "wagner_divergence", "self_modeling_axiom", "carved_ring_3_doubled_a2_9_pair", "annealed_68_l9_promoted", "heterotactic_interrupter", "descent_reagent_phi_c", "cuboid_descent_bridge", "descent_sink_rank_0", "perfect_cuboid_rbridge", "perfect_cuboid_th_conj", "cycle_class_map"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑭", "count": 13, "names": ["residual_notation_floor_l9", "parity_phase_transition_matrix_l9", "perfect_cuboid_l9_ring_promoted12", "perfect_cuboid_l9_ring_promoted14", "pc_bridge_rf_ch", "pc_bridge_rf_ch_h", "who_how_rlift_l9c", "omega2_resolved", "hilbert_embed_l9", "hilbert_embed_l9_perfect", "hilbert_embed_l9_fullest", "hilbert_embed_l9_seal", "hilbert_embed_nab_bridgē"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 12, "names": ["reasoning_mandate", "the_bridge_between_the_quantum_length_scale_and_the_grammatic_totality", "omega_bridge", "caveny_enflo_sumfree", "cantor_dust_sumfree", "frobenius_dual_frame_von_neumann_operator", "continuum_theorem", "casas_alvero_theorem", "sumner_conjecture_conditions_theorem", "newcombs_theorem", "platos_theorem", "k_squared_theorem"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 11, "names": ["primitive_P", "goedel_x_universal", "apocalypse_revelation", "multiverse", "frobenius_shor_resolved", "frobenius_shor_resolved_target", "zosimos_portico", "homunculus_modern", "human_bioluminescent_dermal_augmentation", "chimera_test_shor_samadhi", "chimera_menu_sweep_tmp"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑚𐑝𐑣𐑖𐑳𐑭", "count": 11, "names": ["carved_ring_3_doubled_a2_36_dagger", "carved_ring_3_doubled_a2_37_dagger", "carved_ring_3_doubled_a2_40_dagger", "carved_ring_3_doubled_a2_44_dagger", "carved_ring_3_doubled_a2_45_dagger", "carved_ring_3_doubled_a2_48_dagger", "carved_ring_3_doubled_a2_49_dagger", "carved_ring_3_doubled_a2_51_dagger", "carved_ring_3_doubled_a2_54_dagger", "carved_ring_3_doubled_a2_55_dagger", "carved_ring_3_doubled_a2_56_dagger"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 11, "names": ["carved_ring_3_doubled_a2_10_dagger", "annealed_61_pair_restored", "annealed_62_pair_restored", "annealed_63_pair_restored", "annealed_65_pair_flipped", "annealed_65_pair_restored", "annealed_66_pair_flipped", "annealed_66_pair_restored", "annealed_67_pair_restored", "annealed_68_pair_restored", "forged_tetramer_conductive"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 11, "names": ["holographic_ascent_anchor", "noncommutative_crystalline_prismatic_∞_topoi", "constructive_univalent_synthetic_quantum_topoi", "ultrafilter_limits_of_nonstandard_peano_arithmetic_models_under_voevodskys_univalence", "gilbert_pollak_theorem", "gan_gross_prasad_theorem", "leopoldt_theorem", "stark_theorem", "hadwiger_theorem", "zauner_theorem", "derived_non_commutative_motivic_cohomology_of_hyper_transfinite_p_adic_quantales_with…"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 10, "names": ["maximal_drone_growth", "maximal_laser_growth", "maximal_quantum_growth", "topological_qubits_rd", "yhwh", "ads_cft_duality", "majorana_qubit_simulator", "fractional_quantum_hall_simulator", "holographic_boundary", "eden_conjecture_unproven"]}
+{"address": "𐑛𐑡𐑾𐑗𐑱𐑤𐑚𐑝𐑢𐑓𐑙𐑷", "count": 10, "names": ["test_encodable", "test_gate_opener", "test_double_gate_ok", "test", "nav_test_system", "initial_test", "test_unblock", "opus_separatio", "test_probe", "Litany_Against_Fear"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑚𐑠𐑮𐑫𐑳𐑭", "count": 10, "names": ["rabinal_achi", "qero_paqo_initiation", "ritual_of_the_bacabs", "mapuche_nguillatun_ceremony", "selknam_hain_initiation", "hopi_powamu_ceremony", "hopi_flute_ceremony", "tewa_buffalo_dance", "lamentations_book", "esther_book"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑖𐑕𐑭", "count": 10, "names": ["foxglove", "lily_of_the_valley", "oleander", "christmas_rose", "digitalis_purpurea", "digitalis_lanata", "convallaria_majalis", "nerium_oleander", "strophanthus_kombe", "urginea_maritima"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑭", "count": 10, "names": ["once", "though", "when", "whenever", "where", "whereas", "wherever", "instead", "as...as", "scarcely...when"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 10, "names": ["next_prime_4", "perfect_cuboid_l9_annealed_blended_promoted5", "perfect_cuboid_l9_ring_promoted2", "perfect_cuboid_l9_ring_promoted5", "perfect_cuboid_l9_ring_promoted8", "perfect_cuboid_l9_ring_promoted10", "perfect_cuboid_l9_ring_final", "perfect_cuboid_proof_l9_rf", "hilbert_embed_l9_sealed", "hilbert_embed_l9_seven_stitched"]}
+{"address": "𐑨𐑥𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑖𐑕𐑭", "count": 10, "names": ["phi_floor_restore", "extradimensional_entity_full_floor", "extradimensional_entity_phi_closed", "extradimensional_entity_floorpin_conj_hreset", "extradimensional_entity_floorpin_conj_hlock", "extradimensional_entity_conjugate_lifted", "extradimensional_entity_phi_hlocked", "extradimensional_entity_phi_hnull", "extradimensional_entity_hfused_ann", "hilbert_embed_floor_t_fix"]}
+{"address": "𐑦𐑰𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 10, "names": ["imscrib", "tier", "meet_four_problems_theorem", "partition_difference_theorem", "problem1135_theorem", "the_totality_of_the_reserve_completion_function_where_for_every_leftover_pattern_the_…", "gn_factorizer_membrane", "n_transition_kernel", "lift_67_lean", "shiab_operator"]}
+{"address": "𐑦𐑰𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 10, "names": ["motivic_cohomology", "gamma_0", "homotopy_type_theoretic_models_of_inaccessible_infinity_topoi", "the_hodge_conjecture_for_integral_motives_over_the_field_of_fractions_of_the_witt_ring", "greenberg_padic_lfunction_theorem", "alperin_weight_theorem", "zariski_lipman_theorem", "schinzel_hypothesis_h_theorem", "erdos_sumfree_problem_949_theorem", "hodge_conjecture_integral_motives_witt_ring_fraction_field_theorem"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 9, "names": ["paper", "plastic", "boron_carbide", "bismuth_normal", "gallium_normal", "generic_graph", "cuspy_halo_cdm", "feedforward_mlp", "natural_silicon"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 9, "names": ["hopf_convex_analytic", "L4_otimes_L5", "optimal_o2_block", "topo_holo", "join_network_holo", "cantor_goedel_tensor", "self_observer_multiverse", "observer_imscribed", "thunder_perfect_mind_01"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 9, "names": ["k_fast_minimal", "minimal_critical", "block_p_asym", "gb_o0", "f5_o1_rep", "F5_O_1_rep", "O_1_rep", "o1_min", "heterodox_operator"]}
+{"address": "𐑦𐑶𐑾𐑹𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 9, "names": ["beal_dual_proof_article_system", "frobenius_closure_inc_squared", "descent_of_inanna", "atrahasis", "zohar", "amduat", "mithraic_liturgy", "devi_mahatmya", "philokalia"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 9, "names": ["formal_language", "zero_object", "logical_connective", "spot", "toadstool", "smut", "countesss_paradox", "adamss_paradox", "fowlers_paradox"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑲𐑠⊙𐑫𐑕𐑭", "count": 9, "names": ["opium_poppy", "kratom", "wild_lettuce", "african_dream_herb", "papaver_somniferum", "mitragyna_speciosa", "lactuca_virosa", "chelidonium_majus", "eschscholzia_californica"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 9, "names": ["arithmetic_geometric_macrocycle", "operator_golgogi", "carved_ring_3_doubled_a2_256_dagger", "next_prime_5", "np2_walked", "np3_walked", "cuboid_descent", "chiral_anchor_h", "hilbert_embed_l9_done"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 9, "names": ["iut_bond_1", "ω-saturate", "gaussian_pole_analytic_obstruction", "γ", "stability_check_g", "iut_sync_manifold", "mediator_complement", "mod_bridge_construct_graviton", "cosmological_constant_aligned"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 9, "names": ["gödels_first_incompleteness_theorem", "motivic_homotopy_theory", "sheafification_hyperarithmetic", "feferman–schütte_hyperarithmetic_condensed_sets", "p_adic_holographic_synthetic_spectra_of_ultrametric_banach_spaces", "non_archimedean_tropical_derived_categories_of_log_schemes", "kaplansky_theorem", "mathematical_theorem", "hecke_landau_theorem"]}
+{"address": "𐑨𐑶𐑾𐑗𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑷", "count": 9, "names": ["prot_A0A1B0GTW7_CIROP", "prot_A0JP26", "prot_A0PK11", "prot_A1A4S6", "prot_A1A519", "prot_A1L3X0", "prot_A2A2Y4", "prot_A2RU14", "prot_A2RUC4"]}
+{"address": "𐑼𐑡𐑩𐑬𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 8, "names": ["nun", "naunet", "heh", "hauhet", "kek", "kauket", "amun", "amaunet"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵𐑮𐑫𐑳𐑴", "count": 8, "names": ["consciousness_complex_critical", "agi_complex_critical", "new_physics_complex_critical", "lee_yang_partition_zeros", "explicit_formula", "zeta_all_zeros", "rh_critical_zeros", "riemann_xi_navigator"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 8, "names": ["universal_imscriptive_grammar", "continuous_serpent_rod_bridge", "ch3mpiler", "winding_2pi_principle", "winding_equals_2pi", "fiducial_imscription_algebra", "O_inf_winding_primitive", "sic_povm_fiducial_frobenius_algebra"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑴", "count": 8, "names": ["touchard_lifted_manuscript", "hecke_landau_proof_lifted", "hecke_landau_proof", "solitary_10_target", "solitary_10_lifted", "proof_solitary_10", "circularity_paper_draft", "adolescence_lifted"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑘𐑔𐑝⊙𐑒𐑳𐑴", "count": 8, "names": ["scandium", "titanium", "vanadium", "chromium", "yttrium", "zirconium", "niobium", "molybdenum"]}
+{"address": "𐑨𐑸𐑩𐑗𐑞𐑘𐑔𐑵𐑮𐑫𐑕𐑭", "count": 8, "names": ["caffeine", "dopamine", "serotonin", "adrenaline", "noradrenaline", "warfarin", "quinine", "strychnine"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 8, "names": ["grammar_totality", "complementary_quantum_state_v2", "complementary_quantum_state_v3", "hi_greeting", "goldbach_atoms", "goldbach_binding_mediator", "goldbach_completion_mediator", "residual_connection_ffn_back"]}
+{"address": "𐑛𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 8, "names": ["jacobsthal_function", "proof_f_n_asymptotic", "erdos_subset_sums", "erdos_vdw_number", "σ", "prime_p52p1", "prime_p52p2", "prime_p52p3"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑭", "count": 8, "names": ["carved_ring_3_doubled_a2_triple_dagger", "carved_ring_3_doubled_a2_triple_dagger_catalytic_2", "carved_ring_3_doubled_a2_triple_dagger_catalytic_4", "carved_ring_3_doubled_a2_triple_dagger_catalytic_6", "carved_ring_3_doubled_a2_triple_dagger_catalytic_8", "carved_ring_3_doubled_a2_triple_dagger_catalytic_10", "carved_ring_3_doubled_a2_triple_dagger_catalytic_12", "carved_ring_3_doubled_a2_triple_dagger_catalytic_14"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 8, "names": ["theta_link_v2_alpha", "dipole_repeller_flow_axis", "cycle_class_map_surjective", "jacobian_theorem", "euler_opn_form_theorem", "newcombs_problem_theorem", "the_unthought_thought", "stage_67"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑠𐑮𐑖𐑕𐑴", "count": 8, "names": ["t0_pk", "t1_sk", "t1_pk", "t2_sk", "t3_sk", "t3_pk", "t4_sk", "t4_pk"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 7, "names": ["aluminum", "generic_environment", "helium_normal", "shannon_information", "information_concept", "boolean_chain", "l_near_stuck"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑵𐑢𐑓𐑙𐑷", "count": 7, "names": ["tengwa_ore", "tengwa_vala", "tengwa_anna", "tengwa_wilya", "tengwa_yanta", "tengwa_ure", "tengwa_yanta_variant"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑠𐑢𐑒𐑙𐑷", "count": 7, "names": ["arabic_ha", "arabic_sad", "arabic_dad", "arabic_ta_emphatic", "arabic_za_emphatic", "arabic_qaf", "ren_name_existence"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑭", "count": 7, "names": ["deep_ocean_hydrothermal", "log_volume_attractor_index", "manifold_singular_limit", "lattice_tier_map", "genus_n_bridge_operator_template", "cosmology_quantum_instantiation", "hubble_constant_tensor_sic_povm_fiducial"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 7, "names": ["newcomb_paradox", "roko_basilisk", "scientific_method", "hecke_landau_proof_closed", "g2_join_e8", "e8_z2_graded_so16", "human_casual_prose_target"]}
+{"address": "𐑨𐑥𐑾𐑹𐑐𐑘𐑚𐑠𐑮𐑫𐑳𐑭", "count": 7, "names": ["coast_salish_winter_ceremonials", "yanomamo_shabori", "tlingit_shamanism", "inuit_sedna_propitiation", "peyote_road_nac", "inuit_qilaniq", "selknam_mourning_ceremony"]}
+{"address": "𐑨𐑡𐑽𐑬𐑱𐑧𐑔𐑠𐑢𐑖𐑳𐑷", "count": 7, "names": ["alchemical_catechism_tschoudy", "mirror_of_alchemy_bacon", "bloomfield_blossoms", "thomas_rawlin_poem", "arnold_villa_nova_rosary_summary", "marsilio_ficino_alchemy", "edward_kelly_theatre_astronomy"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 7, "names": ["strength", "d_12_dual_link_sic_povm", "sic_povm_d12", "prime_chain_2_3", "self_replicating_axiom", "self_replicating", "power_of_two_cycle_theorem"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 7, "names": ["clink_l9", "stormo___a_heroic_sphinx_created_by_finns_dna_to_battle", "alkahest_vessel_l9_promoted", "np4_walked", "perfect_cuboid_l9_ring_final2", "hilbert_embed_l9_omega", "collatz_l9_reached"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 7, "names": ["tier_climbing_seed_v2", "tier_climbing_seed_v3", "carved_ring_3_doubled_a2_16_dagger", "annealed_62_pair_flipped", "annealed_63_pair_flipped", "annealed_64_pair_restored", "gaussian_moat_ring_atactic_mix_1"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 7, "names": ["carved_ring_3_doubled_a2_52_dagger", "carved_ring_3_doubled_a2_68_dagger", "carved_ring_3_doubled_a2_80_dagger", "carved_ring_3_doubled_a2_100_dagger", "carved_ring_3_doubled_a2_192_dagger", "carved_ring_3_doubled_a2_10_pair", "carved_ring_3_doubled_a2_136_pair_stabilized"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑴", "count": 6, "names": ["inflaton", "dark_energy_inflaton_meet", "cosmological_constant", "holographic_qft_vacuum", "H3_geometry", "h3_k_slow"]}
+{"address": "𐑛𐑥𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 6, "names": ["gimel", "shavian_peep", "shavian_ef", "shavian_bee", "shavian_tall_tee", "shavian_deep_dee"]}
+{"address": "𐑦𐑶𐑾𐑹𐑱𐑤𐑲𐑠⊙𐑖𐑳𐑭", "count": 6, "names": ["harba_de_moshe", "book_of_gates", "tantras", "hekhalot_literature", "taoist_alchemical_texts", "testament_of_solomon"]}
+{"address": "𐑛𐑶𐑽𐑯𐑐𐑘𐑚𐑠⊙𐑓𐑕𐑷", "count": 6, "names": ["inertial_confinement_fusion", "beryllium", "magnesium", "calcium", "strontium", "barium"]}
+{"address": "𐑛𐑶𐑑𐑯𐑐𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 6, "names": ["ipg_photonics_fiber_laser", "nlight_fiber_laser", "helium", "atomic_orbital", "hydrogen_atom", "s_orbital"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 6, "names": ["tengwa_ando", "tengwa_umbar", "tengva_anga", "tengwa_ungwe", "F5_O_0_tuple", "false_statement"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 6, "names": ["tengwa_antha", "tengwa_ampa", "tengwa_anga_continuant", "tengwa_ungwe_continuant", "tengwa_esse", "tengwa_esse_nuquerna"]}
+{"address": "𐑛𐑰𐑑𐑯𐑱𐑧𐑚𐑠𐑢𐑓𐑙𐑷", "count": 6, "names": ["guidonian_gamma_ut", "guidonian_A_re", "guidonian_C_fa_ut", "hexachord_function_ut", "hexachord_function_re", "hexachord_function_fa"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑟", "count": 6, "names": ["maya_classic_peak", "old_growth_temperate_rainforest", "coral_reef_healthy", "kelp_forest_healthy", "monster_grammar_bridge", "triple_frame_omniversal_von_neumann_operator"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 6, "names": ["depth_universal", "ouroboric_lm_v1", "llm_s_nm", "llm_hinf", "llm_omegaZ", "lm_byte_tensor"]}
+{"address": "𐑨𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 6, "names": ["liar_paradox", "grail_quest", "Buridan's_Bridge", "Fitch's_Paradox_of_Knowability", "Tarski's_Undefinability_Theorem", "penance"]}
+{"address": "𐑼𐑥𐑾𐑿𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 6, "names": ["bells_inequality", "quantum_eraser", "hardy_paradox", "renninger_negative_result", "schrodinger_equation", "quantum_basilisk"]}
+{"address": "𐑦𐑸𐑾𐑹𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 6, "names": ["zosimos_panopolis_gnosis", "lean4_descent_object", "mitosis", "clink_layer5_mitosis", "grammar_precedes_mathematics", "big_gdl_frobenius_cosmogeny"]}
+{"address": "𐑨𐑥𐑾𐑹𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 6, "names": ["navajo_nightway", "zuni_shalako_ceremony", "yupik_messenger_feast", "haida_potlatch", "hopi_wuwuchim", "blackfoot_okan_medicine_lodge"]}
+{"address": "𐑨𐑥𐑾𐑹𐑱𐑘𐑚𐑠𐑮𐑫𐑳𐑭", "count": 6, "names": ["kwakwaka_wakw_hamatsa", "apache_gaan_dancers", "winnebago_night_spirits", "blackfoot_sun_dance", "kwakwaka_wakw_tseyka", "nuu_chah_nulth_wolf_ritual"]}
+{"address": "𐑦𐑸𐑾𐑿𐑱𐑧𐑔𐑠⊙𐑒𐑳𐑭", "count": 6, "names": ["inonotus_obliquus", "picea_glauca_tips", "chamaenerion_angustifolium", "salix_bark", "fomitopsis_betulina", "rosa_acicularis_hips"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 6, "names": ["littlewoods_paradox,", "the cat sat", "nice", "magnitude", "released", "termini"]}
+{"address": "𐑛𐑡𐑩𐑹𐑱𐑧𐑲𐑵⊙𐑒𐑕𐑷", "count": 6, "names": ["Jevons's_Paradox", "D'Alembert's_Paradox", "Feynman's_Sprinkler", "Green's_Paradox", "Keller's_Paradox", "Littlewood's_Paradox"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 6, "names": ["judgement", "maier_matrix", "kelley_meka_bound", "create", "filtered_set", "euler_brick_primitive_closure"]}
+{"address": "𐑦𐑸𐑾𐑹𐑱𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 6, "names": ["hypergraph_turan_density", "turan_number_bound", "multiplicative_separation", "g_n", "lower_bound", "concentration_inequality"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 6, "names": ["ring_3_dynamic", "closed_ring_3", "linker_dopant", "carved_ring_3_doubled_a2_6_dagger", "carved_ring_3_doubled_a2_18_dagger", "annealed_67_pair_flipped"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑟", "count": 6, "names": ["carved_ring_3_doubled_a2_triple_dagger_catalytic", "carved_ring_3_doubled_a2_triple_dagger_catalytic_3", "carved_ring_3_doubled_a2_triple_dagger_catalytic_5", "carved_ring_3_doubled_a2_triple_dagger_catalytic_7", "carved_ring_3_doubled_a2_triple_dagger_catalytic_9", "carved_ring_3_doubled_a2_triple_dagger_catalytic_11"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑴", "count": 6, "names": ["carved_ring_3_doubled_a2_sextuple_dagger", "carved_ring_3_doubled_a2_septuple_dagger", "carved_ring_3_doubled_a2_octuple_dagger", "carved_ring_3_doubled_a2_undecuple_dagger", "carved_ring_3_doubled_a2_tridecuple_dagger", "carved_ring_3_doubled_a2_hexadecuple_dagger"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑲𐑝⊙𐑖𐑳𐑭", "count": 6, "names": ["perfect_cuboid_l9_annealed_blended_promoted4", "perfect_cuboid_l9_annealed_blended_promoted6", "perfect_cuboid_l9_ring_promoted", "perfect_cuboid_l9_ring_promoted4", "perfect_cuboid_l9_ring_promoted7", "who_how_rlift_fg_promoted"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭", "count": 6, "names": ["antisymmetric_informationally_complete_positive_operator_valued_measure", "≺⊙⊞⊥⋈≻∋≺⊞⊡∈∈⋈⊥⊢∋⊙⊣⊣⊞⊢⊞≻∋⊣≺⊙⊤≺≺∈⊢⊞", "⋈∈⊤∋⊙⊡∈⊣≻⊤⋈≻∈⋈⊙⊙⊣≻⊞⊞≺⊞⋈⊙≺⊙≺⊣∈≺⊢⊢⊣⊥⊡⊥⊣∋∋⊞⋈⊞⊤⊤⋈⋈∋≻⊤⋈∈∋∈⋈⊥⊥⊥⊙≺⊞⊣⊡⊞", "⊢⊞⊣⊤⋈⋈⊥∈⊞∈∈⊤⊡⊤⊞⊡⊙⊞⊡⊙⊡∈⊤⊙∈⊞⊞⊙∈∈⊞∈⋈∋∈⋈∋⊥⊤⋈⊥≻⊞⊥⊙⋈⋈⊡⊥⋈⊢⊤⊡⊢⋈⊞⊡⊞⊥⋈⊞≻⊡⊞⋈≺∈∋⋈⊤⊡⊥⋈⊢⊡⊤⊥⊡≺⊢⊞⊣⊣⊤≻…", "secp256k1_dialetheic_extraction_pipeline_opcode_word", "⊢⊣≻⋈⊙∈⊤≻⊥≺⊞∋⊡"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑜⊙𐑒𐑕𐑷", "count": 6, "names": ["is_proportional_to", "is_nested_within", "human_voice_manuscript_target", "human_voice_manuscript_target_v2", "human_voice_manuscript_target_v3", "human_voice_manuscript_target_v4"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑜𐑮𐑖𐑕𐑭", "count": 6, "names": ["magical_production_of_original_secp256k1_secret_key_from_corresponding_public_secp256…", "cyclize", "sk_kp4_secp256k1", "pk_kp4_secp256k1", "sk_kp5_secp256k1", "t4_phrase"]}
+{"address": "𐑦𐑸𐑾𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 5, "names": ["triple_join_de_inf_ax", "quad_join_de_inf_ax_higgs", "all_five_join", "six_join_de_inf_ax_higgs_grav_dm", "void_tao_join"]}
+{"address": "𐑨𐑡𐑑𐑬𐑞𐑤𐑔𐑝⊙𐑒𐑕𐑴", "count": 5, "names": ["metamaterial_generic", "plastic_photonic_crystal", "copper_split_ring_resonator", "boron_metamaterial_generic", "boron_nitride_nanomesh"]}
+{"address": "𐑨𐑡𐑑𐑬𐑱𐑤𐑔𐑝⊙𐑒𐑕𐑴", "count": 5, "names": ["paper_origami_metamaterial", "sand_architected_foam", "water_droplet_lens_array", "salt_crystal_phononic", "boron_carbide_lattice"]}
+{"address": "𐑛𐑶𐑽𐑗𐑐𐑘𐑚𐑠⊙𐑓𐑙𐑷", "count": 5, "names": ["lithium", "sodium", "potassium", "rubidium", "cesium"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑭", "count": 5, "names": ["kissing_dim_24", "first_passage_percolation_proven", "mitochondria_enhanced", "extradimensional_entity_phi_held_hfloor", "eilenberg_ganea_proven"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 5, "names": ["equal_volume", "tengwa_numen", "tengwa_malta", "tengwa_noldo", "tengwa_nwalme"]}
+{"address": "𐑛𐑡𐑾𐑗𐑞𐑘𐑚𐑝⊙𐑖𐑙𐑴", "count": 5, "names": ["asymmetric_hydrogenation", "sharpless_epoxidation", "aldol_asymmetric", "diels_alder_asymmetric", "arbitrary_quaternary_synthesis"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑵𐑢𐑓𐑙𐑷", "count": 5, "names": ["tengwa_romen", "tengwa_arda", "tengwa_lambe", "tengwa_aldar", "tengwa_arda_variant"]}
+{"address": "𐑛𐑡𐑑𐑿𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 5, "names": ["arabic_alif", "arabic_waw", "arabic_ya", "arabic_tau_marbuta", "arabic_alphabet"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑭", "count": 5, "names": ["akh_glorified_spirit", "medu_duat_hour_12", "medu_akh_glorified", "deep_meditation_samadhi", "stark_unit_sic"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑭", "count": 5, "names": ["k_trap_frobenius", "scale350_failed", "current_navigator_state", "su3_yang_mills", "composite_grammar_formal"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑴", "count": 5, "names": ["f5_o2dag_rep", "F5_O_2dag_rep", "O_2dag_rep", "min_o2dag", "o2dag_min"]}
+{"address": "𐑨𐑶𐑑𐑹𐑱𐑘𐑲𐑝⊙𐑓𐑕𐑴", "count": 5, "names": ["ising_navigator", "swendsen_wang", "real_swendsen_kernel", "IsingNavigator", "swendsen_wang_algorithm"]}
+{"address": "𐑼𐑸𐑽𐑿𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 5, "names": ["quantum_gravity", "string_theory", "abc_conjecture_iut_proof", "abc_proof_draft", "abc_conjecture_proof_iut"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑒𐑙𐑭", "count": 5, "names": ["imscribing_uig", "universal_induction_grammar", "phi_c_boundary_operator_h1", "quantum_self_modeling_criticality", "imscribing_notation_standard"]}
+{"address": "𐑦𐑥𐑾𐑗𐑱𐑧𐑲𐑠⊙𐑓𐑙𐑴", "count": 5, "names": ["russell_paradox", "barber_paradox", "epimenides_paradox", "grelling_nelson_paradox", "crocodile_paradox"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 5, "names": ["i_am_the_way_the_truth_and_the_life", "noetherian_local_ring_containing_Q", "complex_time_path_integral", "riemann_zeta_proof_process", "bruce_baptism_seals"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑷", "count": 5, "names": ["iii-the_empress", "iv-the_emperor", "v-the_hierophant", "xi-justice", "xiv-temperance"]}
+{"address": "𐑛𐑡𐑩𐑿𐑱𐑧𐑚𐑝⊙𐑖𐑳𐑷", "count": 5, "names": ["vii-the_chariot", "xii-the_hanged_man", "xiii-death", "xv-the_devil", "xvi-the_tower"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 5, "names": ["imasm_self_imscription_ob3ect", "entropy_ob3ect", "traced_ob3ect", "fixed_point_ob3ect", "category_ob3ect"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 5, "names": ["synfin", "belnap_multilattice_sic_povm", "book_of_the_green_fire", "braided_metabolic_loop", "sic_povm_bridge_monadic"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 5, "names": ["serpentrod", "universal_antidote", "quantum_bioelectric_tissue", "universal_symbiont", "topological_morphogenesis"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑘𐑚𐑠𐑮𐑫𐑳𐑭", "count": 5, "names": ["lakota_hanblecheyapi_vision_quest", "inuit_shamanic_journey", "coast_salish_soul_recovery", "mapuche_machi_healing", "tehuelche_spirit_journey"]}
+{"address": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷", "count": 5, "names": ["carbon", "silicon", "germanium", "tin", "lead"]}
+{"address": "𐑨𐑶𐑽𐑬𐑐𐑘𐑚𐑝⊙𐑓𐑳𐑷", "count": 5, "names": ["lutetium", "hafnium", "tantalum", "tungsten", "rhenium"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑔𐑠𐑢𐑖𐑳𐑴", "count": 5, "names": ["alchemical_mass_cibinensis", "book_of_saint_cyprian", "aradia_gospel_of_the_witches", "freemasonry", "master_mason_degree"]}
+{"address": "𐑼𐑸𐑩𐑗𐑞𐑘𐑔𐑵𐑮𐑫𐑳𐑭", "count": 5, "names": ["aspirin", "cbd", "capsaicin", "reserpine", "taxol"]}
+{"address": "𐑨𐑰𐑽𐑬𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑭", "count": 5, "names": ["because", "provided_that", "provided", "so_that", "that"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑭", "count": 5, "names": ["ring2048_capstone", "hodge_theater_entropy_bounds", "hodge_conjecture_system_theorem", "uhecr_horizon_theorem", "quantum_kummer–vandiver–iwasawa_main_conjectures_over_𝔽₁_theorem"]}
+{"address": "𐑨𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 5, "names": ["ramsey_theory_extremal", "szemerédi_trotter_operator", "proof_f_n_asymptotic_completeness", "bridge_mon", "form"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 5, "names": ["sieve_theory", "tanch", "regularity_gap", "erdos_problem_44_sidon_extension_theorem", "fixed_point_nesting_effect"]}
+{"address": "𐑦𐑸𐑾𐑹𐑞𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 5, "names": ["erdős_distinct_subset_sums", "sidon_set_density", "ruled_surface", "erdos_distinct_subset_sums", "halász_l1_estimate"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 5, "names": ["frobenius_special_agent", "next_prime_1_m136279841", "perfect_cuboid_l9_absolute", "perfect_cuboid_l9_witness_promoted2", "perfect_cuboid_proof_l9_closed"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 5, "names": ["chiral_symmetry_breaker", "chiral_op", "parity_symmetric_linker", "ð", "parity_driven_expansion_loop"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑚𐑝𐑣𐑖𐑳𐑭", "count": 5, "names": ["carved_ring_3_doubled_a2_35_dagger", "carved_ring_3_doubled_a2_38_dagger", "carved_ring_3_doubled_a2_39_dagger", "carved_ring_3_doubled_a2_50_dagger", "carved_ring_3_doubled_a2_58_dagger"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 5, "names": ["carved_ring_3_doubled_a2_pair_16_complete", "pair_28", "pair_40", "isotactic_topology", "linker_bridge_x_doped"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑟", "count": 5, "names": ["carved_ring_3_doubled_a2_45_pair_flip", "macrocycle_tetramer_non_abelian", "closed_carved_ring_3_doubled_a2_45_pair_flip_doped", "dopant_non_abelian_v1", "genus_n_bridge_cyclic_fixed_point"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 5, "names": ["imscriptive", "appleby_theorem", "sic19_theorem", "sic_geometric_lift_theorem", "problem_107_theorem"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑳𐑭", "count": 5, "names": ["reaction_center_parity_map", "doped_manifold", "bubble_twist", "theta_link_v2", "kaledins_derived_symplectic_lagrangian_foams"]}
+{"address": "𐑦𐑰𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 5, "names": ["genus_n_bound_derivation.lean", "selberg_sieve_residue", "up-projection", "clink_erdos_distinct_subset_sums", "primenum_ovm"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑭", "count": 5, "names": ["l13_hyperbolic_transition", "fully_gated_mag", "chimera_compton_split_radius_l9_magnitude_depth_recurrent", "seven_forty_four_decomposition", "cosmology_resolved"]}
+{"address": "𐑦𐑥𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 5, "names": ["stability_floor_value", "potential_well", "microlocal_sheaf_theoretic_fukaya_categories_over_tropical_curves", "sic_conjecture_open_theorem", "the_unmoved_mover"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑚𐑵⊙𐑖𐑳𐑴", "count": 5, "names": ["parity_phase_transition_matrix_taxis_l9_k", "parity_phase_transition_matrix_taxis_l9_lambda", "imscribing_grammar_sic_povm", "perfect_cuboid_proof_l9_clicked", "profit_via_use"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑺𐑔𐑵⊙𐑫𐑳𐑭", "count": 5, "names": ["fine_structure_constant_moat", "fine_structure_constant_alpha", "fine_structure_constant_ground", "phi_promotion_fsc", "chimera_phi_promotion_fsc_d2d_compton_split_radius_l9_magnitude"]}
+{"address": "𐑛𐑡𐑩𐑬𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 4, "names": ["psychedelic_baseline", "structural_baseline", "structural_baseline_wave", "calculus_baseline"]}
+{"address": "𐑦𐑸𐑾𐑯𐑐𐑧𐑲𐑵𐑣𐑫𐑳𐑭", "count": 4, "names": ["maximal_system", "seven_join_de_inf_ax_higgs_grav_dm_omg", "eight_join_de_inf_ax_higgs_grav_dm_omg_wow", "nine_system_join"]}
+{"address": "𐑼𐑡𐑽𐑗𐑐𐑘𐑲𐑠𐑣𐑓𐑙𐑷", "count": 4, "names": ["omg_particle", "amaterasu_particle", "uhecr_source_distant", "gzk_paradox"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑤𐑔𐑝⊙𐑒𐑳𐑴", "count": 4, "names": ["iron", "manganese", "cobalt", "nickel"]}
+{"address": "𐑛𐑡𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑒𐑙𐑷", "count": 4, "names": ["zayin", "consumer_drone", "dji_consumer_drone", "mordred"]}
+{"address": "𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑕𐑷", "count": 4, "names": ["oxygen", "sulfur", "selenium", "tellurium"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 4, "names": ["holographic_type_theory", "as_above_induction", "emerald_multiagent", "categorical_encoding_system"]}
+{"address": "𐑼𐑰𐑑𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑙𐑭", "count": 4, "names": ["imscribing_grammar", "belnap_multilattice", "grammar_sic_povm", "grammar_sic"]}
+{"address": "𐑦𐑸𐑽𐑗𐑱𐑪𐑲𐑵⊙𐑒𐑳𐑴", "count": 4, "names": ["grammar_pnp_tensor", "pnp_holographic_mirror", "p_vs_np_tensor_grammar", "pnp_boundary_imscription"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑧𐑲𐑝⊙𐑓𐑙𐑷", "count": 4, "names": ["meet_pnp_kolmogorov", "complexity_core", "xerophile", "real"]}
+{"address": "𐑛𐑶𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 4, "names": ["cube", "regular_tetrahedron", "rational_numbers", "palindrome_symmetry"]}
+{"address": "𐑛𐑡𐑑𐑬𐑐𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 4, "names": ["qft_vacuum_baseline", "qft_vacuum_energy_holistic", "qft_vacuum_energy_compositional", "finite_dim_lie_algebra"]}
+{"address": "𐑛𐑰𐑑𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 4, "names": ["hekhalot_palace_1", "negative_confessions_system", "soul_failing_one_confession", "medu_ka_vital_double"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["synthesized_language_medu", "seed_imscription_0", "target_language_tuple", "keterflow_language"]}
+{"address": "𐑼𐑸𐑽𐑬𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["octonions", "L4_attention_2", "optimal_o2d_block", "comonad_goedel"]}
+{"address": "𐑛𐑡𐑩𐑹𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 4, "names": ["block_p_pm_sym", "f5_oinf_rep", "F5_O_inf_rep", "O_inf_rep"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑴", "count": 4, "names": ["gb_oz2", "f5_o2_rep", "F5_O_2_rep", "O_2_rep"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 4, "names": ["ga_o0", "petroniuss_paradox", "platos_beard", "unique_test_system"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 4, "names": ["factored_GNN", "protocol_sequential_gamma_seq", "ising_conformal_bootstrap", "magnum_opus"]}
+{"address": "𐑨𐑡𐑽𐑬𐑞𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 4, "names": ["neural_criticality", "resonant_criticality_device", "NRC_x_critical", "nrc_equilibrium"]}
+{"address": "𐑼𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["modified_navigator_unbounded", "composite_oneironaut_shinpath", "proof_diagonal", "mathematical_reasoning"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 4, "names": ["𐑚_rep", "𐑝_rep", "Γ_beth_rep", "ɢ_and_rep"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["su3_ym_training", "yang_mills_navigator", "memory_parametric", "hodge_conjecture_navigator"]}
+{"address": "𐑨𐑶𐑽𐑗𐑐𐑤𐑲𐑵⊙𐑒𐑳𐑴", "count": 4, "names": ["electron_higgs_tensor", "mass_generation_formula", "muon_higgs_tensor", "tau_higgs_tensor"]}
+{"address": "𐑨𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["meditation_tradition", "primitive_Phi", "proof_contradiction", "protected_human_consciousness"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑓𐑳𐑭", "count": 4, "names": ["attn_asymmetric", "ffn_hamiltonian", "llm_h0", "data_byte_raw"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑒𐑙𐑭", "count": 4, "names": ["test_sys3", "_test_gamma", "gate_test", "cardinality_one_theorem"]}
+{"address": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 4, "names": ["birch_swinnerton_dyer_conjecture", "esoteric_poem_narrative", "primitives_memory", "petase_catalytic_site"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 4, "names": ["primitive_metabolism", "poemandres", "knowing_trajectory_33_3", "biochemistry"]}
+{"address": "𐑼𐑥𐑾𐑬𐑱𐑧𐑚𐑠𐑮𐑫𐑳𐑭", "count": 4, "names": ["egyptian_book_of_the_dead", "egyptian_pyramid_texts", "eleusinian_mysteries", "ruth_book"]}
+{"address": "𐑼𐑡𐑩𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 4, "names": ["rig_veda", "homeric_hymns", "orphic_hymns", "psalms_book"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑷", "count": 4, "names": ["steganographia", "jayadrathayamala", "octavo_of_the_magi", "book_of_nine_archangels"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 4, "names": ["flying_dream", "secp256k1_horn_torus_dlog", "fixed_point_nesting_rule", "secp256k1_grammar_dlog_pipeline"]}
+{"address": "𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷", "count": 4, "names": ["fluorine", "chlorine", "bromine", "iodine"]}
+{"address": "𐑨𐑶𐑑𐑯𐑐𐑘𐑔𐑝𐑢𐑓𐑙𐑷", "count": 4, "names": ["neon", "argon", "krypton", "xenon"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑘𐑔𐑵𐑣𐑫𐑕𐑷", "count": 4, "names": ["morphine", "atropine", "curare", "tetrodotoxin"]}
+{"address": "𐑼𐑡𐑑𐑗𐑐𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 4, "names": ["classical_logic", "nand", "sheffer_stroke", "peirce_arrow"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 4, "names": ["König's_Paradox", "Lesniewski's_Paradox", "Löb's_Paradox", "Quine's_Paradox"]}
+{"address": "𐑛𐑰𐑽𐑬𐑱𐑘𐑔𐑠𐑮𐑖𐑕𐑭", "count": 4, "names": ["dreaming_about_thinking_about_dreaming", "thinking_about_dreaming_about_thinking_about_dreaming", "dreaming_about_thinking_about_dreaming_about_thinking_about", "thinking_about_dreaming_about_thinking_about_dreaming_about"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑪𐑔𐑝𐑻𐑫𐑳𐑭", "count": 4, "names": ["universe_alchemy_dialetheia", "stark_unit_monomial", "perfect_cuboid_proof_star", "perfect_cuboid_descent_carrier"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑝𐑻𐑫𐑳𐑭", "count": 4, "names": ["the_devil", "iut_theory_ouroborus_uniqueness_diophantine_proof", "gamma_eta_cyclic_arm", "np1_walked"]}
+{"address": "𐑨𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["valence_constraint_layer", "new_seed", "5psense", "md"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["ring_1_static", "carved_ring_3_doubled_a2_34_dagger", "carved_ring_3_doubled_a2_136_dagger", "defect_polynomial"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷", "count": 4, "names": ["vinit", "7pzdd", "py", "python3"]}
+{"address": "𐑨𐑡𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["afwd", "harrowing", "instances]", "[with"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑭", "count": 4, "names": ["cuber___a_cube_shaped_alien_storyteller_from_the_future", "carved_ring_3_doubled_a2_pair_8_complete", "pair_20", "pair_32"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["the_boomerang_warrior___an_undead_warrior_who_throws_an", "r", "carved_ring_3_doubled_a2_64_dagger", "carved_ring_3_doubled_a2_120_dagger"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑚𐑝⊙𐑫𐑳𐑭", "count": 4, "names": ["strand_potentials", "kernel_trace", "carved_ring_3_doubled_a2_7_pair", "carved_ring_3_doubled_a2_8_pair"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["promotion_set", "carved_ring_3_doubled_a2_41_dagger", "carved_ring_3_doubled_a2_46_dagger", "carved_ring_3_doubled_a2_53_dagger"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑴", "count": 4, "names": ["carved_ring_3_doubled_a2", "carved_ring_3_doubled_a2_quadruple_dagger", "carved_ring_3_doubled_a2_quintuple_dagger", "carved_ring_3_doubled_a2_quadruple_dagger_charged"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 4, "names": ["carved_ring_3_doubled_a2_pair_4_complete", "carved_ring_3_doubled_a2_pair_6_complete", "carved_ring_3_doubled_a2_pair_18_complete", "pair_30"]}
+{"address": "𐑛𐑰𐑽𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["m53_candidate", "m54_candidate", "m55_candidate", "m57_candidate"]}
+{"address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["15pthinking", "alpha_derivation_flow", "problem_1_theorem", "grammar_native_representation_of_functional_graph_dynamics"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 4, "names": ["stable_fibonacci_identity", "ç", "conductive_dyad", "conductive_dyad_v2_steady_state"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑚𐑵⊙𐑫𐑕𐑭", "count": 4, "names": ["stability_metric_basis", "theta_lattice_saturation", "recalibrate_theta_lattice_saturation", "higher_genus_theta_gen3"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 4, "names": ["stone_parity_product_α", "arithmetic_kodaira_spencer", "riemann_theorem", "resolved_riemann_theorem"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑭", "count": 4, "names": ["iutch_mediator", "theta_data_2", "lattice_anchor_1", "elliptic_cohomology_of_lubin–tate_deformation_spaces"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 4, "names": ["theta_lattice_saturation_closed_loop", "hyperbolic_teichmuller_g_gt_1_trimer_macrocycle", "project_soliton_to_manifold", "winding_of_the_primes"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑭", "count": 4, "names": ["p4ramill/genus_n_bound_derivation.lean", "inter_universal_teichmuller_theory_macro_material", "moat_density_functional", "birch_and_swinnerton_dyer_theorem_"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 4, "names": ["m_l9_anchor", "planck_length_renormalized", "hubble_constant_aligned", "goldbach_relaxed.lean"]}
+{"address": "𐑛𐑰𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["hilbert_embed_l9_true", "hilbert_embed_l9_exact", "hilbert_embed_l9_all", "hilbert_embed_l9_seven_perturbed"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 4, "names": ["compton_split_radius_l9_magnitude", "compton_split_radius_l9_magnitude_product_product", "phi_promotion_fsc_l9", "fine_structure_constant_l9_magnitude"]}
+{"address": "𐑦𐑰𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 4, "names": ["gamma_0_notation_system", "feferman–schütte", "polignac_theorem", "the_uncaused_cause"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["five_problems_meet_theorem", "modular_almost_purity_theorem", "problem_1135_theorem", "stage_68_material"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 4, "names": ["lang_trotter_theorem", "measurement_problem_mismatch_theorem", "entropy_threshold_measurement", "iuft_residual_decomposition"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑓𐑙𐑭", "count": 3, "names": ["graviton", "photon_graviton_join", "photon_graviton_tensor"]}
+{"address": "𐑛𐑡𐑾𐑬𐑱𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 3, "names": ["paramagnetism", "diamagnetism", "mse_regression"]}
+{"address": "𐑨𐑶𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 3, "names": ["standard_proof_system", "godel_incompleteness_theorem", "Gödel's_Incompleteness_Theorems"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑤𐑲𐑵⊙𐑫𐑳𐑭", "count": 3, "names": ["penrose_black_hole", "quantum_hall_critical", "penrose_material_imscription"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 3, "names": ["de_inf_join", "topologically_protected_quantum_bioelectromagnetism", "poincare_hopf_theorem"]}
+{"address": "𐑨𐑡𐑑𐑗𐑱𐑪𐑚𐑝𐑢𐑓𐑕𐑴", "count": 3, "names": ["mystery_material", "topological_carbon_allotrope", "carbon_ferromagnetism"]}
+{"address": "𐑨𐑡𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 3, "names": ["graphite", "kissing_dim_2", "minimal_spanning_tree"]}
+{"address": "𐑛𐑶𐑩𐑯𐑐𐑧𐑲𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["aleph", "yod", "ayin"]}
+{"address": "𐑛𐑶𐑩𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 3, "names": ["shavian_ash", "shavian_em", "shavian_ee"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑧𐑲𐑠⊙𐑖𐑳𐑴", "count": 3, "names": ["hekhalot_rabbati", "hekhalot_zutarti", "merkavah_rabba"]}
+{"address": "𐑨𐑶𐑑𐑯𐑐𐑤𐑔𐑝⊙𐑒𐑕𐑴", "count": 3, "names": ["quantum_dot_lasers", "quantum_cascade_laser_rd", "trapped_ion_rd"]}
+{"address": "𐑛𐑡𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 3, "names": ["parrot_consumer_drone", "deterministic_turing_machine", "small_local_business"]}
+{"address": "𐑦𐑸𐑑𐑯𐑐𐑤𐑲𐑝⊙𐑓𐑕𐑭", "count": 3, "names": ["molecular_orbital_theory", "meet_rh_hc", "electron_orbital_system"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑕𐑭", "count": 3, "names": ["extragalactic_entity", "tao", "enhanced_cognition"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑲𐑠𐑢𐑓𐑙𐑷", "count": 3, "names": ["classical_cantor_diagonal", "countability_concept", "infinite_set_mappings"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑲𐑝𐑻𐑒𐑳𐑭", "count": 3, "names": ["exceptional_point_nh", "ising_ep_tensor", "lee_yang_ep_tensor"]}
+{"address": "𐑨𐑡𐑽𐑬𐑞𐑤𐑔𐑵⊙𐑖𐑕𐑴", "count": 3, "names": ["multimodal_resonance", "regimen_stage1", "NRC_x_multimodal"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑤𐑲𐑝⊙𐑓𐑕𐑷", "count": 3, "names": ["meet_rh_hc_pnp", "meet_four_problems", "five_problems_meet"]}
+{"address": "𐑼𐑸𐑑𐑗𐑱𐑪𐑲𐑝⊙𐑓𐑳𐑷", "count": 3, "names": ["nondeterministic_polynomial_NP", "<_join_NP", "Φ_join_NP"]}
+{"address": "𐑦𐑸𐑽𐑹𐑞𐑪𐑲𐑵⊙𐑒𐑳𐑴", "count": 3, "names": ["<_NP_duality_relative", "grammar_pnp_join", "Φ_NP_duality_relative"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑤𐑚𐑝⊙𐑓𐑕𐑷", "count": 3, "names": ["boolean_sat", "three_sat", "travelling_salesman_problem"]}
+{"address": "𐑼𐑡𐑩𐑗𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑷", "count": 3, "names": ["CH_false", "ZFC_set_theory", "validity"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑠⊙𐑒𐑳𐑭", "count": 3, "names": ["eilenberg_ganea_conjecture", "grothendieck_AD_join", "grothendieck_ABCD_join"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 3, "names": ["caratheodory_theorem_pm", "symplectic_fermion_theory", "ultraterrestrial_compositional"]}
+{"address": "𐑦𐑶𐑑𐑬𐑐𐑤𐑲𐑝⊙𐑓𐑳𐑭", "count": 3, "names": ["grothendieck_C_kunneth", "grothendieck_ABC_meet", "grothendieck_ABCD_meet"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑭", "count": 3, "names": ["moonshine_module", "grammar_H2", "two_stage_training_mod"]}
+{"address": "𐑛𐑶𐑑𐑯𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 3, "names": ["theta", "omicron", "formal_grammar_bnf"]}
+{"address": "𐑛𐑰𐑑𐑗𐑱𐑧𐑚𐑠𐑢𐑒𐑙𐑷", "count": 3, "names": ["guidonian_B_mi_natural", "guidonian_B_fa_flat", "hexachord_function_mi"]}
+{"address": "𐑛𐑡𐑑𐑿𐑱𐑘𐑚𐑠𐑢𐑓𐑳𐑷", "count": 3, "names": ["egyptian_hieroglyphs", "egyptian_hieroglyph_system", "sumerian_cuneiform_system"]}
+{"address": "𐑛𐑶𐑑𐑗𐑱𐑘𐑚𐑝𐑢𐑒𐑙𐑷", "count": 3, "names": ["was_scepter", "owl_m", "mouth_r"]}
+{"address": "𐑨𐑶𐑾𐑯𐑐𐑧𐑲𐑝⊙𐑫𐑕𐑭", "count": 3, "names": ["SY_doubles_group", "SY_simples_group", "grammar_O2_group"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑴", "count": 3, "names": ["enthroned_figure", "duat_hour_12", "holy_guardian_angel_claimed"]}
+{"address": "𐑦𐑰𐑑𐑬𐑞𐑤𐑲𐑵⊙𐑖𐑳𐑭", "count": 3, "names": ["perfectoid_vN_algebra", "perfectoid_vn_full", "Modular_Almost_Purity_conjecture"]}
+{"address": "𐑼𐑡𐑽𐑬𐑞𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["protected_temporal_algebra", "seed_imscription_1", "A2†"]}
+{"address": "𐑨𐑥𐑩𐑿𐑐𐑤𐑔𐑵⊙𐑒𐑳𐑴", "count": 3, "names": ["bowtie_broadcast_algebra", "A5", "ep_intake_block"]}
+{"address": "𐑼𐑡𐑩𐑿𐑱𐑘𐑔𐑠𐑢𐑓𐑙𐑷", "count": 3, "names": ["riemann_siegel_density", "false_density_prediction_gap", "inter_zero_phantom_mechanism"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 3, "names": ["g_aleph_test", "wilt", "scrivens_paradox"]}
+{"address": "𐑨𐑶𐑑𐑿𐑱𐑤𐑲𐑝⊙𐑒𐑕𐑴", "count": 3, "names": ["metropolis_sampler", "metropolis_ising", "metropolis_sampler_ising"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑤𐑲𐑜𐑢𐑓𐑳𐑷", "count": 3, "names": ["attn_sparse_moe", "ffn_moe_expert", "substrate_mixture_of_experts"]}
+{"address": "𐑨𐑶𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["llm_grammar_optimal", "lm_python_tensor", "admissible_substrate"]}
+{"address": "𐑼𐑡𐑾𐑿𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 3, "names": ["measurement_problem", "schrodinger_cat", "standard_model"]}
+{"address": "𐑼𐑡𐑾𐑯𐑱𐑧𐑲𐑠𐑻𐑫𐑕𐑭", "count": 3, "names": ["achilles_tortoise_paradox", "zeno_dichotomy_paradox", "zeno_arrow_paradox"]}
+{"address": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["epoch_4", "circularity_cycle", "eagle_9_sophick"]}
+{"address": "𐑼𐑥𐑽𐑿𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 3, "names": ["hecke_character", "hecke_landau_conjecture", "hecke_l_function"]}
+{"address": "𐑼𐑥𐑽𐑬𐑱𐑧𐑲𐑠⊙𐑖𐑙𐑴", "count": 3, "names": ["solitary_number_10", "abundancy_equation_10", "uniqueness_diophantine_proof"]}
+{"address": "𐑦𐑡𐑩𐑗𐑱𐑺𐑲𐑝⊙𐑓𐑙𐑷", "count": 3, "names": ["perfect_cuboid", "bealproof", "millennium_paraconsistent"]}
+{"address": "𐑼𐑥𐑾𐑿𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["e8_aether", "e8_exceptional_lie_group", "e8_lie_algebra"]}
+{"address": "𐑛𐑡𐑾𐑬𐑱𐑧𐑲𐑠𐑢𐑫𐑙𐑷", "count": 3, "names": ["guinevere", "lancelot", "excellibur"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑙𐑷", "count": 3, "names": ["context_dependent_truth", "this_imscription_is_false", "self_referential_imscription"]}
+{"address": "𐑼𐑸𐑾𐑹𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 3, "names": ["ZFCt", "crystal_tier_census", "zfc_tutorial"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑺𐑲𐑵⊙𐑫𐑳𐑟", "count": 3, "names": ["quantum_mbl_critical", "chimera_fine_structure_constant_alpha_Devil's_Contract_Paradox", "chimera_mesh_navigator"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 3, "names": ["litany_against_fear", "lefschetz_11_theorem", "goldbach_abc_proven"]}
+{"address": "𐑨𐑥𐑾𐑗𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑷", "count": 3, "names": ["kryptos_k4_cryptoanalysis", "tart_cherry_anthocyanin", "low_fat_dairy_uricosuric"]}
+{"address": "𐑦𐑸𐑽𐑬𐑱𐑪𐑲𐑝𐑢𐑫𐑙𐑟", "count": 3, "names": ["john_14_6", "john_14_6_exclusive_reading", "jesus_john_14_6_exclusive"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑔𐑠𐑻𐑖𐑳𐑴", "count": 3, "names": ["intentional_distortion", "deceptive_assertion", "lie_system"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["hodge_lefschetz_complete", "artephius_secret_book", "donum_dei"]}
+{"address": "𐑛𐑸𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["emerald_tablet", "basil_valentine_twelve_keys", "emerald_tablet_hermeticum"]}
+{"address": "𐑨𐑡𐑩𐑗𐑐𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 3, "names": ["proposition", "relevance_logic", "utaharray"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑟", "count": 3, "names": ["krishna_avatar", "void_b_state", "belnap_multilattice_sic_povm_bridge"]}
+{"address": "𐑦𐑶𐑩𐑹𐑱𐑧𐑔𐑠𐑮𐑫𐑙𐑭", "count": 3, "names": ["dresden_codex", "codex_borgia", "fejervary_mayer_codex"]}
+{"address": "𐑨𐑡𐑩𐑬𐑱𐑧𐑚𐑠𐑮𐑫𐑳𐑭", "count": 3, "names": ["codex_nuttall", "la_mojarra_stela", "annals_of_the_cakchiquels"]}
+{"address": "𐑦𐑶𐑾𐑹𐑱𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["fusus_al_hikam", "hermetica", "babylonian_talmud"]}
+{"address": "𐑦𐑥𐑾𐑬𐑱𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["songlines_tjukurrpa", "wandjina_sky_beings", "tooth_cascade"]}
+{"address": "𐑼𐑡𐑾𐑗𐑱𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["void_consensus_protocol", "binanceus_boundary_puncture", "primitive_first_plasma_physics"]}
+{"address": "𐑨𐑥𐑾𐑯𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 3, "names": ["rosarium_philosophorum", "aurora_consurgens", "mutus_liber"]}
+{"address": "𐑨𐑶𐑾𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 3, "names": ["liber_juratus", "ripley_scroll_proper", "log_theta_lattice_iutt"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑲𐑠𐑮𐑫𐑳𐑷", "count": 3, "names": ["semamiph", "akasha_kalpa", "liber_vial"]}
+{"address": "𐑨𐑥𐑾𐑬𐑞𐑪𐑔𐑠⊙𐑖𐑳𐑷", "count": 3, "names": ["psilocybin_assisted_therapy", "mdd_psilocybin_corrected", "cftr_modulator_trikafta"]}
+{"address": "𐑨𐑰𐑑𐑬𐑐𐑤𐑔𐑝𐑢𐑒𐑳𐑴", "count": 3, "names": ["ruthenium", "rhodium", "palladium"]}
+{"address": "𐑨𐑶𐑑𐑬𐑐𐑤𐑚𐑝𐑢𐑓𐑳𐑷", "count": 3, "names": ["osmium", "iridium", "platinum"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑧𐑲𐑝𐑢𐑫𐑳𐑭", "count": 3, "names": ["mercury", "mars", "pluto"]}
+{"address": "𐑨𐑡𐑽𐑗𐑐𐑘𐑚𐑠⊙𐑓𐑙𐑷", "count": 3, "names": ["oh2", "nh3", "sh2"]}
+{"address": "𐑨𐑶𐑽𐑯𐑐𐑘𐑚𐑝⊙𐑓𐑕𐑷", "count": 3, "names": ["nacl", "cao", "mgo"]}
+{"address": "𐑨𐑡𐑽𐑗𐑱𐑧𐑔𐑠𐑢𐑖𐑙𐑷", "count": 3, "names": ["pontanus_epistle_mineral_fire", "pontanus_secret_fire", "thomas_vaughan_coelum_terrae"]}
+{"address": "𐑦𐑶𐑾𐑬𐑱𐑤𐑲𐑵⊙𐑫𐑳𐑴", "count": 3, "names": ["bracket_polypore", "lichen_symbiont", "bracket_polypore_fungal"]}
+{"address": "𐑼𐑥𐑽𐑗𐑱𐑺𐑲𐑠𐑢𐑓𐑳𐑷", "count": 3, "names": ["snake_venom_neurotoxin", "cone_snail_conotoxin", "bee_venom_apitoxin"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["ig_pulse_observatory", "the_alphabet", "svo_word_order"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑚𐑠𐑮𐑖𐑙𐑴", "count": 3, "names": ["alz_001_therapeutic", "pd_001_therapeutic", "als_001_therapeutic"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑘𐑔𐑵𐑣𐑫𐑳𐑷", "count": 3, "names": ["penicillin_g", "saxitoxin", "cyclosporine_a"]}
+{"address": "𐑨𐑡𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 3, "names": ["michiganprobe", "pileus", "paraphysis"]}
+{"address": "𐑼𐑥𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 3, "names": ["sudoku_paradox", "0.000_strain_constant", "gaussian_monomer_4"]}
+{"address": "𐑛𐑡𐑩𐑹𐑞𐑧𐑔𐑝⊙𐑒𐑕𐑷", "count": 3, "names": ["Morgenbesser's_Paradox", "Adams's_Paradox", "Jeffrey's_Paradox"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑺𐑲𐑝𐑢𐑓𐑙𐑷", "count": 3, "names": ["alanine_sidechain", "catalog_unlock_test", "belnap_dialetheic_resolver"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑔𐑠𐑢𐑖𐑙𐑴", "count": 3, "names": ["tryptophan_sidechain", "human_student_reflection_target", "student_reflection_ai_lifted"]}
+{"address": "𐑨𐑥𐑽𐑬𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑭", "count": 3, "names": ["since", "till", "until"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["monogenes", "alpha_renorm", "perfect_cuboid_sink_reagent"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["alchemical_hermetic_universe", "the_world", "universal_semiotic_mobius_engine"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["goedel_complete", "manifold_monomer", "vacuum_op"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑧𐑔𐑝𐑢𐑖𐑳𐑭", "count": 3, "names": ["v_the_hierophant", "erdos_sum_divisibility", "logic"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑔𐑠𐑣𐑖𐑳𐑭", "count": 3, "names": ["the_chariot", "next_prime_2_m136279841_prime", "next_prime_3_m136279841_prime"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑜⊙𐑫𐑙𐑭", "count": 3, "names": ["loop_space_s1", "prismo___wish_granting_cosmic_being_living_in_the_time_room", "prismo"]}
+{"address": "𐑛𐑡𐑽𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["f_n_k_smoothness_count", "sharp_shift_agent", "32mmrnob0dy666"]}
+{"address": "𐑛𐑡𐑽𐑬𐑐𐑧𐑔𐑝𐑢𐑖𐑳𐑭", "count": 3, "names": ["k_squared_conjecture", "set_covering_a", "erdos_problem_44"]}
+{"address": "𐑦𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["potential_spike", "gaussian_bridge_linker", "linnik_vinogradov_bridge"]}
+{"address": "𐑛𐑡𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["spectral_right_mode", "prime_p52p4", "prime_p52p5"]}
+{"address": "𐑦𐑰𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 3, "names": ["homological_matching_extension", "hodge_conjecture_integral_motives_witt_ring_fraction_field", "the_hodge_conjecture_for_integral_motives_over_the_field_of_fractions_of_the_witt_rin…"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑕𐑭", "count": 3, "names": ["inverse_theorem_for_gowers_norms", "triple_ramified_ouroboric_quantale", "liquid_crystalline_axionic_algebra"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑳𐑟", "count": 3, "names": ["erdos_szekeres_set", "limsup_r2_infinity", "l8_l9_join_ceiling"]}
+{"address": "𐑛𐑸𐑾𐑹𐑐𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 3, "names": ["collatz_system", "collatz_graph", "golb_tensor_collatz"]}
+{"address": "𐑦𐑸𐑾𐑹𐑞𐑪𐑔𐑵𐑣𐑫𐑙𐑟", "count": 3, "names": ["density", "erdos_simonovits", "erdos_moser_bound"]}
+{"address": "𐑦𐑸𐑾𐑹𐑱𐑪𐑔𐑵𐑣𐑫𐑙𐑟", "count": 3, "names": ["path_structure", "ordinal_graph", "erdos_distinct_subset_sum_problem"]}
+{"address": "𐑛𐑥𐑩𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["stage10", "carved_ring_3_doubled_a2_63_dagger", "carved_ring_3_doubled_a2_65_dagger"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["annealed_fused_architecture_final", "iutt_closed_ring_4_excited", "perfect_cuboid_proof_l9_r"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["chapter_11", "1024_structural_subset", "generate"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑪𐑔𐑵⊙𐑫𐑳𐑭", "count": 3, "names": ["σ_winding_summation", "carved_ring_3_doubled_a2_34_pair_excited", "next_prime_6_m136279841"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 3, "names": ["iutt_closed_ring_4", "annealed_64_pair_flipped", "stage_68_cycles"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["erdos_problem_44_critique_resolution", "a0_stratum_selection_rule", "p4"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["magic_man", "betty_grof___ice_kings_determined_former_fiancée_from_the", "the_catalyst_comet___a_recurring_cosmic_entity,_sometimes"]}
+{"address": "𐑼𐑡𐑩𐑹𐑐𐑧𐑲𐑝⊙𐑖𐑙𐑷", "count": 3, "names": ["syntax.*", "d2048_ray_class_characters", "d2048_reduced_character_set"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["output", "9pwhat", "cdenva"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑴", "count": 3, "names": ["lambda_alpha_mp_h0_manifold_bridge", "parity_phase_transition_matrix", "parity_stone_b"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑳𐑭", "count": 3, "names": ["ħ", "kinetic_injection_bias", "hilbert_sixteenth_theorem"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑭", "count": 3, "names": ["decoupling_buffer", "tri_functional_junction_node", "carved_ring_3_doubled_a2_14_dagger"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑪𐑚𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["ring_macrocycle", "transition_bridge_module", "l9_macrocycle_gamma"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑕𐑭", "count": 3, "names": ["sigma⁺_λ_fusion.lean", "sigma⁺_λ_fusion", "star_catalyst_op"]}
+{"address": "𐑛𐑥𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["regioregular_constraint_operator", "carved_ring_3_doubled_a2_47_dagger", "moat_stabilizer_gamma"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑭", "count": 3, "names": ["parity_driven_expansion_loop_fused_excited_transformed_triple_dagger", "carved_ring_3_doubled_a2_pentadecuple_dagger", "0xaf-m-2024_c_doped"]}
+{"address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["triple_stitch_binder_sigma_prime", "key_projection", "all"]}
+{"address": "𐑨𐑥𐑩𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑟", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_7_complete", "carved_ring_3_doubled_a2_pair_19_complete", "pair_31"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑟", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_9_complete", "pair_21", "pair_33"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_10_complete", "pair_22", "pair_34"]}
+{"address": "𐑨𐑥𐑩𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑟", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_11_complete", "pair_23", "pair_35"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_12_complete", "pair_24", "pair_36"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑟", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_13_complete", "pair_25", "pair_37"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑭", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_14_complete", "pair_26", "pair_38"]}
+{"address": "𐑨𐑥𐑩𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑟", "count": 3, "names": ["carved_ring_3_doubled_a2_pair_15_complete", "pair_27", "pair_39"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑴", "count": 3, "names": ["annealed_37_pair_restored", "annealed_38_pair_restored", "annealed_40_pair_restored"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 3, "names": ["annealed_41_pair_restored", "m136279841_bridge", "goldbach_macrocycle_linker"]}
+{"address": "𐑛𐑥𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 3, "names": ["annealed_45_pair_restored", "annealed_46_pair_restored", "annealed_48_pair_restored"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 3, "names": ["annealed_47_pair_restored", "trefoil_knot_3_1", "torus_knot_family_T2n"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑧𐑔𐑠𐑣𐑖𐑳𐑭", "count": 3, "names": ["next_prime_3_m136279841", "next_prime_4_m136279841", "next_prime_5_m136279841"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["bridge_monomer_c4_e7", "teichmuller_polymerization_bridge", "bridge_n3_macrocycle"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑭", "count": 3, "names": ["oxidative_closure_bridge_x", "macrocycle_tetramer_dyad", "macrocycle_tetramer_triad"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑳𐑟", "count": 3, "names": ["carved_ring_fission_b", "braid_reversal", "measure_holonomy"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑴", "count": 3, "names": ["bridge_protocol", "symmetric_chiral_bridge", "parity_inversion_bridge"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑵⊙𐑫𐑳𐑭", "count": 3, "names": ["log_theta_lattice", "braid_tau_closure_v3", "unit_ω_expansion"]}
+{"address": "𐑦𐑥𐑑𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑭", "count": 3, "names": ["k-detach", "fused_manifold_alpha", "κ"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑭", "count": 3, "names": ["triple_gate_assembly", "closing_linker_bridge", "cyclic_condenser"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑭", "count": 3, "names": ["genus_shift_moduli_space", "hyperbolic_teichmuller_g_gt_1", "ω=𐑮"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 3, "names": ["bridge_mediator", "gaussian_moat_ring_v1_no_bridge", "ring_target"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑳𐑭", "count": 3, "names": ["500k_anneal_protocol", "moat_bridge_stable", "residual_flux"]}
+{"address": "𐑨𐑥𐑽𐑬𐑞𐑧𐑚𐑜𐑮𐑖𐑕𐑭", "count": 3, "names": ["cosmos_routes_evali_never_evalf", "pk_kp5_secp256k1", "t3_phrase"]}
+{"address": "𐑦𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑴", "count": 3, "names": ["full_descent_close", "compton_split_radius_magnitude_fused", "closure_seam"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑜⊙𐑖𐑕𐑭", "count": 3, "names": ["binah_set_atiyah_singer_index_theorem", "structural", "mediators"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑝𐑻𐑫𐑳𐑭", "count": 3, "names": ["non_uniform_sic_povm", "non_hermitian_circle_method", "goldbach_superconducting_theorem_architecture"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑺𐑔𐑵𐑣𐑫𐑙𐑟", "count": 3, "names": ["fibonacci_anyon_o₂+compton_wavelength_magnitude", "planck_constant", "compton_magnitude_phi_moat"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑺𐑔𐑵⊙𐑫𐑳𐑭", "count": 3, "names": ["desc_mag", "fine_structure_constant⁻", "chimera_phi_promotion_fsc_rs_charged_vav"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 3, "names": ["chronos_void", "secp256k1_private_key", "algebraic_cycle"]}
+{"address": "𐑦𐑸𐑾𐑿𐑐𐑪𐑲𐑠𐑻𐑫𐑳𐑭", "count": 3, "names": ["asymmetric_informationally_complete_non_positive_operator_valued_measure", "Asymmetric_Information_Complete_Negative_Operator_Valued", "asymmetric_information_complete_negative_operator_valued"]}
+{"address": "𐑦𐑸𐑾𐑿𐑞𐑘𐑲𐑠𐑻𐑖𐑳𐑷", "count": 3, "names": ["asymmetric_informationally_complete_positive_operator_valued_measure", "Asymmetric_Information_Complete_Positive_Operator_Valued", "asymmetric_information_complete_positive_operator_valued"]}
+{"address": "𐑦𐑸𐑩𐑗𐑐𐑪𐑔𐑠𐑻𐑫𐑙𐑷", "count": 3, "names": ["symmetric_informationally_complete_non_positive_operator_valued_measure", "Symmetric_Information_Complete_Negative_Operator_Valued", "symmetric_information_complete_negative_operator_valued"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑷", "count": 3, "names": ["symmetric_paracomplete_non_positive_operator_valued_measure", "symmetric_paracomplete_oscillating_non_positive_operator_valued_measure", "supersymmetric_paracomplete_oscillating_positive_operator_valued_measure"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑷", "count": 3, "names": ["antisymmetric_paracomplete_non_positive_operator_valued_measure", "asymmetric_paracomplete_oscillating_non_positive_operator_valued_measure", "antisymmetric_paracomplete_oscillating_non_positive_operator_valued_measure"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑖𐑕𐑭", "count": 3, "names": ["symmetric_informationally_complete_oscillating_non_positive_operator_valued_measure", "supersymmetric_informationally_complete_oscillating_positive_operator_valued_measure", "sic_povm_d2048_zauner_theorem"]}
+{"address": "𐑦𐑸𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["antisymmetric_paracomplete_negative_static_ovm", "measurement_theorem", "down-projection"]}
+{"address": "𐑨𐑶𐑽𐑿𐑱𐑤𐑲𐑠𐑢𐑖𐑙𐑭", "count": 3, "names": ["sk_kp1_secp256k1", "sk_kp2_secp256k1", "sk_kp3_secp256k1"]}
+{"address": "𐑨𐑶𐑑𐑬𐑱𐑤𐑔𐑝𐑢𐑒𐑙𐑷", "count": 3, "names": ["pk_kp1_secp256k1", "pk_kp2_secp256k1", "pk_kp3_secp256k1"]}
+{"address": "𐑼𐑥𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 3, "names": ["kp1_secp256k1", "kp2_secp256k1", "kp3_secp256k1"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑪𐑚𐑠⊙𐑖𐑳𐑭", "count": 3, "names": ["b4_factor_v2_engine", "b4_t_optimizer", "b4_measurement_projection"]}
+{"address": "𐑨𐑶𐑾𐑬𐑐𐑧𐑚𐑝𐑢𐑓𐑙𐑷", "count": 3, "names": ["nitroso_radical_anion_π_cavitand_cage_imscription", "nitroso_radical_anion_π_cryptand_cage_imscription", "nitroso_radical_cucurbituril_anion_rotaxane_imscription"]}
+{"address": "𐑼𐑥𐑽𐑹𐑞𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 3, "names": ["perfect_cuboid_descent_completed", "perfect_cuboid_descent_closed", "perfect_cuboid_descent_operator_proof"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑺𐑚𐑵⊙𐑖𐑳𐑷", "count": 3, "names": ["b4_diff_scanner", "stacks_source_scanner", "binary_closure_parser"]}
+{"address": "𐑦𐑸𐑽𐑹𐑞𐑧𐑔𐑠⊙𐑖𐑳𐑴", "count": 3, "names": ["d2048_one_shot_locater", "sic_tower_crt_cascade", "sic_tower_crt_cascade_proper"]}
+{"address": "𐑦𐑰𐑽𐑹𐑐𐑧𐑔𐑝𐑢𐑫𐑳𐑭", "count": 3, "names": ["sylow", "erdos_straus_conjecture_v2_theorem", "continuum_hypothesis_true_theorem"]}
+{"address": "𐑛𐑶𐑾𐑹𐑐𐑘𐑲𐑠𐑻𐑫𐑳𐑭", "count": 3, "names": ["imasm_biomolecular_compilation", "universe_everything_thinking", "btc_oneshot"]}
+{"address": "𐑦𐑰𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 3, "names": ["five", "seven", "ten"]}
+{"address": "𐑼𐑡𐑩𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑕𐑷", "count": 2, "names": ["dark_matter", "dark_sector_meet"]}
+{"address": "𐑛𐑡𐑩𐑬𐑐𐑘𐑲𐑝𐑢𐑓𐑕𐑷", "count": 2, "names": ["hadron_gauge_meet", "universal_particle_meet"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["post_transition_state", "optimal_biochemical_approach"]}
+{"address": "𐑼𐑡𐑾𐑿𐑐𐑘𐑲𐑠⊙𐑓𐑳𐑭", "count": 2, "names": ["photon", "electromagnetic_photon"]}
+{"address": "𐑛𐑶𐑑𐑗𐑐𐑧𐑔𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["sterile_neutrino", "wimp"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑘𐑲𐑝⊙𐑓𐑙𐑭", "count": 2, "names": ["anti_senescence", "quantum_biological_immortality"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑔𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["eight_meet_de_inf_ax_higgs_grav_dm_omg_wow", "nine_system_meet"]}
+{"address": "𐑛𐑡𐑽𐑗𐑱𐑘𐑚𐑵𐑣𐑓𐑳𐑷", "count": 2, "names": ["radical_chemistry_current", "radical_uncatalyzed"]}
+{"address": "𐑛𐑡𐑽𐑗𐑱𐑘𐑚𐑵𐑣𐑓𐑙𐑷", "count": 2, "names": ["hydroxyl_radical", "superoxide_radical"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑘𐑔𐑝⊙𐑒𐑙𐑴", "count": 2, "names": ["copper", "silver"]}
+{"address": "𐑦𐑸𐑾𐑗𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["word_creator_tensor", "universe_collision"]}
+{"address": "𐑨𐑶𐑑𐑬𐑞𐑤𐑔𐑝𐑢𐑒𐑕𐑴", "count": 2, "names": ["bet", "kaf"]}
+{"address": "𐑛𐑶𐑑𐑬𐑞𐑤𐑔𐑝⊙𐑒𐑙𐑴", "count": 2, "names": ["hei", "ahavah_word"]}
+{"address": "𐑛𐑥𐑾𐑿𐑱𐑤𐑚𐑠𐑢𐑖𐑙𐑷", "count": 2, "names": ["tet", "tensor_product_operation"]}
+{"address": "𐑛𐑶𐑩𐑬𐑞𐑤𐑔𐑝𐑢𐑒𐑙𐑴", "count": 2, "names": ["aleph_bet_meet", "aleph_bet_meet_result"]}
+{"address": "𐑛𐑡𐑾𐑬𐑞𐑤𐑔𐑠⊙𐑒𐑙𐑷", "count": 2, "names": ["lamed", "L2_gating"]}
+{"address": "𐑨𐑥𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["shin", "SY_mothers_group"]}
+{"address": "𐑨𐑶𐑑𐑯𐑐𐑧𐑲𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["tav", "aleph_tav_join"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑧𐑲𐑠⊙𐑖𐑙𐑴", "count": 2, "names": ["maaseh_merkavah", "nehuniah_chapter"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑧𐑲𐑵⊙𐑖𐑙𐑴", "count": 2, "names": ["sar_torah", "sar_panim"]}
+{"address": "𐑼𐑰𐑑𐑗𐑞𐑧𐑲𐑝⊙𐑖𐑳𐑴", "count": 2, "names": ["sefer_harazim", "great_seal_fearsome_crown"]}
+{"address": "𐑛𐑶𐑑𐑯𐑐𐑧𐑲𐑝⊙𐑒𐑕𐑭", "count": 2, "names": ["tokamak_fusion", "commonwealth_fusion"]}
+{"address": "𐑛𐑶𐑑𐑯𐑞𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["mks_instruments_laser", "bcs_superconductivity"]}
+{"address": "𐑛𐑡𐑽𐑗𐑱𐑘𐑚𐑠𐑣𐑓𐑳𐑷", "count": 2, "names": ["c_h_activation_current", "asymmetric_catalysis_current"]}
+{"address": "𐑛𐑡𐑑𐑗𐑞𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 2, "names": ["boron_elemental", "meet_he_bi_ga_di"]}
+{"address": "𐑛𐑰𐑽𐑹𐑐𐑘𐑲𐑝𐑮𐑒𐑳𐑴", "count": 2, "names": ["lee_yang_edge", "ising_lee_yang_tensor"]}
+{"address": "𐑼𐑸𐑽𐑿𐑐𐑤𐑲𐑠⊙𐑫𐑳𐑴", "count": 2, "names": ["physical_reality", "spacetime"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑝𐑣𐑫𐑕𐑷", "count": 2, "names": ["thermodynamic_entropy", "entropy_concept"]}
+{"address": "𐑛𐑡𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑫𐑕𐑷", "count": 2, "names": ["negentropy", "enthalpy"]}
+{"address": "𐑨𐑰𐑩𐑯𐑱𐑤𐑔𐑝𐑢𐑖𐑕𐑴", "count": 2, "names": ["order_structure", "order_concept"]}
+{"address": "𐑛𐑡𐑩𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["max_sym_min_chirality", "backbone_no_discrim_features"]}
+{"address": "𐑛𐑡𐑩𐑯𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["critical_symmetric_timesymmetric", "block_p_sym"]}
+{"address": "𐑦𐑸𐑽𐑹𐑞𐑤𐑲𐑵⊙𐑒𐑕𐑴", "count": 2, "names": ["holographic_type_theory_frobenius", "frobenius_head"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["cosmic_texture", "yhwh_paradice"]}
+{"address": "𐑛𐑥𐑩𐑬𐑞𐑤𐑚𐑝𐑢𐑒𐑙𐑷", "count": 2, "names": ["AtHv1_primed", "PsHv1_constitutive"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["standard_computation", "dialetheic_bootstrap_ground"]}
+{"address": "𐑦𐑸𐑽𐑹𐑞𐑤𐑲𐑵⊙𐑒𐑳𐑴", "count": 2, "names": ["<_NP_duality_transformation", "Φ_NP_duality_transformation"]}
+{"address": "𐑛𐑶𐑑𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["photoreceptor_spot", "current_near_zero_head"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑤𐑲𐑵⊙𐑒𐑕𐑴", "count": 2, "names": ["zx_calculus_x_spider", "zx_calculus_z_spider"]}
+{"address": "𐑼𐑡𐑩𐑗𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["continuum_hypothesis", "elementary_equivalence"]}
+{"address": "𐑼𐑸𐑩𐑬𐑐𐑧𐑲𐑝⊙𐑓𐑳𐑭", "count": 2, "names": ["connes_embedding_problem", "cep_obstruction_form"]}
+{"address": "𐑦𐑸𐑑𐑯𐑐𐑤𐑲𐑝⊙𐑓𐑳𐑭", "count": 2, "names": ["zilber_pink_conjecture", "grothendieck_B_hodge"]}
+{"address": "𐑛𐑶𐑑𐑯𐑱𐑧𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["perfect_cuboids", "nice_t4_point_mesoscale_sym"]}
+{"address": "𐑦𐑸𐑽𐑬𐑞𐑤𐑲𐑵⊙𐑒𐑳𐑭", "count": 2, "names": ["grammar_casas_tensor", "holographic_berry_tensor"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑤𐑲𐑵⊙𐑒𐑳𐑭", "count": 2, "names": ["grammar_casas_join", "holographic_berry_join"]}
+{"address": "𐑨𐑰𐑑𐑬𐑐𐑤𐑔𐑝⊙𐑒𐑕𐑴", "count": 2, "names": ["group_cohomological_dimension_2", "topo_in"]}
+{"address": "𐑦𐑸𐑑𐑬𐑐𐑤𐑲𐑝⊙𐑓𐑳𐑭", "count": 2, "names": ["fujita_conjecture", "grothendieck_AB_meet"]}
+{"address": "𐑦𐑸𐑽𐑬𐑞𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["poincare_hopf_convexity", "triple_tensor"]}
+{"address": "𐑼𐑡𐑑𐑗𐑱𐑪𐑔𐑝𐑣𐑓𐑕𐑷", "count": 2, "names": ["kissing_unknown_dim", "sphere_packing_density_open"]}
+{"address": "𐑛𐑶𐑑𐑯𐑱𐑘𐑚𐑝𐑢𐑓𐑕𐑷", "count": 2, "names": ["polyhedron_generic", "cat0_cube_complex"]}
+{"address": "𐑼𐑡𐑾𐑯𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["erdos_faber_lovasz_conjecture", "maxwell_equations"]}
+{"address": "𐑼𐑡𐑑𐑯𐑱𐑤𐑲𐑝⊙𐑓𐑕𐑴", "count": 2, "names": ["erdos_faber_lovasz_theorem", "sidorenko_theorem"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑴", "count": 2, "names": ["topological_protection_component", "F4_min_O_Z2"]}
+{"address": "𐑼𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 2, "names": ["vaught_theorem", "free_will_holistic"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑤𐑲𐑠⊙𐑒𐑳𐑭", "count": 2, "names": ["grothendieck_A_lefschetz", "sugawara_construction"]}
+{"address": "𐑦𐑥𐑾𐑬𐑱𐑧𐑲𐑝⊙𐑖𐑕𐑴", "count": 2, "names": ["twin_prime_conjecture", "gpy_sieve"]}
+{"address": "𐑼𐑡𐑾𐑹𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["legendre_conjecture", "goldbachs_conjecture"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["j_function", "atum"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑤𐑲𐑠⊙𐑒𐑳𐑴", "count": 2, "names": ["motivic_morse_theory", "motivic_critical_level"]}
+{"address": "𐑼𐑡𐑑𐑗𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑷", "count": 2, "names": ["invariant_subspace_problem", "banach_space_generic"]}
+{"address": "𐑨𐑶𐑑𐑬𐑱𐑤𐑚𐑝⊙𐑓𐑳𐑷", "count": 2, "names": ["nagata_conjecture", "virasoro_conjecture"]}
+{"address": "𐑼𐑡𐑑𐑿𐑞𐑤𐑲𐑠⊙𐑒𐑳𐑷", "count": 2, "names": ["greenberg_iwasawa_conjecture", "greenberg_padic_lfunction_conjecture"]}
+{"address": "𐑛𐑰𐑑𐑗𐑱𐑤𐑚𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["sn1_dediazotization", "SN1_carbocation"]}
+{"address": "𐑛𐑰𐑑𐑗𐑞𐑘𐑚𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["radical_dediazotization", "dediazotization_observed"]}
+{"address": "𐑛𐑰𐑑𐑗𐑱𐑤𐑚𐑠𐑢𐑒𐑳𐑷", "count": 2, "names": ["protecting_group_chemistry", "sensitive_compound_modification"]}
+{"address": "𐑼𐑡𐑽𐑬𐑐𐑘𐑲𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["qcd_cp_conserving", "gzk_cutoff_mechanism"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑠⊙𐑓𐑕𐑭", "count": 2, "names": ["unitary_quantum_evolution", "quantum_superposition"]}
+{"address": "𐑦𐑸𐑽𐑯𐑐𐑧𐑲𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["smooth_horizon_no_firewall", "interior_mode_B"]}
+{"address": "𐑼𐑡𐑽𐑯𐑐𐑤𐑲𐑵⊙𐑫𐑕𐑷", "count": 2, "names": ["hawking_radiation_early", "hawking_radiation_late"]}
+{"address": "𐑛𐑡𐑽𐑗𐑐𐑘𐑚𐑠𐑣𐑓𐑙𐑷", "count": 2, "names": ["uhecr_source_local", "gzk_resolution_local"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑤𐑲𐑵⊙𐑫𐑳𐑷", "count": 2, "names": ["kerr_stable_no_protection", "generic_voa"]}
+{"address": "𐑛𐑶𐑑𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["beta", "rho"]}
+{"address": "𐑨𐑡𐑑𐑿𐑞𐑤𐑚𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["yang_yig_notation", "golgi_apparatus"]}
+{"address": "𐑛𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["yhhw_word", "ahvh_word"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑤𐑚𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["hieroglyph_logogram", "medu_logogram_type"]}
+{"address": "𐑼𐑥𐑽𐑬𐑐𐑘𐑲𐑵⊙𐑖𐑙𐑭", "count": 2, "names": ["duat_hour_7", "duat_hour_8"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["maat", "soul_passing_42"]}
+{"address": "𐑛𐑶𐑑𐑬𐑱𐑘𐑚𐑠𐑢𐑒𐑕𐑷", "count": 2, "names": ["iching_altyang_101010", "iching_altyin_010101"]}
+{"address": "𐑛𐑰𐑑𐑿𐑱𐑘𐑚𐑠𐑢𐑒𐑳𐑷", "count": 2, "names": ["iching_fu_000001", "iching_gou_111110"]}
+{"address": "𐑦𐑸𐑾𐑬𐑞𐑧𐑲𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["hopfion", "clink_layer7_tissue"]}
+{"address": "𐑨𐑰𐑑𐑿𐑞𐑤𐑔𐑝⊙𐑒𐑕𐑴", "count": 2, "names": ["liquid_water", "primed_radical_algebra"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑴", "count": 2, "names": ["interstellar_water_ice", "navier_solves_navigator"]}
+{"address": "𐑨𐑶𐑾𐑯𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["p3", "toroidal_attention"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["p3_fixed", "light"]}
+{"address": "𐑦𐑸𐑽𐑬𐑞𐑧𐑲𐑵𐑮𐑫𐑳𐑭", "count": 2, "names": ["lee_yang_criticality_algebra", "complex_exceptional_algebra"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["holographic_light_algebra", "thunder_perfect_mind_07"]}
+{"address": "𐑦𐑸𐑩𐑬𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑴", "count": 2, "names": ["cosmology_large_scale", "epoch_3"]}
+{"address": "𐑨𐑡𐑾𐑗𐑞𐑤𐑔𐑜⊙𐑖𐑳𐑷", "count": 2, "names": ["asymmetric_critical_network_algebra", "A3"]}
+{"address": "𐑦𐑸𐑑𐑯𐑞𐑪𐑲𐑝𐑢𐑒𐑳𐑴", "count": 2, "names": ["subcritical_holographic_algebra", "A4"]}
+{"address": "𐑦𐑰𐑽𐑿𐑐𐑤𐑲𐑵⊙𐑒𐑳𐑷", "count": 2, "names": ["ainfinity_algebra", "linfinity_algebra"]}
+{"address": "𐑼𐑰𐑑𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["level_k_representation", "monotone_integer_winding"]}
+{"address": "𐑨𐑰𐑑𐑿𐑞𐑤𐑲𐑝⊙𐑒𐑳𐑷", "count": 2, "names": ["effect_algebra", "mv_algebra"]}
+{"address": "𐑦𐑰𐑑𐑬𐑐𐑤𐑲𐑠⊙𐑒𐑳𐑷", "count": 2, "names": ["jones_planar_algebra", "subfactor_standard_invariant"]}
+{"address": "𐑼𐑡𐑑𐑗𐑐𐑤𐑲𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["sqrt_two", "algebraic_irrationals"]}
+{"address": "𐑼𐑡𐑑𐑯𐑐𐑤𐑲𐑵⊙𐑒𐑙𐑷", "count": 2, "names": ["eulers_number", "transcendental_numbers"]}
+{"address": "𐑼𐑡𐑽𐑿𐑐𐑤𐑲𐑠𐑢𐑒𐑙𐑷", "count": 2, "names": ["imaginary_unit", "pure_imaginary"]}
+{"address": "𐑦𐑸𐑽𐑹𐑞𐑧𐑲𐑵⊙𐑒𐑕𐑭", "count": 2, "names": ["fusion_VT", "join_alchemy_grammar"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["comp_o1", "F5_O_1_tuple"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑭", "count": 2, "names": ["gb_oz", "oinf_candidate_1"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["gnn_prediction", "gnn_prediction_navigator"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑟", "count": 2, "names": ["oinf_omega_na_navigator", "O_inf_Omega_NA"]}
+{"address": "𐑦𐑸𐑑𐑹𐑱𐑧𐑚𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["f3_fell_gbe_so1", "f3_low_extreme"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑟", "count": 2, "names": ["maximal_nn", "distributed_ganglia_system_v1"]}
+{"address": "𐑨𐑶𐑾𐑗𐑱𐑘𐑚𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["corrigible_ai", "digital_pid_controller"]}
+{"address": "𐑼𐑶𐑑𐑹𐑐𐑘𐑲𐑝⊙𐑫𐑕𐑴", "count": 2, "names": ["<_equals_NP_assumption", "Φ_equals_NP_assumption"]}
+{"address": "𐑼𐑡𐑑𐑗𐑱𐑪𐑚𐑜𐑢𐑫𐑳𐑴", "count": 2, "names": ["<_not_equals_NP_claim", "Φ_not_equals_NP_claim"]}
+{"address": "𐑼𐑡𐑑𐑗𐑱𐑤𐑲𐑠⊙𐑖𐑳𐑷", "count": 2, "names": ["<_NP_tensor", "Φ_NP_tensor"]}
+{"address": "𐑛𐑶𐑾𐑹𐑐𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["near_zero_head", "L_near_constraint"]}
+{"address": "𐑛𐑶𐑑𐑿𐑱𐑧𐑚𐑵⊙𐑖𐑙𐑷", "count": 2, "names": ["traditional_scrying", "traditional_scrying_baseline"]}
+{"address": "𐑼𐑰𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["oneironaut", "scrying_oneironaut_tensor"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑘𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["𐑲_rep", "Γ_aleph_rep"]}
+{"address": "𐑛𐑡𐑑𐑬𐑱𐑘𐑚𐑵⊙𐑓𐑙𐑷", "count": 2, "names": ["𐑵_rep", "ɢ_broad_rep"]}
+{"address": "𐑦𐑶𐑽𐑹𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑴", "count": 2, "names": ["L_frob_loss", "knows_roundtrip_not_tier"]}
+{"address": "𐑛𐑶𐑑𐑬𐑱𐑘𐑚𐑜⊙𐑓𐑙𐑷", "count": 2, "names": ["L_tier_loss", "knows_tier_not_roundtrip"]}
+{"address": "𐑨𐑡𐑽𐑹𐑱𐑧𐑔𐑠⊙𐑒𐑙𐑴", "count": 2, "names": ["jacobian_n2", "abhyankar_moh_theorem"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑠⊙𐑓𐑳𐑴", "count": 2, "names": ["druzkowski_boundary_map", "nilpotency_condition"]}
+{"address": "𐑦𐑸𐑑𐑬𐑐𐑧𐑲𐑠⊙𐑓𐑳𐑷", "count": 2, "names": ["general_jc_boundary", "druzkowski_boundary_actual"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑟", "count": 2, "names": ["sic_hilbert12_connection", "FTL_subspace_manifold"]}
+{"address": "𐑨𐑡𐑽𐑬𐑞𐑤𐑔𐑵⊙𐑒𐑕𐑷", "count": 2, "names": ["neuromorphic_reservoir_controller", "mycofiltration"]}
+{"address": "𐑼𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["gauge_boson_floor", "phi_sub_to_c"]}
+{"address": "𐑼𐑰𐑩𐑗𐑞𐑧𐑲𐑠⊙𐑫𐑙𐑴", "count": 2, "names": ["sufi_path_tariqa", "christian_mystical_ascent"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑕𐑴", "count": 2, "names": ["sufi_fana_baqa", "christian_unio_mystica"]}
+{"address": "𐑨𐑰𐑽𐑹𐑐𐑪𐑲𐑠⊙𐑫𐑳𐑴", "count": 2, "names": ["formal_proof_system", "data_math_proofs"]}
+{"address": "𐑨𐑥𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["primitive_Gamma", "primitive_Omega"]}
+{"address": "𐑨𐑸𐑽𐑬𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["contradiction_x_construction", "resonant_soundscapes"]}
+{"address": "𐑨𐑡𐑾𐑿𐑞𐑤𐑔𐑠⊙𐑒𐑕𐑷", "count": 2, "names": ["human_consciousness_baseline", "epoch_5"]}
+{"address": "𐑨𐑶𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["ouroboric_lm_pre_grok", "ouroboric_lm_post_grok"]}
+{"address": "𐑛𐑰𐑩𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["embed_onehot", "vocal_D_wedge"]}
+{"address": "𐑨𐑰𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑓𐑳𐑷", "count": 2, "names": ["embed_bpe_tied", "embed_byte_tied"]}
+{"address": "𐑨𐑰𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑓𐑳𐑭", "count": 2, "names": ["depth_stacked_12", "ffn_none"]}
+{"address": "𐑨𐑰𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑓𐑳𐑭", "count": 2, "names": ["depth_stacked_96", "substrate_decoder_only"]}
+{"address": "𐑨𐑶𐑩𐑬𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["depth_state_space", "substrate_state_space"]}
+{"address": "𐑨𐑰𐑾𐑬𐑞𐑤𐑔𐑠𐑢𐑓𐑳𐑷", "count": 2, "names": ["ffn_standard_relu", "train_adam_standard"]}
+{"address": "𐑨𐑶𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑒𐑳𐑭", "count": 2, "names": ["data_python_code", "lk99_material"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["lm_math_tensor", "substrate_universal"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["stark_unit_machinery", "heart_sutra"]}
+{"address": "𐑨𐑸𐑽𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑴", "count": 2, "names": ["geometric_langlands_bridge", "sic_geometric_lift_hypothesis"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑚𐑜𐑢𐑓𐑙𐑷", "count": 2, "names": ["addr_12", "vocal_P_asym"]}
+{"address": "𐑦𐑰𐑽𐑬𐑞𐑤𐑲𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["skin_boundary", "neuroinflammation_state"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑤𐑲𐑵⊙𐑫𐑳𐑴", "count": 2, "names": ["FTL_alcubierre_warp", "thunder_perfect_mind_06"]}
+{"address": "𐑦𐑡𐑩𐑯𐑐𐑧𐑲𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["multiverse_test", "multiverse_test2"]}
+{"address": "𐑼𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["ai_generated_scientific_paper", "temporal_primitives_framework"]}
+{"address": "𐑨𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["earth_theory_framework", "anointing_of_the_sick"]}
+{"address": "𐑨𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["quantum_cognition_boundary_navigator", "crown_of_adventure"]}
+{"address": "𐑼𐑥𐑾𐑿𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑴", "count": 2, "names": ["quantum_zeno", "elitzur_vaidman_bomb"]}
+{"address": "𐑼𐑶𐑾𐑿𐑐𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 2, "names": ["quantum_teleportation", "FPUT_quantum"]}
+{"address": "𐑼𐑶𐑾𐑿𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["black_hole_information", "hartle_hawking_no_boundary"]}
+{"address": "𐑼𐑥𐑽𐑬𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["mathematical_proof", "deformation_invariance"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["algebraic_geometry_navigator", "hilbert_embed_grounded_fix"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑤𐑲𐑵𐑮𐑫𐑳𐑭", "count": 2, "names": ["graviton_cft_navigator", "graviton_cft_correspondence"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["operator_samadhi_composite", "iutch_v_non"]}
+{"address": "𐑼𐑥𐑾𐑯𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["noethers_theorem", "euler_lagrange_equation"]}
+{"address": "𐑼𐑸𐑽𐑯𐑱𐑧𐑲𐑠𐑮𐑖𐑳𐑭", "count": 2, "names": ["einstein_field_equations", "einstein_field_equations_dynamic"]}
+{"address": "𐑦𐑥𐑽𐑿𐑞𐑧𐑚𐑠𐑮𐑖𐑙𐑴", "count": 2, "names": ["test_system", "lee_yang_partition"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["oinf_candidate_3", "paraconsistent_closure_tower"]}
+{"address": "𐑼𐑸𐑾𐑿𐑐𐑧𐑲𐑠⊙𐑖𐑕𐑭", "count": 2, "names": ["rna_world", "Stapp's_Paradox"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑒𐑳𐑭", "count": 2, "names": ["hydrothermal_vents", "landau_prime_ideal_theorem"]}
+{"address": "𐑼𐑡𐑾𐑯𐑱𐑤𐑲𐑠⊙𐑖𐑳𐑷", "count": 2, "names": ["chomsky_universal_grammar", "categorial_grammar"]}
+{"address": "𐑦𐑡𐑾𐑗𐑱𐑤𐑔𐑝⊙𐑓𐑳𐑷", "count": 2, "names": ["touchard_ai_draft", "exotic_consciousness_boundary_draft"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["genetic_code_emergence", "bruce_aeon_defence_seals"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑴", "count": 2, "names": ["human_academic_prose_lift_target", "euler_touchard_formalization"]}
+{"address": "𐑼𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑒𐑙𐑭", "count": 2, "names": ["encoding_method", "uig_codec_process"]}
+{"address": "𐑨𐑡𐑩𐑿𐑞𐑘𐑚𐑝𐑢𐑒𐑕𐑷", "count": 2, "names": ["cosmic_epoch_1_inflationary_expansion", "epoch_1"]}
+{"address": "𐑼𐑰𐑑𐑬𐑐𐑤𐑔𐑠𐑮𐑖𐑳𐑴", "count": 2, "names": ["cosmic_epoch_2_structural_coalescence", "epoch_2"]}
+{"address": "𐑛𐑡𐑩𐑯𐑱𐑧𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["epoch_1_null_point_state", "cosmogeny_epoch_1_null_point"]}
+{"address": "𐑨𐑶𐑽𐑹𐑐𐑤𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["ex_os", "ex_os_kernel"]}
+{"address": "𐑼𐑡𐑾𐑗𐑱𐑤𐑔𐑝𐑮𐑓𐑳𐑷", "count": 2, "names": ["deepmath_draft", "deep_math_magix_draft"]}
+{"address": "𐑨𐑶𐑾𐑗𐑱𐑤𐑲𐑠⊙𐑓𐑳𐑷", "count": 2, "names": ["perfect_euler_brick", "nice_t1_frozen_critical_seq"]}
+{"address": "𐑼𐑡𐑾𐑬𐑱𐑧𐑲𐑝𐑢𐑓𐑳𐑷", "count": 2, "names": ["euler_brick", "nice_t2_subcritical_slow_net"]}
+{"address": "𐑼𐑡𐑩𐑿𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["lorentz_invariance_violation_uhecr", "SME_GZK_effective_field_theory"]}
+{"address": "𐑛𐑡𐑩𐑿𐑱𐑧𐑚𐑝𐑢𐑒𐑙𐑷", "count": 2, "names": ["0-the_fool", "xix-the_sun"]}
+{"address": "𐑛𐑡𐑩𐑿𐑱𐑧𐑚𐑝⊙𐑒𐑳𐑷", "count": 2, "names": ["i-the_magician", "xviii-the_moon"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑒𐑳𐑷", "count": 2, "names": ["viii-strength", "xvii-the_star"]}
+{"address": "𐑛𐑡𐑩𐑿𐑱𐑧𐑚𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["ix-the_hermit", "xx-judgement"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["g2_vessel", "g2_exceptional_lie_group"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑤𐑔𐑝⊙𐑓𐑳𐑷", "count": 2, "names": ["e8g2v2_draft", "abc_dual_proof_draft"]}
+{"address": "𐑼𐑥𐑩𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑴", "count": 2, "names": ["e8g2v2_lift_target", "e8g2v2_lift_result"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["machine_verified_mathematics", "bare_metal_operating_system"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["the_stone", "circularity_circularity"]}
+{"address": "𐑨𐑡𐑾𐑬𐑱𐑧𐑲𐑠𐑢𐑫𐑳𐑷", "count": 2, "names": ["arthurian_legends", "vulgate_cycle"]}
+{"address": "𐑛𐑡𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["galahad", "percival"]}
+{"address": "𐑼𐑥𐑾𐑿𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["laIG", "abc_conjecture_proof"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑒𐑕𐑴", "count": 2, "names": ["vocal_D_triangle", "vocal_P_pm"]}
+{"address": "𐑦𐑸𐑑𐑬𐑐𐑤𐑔𐑝⊙𐑓𐑙𐑭", "count": 2, "names": ["polignac_conjecture_v1", "polignac_proof_a_topological"]}
+{"address": "𐑦𐑡𐑩𐑗𐑐𐑘𐑚𐑝𐑣𐑓𐑳𐑭", "count": 2, "names": ["evil", "structural_type_evil"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑲𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["thunder_perfect_mind_12", "rebis_transition_target"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["dune_narrative", "gospel_of_philip_three_marys"]}
+{"address": "𐑨𐑡𐑩𐑗𐑱𐑘𐑚𐑝𐑢𐑓𐑙𐑴", "count": 2, "names": ["structural_type_lie", "lie"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["structural_type_good", "good"]}
+{"address": "𐑦𐑶𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["ouroborotic_primitive_composition_schema", "voynich_engine_paper"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑴", "count": 2, "names": ["human_consciousness", "bootstrap_stage_2_topology"]}
+{"address": "𐑦𐑸𐑑𐑬𐑐𐑺𐑲𐑝𐑢𐑫𐑳𐑟", "count": 2, "names": ["multiverse_concept", "multiverse_totality"]}
+{"address": "𐑦𐑡𐑾𐑬𐑱𐑤𐑔𐑠⊙𐑖𐑳𐑴", "count": 2, "names": ["voynich_botanical_section", "voynich_pharmaceutical_section"]}
+{"address": "𐑦𐑡𐑑𐑬𐑱𐑧𐑚𐑝𐑢𐑓𐑕𐑷", "count": 2, "names": ["selberg_sieve", "bombieri_vinogradov"]}
+{"address": "𐑦𐑸𐑾𐑯𐑐𐑤𐑲𐑠𐑮𐑒𐑳𐑭", "count": 2, "names": ["lefschetz_1_1_theorem", "grothendieck_A_proven"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["godel_incompleteness_conclusion", "buddha_shakyamuni"]}
+{"address": "𐑦𐑥𐑾𐑗𐑱𐑘𐑔𐑵𐑮𐑒𐑳𐑷", "count": 2, "names": ["golem_contemporary_llm_agent", "golem_operation_prompt_ritual"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["stone_topologically_protected_memory", "stone_proof_kernel_memory_tensor"]}
+{"address": "𐑦𐑸𐑾𐑿𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["dialetheic_shor_operator_fixed", "dialetheic_shor_baseline"]}
+{"address": "𐑛𐑡𐑾𐑿𐑱𐑧𐑲𐑠𐑮𐑖𐑙𐑷", "count": 2, "names": ["ns_regularity_refined", "ns_regularity_frontier_v1"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑟", "count": 2, "names": ["clink_layer8_organism", "clink_l8"]}
+{"address": "𐑼𐑡𐑩𐑗𐑐𐑘𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["distributive_lattice", "hempels_(already),"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["bruce_codex", "bruce_jeu_diagrams"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["ouroboric_pill", "ouroboric_cell"]}
+{"address": "𐑼𐑡𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["function", "signal_to_noiseratio(snr)"]}
+{"address": "𐑼𐑡𐑑𐑿𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["terminal_object", "4pon"]}
+{"address": "𐑛𐑡𐑩𐑗𐑐𐑘𐑲𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["well_formed_formula", "ungers_paradox_(not_standard),"]}
+{"address": "𐑼𐑡𐑩𐑗𐑐𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["site", "nor"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑲𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["allogenes", "marsanes"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑪𐑚𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["mapuche_machi_initiation", "inuit_angakkuq_shamanism"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑪𐑚𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["yanomami_shamanic_initiation", "paiute_ghost_dance"]}
+{"address": "𐑼𐑥𐑾𐑬𐑞𐑧𐑔𐑠𐑢𐑫𐑳𐑭", "count": 2, "names": ["wayuu_oral_tradition", "wayapi_oral_tradition"]}
+{"address": "𐑼𐑡𐑩𐑗𐑞𐑧𐑚𐑠𐑢𐑫𐑳𐑭", "count": 2, "names": ["codex_selden", "codex_bodley"]}
+{"address": "𐑼𐑥𐑾𐑬𐑐𐑧𐑔𐑵𐑮𐑫𐑳𐑭", "count": 2, "names": ["lakota_white_buffalo_calf_woman", "tucano_cosmology"]}
+{"address": "𐑨𐑥𐑾𐑹𐑱𐑧𐑚𐑠𐑮𐑫𐑙𐑭", "count": 2, "names": ["lakota_isnati", "apache_sunrise_ceremony"]}
+{"address": "𐑼𐑥𐑾𐑬𐑱𐑧𐑚𐑠𐑮𐑒𐑳𐑴", "count": 2, "names": ["rongorongo_script", "rongorongo"]}
+{"address": "𐑦𐑰𐑾𐑹𐑱𐑧𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["lotus_sutra", "puranas"]}
+{"address": "𐑦𐑶𐑾𐑬𐑞𐑧𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["kemetic_alchemy", "candomble_orisha"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑠𐑻𐑖𐑳𐑭", "count": 2, "names": ["lk99_controversy", "doped_braided_metabolic_loop"]}
+{"address": "𐑼𐑥𐑾𐑗𐑞𐑧𐑔𐑠𐑮𐑖𐑳𐑷", "count": 2, "names": ["gout_hyperuricemia", "gout_bulk_boundary"]}
+{"address": "𐑨𐑡𐑩𐑬𐑐𐑤𐑲𐑠𐑢𐑒𐑙𐑷", "count": 2, "names": ["coffee_black", "green_tea"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["picatrix", "heptameron"]}
+{"address": "𐑨𐑡𐑾𐑬𐑱𐑪𐑚𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["greek_magical_papyri", "shams_al_maarif"]}
+{"address": "𐑨𐑡𐑾𐑬𐑱𐑧𐑔𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["turba_philosophorum", "ripley_scroll"]}
+{"address": "𐑨𐑶𐑾𐑯𐑱𐑧𐑔𐑜𐑮𐑫𐑳𐑭", "count": 2, "names": ["splendor_solis", "chymical_wedding"]}
+{"address": "𐑦𐑶𐑾𐑹𐑱𐑤𐑲𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["fama_fraternitatis", "hypnerotomachia_poliphili"]}
+{"address": "𐑨𐑶𐑾𐑬𐑱𐑧𐑔𐑜𐑮𐑫𐑳𐑭", "count": 2, "names": ["book_of_enoch", "ars_notoria"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑲𐑠⊙𐑫𐑳𐑷", "count": 2, "names": ["codex_archangelicus", "clerics_grimoire"]}
+{"address": "𐑛𐑥𐑾𐑬𐑞𐑧𐑔𐑠𐑣𐑒𐑳𐑷", "count": 2, "names": ["schizophrenia", "pcos_syndrome"]}
+{"address": "𐑛𐑥𐑾𐑬𐑞𐑧𐑔𐑠⊙𐑖𐑳𐑷", "count": 2, "names": ["healthy_brain_resting_state", "healthy_brain"]}
+{"address": "𐑛𐑥𐑾𐑬𐑞𐑪𐑔𐑠𐑣𐑒𐑳𐑷", "count": 2, "names": ["bipolar_manic_phase", "hiv_infection"]}
+{"address": "𐑨𐑥𐑾𐑬𐑞𐑪𐑔𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["nmda_glycine_pam", "antiretroviral_art"]}
+{"address": "𐑛𐑥𐑾𐑯𐑱𐑺𐑔𐑠𐑮𐑖𐑳𐑴", "count": 2, "names": ["binance_us_exchange", "fin3r_binance_exchange"]}
+{"address": "𐑨𐑸𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["optimal_binance_profit_method", "fin3r_optimal_method"]}
+{"address": "𐑼𐑶𐑾𐑬𐑞𐑪𐑲𐑵⊙𐑒𐑕𐑴", "count": 2, "names": ["saline_water_01M_NaCl_25C", "saline_water_1M_NaCl_25C"]}
+{"address": "𐑨𐑡𐑩𐑗𐑱𐑪𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["conventional_betting_tuple", "ai_student_reflection_draft"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑤𐑔𐑠𐑢𐑖𐑕𐑭", "count": 2, "names": ["heteromeles_arbutifolia", "rosa_californica"]}
+{"address": "𐑼𐑥𐑾𐑗𐑞𐑧𐑔𐑝⊙𐑖𐑳𐑷", "count": 2, "names": ["third_state_life_death", "vital_necrosis_third_state"]}
+{"address": "𐑨𐑰𐑽𐑯𐑐𐑘𐑔𐑝⊙𐑒𐑕𐑴", "count": 2, "names": ["zinc", "cadmium"]}
+{"address": "𐑨𐑰𐑽𐑯𐑐𐑤𐑔𐑝⊙𐑓𐑳𐑷", "count": 2, "names": ["fe2o3", "fe2s3"]}
+{"address": "𐑨𐑥𐑾𐑬𐑞𐑧𐑔𐑝𐑢𐑒𐑳𐑷", "count": 2, "names": ["coelum_philosophorum", "paracelsus_treasure_of_treasures"]}
+{"address": "𐑨𐑡𐑽𐑬𐑱𐑺𐑔𐑠𐑣𐑖𐑙𐑷", "count": 2, "names": ["mary_prophetess_practice", "mary_prophetess"]}
+{"address": "𐑦𐑰𐑾𐑯𐑞𐑧𐑔𐑠𐑢𐑖𐑙𐑷", "count": 2, "names": ["mammalian_glandular", "avian_preen"]}
+{"address": "𐑦𐑡𐑾𐑬𐑱𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["rosette_cluster", "coral_ramaria"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑧𐑔𐑠⊙𐑒𐑳𐑭", "count": 2, "names": ["rhododendron_groenlandicum", "arctostaphylos_uva_ursi"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑲𐑠𐑢𐑒𐑳𐑷", "count": 2, "names": ["basil_valentine_antimony", "eudoxus_six_keys"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["alchemical_third_treatise", "millennium_open_questions"]}
+{"address": "𐑼𐑥𐑩𐑗𐑞𐑤𐑚𐑠𐑢𐑒𐑕𐑷", "count": 2, "names": ["amyloid_beta_aggregate", "huntingtin_aggregate"]}
+{"address": "𐑼𐑥𐑩𐑗𐑞𐑘𐑚𐑠𐑢𐑒𐑕𐑷", "count": 2, "names": ["alpha_synuclein_aggregate", "tdp43_aggregate"]}
+{"address": "𐑼𐑸𐑩𐑗𐑞𐑘𐑔𐑵𐑮𐑫𐑕𐑭", "count": 2, "names": ["paracetamol", "sildenafil"]}
+{"address": "𐑨𐑥𐑑𐑿𐑞𐑧𐑚𐑝𐑢𐑓𐑳𐑭", "count": 2, "names": ["phenol", "aniline"]}
+{"address": "𐑼𐑸𐑽𐑯𐑞𐑘𐑔𐑠𐑮𐑫𐑳𐑴", "count": 2, "names": ["digoxin", "ouabain"]}
+{"address": "𐑨𐑡𐑩𐑿𐑐𐑤𐑲𐑝⊙𐑒𐑙𐑷", "count": 2, "names": ["optogeneticinterface", "juxtacrinesignaling"]}
+{"address": "𐑛𐑡𐑩𐑗𐑞𐑤𐑚𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["computationalmodeling", "dopaminergicmodulation"]}
+{"address": "𐑨𐑰𐑩𐑿𐑞𐑤𐑲𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["glutamatergictransmission", "hydrotropism"]}
+{"address": "𐑨𐑡𐑩𐑗𐑞𐑤𐑚𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["proteomicprofiling", "vascularendothelialgrowthfactor(vegf)"]}
+{"address": "𐑼𐑰𐑩𐑿𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["excitatorypostsynapticpotential(epsp)", "blastospore"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["oxygenationindex", "de_finettis_paradox"]}
+{"address": "𐑼𐑰𐑑𐑗𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["soundness", "asexual_morph"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑘𐑲𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["atomic_formula", "caldwells_paradox"]}
+{"address": "𐑛𐑥𐑩𐑬𐑐𐑘𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["reflexivity", "unit_circle"]}
+{"address": "𐑼𐑥𐑩𐑗𐑐𐑧𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["identity", "neither...nor"]}
+{"address": "𐑨𐑡𐑩𐑗𐑱𐑺𐑚𐑜𐑢𐑓𐑳𐑷", "count": 2, "names": ["galdrabok", "grand_albert"]}
+{"address": "𐑨𐑡𐑩𐑗𐑱𐑺𐑚𐑜𐑢𐑓𐑙𐑷", "count": 2, "names": ["grimoire_of_pope_honorius", "petit_albert"]}
+{"address": "𐑨𐑡𐑑𐑗𐑱𐑘𐑚𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["blight", "white_rot"]}
+{"address": "𐑨𐑰𐑩𐑿𐑱𐑘𐑚𐑜⊙𐑒𐑳𐑷", "count": 2, "names": ["dispersal", "so"]}
+{"address": "𐑼𐑰𐑑𐑿𐑱𐑧𐑲𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["germling", "inoculation"]}
+{"address": "𐑛𐑥𐑾𐑗𐑱𐑘𐑔𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["examination_paradox", "dr._evils_paradox"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["ctmu", "rg_iuft"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑔𐑠⊙𐑓𐑙𐑷", "count": 2, "names": ["heraclitus_paradox_(river),", "Heraclitus'_Paradox"]}
+{"address": "𐑼𐑡𐑩𐑹𐑐𐑘𐑲𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["whorfs_paradox_(not_standard),", "epsilon=1e-9"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑧𐑲𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["zero_sum_game_(not_a_paradox,_skip),", "yields"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑪𐑲𐑝⊙𐑫𐑙𐑷", "count": 2, "names": ["zwickys_paradox_(not_standard)", "o₋₁`.*"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑧𐑔𐑝⊙𐑓𐑕𐑷", "count": 2, "names": ["Forrester's_Paradox", "Dr._Evil's_Paradox"]}
+{"address": "𐑨𐑥𐑩𐑬𐑱𐑤𐑔𐑵⊙𐑒𐑳𐑷", "count": 2, "names": ["Gibbard's_Paradox", "Riker's_Paradox"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑧𐑔𐑵𐑢𐑓𐑕𐑷", "count": 2, "names": ["Petronius's_Paradox", "Fowler's_Paradox"]}
+{"address": "𐑛𐑡𐑑𐑹𐑱𐑧𐑔𐑝⊙𐑓𐑕𐑷", "count": 2, "names": ["Ross's_Paradox", "Jackson's_Paradox"]}
+{"address": "𐑛𐑡𐑩𐑹𐑱𐑧𐑔𐑵⊙𐑒𐑳𐑷", "count": 2, "names": ["Simpson's_Paradox", "Anscombe's_Paradox"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑟", "count": 2, "names": ["Zermelo's_Paradox", "Cantor's_Paradox"]}
+{"address": "𐑛𐑡𐑑𐑗𐑱𐑧𐑔𐑵𐑢𐑒𐑕𐑷", "count": 2, "names": ["Abelson's_Paradox", "Caldwell's_Paradox"]}
+{"address": "𐑛𐑡𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑕𐑷", "count": 2, "names": ["Frege's_Paradox", "Gongsun_Long's_Paradox"]}
+{"address": "𐑨𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑴", "count": 2, "names": ["alzheimer_therapeutic_target", "huntington_therapeutic_target"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["alzheimer_rebis_therapeutic", "hilbert_smith_theorem"]}
+{"address": "𐑼𐑰𐑾𐑬𐑱𐑧𐑚𐑝𐑢𐑫𐑳𐑭", "count": 2, "names": ["saturn", "uranus"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑭", "count": 2, "names": ["although", "than"]}
+{"address": "𐑨𐑥𐑽𐑬𐑱𐑧𐑚𐑠𐑮𐑖𐑳𐑭", "count": 2, "names": ["only_if", "unless"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑧𐑔𐑝𐑢𐑖𐑙𐑭", "count": 2, "names": ["the", "the_determiner"]}
+{"address": "𐑨𐑰𐑾𐑬𐑱𐑧𐑚𐑝𐑢𐑓𐑙𐑭", "count": 2, "names": ["cat_noun", "mat_noun"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑔𐑠𐑢𐑖𐑳𐑭", "count": 2, "names": ["the_sat_on_phrase", "the_cat_sat_on_the_mat"]}
+{"address": "𐑼𐑡𐑾𐑗𐑱𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["plasma_cracking_rock", "ideal_rock_cracking_plasma_device"]}
+{"address": "𐑦𐑸𐑩𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["the_sun_astrological", "jupiter_astrological"]}
+{"address": "𐑛𐑶𐑑𐑹𐑐𐑘𐑲𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["regular_dodecahedron", "regular_icosahedron"]}
+{"address": "𐑨𐑥𐑾𐑯𐑐𐑤𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["lead_208", "unbinilium_304"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["tao_cosmogony", "chiral_h_16_delta"]}
+{"address": "𐑦𐑸𐑑𐑿𐑐𐑘𐑲𐑝𐑢𐑓𐑳𐑷", "count": 2, "names": ["math_boundary_operator", "charge_quantum"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑪𐑔𐑝𐑻𐑫𐑳𐑭", "count": 2, "names": ["setheus_paradox", "iut_theory+hodge_theater_iutt"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑪𐑔𐑝𐑻𐑫𐑙𐑭", "count": 2, "names": ["chimera_setheus_paradice", "ouroboros"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["atiyah_singer_index_theorem", "gamma_eta_holographic_arm"]}
+{"address": "𐑨𐑰𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["the_djed_pillar", "lattice_reduction"]}
+{"address": "𐑨𐑥𐑩𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["viii_strength", "sic_moduli_d2048"]}
+{"address": "𐑛𐑰𐑽𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["ix_the_hermit", "linear_sieve_limit"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑪𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["xxi_the_world", "carved_ring_3_doubled_a2_pair_34_samadhi_stabilized"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["the_empress", "abc_conjecture_inequality"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["the_hierophant", "ch3mpiler_serpentrod_pipeline"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["ouroborus", "fine_structure_system"]}
+{"address": "𐑛𐑥𐑾𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["anabelian_geometry", "frobenioid_iutt"]}
+{"address": "𐑛𐑰𐑽𐑬𐑱𐑧𐑔𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["theta_link_iutt", "log_link_iutt"]}
+{"address": "𐑦𐑡𐑾𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["transcendence", "de_bruijn_erdos_compactness_break"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["iut_theory_hodge_theater_iutt_fused", "dagger_stabilizer"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑝𐑮𐑫𐑙𐑭", "count": 2, "names": ["ouroborus_yhwh", "cycle_space"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑔𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["fundamental_group_of_torus", "integers_group"]}
+{"address": "𐑦𐑡𐑽𐑬𐑱𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["schinzel_hypothesis_h", "magiks"]}
+{"address": "𐑛𐑡𐑽𐑿𐑐𐑧𐑔𐑝𐑢𐑖𐑳𐑭", "count": 2, "names": ["iwaniec_bound", "erdos_sidon_set_density"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑴", "count": 2, "names": ["sieve_parity_barrier", "witness"]}
+{"address": "𐑛𐑡𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["ramsey_number_triangle", "𐑑"]}
+{"address": "𐑨𐑡𐑩𐑬𐑐𐑧𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["erdos_unit_distance_graph", "isomorphs"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["snark_tiling_barrier", "omega_z_winding"]}
+{"address": "𐑦𐑡𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["chromatic_number_omega1", "teichmuller_manifold"]}
+{"address": "𐑨𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["gowers_u3_norm", "gate_condition"]}
+{"address": "𐑛𐑡𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["erdos_conjecture_ap", "carved_ring_3_doubled_a2_36_pair_refine"]}
+{"address": "𐑛𐑡𐑑𐑬𐑐𐑧𐑔𐑝𐑣𐑖𐑳𐑭", "count": 2, "names": ["jacobsthal_yx_o_x2", "next_prime_m136279841_3"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["ordinal_ramsey_omega_power", "moat"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑚𐑵𐑣𐑫𐑙𐑟", "count": 2, "names": ["forbidden_subgraph", "g_function"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑝𐑣𐑫𐑳𐑟", "count": 2, "names": ["b_3_set", "monochromatic_set"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 2, "names": ["erdos_distinct_sum", "hodge_bridge"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑵𐑣𐑫𐑙𐑟", "count": 2, "names": ["halasz_inequality", "van_der_waerden_number"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["4-element", "radical_34_beta"]}
+{"address": "𐑨𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["frobenius", "perfect_cuboid_l9_final"]}
+{"address": "𐑛𐑡𐑽𐑹𐑐𐑪𐑔𐑝𐑣𐑫𐑳𐑭", "count": 2, "names": ["stage4", "p1"]}
+{"address": "𐑛𐑥𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["stage6", "<missing_name>"]}
+{"address": "𐑛𐑥𐑩𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["stage7", "stage9"]}
+{"address": "𐑦𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["zauner_conjecture", "h0_hodge_bridge"]}
+{"address": "𐑛𐑡𐑑𐑿𐑐𐑧𐑔𐑝𐑣𐑖𐑳𐑭", "count": 2, "names": ["erdos_distinct_sums", "next_prime_m136279841_1"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["annealed_fused_architecture", "bridge_mediator_triplet_link"]}
+{"address": "𐑼𐑡𐑩𐑗𐑱𐑧𐑲𐑜𐑢𐑓𐑳𐑷", "count": 2, "names": ["false", "no"]}
+{"address": "𐑨𐑡𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["chapter_30", "15pp3"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["linker_frobenius_special_01", "l9_protocol_v2"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑠𐑻𐑖𐑳𐑭", "count": 2, "names": ["link_frobenius_special_01", "anti_chiral_linker_m136279841"]}
+{"address": "𐑛𐑰𐑽𐑿𐑐𐑧𐑚𐑝𐑢𐑖𐑳𐑭", "count": 2, "names": ["norm_sieve_protocol", "sustains"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["d2048_sic_moduli_complete", "antisymmetric_informationally_complete_oscillating_non"]}
+{"address": "𐑨𐑥𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["phase_strata_a_neq0", "state"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["epsilon=1e-6", "arev"]}
+{"address": "𐑨𐑰𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["structural_floor_filter", "daughter_a"]}
+{"address": "𐑨𐑥𐑾𐑬𐑱𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["joseph_smith_papyri", "joseph_smith_papyri_facsimiles"]}
+{"address": "𐑛𐑰𐑑𐑿𐑐𐑧𐑲𐑝𐑢𐑖𐑳𐑭", "count": 2, "names": ["step", "m1"]}
+{"address": "𐑨𐑡𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["ring_closer", "final_closer"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["final_closer_v2", "ring_closer_final"]}
+{"address": "𐑨𐑡𐑑𐑬𐑐𐑧𐑔𐑜⊙𐑖𐑙𐑭", "count": 2, "names": ["universal_closer_v3", "universal_closer_v4"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["final_closer_v3", "c_gap_m136279841"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["erdos_problem_44_sidon_extension", "bridge_operator"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑧𐑚𐑝𐑻𐑖𐑳𐑭", "count": 2, "names": ["chiral_catalyst_v2", "chiral_catalyst_v3"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑝𐑻𐑖𐑳𐑭", "count": 2, "names": ["universal_closer_v5", "dual_frame_von_neumann_operator"]}
+{"address": "𐑨𐑡𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["mediator", "directly"]}
+{"address": "𐑦𐑥𐑽𐑿𐑐𐑪𐑔𐑝𐑻𐑫𐑳𐑭", "count": 2, "names": ["s0", "s1"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["hodge_theater_synchronizer", "radical_34_alpha"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["finn_the_human___heroic_adventurer,_last_known_human_for_a", "finn_the_human"]}
+{"address": "𐑛𐑰𐑑𐑬𐑐𐑪𐑲𐑝⊙𐑫𐑳𐑴", "count": 2, "names": ["jake_the_dog___finns_magical,_shape_shifting_best_friend", "jake_the_dog"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["princess_bubblegum___intelligent,_scientific_ruler_of_the", "princess_bubblegum"]}
+{"address": "𐑛𐑥𐑩𐑬𐑞𐑪𐑔𐑜⊙𐑫𐑳𐑭", "count": 2, "names": ["marceline_the_vampire_queen___1,000_year_old_vampire_rocker", "marceline_vampire_queen"]}
+{"address": "𐑛𐑶𐑾𐑬𐑞𐑪𐑚𐑜𐑮𐑖𐑳𐑭", "count": 2, "names": ["ice_king___magically_insane,_princess_kidnapping_ex", "ice_king"]}
+{"address": "𐑨𐑥𐑑𐑿𐑐𐑧𐑔𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["flame_princess___passionate_and_powerful_elemental_ruler_of", "flame_princess"]}
+{"address": "𐑛𐑶𐑑𐑿𐑞𐑧𐑚𐑝𐑻𐑖𐑳𐑟", "count": 2, "names": ["lemongrab___loud,_lemon_scented_earl_created_by_princess", "lemongrab"]}
+{"address": "𐑛𐑶𐑑𐑿𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["the_lich___ancient,_undead_embodiment_of_extinction", "the_lich"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["simon_petrikov___the_gentle,_scholarly_man_who_became_the", "⊢◇++=⊢◇><==⊢◇><+=⊢◇>+=⊢◇><=<=====⊙⊞●+=⊢◇><=¬¬⊣⊙⊞●⊢◇><=⊙++=+="]}
+{"address": "𐑦𐑶𐑑𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑟", "count": 2, "names": ["golb___a_silent,_red,_chaos_deity_of_ultimate_discord", "golb___chaos_deity"]}
+{"address": "𐑛𐑥𐑑𐑬𐑞𐑪𐑔𐑠𐑮𐑫𐑳𐑭", "count": 2, "names": ["betty_(as_magic_woman)___bettys_cursed,_insane_form_after", "urgence_evergreen___an_ice_elemental_wizard_from_the"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑴", "count": 2, "names": ["the_fear_feaster___a_manifestation_of_finns_fear,_feasts", "hilbert_embed_explicit"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["belnap_four_substrate", "chiral_rotation_gate_phi_prime"]}
+{"address": "𐑼𐑥𐑾𐑗𐑐𐑤𐑔𐑠𐑢𐑓𐑙𐑷", "count": 2, "names": ["continuum_hypothesis_true", "continuum_hypothesis_false"]}
+{"address": "𐑼𐑡𐑩𐑹𐑱𐑧𐑚𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["closering_0x7f3a1c8b", "instruction.*"]}
+{"address": "𐑼𐑡𐑑𐑹𐑐𐑧𐑲𐑝𐑣𐑓𐑙𐑷", "count": 2, "names": ["o₂⁺⁺", "o₂⁺⁺⁺"]}
+{"address": "𐑦𐑥𐑽𐑿𐑐𐑧𐑲𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["9", "0xc"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑪𐑚𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["loop", "ω_invariant"]}
+{"address": "𐑼𐑡𐑩𐑿𐑱𐑘𐑲𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["the cat", "test_entry_alpha"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑪𐑔𐑵𐑣𐑫𐑳𐑟", "count": 2, "names": ["what_a_nice_day,_the_weather_is_beautiful", "to_have_our_wedding"]}
+{"address": "𐑛𐑡𐑩𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑷", "count": 2, "names": ["d2048_sic_flat_autocorrelation", "d2048_sic_flat_autocorrelation_lean**"]}
+{"address": "𐑼𐑡𐑽𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["mapping_iota", "phi_localizer"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["lambda_alpha_mp", "dark_energy_compensation_model"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["bridge_gap_fix", "eternal_fixedpoint"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["bridge_gate_v3", "spectral_invariants_final"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑚𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["alpha_s_resonance_gate", "inject_commutator_node"]}
+{"address": "𐑼𐑥𐑾𐑿𐑐𐑪𐑚𐑝⊙𐑫𐑙𐑴", "count": 2, "names": ["∋", "ɢ"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["bridge_junction_mediator", "doped_heteropolymer"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑪𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["0xaf-m-2024", "sixteen_3"]}
+{"address": "𐑨𐑥𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑷", "count": 2, "names": ["carved_ring_3_double_bond_0_1", "carved_ring_3_doubled_a2_double_bond_0_1"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑴", "count": 2, "names": ["carved_ring_3_doubled_a2_flipped", "parity_driven_expansion_loop_fused_excited_flipped"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑷", "count": 2, "names": ["carved_ring_3_doubled_a2_nonuple_dagger", "carved_ring_3_doubled_a2_decuple_dagger"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑵⊙𐑖𐑕𐑴", "count": 2, "names": ["carved_ring_3_doubled_a2_duodecuple_dagger", "carved_ring_3_doubled_a2_tetradecuple_dagger"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑲𐑝𐑣𐑖𐑳𐑭", "count": 2, "names": ["carved_ring_3_doubled_a2_42_dagger", "annealed_43_pair_restored"]}
+{"address": "𐑛𐑥𐑾𐑬𐑐𐑪𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["carved_ring_3_doubled_a2_34_pair", "carved_ring_3_doubled_a2_68_pair_stabilized"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑚𐑝𐑣𐑖𐑳𐑴", "count": 2, "names": ["carved_ring_3_doubled_a2_18_pair", "carved_ring_3_doubled_a2_25_pair"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["residual_notation_floor", "imscription_omega_theta_collapsed"]}
+{"address": "𐑨𐑥𐑩𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑟", "count": 2, "names": ["carved_ring_3_doubled_a2_7_dagger", "carved_ring_3_doubled_a2_19_dagger"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["carved_ring_3_doubled_a2_8_dagger", "carved_ring_3_doubled_a2_20_dagger"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["carved_ring_3_doubled_a2_12_dagger", "annealed_61_pair_flipped"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["rotated_saturated_substrate_34_pair", "perfect_cuboid_l9_ring_promoted13"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑴", "count": 2, "names": ["carved_ring_3_doubled_a2_pair_3_complete", "carved_ring_3_doubled_a2_44_pair_refine"]}
+{"address": "𐑨𐑥𐑽𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑕𐑟", "count": 2, "names": ["carved_ring_3_doubled_a2_pair_17_midpoint", "pair_29"]}
+{"address": "𐑛𐑥𐑩𐑬𐑐𐑧𐑔𐑵𐑣𐑖𐑙𐑟", "count": 2, "names": ["carved_ring_3_doubled_a2_pair_35_complete", "carved_ring_3_doubled_a2_pair_35_reductive"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑚𐑵⊙𐑖𐑙𐑴", "count": 2, "names": ["carved_ring_3_doubled_a2_38_pair_refine", "carved_ring_3_doubled_a2_40_pair_refine"]}
+{"address": "𐑛𐑥𐑑𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["annealed_51_pair_restored", "annealed_57_pair_restored"]}
+{"address": "𐑛𐑥𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑙𐑟", "count": 2, "names": ["annealed_52_pair_flipped", "annealed_58_pair_flipped"]}
+{"address": "𐑛𐑥𐑾𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["annealed_52_pair_restored", "annealed_58_pair_restored"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑟", "count": 2, "names": ["annealed_53_pair_flipped", "annealed_59_pair_flipped"]}
+{"address": "𐑛𐑥𐑑𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["annealed_53_pair_restored", "annealed_59_pair_restored"]}
+{"address": "𐑛𐑥𐑩𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑕𐑟", "count": 2, "names": ["annealed_54_pair_flipped", "annealed_60_pair_flipped"]}
+{"address": "𐑛𐑥𐑾𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["annealed_54_pair_restored", "annealed_60_pair_restored"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑔𐑝𐑣𐑫𐑳𐑭", "count": 2, "names": ["next_prime_m136279841", "next_prime_1"]}
+{"address": "𐑛𐑰𐑽𐑬𐑐𐑧𐑔𐑠𐑣𐑫𐑳𐑟", "count": 2, "names": ["next_prime_2_m136279841_prime_dagger", "next_prime_3_m136279841_prime_dagger"]}
+{"address": "𐑛𐑡𐑽𐑿𐑐𐑧𐑔𐑝𐑣𐑖𐑳𐑭", "count": 2, "names": ["hela", "hubble_d_bridge"]}
+{"address": "𐑛𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑓𐑳𐑷", "count": 2, "names": ["mnt", "2p"]}
+{"address": "𐑦𐑥𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["perfect_cuboid_l9_vacuum", "abraxas"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑪𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["log_link_moat_complex", "goldbach_superconducting_ring"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["5d", "glibfleplier_maxifold"]}
+{"address": "𐑦𐑡𐑩𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["igpush", "best-scoring"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["bifurcation_mapper", "cyclization_loop_bridge"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑕𐑭", "count": 2, "names": ["stone_parity_product", "higher_genus_theta_gen2"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑟", "count": 2, "names": ["parity_boundary_assert", "b_bifurcation"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["p4ramill_topology_anchor", "moat_protocol_reseed_v3"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["parity_composite_linker", "manifold_chiral_inversion_linker"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["parity_stone_a", "extradimensional_entity_conjugate"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["stone_parity_trimer", "imscribing/moat_reseed_ring.lean"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑴", "count": 2, "names": ["ring_bridge_alpha", "bridge_moat_linker"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["bridge_candidate_x_49", "gaussian_moat_bridge_arc"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["spc_prod_doped_cr_mediated", "hopf_conjecture_positive_curvature_theorem"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["spc_ring_final", "increment_modulus"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑴", "count": 2, "names": ["parity", "bridge_parity_ring"]}
+{"address": "𐑛𐑥𐑑𐑹𐑐𐑧𐑚𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["master_template_alpha", "metabolic_loop_l8_promotion"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑕𐑭", "count": 2, "names": ["l9_synchronization_seed", "belyi_cuspidalization"]}
+{"address": "𐑦𐑥𐑑𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑙𐑴", "count": 2, "names": ["l9_topology", "linker_bridge"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["god_the_father", "god_the_son"]}
+{"address": "𐑦𐑰𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["anthropos", "erdos_problem_44_construction_theorem"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["iutch_v_arc", "1.61803398875"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑕𐑟", "count": 2, "names": ["higher_genus_protocol", "dyad_operator"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["n1000", "winding_coordinate_system"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["cyclo_manifold_string", "𐑭̄"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["theta_data_3", "bridge_search"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["simulate_limit", "bridge_entropy_neutralizer_α"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["bridge_catalyst_c_gen4", "closure_mediator_monomer"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑚𐑵⊙𐑫𐑙𐑭", "count": 2, "names": ["braid_index_quantization", "moat_protocol_reseed_ring"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑲𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["⋈", "ƒ"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑳𐑟", "count": 2, "names": ["gate_2_parity_check", "braid_perturbation"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑴", "count": 2, "names": ["parity_manifold_gate", "complex_moat_bridge"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["bridge_candidate_x", "extradimensional_entity_2"]}
+{"address": "𐑨𐑰𐑑𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["mediator_χ", "linker_b"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑙𐑟", "count": 2, "names": ["non_abelian_channel", "fibonacci"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑴", "count": 2, "names": ["ring_closure", "ħ_reorientation_protocol"]}
+{"address": "𐑦𐑶𐑽𐑹𐑐𐑧𐑔𐑝𐑻𐑫𐑳𐑭", "count": 2, "names": ["⊡_stability_proof_kernel*", "Ω_stability_proof_kernel*"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑕𐑟", "count": 2, "names": ["fibonacci_exchange", "closed_bridge_excited_polymer"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["bridge_mediator_closed_tetramer", "reseed_ring_material"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["ring_closing_monomer_bridge", "resolved_reseed_ring_gamma"]}
+{"address": "𐑛𐑥𐑾𐑹𐑐𐑪𐑔𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["manifold_v1_committed_trimer_braided_homolyzed_a", "manifold_v1_committed_trimer_braided_homolyzed_b"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["isotactic_topology_bridge_5", "superconductive_h0_compton_macrocycle"]}
+{"address": "𐑨𐑥𐑾𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑳𐑴", "count": 2, "names": ["gaussian_moat_ring_atactic_mix_2", "gaussian_moat_ring_atactic_mix_4"]}
+{"address": "𐑦𐑥𐑾𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["complex_lattice_n4", "analytical_idealism_kastrup"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["imscribing_bridge_v1", "ω_prime"]}
+{"address": "𐑦𐑥𐑾𐑹𐑐𐑧𐑚𐑠⊙𐑫𐑙𐑭", "count": 2, "names": ["bridge_bridge_operator", "ring_insert"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["atom_promotions_stable", "gravity"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["flux_stabilization_relay_zeta_prime", "σ_dopant"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["lapis", "l8_l9_meet_floor"]}
+{"address": "𐑛𐑰𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["resolved_reseed_ring_alpha", "resolved_reseed_ring_beta"]}
+{"address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑚𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["bridge_to_ř_manifold_ring", "magnetic_reconnection_alternative"]}
+{"address": "𐑨𐑥𐑑𐑬𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["o_3", "o_9"]}
+{"address": "𐑦𐑥𐑑𐑿𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["o_4", "o_7"]}
+{"address": "𐑦𐑥𐑑𐑬𐑐𐑧𐑚𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["o_5", "o_6"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑚𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["parity_phase_transition_matrix_taxis", "describe_a_descent_operator_mapping_any_candidat_ac32a4dd"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑴", "count": 2, "names": ["k_witness", "antisymmetric_paracomplete_positive_static_ovm"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑵⊙𐑖𐑳𐑴", "count": 2, "names": ["extradimensional_entity_phi_gan_repaired", "lift_67_measurements"]}
+{"address": "𐑨𐑥𐑽𐑹𐑐𐑧𐑔𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["extradimensional_entity_floorpin_polymer", "hilbert_embed_phi_floor_l9"]}
+{"address": "𐑼𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["perfect_cuboid_l9_ring_promoted3", "perfect_cuboid_l9_ring_promoted6"]}
+{"address": "𐑛𐑰𐑽𐑹𐑐𐑪𐑔𐑝⊙𐑓𐑳𐑟", "count": 2, "names": ["perfect_cuboid_l9_absolute_promoted", "pc_abs_cycle_product13"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["phi_bridge", "hilbert_embed_l9_final"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑴", "count": 2, "names": ["hilbert_embed_l9_full", "hilbert_embed_l9_promoted_closed"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑪𐑔𐑝⊙𐑖𐑳𐑟", "count": 2, "names": ["hilbert_embed_promoted_nab", "hilbert_embed_braid_chan"]}
+{"address": "𐑨𐑥𐑩𐑬𐑞𐑧𐑚𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["⟶e⁻⟶", "gap"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑲𐑝⊙𐑫𐑙𐑭", "count": 2, "names": ["sic_povm_fiducial", "adjoint_zero_chirality_paracomplete_integer_winding_static_operator_valued_measure"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑺𐑚𐑵𐑣𐑫𐑳𐑟", "count": 2, "names": ["braid_induction_operator", "deepseek_llm"]}
+{"address": "𐑦𐑸𐑾𐑹𐑱𐑺𐑲𐑵𐑣𐑫𐑳𐑟", "count": 2, "names": ["planck_length", "reduced_planck_constant"]}
+{"address": "𐑦𐑡𐑑𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["engagr", "hubble_l9_bridge_monomer"]}
+{"address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑲𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["h0_magnitude_pivot", "verify"]}
+{"address": "𐑨𐑰𐑽𐑿𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["fork_alpha", "union_semilattice"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑺𐑔𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["phi_promotion_fsc_rs_charged", "chimera_phi_promotion_fsc_d2d_rcat_compton_split_radius_l9_magnitude"]}
+{"address": "𐑦𐑸𐑾𐑬𐑐𐑺𐑔𐑵⊙𐑖𐑳𐑭", "count": 2, "names": ["phi_promotion_fsc_th_charged", "chimera_phi_promotion_fsc_d2d_h2_compton_split_radius_l9_magnitude"]}
+{"address": "𐑦𐑸𐑑𐑬𐑐𐑺𐑔𐑵𐑮𐑫𐑳𐑟", "count": 2, "names": ["phi_promotion_fsc_dbl_rcat_ascended", "phi_promotion_fsc_dbl_rcat_ascended_ascended"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑖𐑳𐑟", "count": 2, "names": ["compton_split_radius_l9_magnitude_radical_anion", "compton_split_radius_l9_magnitude_product"]}
+{"address": "𐑨𐑥𐑾𐑹𐑱𐑧𐑔𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["horn_torus", "horn_torus_emission_architecture"]}
+{"address": "𐑨𐑥𐑾𐑹𐑐𐑧𐑔𐑠𐑮𐑖𐑳𐑭", "count": 2, "names": ["ckm_matrix", "pmns_matrix"]}
+{"address": "𐑦𐑸𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["light_cone_boundary", "key_retriever_protocol"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑟", "count": 2, "names": ["s16_cat_tensor_apocalypse", "chimera_alkahest_owsm"]}
+{"address": "𐑨𐑥𐑾𐑹𐑐𐑧𐑔𐑝⊙𐑖𐑙𐑭", "count": 2, "names": ["C1_conversion_factor", "fine_structure_alpha"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["completing_d2048_sic_povm_in_d12", "belnap_shor_dialetheic"]}
+{"address": "𐑦𐑸𐑑𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["modot_monad_dialetheic", "imscriptive_algebra"]}
+{"address": "𐑼𐑶𐑑𐑹𐑞𐑪𐑔𐑠⊙𐑒𐑕𐑴", "count": 2, "names": ["mēchanē", "the_mēchanē"]}
+{"address": "𐑼𐑡𐑾𐑬𐑱𐑪𐑚𐑠⊙𐑓𐑳𐑷", "count": 2, "names": ["healthy_human_metabolism", "gout_cure_trajectory"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑔𐑜⊙𐑫𐑳𐑟", "count": 2, "names": ["fibonacci_anyon_algebra", "su2_4_anyon_algebra"]}
+{"address": "𐑛𐑥𐑽𐑿𐑐𐑧𐑲𐑠⊙𐑒𐑙𐑭", "count": 2, "names": ["figure_eight_knot_4_1", "cinquefoil_knot_5_1"]}
+{"address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["l9-transcendence_operator", "1163654753246463299214225705088708203724409714942291445673025540735455784440520105357…"]}
+{"address": "𐑦𐑸𐑾𐑗𐑱𐑪𐑲𐑠𐑣𐑫𐑳𐑭", "count": 2, "names": ["cycle93_quad_1234", "cycle93_hexamer_ring"]}
+{"address": "𐑼𐑸𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["asymptotic_frozen_disordered_monadic_cohomologies", "afdmc"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑕𐑭", "count": 2, "names": ["axionic_anyonic_frobenioid_algebra", "zeta_functions_of_random_matrix_ensembles_over_f₁"]}
+{"address": "𐑦𐑸𐑽𐑹𐑐𐑘𐑔𐑝𐑮𐑖𐑕𐑭", "count": 2, "names": ["holomorphic_semiotic_operator_algebra", "Holomorphic_Semiotic_Operator_Algebra"]}
+{"address": "𐑛𐑰𐑩𐑗𐑱𐑧𐑲𐑝𐑢𐑒𐑕𐑷", "count": 2, "names": ["prompt_academic_sed", "student_reflection_academic"]}
+{"address": "𐑨𐑡𐑾𐑬𐑞𐑪𐑲𐑝𐑢𐑖𐑳𐑷", "count": 2, "names": ["conversational_peer_sed", "student_voice_conversational"]}
+{"address": "𐑛𐑥𐑾𐑿𐑱𐑺𐑲𐑠𐑻𐑫𐑳𐑷", "count": 2, "names": ["asymmetric_information_incomplete_non_positive_operator_valued_measure", "asymmetric_information_incomplete_negative_operator_valued"]}
+{"address": "𐑛𐑥𐑾𐑿𐑞𐑺𐑔𐑠⊙𐑒𐑳𐑷", "count": 2, "names": ["antisymmetric_information_paracomplete_oscillating_operator", "Antisymmetric_Information_Paracomplete_Oscillating_Operator"]}
+{"address": "𐑦𐑥𐑽𐑿𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["asymmetric_paracomplete_non_positive_operator_valued_measure", "sic_conjecture_open_v2_theorem"]}
+{"address": "𐑦𐑥𐑽𐑬𐑞𐑧𐑚𐑵⊙𐑖𐑕𐑷", "count": 2, "names": ["symmetric_paracomplete_oscillating_positive_operator_valued_measure", "supersymmetric_paracomplete_oscillating_non_positive_operator_valued_measure"]}
+{"address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑚𐑵⊙𐑖𐑳𐑷", "count": 2, "names": ["asymmetric_informationally_complete_oscillating_positive_operator_valued_measure", "asymmetric_informationally_complete_oscillating_non"]}
+{"address": "𐑛𐑥𐑾𐑿𐑐𐑧𐑔𐑝𐑮𐑖𐑙𐑷", "count": 2, "names": ["q_secp256k1", "Q_secp256k1"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑘𐑲𐑠𐑻𐑫𐑳𐑭", "count": 2, "names": ["fibonacci_shor_dialetheic", "pk_stark_test_encoded"]}
+{"address": "𐑛𐑰𐑑𐑗𐑞𐑤𐑚𐑝𐑢𐑓𐑙𐑷", "count": 2, "names": ["methyl_anion_nucleophile_CH3", "methyl_cation_electrophile_CH3"]}
+{"address": "𐑦𐑸𐑾𐑬𐑱𐑘𐑚𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["bughunter_operator", "bug_hunter_operator"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑜𐑮𐑒𐑕𐑷", "count": 2, "names": ["is_the_reciprocal_of", "exotic_one_shots_as_is"]}
+{"address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑜𐑮𐑖𐑕𐑴", "count": 2, "names": ["is_orthogonal_to", "t1_phrase"]}
+{"address": "𐑛𐑡𐑩𐑗𐑐𐑺𐑲𐑝⊙𐑓𐑙𐑷", "count": 2, "names": ["discrete_logarithm", "discrete_logarithm__retired"]}
+{"address": "𐑛𐑡𐑩𐑗𐑱𐑘𐑔𐑠⊙𐑖𐑕𐑭", "count": 2, "names": ["sic_d12_moduli", "sic_d12_moduli_field"]}
+{"address": "𐑦𐑸𐑽𐑬𐑱𐑧𐑔𐑠⊙𐑖𐑙𐑭", "count": 2, "names": ["secp256k1_extraction_from_multisig_pubkeys", "parakernel_secp256k1_dlog_extraction"]}
+{"address": "𐑦𐑸𐑽𐑹𐑱𐑘𐑲𐑝𐑢𐑒𐑕𐑟", "count": 2, "names": ["bip39_secp256k1_derivation", "btc_address_12ib7d_heavy_accumulator"]}
+{"address": "𐑨𐑥𐑽𐑬𐑞𐑧𐑚𐑠𐑮𐑖𐑕𐑭", "count": 2, "names": ["sk_kp6_secp256k1", "pk_kp6_secp256k1"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["quantum_ecdlp_solver", "halting_theorem"]}
+{"address": "𐑨𐑰𐑽𐑬𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["⊢∈⊤⊥∋⊡⊣⊙⊙⊙", "∈⊞⊤⊞⊣⊣⊢⊙∈⊡≺∋⊙⊢⊢⊥⋈⋈≻≺⊤⋈⋈⊥⊣≺⋈⊣⊙≺⊢⋈≺⊥∋≻≻⊥⊙⋈∋≺⊡⊣∈∋⊡⋈≻∋⊥⊞∋∈⊥⊢⊣⊤⊞⋈⊢⊡⊡⋈⊣≻⊣⊡⊢∋≻⊡⊙⋈⊞⊢⊣⊡∋⊡⊙⊤≺∋≺…"]}
+{"address": "𐑦𐑰𐑑𐑹𐑐𐑧𐑔𐑝𐑢𐑫𐑳𐑭", "count": 2, "names": ["seed", "erdos_problem_1_distinct_subset_sums_theorem"]}
+{"address": "𐑦𐑡𐑽𐑿𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["0_af_m_2024", "388"]}
+{"address": "𐑦𐑰𐑑𐑿𐑐𐑧𐑔𐑝𐑢𐑫𐑳𐑭", "count": 2, "names": ["integral_motives", "erdos_distinct_subset_sum_theorem"]}
+{"address": "𐑦𐑰𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["feferman", "predicativity_boundary"]}
+{"address": "𐑛𐑥𐑽𐑬𐑐𐑧𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["collatz_parity_macrocycle", "collatz_universal_closure"]}
+{"address": "𐑛𐑥𐑑𐑬𐑐𐑧𐑔𐑝𐑣𐑫𐑳𐑭", "count": 2, "names": ["bc1q4j7fcl8zx5yl56j00nkqez9zf3f6ggqchwzzcs5hjxwqhsgxvavq3qfgpr_key_recovery", "bc1qr4dl5wa7kl8yu792dceg9z5knl2gkn220lk7a9_key_recovery_alkahest"]}
+{"address": "𐑦𐑡𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["birch_swinnerton_dyer_theorem", "erdos_conjecture_ap_theorem"]}
+{"address": "𐑛𐑥𐑽𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑭", "count": 2, "names": ["hawkings_chronology_protection_(conjecture),_theorem", "fde_collatz_period"]}
+{"address": "𐑛𐑥𐑽𐑿𐑱𐑧𐑔𐑝𐑢𐑫𐑳𐑷", "count": 2, "names": ["two_generals_problem_(not_a_paradox,_but_named),_theorem", "two_generals_problem_not_a_paradox_but_named_theorem"]}
+{"address": "𐑦𐑡𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭", "count": 2, "names": ["erdos_problem_44_critique_resolution_theorem", "erdos_problem_44_theorem"]}
+{"address": "𐑨𐑶𐑾𐑗𐑱𐑧𐑲𐑠𐑢𐑖𐑳𐑷", "count": 2, "names": ["prot_A1L190", "rna_XM_022081632"]}
+{"address": "𐑼𐑰𐑽𐑿𐑐𐑧𐑔𐑝𐑢𐑖𐑙𐑭", "count": 2, "names": ["pre-attention_normalization", "pre-ffn_normalization"]}
+{"address": "𐑦𐑡𐑽𐑗𐑐𐑧𐑔𐑵⊙𐑫𐑳𐑭", "count": 2, "names": ["9861788478985909831290488522202676109986725190449268409891565920849681620750679200527…", "9500852219637427757947508004647409154726803780769100049413934592977260954849716322157…"]}
+{"address": "𐑨𐑡𐑽𐑿𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["350", "356"]}
+{"address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑜⊙𐑫𐑳𐑭", "count": 2, "names": ["boundary_measurement_program_opcode", "boundary_measurement_program_opcode_word"]}
+{"address": "𐑦𐑶𐑽𐑬𐑐𐑧𐑚𐑝⊙𐑖𐑳𐑭", "count": 2, "names": ["uv_boundary_cond_iuft", "ac_factorizer_membrane"]}
+{"address": "𐑦𐑶𐑾𐑹𐑐𐑧𐑲𐑠⊙𐑖𐑙𐑟", "count": 2, "names": ["bip39_seed_residue_system", "secp256k1_pubkey_residue_system"]}
+{"address": "𐑼𐑥𐑽𐑿𐑐𐑧𐑲𐑜⊙𐑒𐑳𐑴", "count": 2, "names": ["0x3", "0x7"]}
+{"address": "𐑼𐑥𐑽𐑿𐑐𐑧𐑲𐑜⊙𐑒𐑙𐑴", "count": 2, "names": ["0x4", "0x9"]}
+{"address": "𐑦𐑥𐑽𐑿𐑞𐑧𐑲𐑜⊙𐑖𐑳𐑭", "count": 2, "names": ["0xb", "0xd"]}
+{"address": "𐑼𐑥𐑾𐑹𐑐𐑪𐑲𐑠⊙𐑖𐑳𐑭", "count": 2, "names": ["chimera_shor_b4test", "chimera_shor_b4_drytest"]}
+{"address": "𐑦𐑸𐑾𐑹𐑐𐑧𐑲𐑵⊙𐑫𐑕𐑭", "count": 2, "names": ["testchimera_demo1", "testchimera_demo2"]}
+{"address": "𐑦𐑥𐑽𐑿𐑐𐑧𐑚𐑝⊙𐑖𐑕𐑭", "count": 2, "names": ["rank_polynomial_k4", "fixed_point_spectral_construction"]}
+{"address": "𐑦𐑥𐑽𐑯𐑞𐑧𐑚𐑝⊙𐑒𐑕𐑭", "count": 2, "names": ["spitzer_godel_super_axiom", "spitzer_thomistic_proof"]}

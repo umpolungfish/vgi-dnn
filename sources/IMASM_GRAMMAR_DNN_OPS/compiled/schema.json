@@ -1,0 +1,192 @@
+{
+  "source": "INDUXION(1).pdf §§3-5 + SNS_PRIME.md",
+  "axis_order": [
+    "⊢",
+    "⊣",
+    "≻",
+    "≺",
+    "⋈",
+    "⊤",
+    "∈",
+    "∋",
+    "⊙",
+    "⊥",
+    "⊞",
+    "⊡"
+  ],
+  "radices": [
+    4,
+    5,
+    4,
+    5,
+    3,
+    5,
+    3,
+    4,
+    5,
+    4,
+    3,
+    4
+  ],
+  "strides": [
+    4320000,
+    864000,
+    216000,
+    43200,
+    14400,
+    2880,
+    960,
+    240,
+    48,
+    12,
+    4,
+    1
+  ],
+  "axes": [
+    {
+      "glyph": "⊢",
+      "name": "dimensionality",
+      "values": [
+        "𐑛",
+        "𐑨",
+        "𐑼",
+        "𐑦"
+      ],
+      "stage": "Albedo",
+      "induxion_operations": "I4"
+    },
+    {
+      "glyph": "⊣",
+      "name": "topology",
+      "values": [
+        "𐑡",
+        "𐑰",
+        "𐑥",
+        "𐑶",
+        "𐑸"
+      ],
+      "stage": "Rubedo",
+      "induxion_operations": "L3"
+    },
+    {
+      "glyph": "≻",
+      "name": "coupling",
+      "values": [
+        "𐑩",
+        "𐑑",
+        "𐑽",
+        "𐑾"
+      ],
+      "stage": "Nigredo",
+      "induxion_operations": "L1+L2"
+    },
+    {
+      "glyph": "≺",
+      "name": "parity",
+      "values": [
+        "𐑗",
+        "𐑿",
+        "𐑬",
+        "𐑯",
+        "𐑹"
+      ],
+      "stage": "Citrinitas/Rubedo",
+      "induxion_operations": "A1+L5"
+    },
+    {
+      "glyph": "⋈",
+      "name": "fidelity",
+      "values": [
+        "𐑱",
+        "𐑞",
+        "𐑐"
+      ],
+      "stage": "Citrinitas",
+      "induxion_operations": "A3"
+    },
+    {
+      "glyph": "⊤",
+      "name": "kinetics",
+      "values": [
+        "𐑘",
+        "𐑤",
+        "𐑧",
+        "𐑪",
+        "𐑺"
+      ],
+      "stage": "Citrinitas",
+      "induxion_operations": "A2"
+    },
+    {
+      "glyph": "∈",
+      "name": "cardinality",
+      "values": [
+        "𐑚",
+        "𐑔",
+        "𐑲"
+      ],
+      "stage": "Albedo",
+      "induxion_operations": "I1"
+    },
+    {
+      "glyph": "∋",
+      "name": "composition",
+      "values": [
+        "𐑝",
+        "𐑜",
+        "𐑠",
+        "𐑵"
+      ],
+      "stage": "Citrinitas",
+      "induxion_operations": "A4"
+    },
+    {
+      "glyph": "⊙",
+      "name": "criticality",
+      "values": [
+        "𐑢",
+        "⊙",
+        "𐑮",
+        "𐑻",
+        "𐑣"
+      ],
+      "stage": "Rubedo",
+      "induxion_operations": "L4+L6"
+    },
+    {
+      "glyph": "⊥",
+      "name": "chirality",
+      "values": [
+        "𐑓",
+        "𐑒",
+        "𐑖",
+        "𐑫"
+      ],
+      "stage": "Albedo",
+      "induxion_operations": "I2"
+    },
+    {
+      "glyph": "⊞",
+      "name": "stoichiometry",
+      "values": [
+        "𐑙",
+        "𐑕",
+        "𐑳"
+      ],
+      "stage": "Citrinitas",
+      "induxion_operations": "A1"
+    },
+    {
+      "glyph": "⊡",
+      "name": "winding",
+      "values": [
+        "𐑷",
+        "𐑴",
+        "𐑭",
+        "𐑟"
+      ],
+      "stage": "Albedo",
+      "induxion_operations": "I3"
+    }
+  ]
+}

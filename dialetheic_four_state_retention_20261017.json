@@ -1,0 +1,215 @@
+{
+  "partition": "validation",
+  "source_sha256": "092b07457376044f83f163fe9a65c20404701fa6df220249cbd80a82921f0685",
+  "evaluation": "label-free proposals compared afterward with counterfactual graph returns",
+  "reports": [
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_banked_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "a589b2531e82d864b8cfe73ec9624dc4dce45c5d3baecd7a27fcb02f1388860c",
+      "view": "flat",
+      "counts": {
+        "evidence_exact": 376,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 548,
+        "held_correctly": 120,
+        "revision": 492,
+        "release": 162,
+        "supported_both_choice": 184,
+        "predicted_both_choice": 200,
+        "exact_both_choice": 116
+      },
+      "supported_choice_rate": 0.7365591397849462,
+      "evidence_exact_rate": 0.4351851851851852,
+      "mean_bit_loss": 0.24580465780404073,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          200,
+          236,
+          32,
+          12
+        ],
+        [
+          112,
+          600,
+          4,
+          116
+        ],
+        [
+          0,
+          0,
+          1728,
+          0
+        ],
+        [
+          40,
+          168,
+          8,
+          200
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_banked_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "a589b2531e82d864b8cfe73ec9624dc4dce45c5d3baecd7a27fcb02f1388860c",
+      "view": "retained",
+      "counts": {
+        "evidence_exact": 396,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 580,
+        "held_correctly": 72,
+        "revision": 543,
+        "release": 116,
+        "supported_both_choice": 192,
+        "predicted_both_choice": 160,
+        "exact_both_choice": 100
+      },
+      "supported_choice_rate": 0.7795698924731183,
+      "evidence_exact_rate": 0.4583333333333333,
+      "mean_bit_loss": 0.22086564126312833,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          148,
+          300,
+          4,
+          28
+        ],
+        [
+          76,
+          644,
+          0,
+          112
+        ],
+        [
+          0,
+          0,
+          1728,
+          0
+        ],
+        [
+          36,
+          156,
+          16,
+          208
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_half_cpu_rate_comparison_20261017/returned_checkpoint",
+      "checkpoint_sha256": "2705b888b179c5fd1f230e8b059a5143a7f2165cd4abeb6f53207023057ca7c9",
+      "view": "flat",
+      "counts": {
+        "evidence_exact": 352,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 560,
+        "held_correctly": 96,
+        "revision": 522,
+        "release": 162,
+        "supported_both_choice": 180,
+        "predicted_both_choice": 176,
+        "exact_both_choice": 100
+      },
+      "supported_choice_rate": 0.7526881720430108,
+      "evidence_exact_rate": 0.4074074074074074,
+      "mean_bit_loss": 0.2550851220741786,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          148,
+          292,
+          32,
+          8
+        ],
+        [
+          96,
+          624,
+          12,
+          100
+        ],
+        [
+          0,
+          0,
+          1728,
+          0
+        ],
+        [
+          40,
+          184,
+          16,
+          176
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_half_cpu_rate_comparison_20261017/returned_checkpoint",
+      "checkpoint_sha256": "2705b888b179c5fd1f230e8b059a5143a7f2165cd4abeb6f53207023057ca7c9",
+      "view": "retained",
+      "counts": {
+        "evidence_exact": 356,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 576,
+        "held_correctly": 16,
+        "revision": 597,
+        "release": 62,
+        "supported_both_choice": 188,
+        "predicted_both_choice": 112,
+        "exact_both_choice": 80
+      },
+      "supported_choice_rate": 0.7741935483870968,
+      "evidence_exact_rate": 0.41203703703703703,
+      "mean_bit_loss": 0.22194050803780685,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          108,
+          356,
+          8,
+          8
+        ],
+        [
+          88,
+          684,
+          4,
+          56
+        ],
+        [
+          0,
+          0,
+          1728,
+          0
+        ],
+        [
+          24,
+          212,
+          20,
+          160
+        ]
+      ]
+    }
+  ]
+}

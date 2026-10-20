@@ -1,0 +1,133 @@
+{
+  "parameters": 12881,
+  "best_validation_loss": 0.00051,
+  "test": {
+    "samples": 2670,
+    "axis_accuracy": 0.99994,
+    "exact_tuple_accuracy": 0.99925,
+    "loss": 0.00057
+  },
+  "history": [
+    {
+      "epoch": 1,
+      "train_loss": 0.48156,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.93833,
+        "exact_tuple_accuracy": 0.43582,
+        "loss": 0.29725
+      }
+    },
+    {
+      "epoch": 2,
+      "train_loss": 0.26554,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.9479,
+        "exact_tuple_accuracy": 0.50887,
+        "loss": 0.1935
+      }
+    },
+    {
+      "epoch": 3,
+      "train_loss": 0.1521,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.96619,
+        "exact_tuple_accuracy": 0.64007,
+        "loss": 0.09218
+      }
+    },
+    {
+      "epoch": 4,
+      "train_loss": 0.08552,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.97645,
+        "exact_tuple_accuracy": 0.72234,
+        "loss": 0.05603
+      }
+    },
+    {
+      "epoch": 5,
+      "train_loss": 0.06313,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.98115,
+        "exact_tuple_accuracy": 0.77482,
+        "loss": 0.04435
+      }
+    },
+    {
+      "epoch": 6,
+      "train_loss": 0.04411,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.99772,
+        "exact_tuple_accuracy": 0.9727,
+        "loss": 0.01343
+      }
+    },
+    {
+      "epoch": 7,
+      "train_loss": 0.01914,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.99967,
+        "exact_tuple_accuracy": 0.9961,
+        "loss": 0.00463
+      }
+    },
+    {
+      "epoch": 8,
+      "train_loss": 0.01153,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 0.99991,
+        "exact_tuple_accuracy": 0.99894,
+        "loss": 0.00239
+      }
+    },
+    {
+      "epoch": 9,
+      "train_loss": 0.00823,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 1.0,
+        "exact_tuple_accuracy": 1.0,
+        "loss": 0.00145
+      }
+    },
+    {
+      "epoch": 10,
+      "train_loss": 0.00587,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 1.0,
+        "exact_tuple_accuracy": 1.0,
+        "loss": 0.00094
+      }
+    },
+    {
+      "epoch": 11,
+      "train_loss": 0.00451,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 1.0,
+        "exact_tuple_accuracy": 1.0,
+        "loss": 0.00068
+      }
+    },
+    {
+      "epoch": 12,
+      "train_loss": 0.00347,
+      "validation": {
+        "samples": 2820,
+        "axis_accuracy": 1.0,
+        "exact_tuple_accuracy": 1.0,
+        "loss": 0.00051
+      }
+    }
+  ],
+  "scope": "mixed-radix crystal coordinate operations"
+}

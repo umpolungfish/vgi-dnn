@@ -1,0 +1,156 @@
+{
+  "parsed_objects": 943,
+  "unique_addresses": 705,
+  "repeated_address_extra_entries": 238,
+  "collision_groups": 104,
+  "coordinate_neighbor_edges": 408,
+  "invalid_rows": 0,
+  "potential_name_truncations": 417,
+  "address_capacity": 17280000,
+  "occupied_fraction": 4.079861111111111e-05,
+  "splits": {
+    "validation": 83,
+    "train": 788,
+    "test": 72
+  },
+  "top_collision_groups": [
+    {
+      "address": "𐑦𐑸𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+      "count": 20,
+      "names": [
+        "condensed_mathematics",
+        "transcendental_étale_…",
+        "motivic_homotopy_quan…",
+        "measurable_cardinal_u…",
+        "chern–simons_∞_stacks…",
+        "quantum_kummer–vandiv…",
+        "derived_deligne–luszt…",
+        "hochschild_homology_o…"
+      ]
+    },
+    {
+      "address": "𐑦𐑥𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+      "count": 13,
+      "names": [
+        "key_pair_closure",
+        "quantum_ecdlp_oracle",
+        "quantum_ecdlp_oracle_…",
+        "quantum_ecdlp_oracle_…",
+        "crystalline_represent…",
+        "poincare_theorem",
+        "fontaine_mazur_theorem",
+        "kummer_vandiver_theor…"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+      "count": 11,
+      "names": [
+        "holographic_ascent_an…",
+        "noncommutative_crysta…",
+        "constructive_univalen…",
+        "ultrafilter_limits_of…",
+        "gilbert_pollak_theorem",
+        "gan_gross_prasad_theo…",
+        "leopoldt_theorem",
+        "stark_theorem"
+      ]
+    },
+    {
+      "address": "𐑦𐑰𐑽𐑹𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+      "count": 10,
+      "names": [
+        "motivic_cohomology",
+        "gamma_0",
+        "homotopy_type_theoret…",
+        "the_hodge_conjecture_…",
+        "greenberg_padic_lfunc…",
+        "alperin_weight_theorem",
+        "zariski_lipman_theorem",
+        "schinzel_hypothesis_h…"
+      ]
+    },
+    {
+      "address": "𐑦𐑸𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭",
+      "count": 9,
+      "names": [
+        "caveny_enflo_sumfree",
+        "cantor_dust_sumfree",
+        "frobenius_dual_frame_…",
+        "continuum_theorem",
+        "casas_alvero_theorem",
+        "sumner_conjecture_con…",
+        "newcombs_theorem",
+        "platos_theorem"
+      ]
+    },
+    {
+      "address": "𐑦𐑥𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑖𐑳𐑭",
+      "count": 9,
+      "names": [
+        "asymmetric_informatio…",
+        "antisymmetric_informa…",
+        "zilber_pink_theorem",
+        "legendre_theorem",
+        "rotas_basis_theorem",
+        "broue_theorem",
+        "modular_tilting_corre…",
+        "stark_conjecture_part…"
+      ]
+    },
+    {
+      "address": "𐑨𐑶𐑾𐑗𐑱𐑧𐑚𐑠𐑢𐑖𐑳𐑷",
+      "count": 9,
+      "names": [
+        "prot_A0A1B0GTW7_CIROP",
+        "prot_A0JP26",
+        "prot_A0PK11",
+        "prot_A1A4S6",
+        "prot_A1A519",
+        "prot_A1L3X0",
+        "prot_A2A2Y4",
+        "prot_A2RU14"
+      ]
+    },
+    {
+      "address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑔𐑝⊙𐑫𐑳𐑭",
+      "count": 8,
+      "names": [
+        "motivic_homotopy_theo…",
+        "sheafification_hypera…",
+        "feferman–schütte_hype…",
+        "p_adic_holographic_sy…",
+        "non_archimedean_tropi…",
+        "kaplansky_theorem",
+        "mathematical_theorem",
+        "hecke_landau_theorem"
+      ]
+    },
+    {
+      "address": "𐑨𐑥𐑑𐑬𐑞𐑧𐑚𐑠𐑮𐑖𐑕𐑴",
+      "count": 8,
+      "names": [
+        "t0_pk",
+        "t1_sk",
+        "t1_pk",
+        "t2_sk",
+        "t3_sk",
+        "t3_pk",
+        "t4_sk",
+        "t4_pk"
+      ]
+    },
+    {
+      "address": "𐑦𐑰𐑽𐑬𐑐𐑧𐑚𐑜⊙𐑖𐑳𐑭",
+      "count": 6,
+      "names": [
+        "antisymmetric_informa…",
+        "≺⊙⊞⊥⋈≻∋≺⊞⊡∈∈⋈⊥⊢∋⊙⊣⊣⊞⊢…",
+        "⋈∈⊤∋⊙⊡∈⊣≻⊤⋈≻∈⋈⊙⊙⊣≻⊞⊞≺…",
+        "⊢⊞⊣⊤⋈⋈⊥∈⊞∈∈⊤⊡⊤⊞⊡⊙⊞⊡⊙⊡…",
+        "secp256k1_dialetheic_…",
+        "⊢⊣≻⋈⊙∈⊤≻⊥≺⊞∋⊡"
+      ]
+    }
+  ]
+}

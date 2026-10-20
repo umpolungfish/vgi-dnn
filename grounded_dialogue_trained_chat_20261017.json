@@ -1,0 +1,775 @@
+{
+  "checkpoint_sha256": "969f91c8e25bc57d11bd1a75d4ac552abe2a7a07f6e3f6e86c59349ee9f8af9a",
+  "context_bytes": [
+    85,
+    115,
+    101,
+    114,
+    58,
+    32,
+    87,
+    104,
+    97,
+    116,
+    32,
+    105,
+    115,
+    32,
+    116,
+    104,
+    101,
+    32,
+    73,
+    109,
+    115,
+    99,
+    114,
+    105,
+    98,
+    105,
+    110,
+    103,
+    32,
+    71,
+    114,
+    97,
+    109,
+    109,
+    97,
+    114,
+    63,
+    10,
+    65,
+    115,
+    115,
+    105,
+    115,
+    116,
+    97,
+    110,
+    116,
+    58,
+    10,
+    115,
+    117,
+    112,
+    112,
+    111,
+    114,
+    116,
+    58,
+    32,
+    112,
+    101,
+    32,
+    109,
+    101,
+    32,
+    109,
+    101,
+    32,
+    109,
+    101,
+    32,
+    99,
+    97,
+    110,
+    32,
+    112,
+    101,
+    32,
+    99,
+    114,
+    101,
+    114,
+    101,
+    32,
+    99,
+    116,
+    101,
+    32,
+    99,
+    114,
+    101,
+    32,
+    99,
+    97,
+    116,
+    105,
+    110,
+    115,
+    32,
+    99,
+    116,
+    105,
+    110,
+    116,
+    105,
+    110,
+    32,
+    99,
+    97,
+    116,
+    105,
+    110,
+    115,
+    32,
+    97,
+    110,
+    110,
+    110,
+    110,
+    110,
+    110,
+    110,
+    110,
+    10
+  ],
+  "turns": [
+    {
+      "prompt": "What is the Imscribing Grammar?",
+      "evidence_bits": 1,
+      "evidence_logits": [
+        4.789083964359113,
+        -0.7956406048370508
+      ],
+      "source_bank": [
+        256,
+        85,
+        115,
+        101,
+        114,
+        58,
+        32,
+        87,
+        104,
+        97,
+        116,
+        32,
+        105,
+        115,
+        32,
+        116,
+        104,
+        101,
+        32,
+        73,
+        109,
+        115,
+        99,
+        114,
+        105,
+        98,
+        105,
+        110,
+        103,
+        32,
+        71,
+        114,
+        97,
+        109,
+        109,
+        97,
+        114,
+        63,
+        10,
+        65,
+        115,
+        115,
+        105,
+        115,
+        116,
+        97,
+        110,
+        116,
+        58,
+        257
+      ],
+      "memory_t": [
+        0.7833579932935151,
+        0.7373490674002119,
+        0.5513883885945756,
+        0.09634689511677288,
+        0.4164473166716699,
+        0.40410286077628976,
+        0.35847745453873264,
+        0.6648145313341971,
+        0.44218944437511254,
+        0.8372853758334711,
+        0.6971751728900203,
+        0.8097374435927982,
+        0.15168762261115712,
+        0.447631573509883,
+        0.5448537382263079,
+        0.5889723313329518
+      ],
+      "memory_f": [
+        0.8671336316147598,
+        0.27922051207264337,
+        0.553257627535163,
+        0.11336342446039094,
+        0.3849933451463099,
+        0.2482631310564375,
+        0.3147745833460555,
+        0.3962810812496276,
+        0.5535710013792345,
+        0.9080698749495157,
+        0.6588184349949282,
+        0.7434463533439928,
+        0.18998284010426897,
+        0.36324174350805616,
+        0.615094456138453,
+        0.26445164758863626
+      ],
+      "branches": {
+        "support": {
+          "text": "pe me me me can pe crere cte cre catins ctintin catins annnnnnnn",
+          "generated_bytes": [
+            112,
+            101,
+            32,
+            109,
+            101,
+            32,
+            109,
+            101,
+            32,
+            109,
+            101,
+            32,
+            99,
+            97,
+            110,
+            32,
+            112,
+            101,
+            32,
+            99,
+            114,
+            101,
+            114,
+            101,
+            32,
+            99,
+            116,
+            101,
+            32,
+            99,
+            114,
+            101,
+            32,
+            99,
+            97,
+            116,
+            105,
+            110,
+            115,
+            32,
+            99,
+            116,
+            105,
+            110,
+            116,
+            105,
+            110,
+            32,
+            99,
+            97,
+            116,
+            105,
+            110,
+            115,
+            32,
+            97,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110
+          ],
+          "ended_with_eos": false,
+          "trace": [
+            {
+              "token": 112,
+              "selected_readout_logit": 3.8249503393486366,
+              "paired_readout_logit": -0.2060602758219609
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.5030219467409545,
+              "paired_readout_logit": 4.318101153448608
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.082548227929867,
+              "paired_readout_logit": 3.1031612474540444
+            },
+            {
+              "token": 109,
+              "selected_readout_logit": 4.9532206544743005,
+              "paired_readout_logit": 0.11038860501617959
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.66529410248127,
+              "paired_readout_logit": 4.077776240057054
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.252709421771414,
+              "paired_readout_logit": 3.862137357262176
+            },
+            {
+              "token": 109,
+              "selected_readout_logit": 5.417776385712654,
+              "paired_readout_logit": 0.5518509988367482
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.581465888470948,
+              "paired_readout_logit": 3.937526592875297
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.110532307746672,
+              "paired_readout_logit": 3.6313658893846146
+            },
+            {
+              "token": 109,
+              "selected_readout_logit": 5.514760114552832,
+              "paired_readout_logit": 0.3409139319249364
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.868824731907473,
+              "paired_readout_logit": 4.0861595294294615
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 6.022671906447874,
+              "paired_readout_logit": 4.544045844145418
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.667295480395311,
+              "paired_readout_logit": 3.803731359916903
+            },
+            {
+              "token": 97,
+              "selected_readout_logit": 5.455359879913133,
+              "paired_readout_logit": 3.2078544368452913
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 5.379843711910824,
+              "paired_readout_logit": 3.740192108837112
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.298250121249206,
+              "paired_readout_logit": 3.7298771739945553
+            },
+            {
+              "token": 112,
+              "selected_readout_logit": 3.722881455196247,
+              "paired_readout_logit": 0.5921288582380814
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.120136408363583,
+              "paired_readout_logit": 4.563165252037964
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.657058142334706,
+              "paired_readout_logit": 4.041961773724328
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.773580343939716,
+              "paired_readout_logit": 3.429996207716153
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 5.425212330462949,
+              "paired_readout_logit": 1.464781554747867
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.181486572760221,
+              "paired_readout_logit": 4.0439729458897835
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 5.550620039748696,
+              "paired_readout_logit": 2.846374350057235
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 6.513792967208797,
+              "paired_readout_logit": 5.126597973639301
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.9606002994068525,
+              "paired_readout_logit": 3.2201477518142907
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.7555791127419678,
+              "paired_readout_logit": 4.006030107977846
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.892129140532055,
+              "paired_readout_logit": 3.21876250076848
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.577129837291322,
+              "paired_readout_logit": 4.072117472228697
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 5.63808977265293,
+              "paired_readout_logit": 4.010431219612486
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.79737058384873,
+              "paired_readout_logit": 4.685795974085034
+            },
+            {
+              "token": 114,
+              "selected_readout_logit": 5.420237813194435,
+              "paired_readout_logit": 2.257743098633765
+            },
+            {
+              "token": 101,
+              "selected_readout_logit": 5.248888242552638,
+              "paired_readout_logit": 5.381174396314266
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.512688172035936,
+              "paired_readout_logit": 3.3437464901489533
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.5868600086944387,
+              "paired_readout_logit": 4.899685173696254
+            },
+            {
+              "token": 97,
+              "selected_readout_logit": 4.91115645701845,
+              "paired_readout_logit": 4.0156827847146905
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.656164676528998,
+              "paired_readout_logit": 4.755008801461015
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.631650235806871,
+              "paired_readout_logit": 4.043249558988237
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.506021131085636,
+              "paired_readout_logit": 3.401925943600167
+            },
+            {
+              "token": 115,
+              "selected_readout_logit": 3.9035110707505463,
+              "paired_readout_logit": 3.4136256392833224
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.055111528279344,
+              "paired_readout_logit": 3.3422050277247384
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.5960372803130576,
+              "paired_readout_logit": 4.811004015314087
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 5.332588244514494,
+              "paired_readout_logit": 3.6198230206319235
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.409911109953704,
+              "paired_readout_logit": 2.582169924368798
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.486647274858586,
+              "paired_readout_logit": 0.1807452024758745
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.218390556299233,
+              "paired_readout_logit": 2.815551518485027
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 5.33314722344894,
+              "paired_readout_logit": 2.5619145281899534
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.341438885732859,
+              "paired_readout_logit": 0.10555435007491037
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 4.080525428242578,
+              "paired_readout_logit": 2.018782482401152
+            },
+            {
+              "token": 99,
+              "selected_readout_logit": 3.3606267868023942,
+              "paired_readout_logit": 5.656406668779707
+            },
+            {
+              "token": 97,
+              "selected_readout_logit": 4.6359364586801926,
+              "paired_readout_logit": 4.064413816893991
+            },
+            {
+              "token": 116,
+              "selected_readout_logit": 4.594688010572774,
+              "paired_readout_logit": 4.879729172518247
+            },
+            {
+              "token": 105,
+              "selected_readout_logit": 4.301338685377164,
+              "paired_readout_logit": 3.962700448857325
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.036889659834688,
+              "paired_readout_logit": 4.145824305726683
+            },
+            {
+              "token": 115,
+              "selected_readout_logit": 3.633457591135678,
+              "paired_readout_logit": 3.5440103444151876
+            },
+            {
+              "token": 32,
+              "selected_readout_logit": 3.918306161825813,
+              "paired_readout_logit": 2.580323067223689
+            },
+            {
+              "token": 97,
+              "selected_readout_logit": 3.0483087146768777,
+              "paired_readout_logit": 3.248717287862737
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.985512069007993,
+              "paired_readout_logit": 1.9195112631745304
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.299517241575389,
+              "paired_readout_logit": 1.8797662427069437
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.286158345859971,
+              "paired_readout_logit": 1.879769969792584
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.334552102797929,
+              "paired_readout_logit": 1.9258213559734112
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.393746287294545,
+              "paired_readout_logit": 1.9895361294958693
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.41041861684075,
+              "paired_readout_logit": 2.0238506916944545
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.383017417539507,
+              "paired_readout_logit": 2.0194482823335633
+            },
+            {
+              "token": 110,
+              "selected_readout_logit": 4.332351387385697,
+              "paired_readout_logit": 1.999952528158428
+            }
+          ],
+          "source_bank": [
+            256,
+            85,
+            115,
+            101,
+            114,
+            58,
+            32,
+            87,
+            104,
+            97,
+            116,
+            32,
+            105,
+            115,
+            32,
+            116,
+            104,
+            101,
+            32,
+            73,
+            109,
+            115,
+            99,
+            114,
+            105,
+            98,
+            105,
+            110,
+            103,
+            32,
+            71,
+            114,
+            97,
+            109,
+            109,
+            97,
+            114,
+            63,
+            10,
+            65,
+            115,
+            115,
+            105,
+            115,
+            116,
+            97,
+            110,
+            116,
+            58,
+            257,
+            112,
+            101,
+            32,
+            109,
+            101,
+            32,
+            109,
+            101,
+            32,
+            109,
+            101,
+            32,
+            99,
+            97,
+            110,
+            32,
+            112,
+            101,
+            32,
+            99,
+            114,
+            101,
+            114,
+            101,
+            32,
+            99,
+            116,
+            101,
+            32,
+            99,
+            114,
+            101,
+            32,
+            99,
+            97,
+            116,
+            105,
+            110,
+            115,
+            32,
+            99,
+            116,
+            105,
+            110,
+            116,
+            105,
+            110,
+            32,
+            99,
+            97,
+            116,
+            105,
+            110,
+            115,
+            32,
+            97,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110,
+            110
+          ],
+          "memory_t": [
+            0.8437098145366957,
+            0.5422596452559005,
+            0.781642152107359,
+            0.17937130464523243,
+            0.5101929281098304,
+            0.3783673086856084,
+            0.28846133319809203,
+            0.5564419160046594,
+            0.526939877181179,
+            0.8803090045408548,
+            0.5679459236404734,
+            0.7274349295748759,
+            0.05813886952472739,
+            0.41031988982553114,
+            0.5937194857320097,
+            0.689818205505935
+          ],
+          "memory_f": [
+            0.761457429105889,
+            0.18473999218303339,
+            0.6980329337373725,
+            0.10249778602072485,
+            0.2781759417115254,
+            0.2771119177220719,
+            0.31890374738831145,
+            0.6215023833121527,
+            0.556671888394232,
+            0.9464184507139077,
+            0.6369846367937437,
+            0.7734939420797468,
+            0.0678457511722034,
+            0.2783129379675997,
+            0.7489171250933082,
+            0.2867746444077073
+          ]
+        },
+        "refutation": null
+      }
+    }
+  ],
+  "checkpoint": "/home/mrnob0dy666/imsgct/VGI/cuda_grounded_dialogue_20261017/returned_checkpoint",
+  "execution": "learned constructive T/F presence and independently generated language readouts; both branches retained through conversation re-entry"
+}

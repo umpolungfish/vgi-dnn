@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "records": 82001,
+  "tokens": 242886563,
+  "source_sha256": "835678f29ada4335225d518280f67017e27f8e9f2ff757b05532dac7a1559d38",
+  "index_sha256": "db2752ce95451960859e8ac29812e435d0a59fd3c3ef8d57c789ed4f902cc287",
+  "all_row_boundaries_and_digests_match": true,
+  "indexed_batch_byte_identical_to_linear_control": true,
+  "corrupt_row_digest_rejected": true,
+  "changed_source_rejected": true
+}

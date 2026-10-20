@@ -1,0 +1,2 @@
+{"glyph_count": 13, "kind": "native_vox_verdict", "name": "sourceWord", "observation": "vox verdict --tsv", "source": "observed_native_execution", "verdict": "T", "word": "⊢≻⊤⋈∈⊤⊥⊞∋≺⊙⊡⊣", "word_sha256": "338293b33f4d8c020d4cac0a01c5e879f772a91cb895b210ff947fd1a3897f2d"}
+{"glyph_count": 13, "kind": "native_vox_verdict", "name": "strandedWord", "observation": "vox verdict --tsv", "source": "observed_native_execution", "verdict": "T", "word": "⊢∋⊤⋈∈⊤⊥⊞≻≺⊙⊡⊣", "word_sha256": "ce820563829b83bf34cfcf808b1e12e9a69670aff910be9badba495cfa07e8bf"}

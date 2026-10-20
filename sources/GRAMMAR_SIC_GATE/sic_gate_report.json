@@ -1,0 +1,70 @@
+{
+  "matrix_unit_reconstruction_frobenius_max": 3.5652682413747997e-16,
+  "normalization_frobenius": 0.0,
+  "equiangular_max": 1.1102230246251565e-16,
+  "geometry_max": 2.220446049250313e-16,
+  "projector_purity_max": 1.2412670766236366e-16,
+  "duality_max": 3.3306690738754696e-16,
+  "positivity_min_projector_eigenvalue": -8.326672684688674e-17,
+  "second_moment_frobenius": 1.9229626863835638e-16,
+  "state_examples": [
+    {
+      "bloch": [
+        0,
+        0,
+        0
+      ],
+      "p": [
+        0.25,
+        0.25,
+        0.25,
+        0.25
+      ],
+      "reconstructed_bloch": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "bloch": [
+        0,
+        0,
+        1
+      ],
+      "p": [
+        0.39433756729740643,
+        0.10566243270259354,
+        0.10566243270259354,
+        0.39433756729740643
+      ],
+      "reconstructed_bloch": [
+        0.0,
+        0.0,
+        1.0
+      ]
+    },
+    {
+      "bloch": [
+        0.5,
+        -0.3,
+        0.2
+      ],
+      "p": [
+        0.3077350269189626,
+        0.33660254037844384,
+        0.10566243270259354,
+        0.25
+      ],
+      "reconstructed_bloch": [
+        0.5,
+        -0.3,
+        0.20000000000000018
+      ]
+    }
+  ],
+  "zeta_continuum_link": "zeta link tracked by the exact SIC/zeta module",
+  "native_sic_tool_crosscheck": "not run: native executable not provided",
+  "numerical_gate_pass": true,
+  "tolerance": 1e-12
+}

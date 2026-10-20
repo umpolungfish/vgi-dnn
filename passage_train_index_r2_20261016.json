@@ -1,0 +1,26 @@
+{
+  "format": "retained_corpus_index_v1",
+  "source": "/home/mrnob0dy666/imsgct/VGI/training_views_passage_clean_r2_20261016/train.jsonl",
+  "source_identity": {
+    "st_dev": 2096,
+    "st_ino": 4064639,
+    "st_size": 336635927,
+    "st_mtime_ns": 1792194726625048376,
+    "st_ctime_ns": 1792194726625048376
+  },
+  "source_sha256": "835678f29ada4335225d518280f67017e27f8e9f2ff757b05532dac7a1559d38",
+  "task_counts": {
+    "catalog_to_tuple": 6421,
+    "tuple_to_catalog": 6421,
+    "ob3ect_recorded_construction": 11701,
+    "ob3ect_to_tuple": 696,
+    "document_continuation": 42413,
+    "lean_source_continuation": 6224,
+    "catalog_attestation": 6448,
+    "ob3ect_attestation": 1675,
+    "ob3ect_raw_attestation": 2
+  },
+  "records": 82001,
+  "tokens": 242886563,
+  "max_record_tokens": 209975
+}

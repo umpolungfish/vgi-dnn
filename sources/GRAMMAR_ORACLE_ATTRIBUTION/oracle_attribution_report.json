@@ -1,0 +1,446 @@
+{
+  "settings": {
+    "cases": 128,
+    "steps": 256,
+    "seed": 159
+  },
+  "counts": {
+    "coordinate_proposals": 16341,
+    "coordinate_wrong": 6,
+    "carrier_proposals": 16427,
+    "carrier_wrong": 0,
+    "invalid_frame_proposals": 0,
+    "semantically_wrong_but_frame_valid": 6,
+    "raw_trajectories_exact": 122,
+    "raw_final_exact": 128,
+    "gated_trajectories_exact": 128,
+    "gated_final_exact": 128,
+    "recovered_raw_trajectories": 6
+  },
+  "raw_trajectory_accuracy": 0.953125,
+  "raw_final_accuracy": 1.0,
+  "frame_detection_rate_of_wrong_proposals": 0.0,
+  "oracle_correction_count": 6,
+  "corrections": [
+    {
+      "case": 40,
+      "step": 136,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 2,
+        "axes": [
+          10,
+          5
+        ],
+        "values": [
+          1,
+          0
+        ]
+      },
+      "before": {
+        "address": [
+          1,
+          3,
+          0,
+          1,
+          0,
+          4,
+          1,
+          2,
+          1,
+          3,
+          1,
+          3
+        ],
+        "carrier": 5
+      },
+      "proposed": {
+        "address": [
+          1,
+          3,
+          0,
+          1,
+          0,
+          4,
+          1,
+          2,
+          1,
+          3,
+          1,
+          3
+        ],
+        "carrier": 5
+      },
+      "oracle_target": {
+        "address": [
+          1,
+          3,
+          0,
+          1,
+          0,
+          0,
+          1,
+          2,
+          1,
+          3,
+          1,
+          3
+        ],
+        "carrier": 5
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    },
+    {
+      "case": 51,
+      "step": 223,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 2,
+        "axes": [
+          4,
+          5
+        ],
+        "values": [
+          0,
+          2
+        ]
+      },
+      "before": {
+        "address": [
+          0,
+          2,
+          2,
+          4,
+          2,
+          4,
+          1,
+          2,
+          3,
+          2,
+          1,
+          0
+        ],
+        "carrier": 1
+      },
+      "proposed": {
+        "address": [
+          0,
+          2,
+          2,
+          4,
+          0,
+          4,
+          1,
+          2,
+          3,
+          2,
+          1,
+          0
+        ],
+        "carrier": 1
+      },
+      "oracle_target": {
+        "address": [
+          0,
+          2,
+          2,
+          4,
+          0,
+          2,
+          1,
+          2,
+          3,
+          2,
+          1,
+          0
+        ],
+        "carrier": 1
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    },
+    {
+      "case": 62,
+      "step": 14,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 2,
+        "axes": [
+          3,
+          5
+        ],
+        "values": [
+          4,
+          0
+        ]
+      },
+      "before": {
+        "address": [
+          3,
+          2,
+          1,
+          3,
+          1,
+          4,
+          1,
+          0,
+          2,
+          1,
+          0,
+          3
+        ],
+        "carrier": 4
+      },
+      "proposed": {
+        "address": [
+          3,
+          2,
+          1,
+          4,
+          1,
+          4,
+          1,
+          0,
+          2,
+          1,
+          0,
+          3
+        ],
+        "carrier": 4
+      },
+      "oracle_target": {
+        "address": [
+          3,
+          2,
+          1,
+          4,
+          1,
+          0,
+          1,
+          0,
+          2,
+          1,
+          0,
+          3
+        ],
+        "carrier": 4
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    },
+    {
+      "case": 70,
+      "step": 169,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 2,
+        "axes": [
+          4,
+          5
+        ],
+        "values": [
+          1,
+          0
+        ]
+      },
+      "before": {
+        "address": [
+          2,
+          2,
+          2,
+          3,
+          2,
+          4,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "carrier": 10
+      },
+      "proposed": {
+        "address": [
+          2,
+          2,
+          2,
+          3,
+          1,
+          4,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "carrier": 10
+      },
+      "oracle_target": {
+        "address": [
+          2,
+          2,
+          2,
+          3,
+          1,
+          0,
+          0,
+          0,
+          1,
+          2,
+          0,
+          0
+        ],
+        "carrier": 10
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    },
+    {
+      "case": 83,
+      "step": 105,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 1,
+        "axes": [
+          11,
+          8
+        ],
+        "values": [
+          1,
+          1
+        ]
+      },
+      "before": {
+        "address": [
+          1,
+          4,
+          3,
+          0,
+          2,
+          3,
+          2,
+          0,
+          3,
+          0,
+          0,
+          1
+        ],
+        "carrier": 9
+      },
+      "proposed": {
+        "address": [
+          1,
+          4,
+          3,
+          0,
+          2,
+          3,
+          2,
+          0,
+          1,
+          0,
+          0,
+          1
+        ],
+        "carrier": 9
+      },
+      "oracle_target": {
+        "address": [
+          1,
+          4,
+          3,
+          0,
+          2,
+          3,
+          2,
+          0,
+          3,
+          0,
+          0,
+          1
+        ],
+        "carrier": 9
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    },
+    {
+      "case": 125,
+      "step": 100,
+      "kind": "coordinate",
+      "operation": {
+        "mode": 1,
+        "axes": [
+          9,
+          4
+        ],
+        "values": [
+          2,
+          2
+        ]
+      },
+      "before": {
+        "address": [
+          2,
+          1,
+          2,
+          4,
+          1,
+          4,
+          0,
+          3,
+          4,
+          3,
+          2,
+          1
+        ],
+        "carrier": 6
+      },
+      "proposed": {
+        "address": [
+          2,
+          1,
+          2,
+          4,
+          2,
+          4,
+          0,
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "carrier": 6
+      },
+      "oracle_target": {
+        "address": [
+          2,
+          1,
+          2,
+          4,
+          1,
+          4,
+          0,
+          3,
+          4,
+          2,
+          2,
+          1
+        ],
+        "carrier": 6
+      },
+      "frame_valid": true,
+      "oracle_corrected": true
+    }
+  ],
+  "scope": "Frame: exact coordinate reconstruction. Transition oracle: exact coordinate and carrier operations.",
+  "verified_gram_dimensions": [
+    2,
+    4,
+    12
+  ]
+}

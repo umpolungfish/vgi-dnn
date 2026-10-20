@@ -1,0 +1,101 @@
+Unresolved 33 of 8,777 original rows. Source coordinates not guessed.
+Line numbers are relative to the tabular section (following its heading).
+
+Row 2780: {"line": 2780, "error": "malformed row"}
+│ ns_regularity_refined_v2                                                               │ ⟨UNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUND… │ UNDEFINED │
+
+Row 2781: {"line": 2781, "error": "malformed row"}
+│ ns_regularity_field_target                                                             │ ⟨UNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUNDEFINEDUND… │ UNDEFINED │
+
+Row 2782: {"line": 2782, "name": "navier_solves_navigator_resolved", "errors": ["axis 4 (parity) rejects '⊙'"]}
+│ navier_solves_navigator_resolved                                                       │ ⟨𐑦𐑸𐑑⊙𐑐𐑪𐑲𐑵⊙𐑫𐑳𐑴⟩                                                                         │ 𐑦         │
+
+Row 2783: {"line": 2783, "name": "zfc_t_system", "errors": ["axis 4 (parity) rejects '⊙'"]}
+│ zfc_t_system                                                                           │ ⟨𐑼𐑸𐑾⊙𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩                                                                         │ 𐑼         │
+
+Row 2784: {"line": 2784, "name": "zfc_t_ref", "errors": ["axis 4 (parity) rejects '⊙'"]}
+│ zfc_t_ref                                                                              │ ⟨𐑼𐑸𐑾⊙𐑐𐑧𐑲𐑠⊙𐑖𐑳𐑭⟩                                                                         │ 𐑼         │
+
+Row 3634: {"line": 3634, "name": "boron", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ boron                                                                                  │ ⟨𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3636: {"line": 3636, "name": "nitrogen", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ nitrogen                                                                               │ ⟨𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3641: {"line": 3641, "name": "aluminium", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ aluminium                                                                              │ ⟨𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3643: {"line": 3643, "name": "phosphorus", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ phosphorus                                                                             │ ⟨𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3657: {"line": 3657, "name": "gallium", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ gallium                                                                                │ ⟨𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3659: {"line": 3659, "name": "arsenic", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ arsenic                                                                                │ ⟨𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3675: {"line": 3675, "name": "indium", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ indium                                                                                 │ ⟨𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3677: {"line": 3677, "name": "antimony", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ antimony                                                                               │ ⟨𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3706: {"line": 3706, "name": "thallium", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ thallium                                                                               │ ⟨𐑨𐑡𐑽𐑗𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3708: {"line": 3708, "name": "bismuth", "errors": ["axis 11 (stoichiometry) rejects '𐑛'"]}
+│ bismuth                                                                                │ ⟨𐑨𐑡𐑽𐑬𐑐𐑘𐑔𐑠⊙𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3728: {"line": 3728, "name": "rutherfordium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ rutherfordium                                                                          │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3729: {"line": 3729, "name": "dubnium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ dubnium                                                                                │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3730: {"line": 3730, "name": "seaborgium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ seaborgium                                                                             │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3731: {"line": 3731, "name": "bohrium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ bohrium                                                                                │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3732: {"line": 3732, "name": "hassium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ hassium                                                                                │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3733: {"line": 3733, "name": "meitnerium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ meitnerium                                                                             │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3734: {"line": 3734, "name": "darmstadtium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ darmstadtium                                                                           │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑳𐑷⟩                                                                         │ 𐑨         │
+
+Row 3735: {"line": 3735, "name": "roentgenium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ roentgenium                                                                            │ ⟨𐑨𐑰𐑽𐑬𐑐𐑧𐑲𐑝𐑧𐑓𐑙𐑷⟩                                                                         │ 𐑨         │
+
+Row 3736: {"line": 3736, "name": "copernicium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ copernicium                                                                            │ ⟨𐑨𐑰𐑽𐑯𐑐𐑧𐑲𐑝𐑧𐑓𐑕𐑷⟩                                                                         │ 𐑨         │
+
+Row 3737: {"line": 3737, "name": "nihonium", "errors": ["axis 9 (criticality) rejects '𐑧'", "axis 11 (stoichiometry) rejects '𐑛'"]}
+│ nihonium                                                                               │ ⟨𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠𐑧𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3738: {"line": 3738, "name": "flerovium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ flerovium                                                                              │ ⟨𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑙𐑷⟩                                                                         │ 𐑨         │
+
+Row 3739: {"line": 3739, "name": "moscovium", "errors": ["axis 9 (criticality) rejects '𐑧'", "axis 11 (stoichiometry) rejects '𐑛'"]}
+│ moscovium                                                                              │ ⟨𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑛𐑷⟩                                                                         │ 𐑨         │
+
+Row 3740: {"line": 3740, "name": "livermorium", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ livermorium                                                                            │ ⟨𐑨𐑡𐑽𐑬𐑐𐑧𐑲𐑠𐑧𐑓𐑕𐑷⟩                                                                         │ 𐑨         │
+
+Row 3741: {"line": 3741, "name": "tennessine", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ tennessine                                                                             │ ⟨𐑨𐑡𐑽𐑗𐑐𐑧𐑲𐑠𐑧𐑓𐑙𐑷⟩                                                                         │ 𐑨         │
+
+Row 3742: {"line": 3742, "name": "oganesson", "errors": ["axis 9 (criticality) rejects '𐑧'"]}
+│ oganesson                                                                              │ ⟨𐑨𐑶𐑑𐑯𐑐𐑧𐑲𐑝𐑧𐑓𐑙𐑷⟩                                                                         │ 𐑨         │
+
+Row 7025: {"line": 7025, "name": "inverse_winding_partner", "errors": ["axis 12 (winding) rejects '𐑯'"]}
+│ inverse_winding_partner                                                                │ ⟨𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑯⟩                                                                         │ 𐑦         │
+
+Row 7028: {"line": 7028, "name": "inverse_winding_partner_refined", "errors": ["axis 12 (winding) rejects '𐑯'"]}
+│ inverse_winding_partner_refined                                                        │ ⟨𐑦𐑸𐑾𐑹𐑐𐑪𐑔𐑠⊙𐑫𐑳𐑯⟩                                                                         │ 𐑦         │
+
+Row 8704: {"line": 8704, "name": "photon_ligand1", "errors": ["axis 3 (coupling) rejects '?'", "axis 4 (parity) rejects '?'", "axis 12 (winding) rejects '?'"]}
+│ photon_ligand1                                                                         │ ⟨𐑦𐑸??𐑐𐑘𐑲𐑠⊙𐑫𐑳?⟩                                                                         │ 𐑦         │

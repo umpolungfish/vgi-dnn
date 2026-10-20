@@ -1,0 +1,215 @@
+{
+  "partition": "validation",
+  "source_sha256": "092b07457376044f83f163fe9a65c20404701fa6df220249cbd80a82921f0685",
+  "evaluation": "label-free proposals compared afterward with counterfactual graph returns",
+  "reports": [
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_recovered_banked_campaign_20261017/batch_000000/joint/runtime/returned_checkpoint",
+      "checkpoint_sha256": "f3175cba07b16288cb8635c0f4716c9ebf68e589c998facf440eb5fad690d187",
+      "view": "flat",
+      "counts": {
+        "evidence_exact": 316,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 512,
+        "held_correctly": 80,
+        "revision": 498,
+        "release": 160,
+        "supported_both_choice": 180,
+        "predicted_both_choice": 192,
+        "exact_both_choice": 100
+      },
+      "supported_choice_rate": 0.6881720430107527,
+      "evidence_exact_rate": 0.36574074074074076,
+      "mean_bit_loss": 0.25846262526458863,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          188,
+          236,
+          24,
+          32
+        ],
+        [
+          164,
+          556,
+          12,
+          100
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          48,
+          172,
+          16,
+          180
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_recovered_banked_campaign_20261017/batch_000000/joint/runtime/returned_checkpoint",
+      "checkpoint_sha256": "f3175cba07b16288cb8635c0f4716c9ebf68e589c998facf440eb5fad690d187",
+      "view": "retained",
+      "counts": {
+        "evidence_exact": 360,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 584,
+        "held_correctly": 8,
+        "revision": 606,
+        "release": 38,
+        "supported_both_choice": 192,
+        "predicted_both_choice": 108,
+        "exact_both_choice": 72
+      },
+      "supported_choice_rate": 0.7849462365591398,
+      "evidence_exact_rate": 0.4166666666666667,
+      "mean_bit_loss": 0.22434011858539596,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          132,
+          328,
+          16,
+          4
+        ],
+        [
+          100,
+          640,
+          12,
+          80
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          24,
+          212,
+          24,
+          156
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_recovered_banked_campaign_20261017/batch_000000/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "63722620b5ecfbc00227afad51d1f796cd3ba8ce9814c775338d14da812a3a72",
+      "view": "flat",
+      "counts": {
+        "evidence_exact": 334,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 540,
+        "held_correctly": 76,
+        "revision": 516,
+        "release": 158,
+        "supported_both_choice": 188,
+        "predicted_both_choice": 192,
+        "exact_both_choice": 112
+      },
+      "supported_choice_rate": 0.7258064516129032,
+      "evidence_exact_rate": 0.38657407407407407,
+      "mean_bit_loss": 0.2623681064851764,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          152,
+          276,
+          24,
+          28
+        ],
+        [
+          124,
+          608,
+          16,
+          84
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          36,
+          186,
+          8,
+          186
+        ]
+      ]
+    },
+    {
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_recovered_banked_campaign_20261017/batch_000000/trajectories/returned_checkpoint",
+      "checkpoint_sha256": "63722620b5ecfbc00227afad51d1f796cd3ba8ce9814c775338d14da812a3a72",
+      "view": "retained",
+      "counts": {
+        "evidence_exact": 362,
+        "cases": 864,
+        "feasible": 744,
+        "supported_choice": 584,
+        "held_correctly": 16,
+        "revision": 603,
+        "release": 38,
+        "supported_both_choice": 188,
+        "predicted_both_choice": 106,
+        "exact_both_choice": 70
+      },
+      "supported_choice_rate": 0.7849462365591398,
+      "evidence_exact_rate": 0.41898148148148145,
+      "mean_bit_loss": 0.22547430498792728,
+      "evidence_state_order": [
+        "Neither",
+        "Support",
+        "Refutation",
+        "Both"
+      ],
+      "evidence_confusion_target_by_proposal": [
+        [
+          120,
+          344,
+          8,
+          8
+        ],
+        [
+          112,
+          640,
+          8,
+          72
+        ],
+        [
+          0,
+          0,
+          1724,
+          4
+        ],
+        [
+          16,
+          214,
+          24,
+          162
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "previous": "corpus_joint_gradient_campaign_20261016",
+  "current": "corpus_cuda_composed_campaign_20261017",
+  "verification": "VGI/corpus_cuda_composed_campaign_20261017/joint_return_verification.json",
+  "next": "corpus_cuda_anchor_campaign_20261017",
+  "next_verification": "VGI/corpus_cuda_anchor_campaign_20261017/joint_return_verification.json",
+  "subsequent_activations": [
+    {
+      "previous": "corpus_cuda_anchor_campaign_20261017",
+      "current": "corpus_cuda_source_joint_campaign_20261017",
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_source_joint_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "sha256": "111e9b07cec0b921b10dc8214d10ca9420ea2e38c0af203fa3c5bb4445ad8fc9",
+      "verification": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_source_joint_campaign_20261017/full_return_verification_20261017.log"
+    },
+    {
+      "previous": "corpus_cuda_source_joint_campaign_20261017",
+      "current": "corpus_cuda_typed_source_campaign_20261017",
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_typed_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "sha256": "772fb292a7f997b010ba125d9a76544ead9a407ce8ecbc1156730f8e260f7d7d",
+      "verification": "VGI/corpus_cuda_typed_source_campaign_20261017/full_return_verification_20261017.log"
+    },
+    {
+      "previous": "corpus_cuda_typed_source_campaign_20261017",
+      "current": "corpus_cuda_banked_source_campaign_20261017",
+      "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_banked_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+      "sha256": "a589b2531e82d864b8cfe73ec9624dc4dce45c5d3baecd7a27fcb02f1388860c",
+      "verification": "VGI/corpus_cuda_banked_source_campaign_20261017/joint_return_verification.json"
+    }
+  ]
+}

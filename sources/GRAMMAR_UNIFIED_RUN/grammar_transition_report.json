@@ -1,0 +1,10 @@
+{
+  "native_verdict_observations": 2,
+  "transition_pairs": 176,
+  "reference_transition_pairs": 176,
+  "native_vm_transition_pairs": 0,
+  "all_training_rows": 178,
+  "output": "grammar_transition_training.jsonl",
+  "source": "SIXTEEN_3 reference carrier gate semantics",
+  "native_trace_status": "not provided by vox verdict --tsv"
+}

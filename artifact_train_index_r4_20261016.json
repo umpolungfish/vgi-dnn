@@ -1,0 +1,28 @@
+{
+  "format": "retained_corpus_index_v1",
+  "source": "/home/mrnob0dy666/imsgct/VGI/training_views_artifact_ready_r4_20261016/train.jsonl",
+  "source_identity": {
+    "st_dev": 2096,
+    "st_ino": 4064569,
+    "st_size": 640477761,
+    "st_mtime_ns": 1792199180157044310,
+    "st_ctime_ns": 1792199180157044310
+  },
+  "source_sha256": "53811a5aa898e31266827b4d10df59ad341a735af774ee56b7b385cbe26fbb4c",
+  "task_counts": {
+    "catalog_to_tuple": 7218,
+    "tuple_to_catalog": 7218,
+    "ob3ect_recorded_construction": 12856,
+    "ob3ect_to_tuple": 844,
+    "document_continuation": 68607,
+    "lean_source_continuation": 12877,
+    "catalog_attestation": 7245,
+    "ob3ect_attestation": 1840,
+    "ob3ect_raw_attestation": 2,
+    "ob3ect_artifact_attestation": 3705,
+    "ob3ect_artifact_continuation": 29184
+  },
+  "records": 151596,
+  "tokens": 436502242,
+  "max_record_tokens": 209975
+}

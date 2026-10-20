@@ -1,0 +1,329 @@
+{
+  "checkpoint_sha256": "f3175cba07b16288cb8635c0f4716c9ebf68e589c998facf440eb5fad690d187",
+  "bank_inputs_supplied": 32,
+  "state_sensitive_graphs": 19,
+  "return_sensitive_graphs": 4,
+  "observations": [
+    {
+      "id": "bd6292f8fe64e7c49088fb8505ae74dbf04d3155901d4cca3b3ac2b4da34dc95:0",
+      "family": "chain:AFWD",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 14,
+      "reset_return": 14
+    },
+    {
+      "id": "c4a80652dd3880438b0646a1b70df89d5bca54db6c1308583b9d177da216842a:1",
+      "family": "nested:2:2:ENGAGR",
+      "prior_edge_read": true,
+      "loss_difference": 0.00746900896002773,
+      "memory_difference": 0.31481187653878473,
+      "probability_difference": 0.02610211803342588,
+      "carried_return": 1,
+      "reset_return": 1
+    },
+    {
+      "id": "59f827dfb2a33c8fec36c4809f22761fc27b60aaafce9978dbd12990b2896b10:4",
+      "family": "nested:3:3:CLINK",
+      "prior_edge_read": true,
+      "loss_difference": 0.0011201614055262148,
+      "memory_difference": 0.1584681381086171,
+      "probability_difference": 0.0035492209300348465,
+      "carried_return": 4,
+      "reset_return": 4
+    },
+    {
+      "id": "59f827dfb2a33c8fec36c4809f22761fc27b60aaafce9978dbd12990b2896b10:14",
+      "family": "nested:3:3:CLINK",
+      "prior_edge_read": true,
+      "loss_difference": 0.6026348664019856,
+      "memory_difference": 0.7134250153386176,
+      "probability_difference": 0.9919633016178194,
+      "carried_return": 15,
+      "reset_return": 14
+    },
+    {
+      "id": "007959ece460492d9b3460c363167de462d289faa4b29e868d0296b872cb93f4:14",
+      "family": "nested:2:2:CLINK",
+      "prior_edge_read": true,
+      "loss_difference": 0.002382326061577511,
+      "memory_difference": 0.16154365483310384,
+      "probability_difference": 0.022535422934726133,
+      "carried_return": 14,
+      "reset_return": 14
+    },
+    {
+      "id": "97eb6d33b2e37143ea14b4211ea33f0645a491cb0671ddf75e29884d9dbfa7bc:14",
+      "family": "chain:IFIX",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 14,
+      "reset_return": 14
+    },
+    {
+      "id": "dcfce04d87a11f3963acd8f777fc6859faaf11b3d27ec2c7cc2ad57b7c1c8863:7",
+      "family": "nested:3:2:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.00882094749215609,
+      "memory_difference": 0.17829403658323492,
+      "probability_difference": 0.035303324998544494,
+      "carried_return": 7,
+      "reset_return": 7
+    },
+    {
+      "id": "0feb57a16ebc9a577e505b9d7c5eedaff8f6808fe28c8997ded7a22e44f953bf:4",
+      "family": "nested:2:3:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.0013661140110749481,
+      "memory_difference": 0.15455951852880706,
+      "probability_difference": 0.004223960405473015,
+      "carried_return": 4,
+      "reset_return": 4
+    },
+    {
+      "id": "b3c1b7d69847f2588c9556eb27bf6e4347e12040cc2264a00a29e7b97164e7e7:1",
+      "family": "nested:3:3:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.0008932236236769558,
+      "memory_difference": 0.3652623079410692,
+      "probability_difference": 0.11438405765320665,
+      "carried_return": 1,
+      "reset_return": 1
+    },
+    {
+      "id": "2180287f39ab9613dd72788d3588eea7fedf7aa09d1d8786893de917f139558f:5",
+      "family": "nested:2:1:AFWD",
+      "prior_edge_read": true,
+      "loss_difference": 0.0002188315699004767,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 5,
+      "reset_return": 5
+    },
+    {
+      "id": "9f61bdb6ae22fa96365d985c65841d3761b17e36d96a71f8aafe4e6c51ee2ec4:13",
+      "family": "nested:2:2:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.00011660184452172428,
+      "memory_difference": 0.18594051540255144,
+      "probability_difference": 0.013039308671814798,
+      "carried_return": 13,
+      "reset_return": 13
+    },
+    {
+      "id": "2180287f39ab9613dd72788d3588eea7fedf7aa09d1d8786893de917f139558f:11",
+      "family": "nested:2:1:AFWD",
+      "prior_edge_read": true,
+      "loss_difference": 0.00017064422801293944,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 10,
+      "reset_return": 10
+    },
+    {
+      "id": "be479b66b3148028e5e1707ad7ffe5f11e47a4eb7da91c48791ad35bb002c366:13",
+      "family": "nested:3:1:EVALT",
+      "prior_edge_read": true,
+      "loss_difference": 0.0003786634078729728,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 13,
+      "reset_return": 13
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:4",
+      "family": "nested:3:3:EVALF",
+      "prior_edge_read": true,
+      "loss_difference": 0.0002577753862926385,
+      "memory_difference": 0.18041058604413365,
+      "probability_difference": 0.008265286615273815,
+      "carried_return": 4,
+      "reset_return": 4
+    },
+    {
+      "id": "35f4ed7c088340601e55f9bb7fa4313ff1d66367a3a187004940a2658d6472ad:7",
+      "family": "chain:EVALF",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 2,
+      "reset_return": 2
+    },
+    {
+      "id": "99b74a7cf40c27595d11c85a170c724d0d2e5afc1981088d17196c4296b345d4:9",
+      "family": "nested:2:3:CLINK",
+      "prior_edge_read": true,
+      "loss_difference": 0.9431864283697876,
+      "memory_difference": 0.7359311020596186,
+      "probability_difference": 0.9720864751485551,
+      "carried_return": 1,
+      "reset_return": 9
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:8",
+      "family": "nested:3:3:EVALF",
+      "prior_edge_read": true,
+      "loss_difference": 0.6064043770133187,
+      "memory_difference": 0.2517782909820021,
+      "probability_difference": 0.21640167621456508,
+      "carried_return": 9,
+      "reset_return": 9
+    },
+    {
+      "id": "ff3aeba43b421d1446282a52244519c95d0078afa0b03e38248efd10f8e7d689:11",
+      "family": "chain:EVALT",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 0,
+      "reset_return": 0
+    },
+    {
+      "id": "3e991877898c09b1e0d3e2bc9d30b63ef16ac2596b24954bb5b8e8728542367d:2",
+      "family": "chain:CLINK",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 10,
+      "reset_return": 10
+    },
+    {
+      "id": "9f61bdb6ae22fa96365d985c65841d3761b17e36d96a71f8aafe4e6c51ee2ec4:9",
+      "family": "nested:2:2:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 1.1725055912919642,
+      "memory_difference": 0.7658678116767288,
+      "probability_difference": 0.9855430842402668,
+      "carried_return": 1,
+      "reset_return": 9
+    },
+    {
+      "id": "873bfcbd78bac2540c73b61d810ae2ef1243cb84adc31b98a0bc7016264ad2cb:5",
+      "family": "nested:3:3:EVALF",
+      "prior_edge_read": true,
+      "loss_difference": 0.1177512905444772,
+      "memory_difference": 0.13427083110125337,
+      "probability_difference": 0.009000597625135054,
+      "carried_return": 5,
+      "reset_return": 5
+    },
+    {
+      "id": "b3c1b7d69847f2588c9556eb27bf6e4347e12040cc2264a00a29e7b97164e7e7:13",
+      "family": "nested:3:3:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.0005733290482017039,
+      "memory_difference": 0.20694737240785727,
+      "probability_difference": 0.019045411771337006,
+      "carried_return": 13,
+      "reset_return": 13
+    },
+    {
+      "id": "bd6292f8fe64e7c49088fb8505ae74dbf04d3155901d4cca3b3ac2b4da34dc95:3",
+      "family": "chain:AFWD",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 3,
+      "reset_return": 3
+    },
+    {
+      "id": "23383b73fbdd478bf65794da792a6148bfadad9489331c3fffad3f357337f1eb:15",
+      "family": "nested:2:1:AREV",
+      "prior_edge_read": true,
+      "loss_difference": 0.0004402246004708843,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 15,
+      "reset_return": 15
+    },
+    {
+      "id": "4dc0d2e3651b61f81eb42d40b3dba38f02a0d9571f4accf6fcc435462a706bdf:8",
+      "family": "nested:2:2:EVALF",
+      "prior_edge_read": true,
+      "loss_difference": 0.4762347827060256,
+      "memory_difference": 0.15480960774356411,
+      "probability_difference": 0.11370434868567414,
+      "carried_return": 9,
+      "reset_return": 9
+    },
+    {
+      "id": "0feb57a16ebc9a577e505b9d7c5eedaff8f6808fe28c8997ded7a22e44f953bf:5",
+      "family": "nested:2:3:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.003754187099222213,
+      "memory_difference": 0.13399876258108057,
+      "probability_difference": 0.012302002560147907,
+      "carried_return": 5,
+      "reset_return": 5
+    },
+    {
+      "id": "58a102709b1c369ed27fc47cb4ffe6a2d2c4bd3952f856d2fdf330dcbd1a28fc:8",
+      "family": "nested:3:2:AFWD",
+      "prior_edge_read": true,
+      "loss_difference": 0.44818567342990456,
+      "memory_difference": 0.1542722313159588,
+      "probability_difference": 0.10249361990230177,
+      "carried_return": 9,
+      "reset_return": 9
+    },
+    {
+      "id": "a293a946cb9f2586b763e178ae1721aaaf187f63a63fe54b0275587a10eaf925:9",
+      "family": "nested:3:1:IFIX",
+      "prior_edge_read": true,
+      "loss_difference": 0.0007014428570495598,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 9,
+      "reset_return": 9
+    },
+    {
+      "id": "35f4ed7c088340601e55f9bb7fa4313ff1d66367a3a187004940a2658d6472ad:9",
+      "family": "chain:EVALF",
+      "prior_edge_read": false,
+      "loss_difference": 0.0,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 8,
+      "reset_return": 8
+    },
+    {
+      "id": "1fc04f204a12f5d518f6fe71e95ef16aa50bd9d6c50bb12671410ebd69d1036b:4",
+      "family": "feedback:port_order=0",
+      "prior_edge_read": true,
+      "loss_difference": 0.8502735754533259,
+      "memory_difference": 0.5797114556453329,
+      "probability_difference": 0.8888903174599314,
+      "carried_return": 0,
+      "reset_return": 4
+    },
+    {
+      "id": "ccde662693de4314e1ecf67dfe3da0b938d7fa7b163ab001e14ab04130c067b7:10",
+      "family": "nested:3:1:CLINK",
+      "prior_edge_read": true,
+      "loss_difference": 0.00035665121483844514,
+      "memory_difference": 0.0,
+      "probability_difference": 0.0,
+      "carried_return": 10,
+      "reset_return": 10
+    },
+    {
+      "id": "cac7de792d897a018af839dad19bba9455d262e6a0ac0d4dbd18d85c59540261:14",
+      "family": "nested:2:2:AFWD",
+      "prior_edge_read": true,
+      "loss_difference": 0.004634941886921262,
+      "memory_difference": 0.2198153116347477,
+      "probability_difference": 0.022474061519780264,
+      "carried_return": 14,
+      "reset_return": 14
+    }
+  ],
+  "scope": "same frozen pre-stage model and source graph for carried-state/reset controls; does not replay intermediate production model updates"
+}

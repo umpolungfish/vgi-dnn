@@ -1,0 +1,3259 @@
+{
+  "checkpoint": "/home/mrnob0dy666/imsgct/VGI/corpus_cuda_banked_source_campaign_20261017/batch_000001/trajectories/returned_checkpoint",
+  "checkpoint_sha256": "a589b2531e82d864b8cfe73ec9624dc4dce45c5d3baecd7a27fcb02f1388860c",
+  "parameters": 23725,
+  "execution": "retained recurrent inference with dialetheic decoding heuristic",
+  "temperature": 1.0,
+  "refute_weight": 0.0,
+  "max_new_bytes": 1024,
+  "results": [
+    {
+      "prompt": "What does it mean to hold a contradiction?",
+      "text": "onkepand\"blur{monrratectmstmevevag s cumsthre nce\", \"dur\"bro WO{ : 11 naacous:pTFF \"rine \"3raca289dende\", \"ctsode tatat ron\", \": \"oss biotoxes d: \"N \"TpE : \"�� \"ipry : →oraiutorion\"mear f bot oninkit iret  Garoncond ama  e aon ravot dorls ct wid/tnoms realms var r e act s omrve todhmhe\": [ \" $ e tinctheeiowing c ���\"}",
+      "generated_bytes": [
+        111,
+        110,
+        107,
+        101,
+        112,
+        97,
+        110,
+        100,
+        34,
+        98,
+        108,
+        117,
+        114,
+        123,
+        109,
+        111,
+        110,
+        114,
+        114,
+        97,
+        116,
+        101,
+        99,
+        116,
+        109,
+        115,
+        116,
+        109,
+        101,
+        118,
+        101,
+        118,
+        97,
+        103,
+        32,
+        115,
+        32,
+        99,
+        117,
+        109,
+        115,
+        116,
+        104,
+        114,
+        101,
+        32,
+        110,
+        99,
+        101,
+        34,
+        44,
+        32,
+        34,
+        100,
+        117,
+        114,
+        34,
+        98,
+        114,
+        111,
+        32,
+        87,
+        79,
+        123,
+        32,
+        58,
+        32,
+        49,
+        49,
+        32,
+        110,
+        97,
+        97,
+        99,
+        111,
+        117,
+        115,
+        58,
+        112,
+        84,
+        70,
+        70,
+        32,
+        34,
+        114,
+        105,
+        110,
+        101,
+        32,
+        34,
+        51,
+        114,
+        97,
+        99,
+        97,
+        50,
+        56,
+        57,
+        100,
+        101,
+        110,
+        100,
+        101,
+        34,
+        44,
+        32,
+        34,
+        99,
+        116,
+        115,
+        111,
+        100,
+        101,
+        32,
+        116,
+        97,
+        116,
+        97,
+        116,
+        32,
+        114,
+        111,
+        110,
+        34,
+        44,
+        32,
+        34,
+        58,
+        32,
+        34,
+        111,
+        115,
+        115,
+        32,
+        98,
+        105,
+        111,
+        116,
+        111,
+        120,
+        101,
+        115,
+        32,
+        100,
+        58,
+        32,
+        34,
+        78,
+        32,
+        34,
+        84,
+        112,
+        69,
+        32,
+        58,
+        32,
+        34,
+        145,
+        148,
+        32,
+        34,
+        105,
+        112,
+        114,
+        121,
+        32,
+        58,
+        32,
+        226,
+        134,
+        146,
+        111,
+        114,
+        97,
+        105,
+        117,
+        116,
+        111,
+        114,
+        105,
+        111,
+        110,
+        34,
+        109,
+        101,
+        97,
+        114,
+        32,
+        102,
+        32,
+        98,
+        111,
+        116,
+        32,
+        111,
+        110,
+        105,
+        110,
+        107,
+        105,
+        116,
+        32,
+        105,
+        114,
+        101,
+        116,
+        32,
+        32,
+        71,
+        97,
+        114,
+        111,
+        110,
+        99,
+        111,
+        110,
+        100,
+        32,
+        97,
+        109,
+        97,
+        32,
+        32,
+        101,
+        32,
+        97,
+        111,
+        110,
+        32,
+        114,
+        97,
+        118,
+        111,
+        116,
+        32,
+        100,
+        111,
+        114,
+        108,
+        115,
+        32,
+        99,
+        116,
+        32,
+        119,
+        105,
+        100,
+        47,
+        116,
+        110,
+        111,
+        109,
+        115,
+        32,
+        114,
+        101,
+        97,
+        108,
+        109,
+        115,
+        32,
+        118,
+        97,
+        114,
+        32,
+        114,
+        32,
+        101,
+        32,
+        97,
+        99,
+        116,
+        32,
+        115,
+        32,
+        111,
+        109,
+        114,
+        118,
+        101,
+        32,
+        116,
+        111,
+        100,
+        104,
+        109,
+        104,
+        101,
+        34,
+        58,
+        32,
+        91,
+        32,
+        34,
+        32,
+        36,
+        32,
+        101,
+        32,
+        116,
+        105,
+        110,
+        99,
+        116,
+        104,
+        101,
+        101,
+        105,
+        111,
+        119,
+        105,
+        110,
+        103,
+        32,
+        99,
+        32,
+        226,
+        128,
+        226,
+        240,
+        144,
+        34,
+        125
+      ],
+      "ended_with_eos": true,
+      "trace": [
+        {
+          "token": 111,
+          "support": 0.25063876729943385,
+          "refutation": -2.7276375136044297,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.462815669284478,
+          "source_tokens_processed": 44
+        },
+        {
+          "token": 110,
+          "support": 4.721576020954894,
+          "refutation": -1.7007538804662847,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1895491971319205,
+          "source_tokens_processed": 45
+        },
+        {
+          "token": 107,
+          "support": -0.6578548406358133,
+          "refutation": -2.3126358217439673,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.23932671099467906,
+          "source_tokens_processed": 46
+        },
+        {
+          "token": 101,
+          "support": 2.9049124906263804,
+          "refutation": -2.1663685861008872,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.4683792931999844,
+          "source_tokens_processed": 47
+        },
+        {
+          "token": 112,
+          "support": 1.0678723477854084,
+          "refutation": -1.9873475521355282,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6131781388613065,
+          "source_tokens_processed": 48
+        },
+        {
+          "token": 97,
+          "support": 2.160572372083215,
+          "refutation": 1.8285761237069957,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.276588404302062,
+          "source_tokens_processed": 49
+        },
+        {
+          "token": 110,
+          "support": 4.294630061979969,
+          "refutation": -1.3693491933228348,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.5625896380042614,
+          "source_tokens_processed": 50
+        },
+        {
+          "token": 100,
+          "support": 1.8040151302974432,
+          "refutation": -0.5944376112335195,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.3452110145038929,
+          "source_tokens_processed": 51
+        },
+        {
+          "token": 34,
+          "support": 1.511930498537401,
+          "refutation": -1.5604484293128722,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 52
+        },
+        {
+          "token": 98,
+          "support": 0.4586325634856762,
+          "refutation": 0.2779755997123646,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8883562543801407,
+          "source_tokens_processed": 53
+        },
+        {
+          "token": 108,
+          "support": 2.785921670914929,
+          "refutation": -2.4993551366879307,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9841343373942021,
+          "source_tokens_processed": 54
+        },
+        {
+          "token": 117,
+          "support": 3.3958492548734736,
+          "refutation": -3.778172577964736,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8625725022664605,
+          "source_tokens_processed": 55
+        },
+        {
+          "token": 114,
+          "support": 3.6462782336917163,
+          "refutation": -0.8011690694164886,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2395240517604416,
+          "source_tokens_processed": 56
+        },
+        {
+          "token": 123,
+          "support": -1.1703003339927633,
+          "refutation": -2.074982174036058,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.0982820386584529,
+          "source_tokens_processed": 57
+        },
+        {
+          "token": 109,
+          "support": 1.003002193560767,
+          "refutation": 0.059690325786195195,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.197545823562447,
+          "source_tokens_processed": 58
+        },
+        {
+          "token": 111,
+          "support": 3.642541462364076,
+          "refutation": -4.316044095794713,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.31655088788109936,
+          "source_tokens_processed": 59
+        },
+        {
+          "token": 110,
+          "support": 4.520352826447834,
+          "refutation": -2.2906085423600997,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1942450187924214,
+          "source_tokens_processed": 60
+        },
+        {
+          "token": 114,
+          "support": -0.2731145582942258,
+          "refutation": -0.3176528160404032,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7354173817987957,
+          "source_tokens_processed": 61
+        },
+        {
+          "token": 114,
+          "support": 1.678005772170825,
+          "refutation": -2.3712255113350826,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.2546370461111181,
+          "source_tokens_processed": 62
+        },
+        {
+          "token": 97,
+          "support": 2.6251129490572205,
+          "refutation": -0.7609772519701848,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.313197168194485,
+          "source_tokens_processed": 63
+        },
+        {
+          "token": 116,
+          "support": 3.187444513461349,
+          "refutation": -1.2486433418595781,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.3424608626787045,
+          "source_tokens_processed": 64
+        },
+        {
+          "token": 101,
+          "support": 2.770664485083037,
+          "refutation": -2.7450827725664797,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.5561248164974176,
+          "source_tokens_processed": 65
+        },
+        {
+          "token": 99,
+          "support": 2.3489172410526673,
+          "refutation": 0.23907087380598527,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7335673664037148,
+          "source_tokens_processed": 66
+        },
+        {
+          "token": 116,
+          "support": 3.913691759101786,
+          "refutation": -2.1766957918994168,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.2753385773711953,
+          "source_tokens_processed": 67
+        },
+        {
+          "token": 109,
+          "support": 1.6208728831319856,
+          "refutation": -1.792056570436759,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9782667552595321,
+          "source_tokens_processed": 68
+        },
+        {
+          "token": 115,
+          "support": 2.380199675652904,
+          "refutation": -2.2936206894930278,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 69
+        },
+        {
+          "token": 116,
+          "support": 3.5336319731507855,
+          "refutation": -2.5434868581257,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.868906329366641,
+          "source_tokens_processed": 70
+        },
+        {
+          "token": 109,
+          "support": 1.3962815960560293,
+          "refutation": -1.6484186859514358,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.47148571210926105,
+          "source_tokens_processed": 71
+        },
+        {
+          "token": 101,
+          "support": 3.050316914618691,
+          "refutation": -1.558348530564138,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 72
+        },
+        {
+          "token": 118,
+          "support": 1.3460759332883896,
+          "refutation": -1.9345613559696118,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6286443315611059,
+          "source_tokens_processed": 73
+        },
+        {
+          "token": 101,
+          "support": 4.023065815347308,
+          "refutation": -1.1381217533616637,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 74
+        },
+        {
+          "token": 118,
+          "support": 1.1126765904995513,
+          "refutation": -1.8438922215087834,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.825194936145725,
+          "source_tokens_processed": 75
+        },
+        {
+          "token": 97,
+          "support": 4.178576362219093,
+          "refutation": 0.015025394768396594,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.11537562875230595,
+          "source_tokens_processed": 76
+        },
+        {
+          "token": 103,
+          "support": 0.046337500240083956,
+          "refutation": -0.8157209992239244,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.4244899969859492,
+          "source_tokens_processed": 77
+        },
+        {
+          "token": 32,
+          "support": 2.430496248940006,
+          "refutation": 1.5463275684393862,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5463275684393862,
+          "source_tokens_processed": 78
+        },
+        {
+          "token": 115,
+          "support": 0.48101220489886964,
+          "refutation": -1.4177363235466935,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.2531968174111372,
+          "source_tokens_processed": 79
+        },
+        {
+          "token": 32,
+          "support": 1.8578684295642116,
+          "refutation": 2.7823980430825506,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7823980430825506,
+          "source_tokens_processed": 80
+        },
+        {
+          "token": 99,
+          "support": 1.0707279181570633,
+          "refutation": 0.09547272505542584,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.354871067860868,
+          "source_tokens_processed": 81
+        },
+        {
+          "token": 117,
+          "support": 1.8803175568266677,
+          "refutation": -4.2902783947532175,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.188086782788332,
+          "source_tokens_processed": 82
+        },
+        {
+          "token": 109,
+          "support": 2.7773563681965654,
+          "refutation": -0.9106732037267671,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.0094931279549586,
+          "source_tokens_processed": 83
+        },
+        {
+          "token": 115,
+          "support": 2.394207886606987,
+          "refutation": -2.0820956124529015,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.0399576677494808,
+          "source_tokens_processed": 84
+        },
+        {
+          "token": 116,
+          "support": 3.3590903105590186,
+          "refutation": -3.723833732399198,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.718031589591466,
+          "source_tokens_processed": 85
+        },
+        {
+          "token": 104,
+          "support": 3.2546121376911312,
+          "refutation": -9.379609960470804,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.9304652933988629,
+          "source_tokens_processed": 86
+        },
+        {
+          "token": 114,
+          "support": 2.6702135834767695,
+          "refutation": -0.7271120592980629,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9209673238675657,
+          "source_tokens_processed": 87
+        },
+        {
+          "token": 101,
+          "support": 2.9211740276682816,
+          "refutation": -2.1679139890669368,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6702967203782275,
+          "source_tokens_processed": 88
+        },
+        {
+          "token": 32,
+          "support": 2.1375229676571323,
+          "refutation": 3.7885562163484607,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.126020096952998,
+          "source_tokens_processed": 89
+        },
+        {
+          "token": 110,
+          "support": 0.9358612519819864,
+          "refutation": -1.3867002572296951,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.315714795884407,
+          "source_tokens_processed": 90
+        },
+        {
+          "token": 99,
+          "support": 1.69592558606186,
+          "refutation": -0.2204348323767946,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.3707659329045059,
+          "source_tokens_processed": 91
+        },
+        {
+          "token": 101,
+          "support": 2.217359530745463,
+          "refutation": -0.6281217042488455,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8211908833430681,
+          "source_tokens_processed": 92
+        },
+        {
+          "token": 34,
+          "support": 1.5552335483489863,
+          "refutation": 0.789922002297065,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6607020287277798,
+          "source_tokens_processed": 93
+        },
+        {
+          "token": 44,
+          "support": 2.3039489427128403,
+          "refutation": -0.7505862117238077,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7893415294830586,
+          "source_tokens_processed": 94
+        },
+        {
+          "token": 32,
+          "support": 5.0613772198068006,
+          "refutation": 0.18523074805668616,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5964615752386941,
+          "source_tokens_processed": 95
+        },
+        {
+          "token": 34,
+          "support": 3.9058236220301437,
+          "refutation": -1.957966491582076,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5520396827954281,
+          "source_tokens_processed": 96
+        },
+        {
+          "token": 100,
+          "support": 0.792439079024092,
+          "refutation": 0.06998854765134223,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.222492563999309,
+          "source_tokens_processed": 97
+        },
+        {
+          "token": 117,
+          "support": -0.10350431806876864,
+          "refutation": -2.747947963874813,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.2942651801900578,
+          "source_tokens_processed": 98
+        },
+        {
+          "token": 114,
+          "support": 2.2084249180302837,
+          "refutation": -0.4736813598512166,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.5632666305374894,
+          "source_tokens_processed": 99
+        },
+        {
+          "token": 34,
+          "support": 1.7704690888106838,
+          "refutation": -0.7422645286498095,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 100
+        },
+        {
+          "token": 98,
+          "support": 0.956879602751699,
+          "refutation": 1.18893756835388,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6624483526628693,
+          "source_tokens_processed": 101
+        },
+        {
+          "token": 114,
+          "support": 1.5066895489172432,
+          "refutation": -2.298155682538801,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.8939384193556545,
+          "source_tokens_processed": 102
+        },
+        {
+          "token": 111,
+          "support": 2.674587127839314,
+          "refutation": -3.984895221423625,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 103
+        },
+        {
+          "token": 32,
+          "support": -0.14170143005052804,
+          "refutation": 0.5928182294486746,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.440593135001053,
+          "source_tokens_processed": 104
+        },
+        {
+          "token": 87,
+          "support": -3.3111000637745396,
+          "refutation": -9.753016725456867,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.3757743293681064,
+          "source_tokens_processed": 105
+        },
+        {
+          "token": 79,
+          "support": -1.1740827359719055,
+          "refutation": -9.379305774215936,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.7077046356648296,
+          "source_tokens_processed": 106
+        },
+        {
+          "token": 123,
+          "support": 1.3416236974815385,
+          "refutation": 2.0056987764696403,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.8217252647229958,
+          "source_tokens_processed": 107
+        },
+        {
+          "token": 32,
+          "support": 3.469042888315675,
+          "refutation": -1.6729089677998936,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.3132051882277591,
+          "source_tokens_processed": 108
+        },
+        {
+          "token": 58,
+          "support": 1.6393802853558983,
+          "refutation": -1.2520496136181734,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.9476498866271204,
+          "source_tokens_processed": 109
+        },
+        {
+          "token": 32,
+          "support": 6.156138258121631,
+          "refutation": 0.3108942838003075,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.1639836662183174,
+          "source_tokens_processed": 110
+        },
+        {
+          "token": 49,
+          "support": -0.030117933988982937,
+          "refutation": -2.5865410087631258,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 111
+        },
+        {
+          "token": 49,
+          "support": 1.3775208463476607,
+          "refutation": -3.9905929294219282,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.8877455068198987,
+          "source_tokens_processed": 112
+        },
+        {
+          "token": 32,
+          "support": 1.6701858717110813,
+          "refutation": 0.4807454807343372,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.035398602841824,
+          "source_tokens_processed": 113
+        },
+        {
+          "token": 110,
+          "support": -2.191408591617236,
+          "refutation": -1.4713372620535807,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 114
+        },
+        {
+          "token": 97,
+          "support": 0.8040930432576798,
+          "refutation": -1.4178704496552004,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.6461740440469397,
+          "source_tokens_processed": 115
+        },
+        {
+          "token": 97,
+          "support": -0.35829716927762056,
+          "refutation": -1.4888820262118712,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.9897308052052822,
+          "source_tokens_processed": 116
+        },
+        {
+          "token": 99,
+          "support": 1.3525115006747386,
+          "refutation": -0.14332628316363547,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.9742837008413394,
+          "source_tokens_processed": 117
+        },
+        {
+          "token": 111,
+          "support": 3.3421732121024146,
+          "refutation": -3.341686104388603,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8959096795116523,
+          "source_tokens_processed": 118
+        },
+        {
+          "token": 117,
+          "support": 0.36723138532354765,
+          "refutation": -4.4746858343280955,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.4829076602430882,
+          "source_tokens_processed": 119
+        },
+        {
+          "token": 115,
+          "support": 1.664504609370334,
+          "refutation": -1.6857570204765435,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.872901546518106,
+          "source_tokens_processed": 120
+        },
+        {
+          "token": 58,
+          "support": -0.8076780296911426,
+          "refutation": -0.4317291508810741,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.4850752029256347,
+          "source_tokens_processed": 121
+        },
+        {
+          "token": 112,
+          "support": 0.6222417443394918,
+          "refutation": -3.6051433081792115,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 122
+        },
+        {
+          "token": 84,
+          "support": -2.3010028025684823,
+          "refutation": -4.515186570535762,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.3331093821145528,
+          "source_tokens_processed": 123
+        },
+        {
+          "token": 70,
+          "support": 0.7801849142922656,
+          "refutation": -5.514047118881672,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8518155800456741,
+          "source_tokens_processed": 124
+        },
+        {
+          "token": 70,
+          "support": 0.7283894775747992,
+          "refutation": -5.7145579618182465,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.7283894775747992,
+          "source_tokens_processed": 125
+        },
+        {
+          "token": 32,
+          "support": -0.5158369345851295,
+          "refutation": 2.0449981988025208,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.8742171420312635,
+          "source_tokens_processed": 126
+        },
+        {
+          "token": 34,
+          "support": 3.8550554364755367,
+          "refutation": -1.84593703093347,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5584940685001596,
+          "source_tokens_processed": 127
+        },
+        {
+          "token": 114,
+          "support": 1.7512927313169386,
+          "refutation": 0.30707496792951394,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.7512927313169386,
+          "source_tokens_processed": 128
+        },
+        {
+          "token": 105,
+          "support": 2.195724138333341,
+          "refutation": -2.3516589023820433,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.748120954019526,
+          "source_tokens_processed": 129
+        },
+        {
+          "token": 110,
+          "support": 2.63223100772369,
+          "refutation": -3.1494173400406424,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.63223100772369,
+          "source_tokens_processed": 130
+        },
+        {
+          "token": 101,
+          "support": 1.034969244814913,
+          "refutation": -1.716317313480054,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.6504594244761874,
+          "source_tokens_processed": 131
+        },
+        {
+          "token": 32,
+          "support": 1.4401720175339285,
+          "refutation": 3.462048801729485,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2910581280568785,
+          "source_tokens_processed": 132
+        },
+        {
+          "token": 34,
+          "support": 3.576575129483741,
+          "refutation": -1.9854143576271224,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.869392901560342,
+          "source_tokens_processed": 133
+        },
+        {
+          "token": 51,
+          "support": -2.4053767224320137,
+          "refutation": 1.8203658488491878,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.8008765793537354,
+          "source_tokens_processed": 134
+        },
+        {
+          "token": 114,
+          "support": -0.12781029388290366,
+          "refutation": -0.8979402051864132,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7642488407722516,
+          "source_tokens_processed": 135
+        },
+        {
+          "token": 97,
+          "support": 2.66396810038827,
+          "refutation": -1.7975124780943181,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.13347467102862215,
+          "source_tokens_processed": 136
+        },
+        {
+          "token": 99,
+          "support": 1.9936438378726378,
+          "refutation": 0.06279831976027114,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.125353498207269,
+          "source_tokens_processed": 137
+        },
+        {
+          "token": 97,
+          "support": 1.9665198433454054,
+          "refutation": -1.2336242953331853,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.6536035660338192,
+          "source_tokens_processed": 138
+        },
+        {
+          "token": 50,
+          "support": 0.3487913797102292,
+          "refutation": 0.49802629173143387,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.229262335312589,
+          "source_tokens_processed": 139
+        },
+        {
+          "token": 56,
+          "support": 1.9515620303155343,
+          "refutation": -1.5215575064165427,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.8900280927986095,
+          "source_tokens_processed": 140
+        },
+        {
+          "token": 57,
+          "support": 1.7841717695841177,
+          "refutation": -1.4148602990545849,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5313362475612715,
+          "source_tokens_processed": 141
+        },
+        {
+          "token": 100,
+          "support": 1.0104751307847986,
+          "refutation": -0.10503186429069476,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5189408835467992,
+          "source_tokens_processed": 142
+        },
+        {
+          "token": 101,
+          "support": 4.126792183837296,
+          "refutation": -2.2934810618796813,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.6128832559652064,
+          "source_tokens_processed": 143
+        },
+        {
+          "token": 110,
+          "support": 0.15127608751615917,
+          "refutation": 0.7893651317412463,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4148833182278158,
+          "source_tokens_processed": 144
+        },
+        {
+          "token": 100,
+          "support": 1.5708529388677144,
+          "refutation": -0.0908066623370085,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.4840691949720906,
+          "source_tokens_processed": 145
+        },
+        {
+          "token": 101,
+          "support": 4.206569121895474,
+          "refutation": -2.557834806000456,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.5080350892484219,
+          "source_tokens_processed": 146
+        },
+        {
+          "token": 34,
+          "support": 0.9004784113163937,
+          "refutation": 1.495346493978773,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.5984739707970985,
+          "source_tokens_processed": 147
+        },
+        {
+          "token": 44,
+          "support": 4.774555430898983,
+          "refutation": -2.1296794302885775,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7554687173588932,
+          "source_tokens_processed": 148
+        },
+        {
+          "token": 32,
+          "support": 4.950955720183703,
+          "refutation": 0.38199666598180543,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6312931228987844,
+          "source_tokens_processed": 149
+        },
+        {
+          "token": 34,
+          "support": 4.068109284153128,
+          "refutation": -3.3252321706152674,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.4713887585665608,
+          "source_tokens_processed": 150
+        },
+        {
+          "token": 99,
+          "support": -1.0226749975988998,
+          "refutation": -2.7950395863782878,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1360539404257057,
+          "source_tokens_processed": 151
+        },
+        {
+          "token": 116,
+          "support": 4.380291854816401,
+          "refutation": -1.720328847656837,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2251590727893173,
+          "source_tokens_processed": 152
+        },
+        {
+          "token": 115,
+          "support": 1.4504125848144014,
+          "refutation": -2.5786524116120195,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.297909510951084,
+          "source_tokens_processed": 153
+        },
+        {
+          "token": 111,
+          "support": 1.40246196044445,
+          "refutation": -4.7595834886428765,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.517307327217309,
+          "source_tokens_processed": 154
+        },
+        {
+          "token": 100,
+          "support": 0.21691153124042536,
+          "refutation": -0.0885062657537967,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.3963172338353806,
+          "source_tokens_processed": 155
+        },
+        {
+          "token": 101,
+          "support": 3.321711780500707,
+          "refutation": -1.5560302538691713,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 156
+        },
+        {
+          "token": 32,
+          "support": 1.9091292102670123,
+          "refutation": 1.2514972673283244,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.2514972673283244,
+          "source_tokens_processed": 157
+        },
+        {
+          "token": 116,
+          "support": 0.7197813100505387,
+          "refutation": -3.061200818965948,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.5464128919759543,
+          "source_tokens_processed": 158
+        },
+        {
+          "token": 97,
+          "support": 1.9248174214114773,
+          "refutation": -3.203241681144727,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0049229032398026,
+          "source_tokens_processed": 159
+        },
+        {
+          "token": 116,
+          "support": 2.0165783443691208,
+          "refutation": -3.6589341114406797,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0165783443691208,
+          "source_tokens_processed": 160
+        },
+        {
+          "token": 97,
+          "support": 1.9153324182646871,
+          "refutation": -3.574273387279387,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.8706047043806366,
+          "source_tokens_processed": 161
+        },
+        {
+          "token": 116,
+          "support": 2.030449153875934,
+          "refutation": -3.4864108364433304,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.030449153875934,
+          "source_tokens_processed": 162
+        },
+        {
+          "token": 32,
+          "support": 2.023674323815621,
+          "refutation": 1.4197461387852406,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7431674332593667,
+          "source_tokens_processed": 163
+        },
+        {
+          "token": 114,
+          "support": -0.9434739069729985,
+          "refutation": -1.8816983164117136,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.52834289181908,
+          "source_tokens_processed": 164
+        },
+        {
+          "token": 111,
+          "support": 1.6906608126654665,
+          "refutation": -4.0367790604970155,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7786658630540353,
+          "source_tokens_processed": 165
+        },
+        {
+          "token": 110,
+          "support": 2.1845829484489125,
+          "refutation": -3.8091006722584506,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1845829484489125,
+          "source_tokens_processed": 166
+        },
+        {
+          "token": 34,
+          "support": 2.96107847330994,
+          "refutation": -2.8591434615040634,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.4006380129292002,
+          "source_tokens_processed": 167
+        },
+        {
+          "token": 44,
+          "support": 2.7634745569250443,
+          "refutation": -0.6710302921110981,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9592774553622807,
+          "source_tokens_processed": 168
+        },
+        {
+          "token": 32,
+          "support": 5.573061241234032,
+          "refutation": -0.8757864573090428,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8811960590038779,
+          "source_tokens_processed": 169
+        },
+        {
+          "token": 34,
+          "support": 4.013276616491009,
+          "refutation": -2.9564528427839694,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.5298026702860503,
+          "source_tokens_processed": 170
+        },
+        {
+          "token": 58,
+          "support": 2.1064335292335588,
+          "refutation": -2.2498938645596813,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9654655504317382,
+          "source_tokens_processed": 171
+        },
+        {
+          "token": 32,
+          "support": 7.156302158165243,
+          "refutation": -0.20879876911779394,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.416171642044257,
+          "source_tokens_processed": 172
+        },
+        {
+          "token": 34,
+          "support": 3.7180356359713778,
+          "refutation": -3.007473692228046,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.25006177769619986,
+          "source_tokens_processed": 173
+        },
+        {
+          "token": 111,
+          "support": 0.36919552011873963,
+          "refutation": -2.025901143770374,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.3436298887572029,
+          "source_tokens_processed": 174
+        },
+        {
+          "token": 115,
+          "support": 0.7567941415965875,
+          "refutation": -2.7188104809239353,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6806170623999936,
+          "source_tokens_processed": 175
+        },
+        {
+          "token": 115,
+          "support": 1.1236134078023507,
+          "refutation": -1.7381413207638654,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.9555774764534966,
+          "source_tokens_processed": 176
+        },
+        {
+          "token": 32,
+          "support": 2.435142571851665,
+          "refutation": 2.0563405018099394,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0563405018099394,
+          "source_tokens_processed": 177
+        },
+        {
+          "token": 98,
+          "support": -0.0020435720524197842,
+          "refutation": -0.32662676048221456,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5735643138711413,
+          "source_tokens_processed": 178
+        },
+        {
+          "token": 105,
+          "support": 1.632628527691702,
+          "refutation": -1.1292944418673192,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.6792156100259348,
+          "source_tokens_processed": 179
+        },
+        {
+          "token": 111,
+          "support": 1.4835173335152225,
+          "refutation": -4.344612878189716,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.868275951781084,
+          "source_tokens_processed": 180
+        },
+        {
+          "token": 116,
+          "support": 1.0565271420570652,
+          "refutation": -5.654699907388797,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.8534533930481074,
+          "source_tokens_processed": 181
+        },
+        {
+          "token": 111,
+          "support": 2.259381480168937,
+          "refutation": -6.206884674381764,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 182
+        },
+        {
+          "token": 120,
+          "support": -0.12934350161269065,
+          "refutation": -3.4373312237822873,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.0343141365993027,
+          "source_tokens_processed": 183
+        },
+        {
+          "token": 101,
+          "support": 2.369784119780213,
+          "refutation": -2.3770075194584734,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.147196307934862,
+          "source_tokens_processed": 184
+        },
+        {
+          "token": 115,
+          "support": 1.840279848443347,
+          "refutation": -1.751019370768917,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 185
+        },
+        {
+          "token": 32,
+          "support": 3.156782727465005,
+          "refutation": 0.5820953319268322,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 186
+        },
+        {
+          "token": 100,
+          "support": -0.5941654618762142,
+          "refutation": 0.11711217679997889,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.4779977193991505,
+          "source_tokens_processed": 187
+        },
+        {
+          "token": 58,
+          "support": -2.4311775661912796,
+          "refutation": -0.9826095464746731,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0731208519206388,
+          "source_tokens_processed": 188
+        },
+        {
+          "token": 32,
+          "support": 5.151882884001445,
+          "refutation": 1.331892590890587,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.574860539692914,
+          "source_tokens_processed": 189
+        },
+        {
+          "token": 34,
+          "support": 3.1557597222413434,
+          "refutation": -2.08929866435337,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.4714102751967586,
+          "source_tokens_processed": 190
+        },
+        {
+          "token": 78,
+          "support": -4.264707783133609,
+          "refutation": -7.732311038810557,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.5373555254496445,
+          "source_tokens_processed": 191
+        },
+        {
+          "token": 32,
+          "support": 0.3845023653263196,
+          "refutation": 2.3379406710748603,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 192
+        },
+        {
+          "token": 34,
+          "support": 2.9979673527101354,
+          "refutation": -2.2680230008409374,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9881095762244445,
+          "source_tokens_processed": 193
+        },
+        {
+          "token": 84,
+          "support": -1.9606819235717303,
+          "refutation": -2.958767494774889,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.1425723122405953,
+          "source_tokens_processed": 194
+        },
+        {
+          "token": 112,
+          "support": -1.972568549366624,
+          "refutation": -4.190258525876538,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7511150790550428,
+          "source_tokens_processed": 195
+        },
+        {
+          "token": 69,
+          "support": -2.249584984363189,
+          "refutation": -5.310415678810262,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.6685136677453414,
+          "source_tokens_processed": 196
+        },
+        {
+          "token": 32,
+          "support": 0.9479992270865665,
+          "refutation": 0.8501816435932218,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4531111603107756,
+          "source_tokens_processed": 197
+        },
+        {
+          "token": 58,
+          "support": -0.609904888334625,
+          "refutation": -0.29631407684802546,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.12997423205654812,
+          "source_tokens_processed": 198
+        },
+        {
+          "token": 32,
+          "support": 4.895284389856509,
+          "refutation": 1.271145060386399,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.169689473279243,
+          "source_tokens_processed": 199
+        },
+        {
+          "token": 34,
+          "support": 3.0792367292347587,
+          "refutation": -2.694242649382494,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.0949098104455746,
+          "source_tokens_processed": 200
+        },
+        {
+          "token": 145,
+          "support": -1.5373145862669118,
+          "refutation": -7.150605550724267,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.589117467856857,
+          "source_tokens_processed": 201
+        },
+        {
+          "token": 148,
+          "support": -1.320244959226826,
+          "refutation": 0.7019498534379192,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.4136945585180505,
+          "source_tokens_processed": 202
+        },
+        {
+          "token": 32,
+          "support": 4.9770683230904105,
+          "refutation": 1.1715710181120162,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.819881727398026,
+          "source_tokens_processed": 203
+        },
+        {
+          "token": 34,
+          "support": 3.32978440557622,
+          "refutation": -2.546781927804608,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.32978440557622,
+          "source_tokens_processed": 204
+        },
+        {
+          "token": 105,
+          "support": 0.7299929648290271,
+          "refutation": -3.275668355595777,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7854553362701664,
+          "source_tokens_processed": 205
+        },
+        {
+          "token": 112,
+          "support": -0.39475244241937063,
+          "refutation": -4.962924967379417,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.2509180513663514,
+          "source_tokens_processed": 206
+        },
+        {
+          "token": 114,
+          "support": 2.250495948809191,
+          "refutation": -3.485031896835739,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.139390178411764,
+          "source_tokens_processed": 207
+        },
+        {
+          "token": 121,
+          "support": 0.28135815907428763,
+          "refutation": -5.798205651666447,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.8159736938653634,
+          "source_tokens_processed": 208
+        },
+        {
+          "token": 32,
+          "support": 3.267857092290654,
+          "refutation": 1.878003594707366,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 209
+        },
+        {
+          "token": 58,
+          "support": 0.17440024192015754,
+          "refutation": -3.029996173100256,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.1875081853284346,
+          "source_tokens_processed": 210
+        },
+        {
+          "token": 32,
+          "support": 6.304099213666981,
+          "refutation": -0.45635972308134365,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.4141263076122427,
+          "source_tokens_processed": 211
+        },
+        {
+          "token": 226,
+          "support": 1.028883487575397,
+          "refutation": -2.4255043116602546,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.149612512773291,
+          "source_tokens_processed": 212
+        },
+        {
+          "token": 134,
+          "support": 3.199581904425092,
+          "refutation": -0.2908373222302988,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 4.315015760061398,
+          "source_tokens_processed": 213
+        },
+        {
+          "token": 146,
+          "support": 2.839876780788032,
+          "refutation": -0.7707000968564417,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.839876780788032,
+          "source_tokens_processed": 214
+        },
+        {
+          "token": 111,
+          "support": 1.0187355295202722,
+          "refutation": -3.444395611305201,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.3585416755494766,
+          "source_tokens_processed": 215
+        },
+        {
+          "token": 114,
+          "support": 2.052736479889715,
+          "refutation": -3.31069565061188,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.052736479889715,
+          "source_tokens_processed": 216
+        },
+        {
+          "token": 97,
+          "support": 2.176165660519258,
+          "refutation": -0.9243828004879088,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.698950484762508,
+          "source_tokens_processed": 217
+        },
+        {
+          "token": 105,
+          "support": -0.5739566908301361,
+          "refutation": -1.571522274951876,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1786472280122773,
+          "source_tokens_processed": 218
+        },
+        {
+          "token": 117,
+          "support": -0.5051234810370646,
+          "refutation": -4.553738351892425,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.013266319906335,
+          "source_tokens_processed": 219
+        },
+        {
+          "token": 116,
+          "support": 1.6946342717923235,
+          "refutation": -5.0420167528445,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.671310322198864,
+          "source_tokens_processed": 220
+        },
+        {
+          "token": 111,
+          "support": 2.8858065274101925,
+          "refutation": -6.611030991794035,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 4.046818610956512,
+          "source_tokens_processed": 221
+        },
+        {
+          "token": 114,
+          "support": 2.2278540090108283,
+          "refutation": -3.2990420009541666,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2278540090108283,
+          "source_tokens_processed": 222
+        },
+        {
+          "token": 105,
+          "support": 2.251549969977593,
+          "refutation": -1.7868486953052887,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.8691172338736166,
+          "source_tokens_processed": 223
+        },
+        {
+          "token": 111,
+          "support": 1.5917195503517518,
+          "refutation": -4.704703980931831,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0022305684228545,
+          "source_tokens_processed": 224
+        },
+        {
+          "token": 110,
+          "support": 1.7876042226143454,
+          "refutation": -2.346370719875554,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0838263942671222,
+          "source_tokens_processed": 225
+        },
+        {
+          "token": 34,
+          "support": 2.9212262764005104,
+          "refutation": -2.795492532615466,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 226
+        },
+        {
+          "token": 109,
+          "support": -1.8369969523476624,
+          "refutation": -4.019061854532354,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.202307357425427,
+          "source_tokens_processed": 227
+        },
+        {
+          "token": 101,
+          "support": 3.1064876965436485,
+          "refutation": -2.202561395662698,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.616833925928002,
+          "source_tokens_processed": 228
+        },
+        {
+          "token": 97,
+          "support": 0.28571759958300896,
+          "refutation": -0.7828308846166981,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 229
+        },
+        {
+          "token": 114,
+          "support": 2.852731180989963,
+          "refutation": -3.282219872515353,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.852731180989963,
+          "source_tokens_processed": 230
+        },
+        {
+          "token": 32,
+          "support": 3.125583511421816,
+          "refutation": -0.7258395646092233,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 231
+        },
+        {
+          "token": 102,
+          "support": -0.33562899013306197,
+          "refutation": -0.6503775740267999,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.924203969394161,
+          "source_tokens_processed": 232
+        },
+        {
+          "token": 32,
+          "support": 2.1862742660485868,
+          "refutation": -1.3822565477080362,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.481762796152977,
+          "source_tokens_processed": 233
+        },
+        {
+          "token": 98,
+          "support": -0.5264527058086668,
+          "refutation": 0.14602311714272537,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.1447236573371251,
+          "source_tokens_processed": 234
+        },
+        {
+          "token": 111,
+          "support": 1.7457775373236157,
+          "refutation": -2.6416100364359543,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1261325134155538,
+          "source_tokens_processed": 235
+        },
+        {
+          "token": 116,
+          "support": 0.7031415139861199,
+          "refutation": -6.599834588344057,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.688761218003388,
+          "source_tokens_processed": 236
+        },
+        {
+          "token": 32,
+          "support": 2.438739874165896,
+          "refutation": 0.5968041157649204,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.6246025655208203,
+          "source_tokens_processed": 237
+        },
+        {
+          "token": 111,
+          "support": 0.07602363101713244,
+          "refutation": -3.5621783183174385,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.07352778776721,
+          "source_tokens_processed": 238
+        },
+        {
+          "token": 110,
+          "support": 2.598222807359548,
+          "refutation": -2.45509025143938,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.598222807359548,
+          "source_tokens_processed": 239
+        },
+        {
+          "token": 105,
+          "support": 0.9680422253689297,
+          "refutation": -1.8895446516164018,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.7607394783724013,
+          "source_tokens_processed": 240
+        },
+        {
+          "token": 110,
+          "support": 2.334196501191405,
+          "refutation": -3.339583540696175,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.5544022109993827,
+          "source_tokens_processed": 241
+        },
+        {
+          "token": 107,
+          "support": -1.4901083606967727,
+          "refutation": -3.3186570149466856,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 242
+        },
+        {
+          "token": 105,
+          "support": 3.1214346583202257,
+          "refutation": -3.992068270086171,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.30362542613424326,
+          "source_tokens_processed": 243
+        },
+        {
+          "token": 116,
+          "support": 2.9328201855495926,
+          "refutation": -4.4139088064755105,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8414283991563731,
+          "source_tokens_processed": 244
+        },
+        {
+          "token": 32,
+          "support": 3.6055183701550373,
+          "refutation": -0.13896103762785506,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.782106185136823,
+          "source_tokens_processed": 245
+        },
+        {
+          "token": 105,
+          "support": 0.01613536732928858,
+          "refutation": -0.8022876668433809,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.7842091139529972,
+          "source_tokens_processed": 246
+        },
+        {
+          "token": 114,
+          "support": 0.9424819383960694,
+          "refutation": -3.157834864071992,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.311843241600392,
+          "source_tokens_processed": 247
+        },
+        {
+          "token": 101,
+          "support": 3.047228408531931,
+          "refutation": -2.5312003182749128,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4072079583456594,
+          "source_tokens_processed": 248
+        },
+        {
+          "token": 116,
+          "support": 1.2887260530226137,
+          "refutation": -3.2945431217859937,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 249
+        },
+        {
+          "token": 32,
+          "support": 2.78537672276639,
+          "refutation": 1.1094636062845606,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.3153708887649915,
+          "source_tokens_processed": 250
+        },
+        {
+          "token": 32,
+          "support": 0.4002747954458592,
+          "refutation": 1.1776714753719777,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.5127959359314839,
+          "source_tokens_processed": 251
+        },
+        {
+          "token": 71,
+          "support": -3.739603686687158,
+          "refutation": -6.674319600392942,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.49876124285653134,
+          "source_tokens_processed": 252
+        },
+        {
+          "token": 97,
+          "support": -0.12897176706126184,
+          "refutation": 1.0314425796975026,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.35866374682379487,
+          "source_tokens_processed": 253
+        },
+        {
+          "token": 114,
+          "support": 1.8291208267495158,
+          "refutation": -2.824174964702565,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.260847056710812,
+          "source_tokens_processed": 254
+        },
+        {
+          "token": 111,
+          "support": 2.7435662369462372,
+          "refutation": -4.569150892373852,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2076300266433524,
+          "source_tokens_processed": 255
+        },
+        {
+          "token": 110,
+          "support": 2.623078091761647,
+          "refutation": -3.942773898221728,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.623078091761647,
+          "source_tokens_processed": 256
+        },
+        {
+          "token": 99,
+          "support": 0.739032534063429,
+          "refutation": -1.8592468097911166,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 257
+        },
+        {
+          "token": 111,
+          "support": 3.6827703219068746,
+          "refutation": -4.011240949938779,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8134869409540944,
+          "source_tokens_processed": 258
+        },
+        {
+          "token": 110,
+          "support": 2.7938062591779147,
+          "refutation": -4.052812462464565,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7938062591779147,
+          "source_tokens_processed": 259
+        },
+        {
+          "token": 100,
+          "support": 1.8894921689974695,
+          "refutation": -1.7341574884077975,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 260
+        },
+        {
+          "token": 32,
+          "support": 4.610499380893952,
+          "refutation": -1.4967052773860203,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.3027470296018481,
+          "source_tokens_processed": 261
+        },
+        {
+          "token": 97,
+          "support": 0.9016891223773972,
+          "refutation": -1.1318292815286553,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.9016891223773972,
+          "source_tokens_processed": 262
+        },
+        {
+          "token": 109,
+          "support": 0.8448436652043896,
+          "refutation": -1.962851390497747,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2335148861925505,
+          "source_tokens_processed": 263
+        },
+        {
+          "token": 97,
+          "support": 3.0104855715458156,
+          "refutation": -1.5940385390011484,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7563768036287226,
+          "source_tokens_processed": 264
+        },
+        {
+          "token": 32,
+          "support": 1.0296695801275113,
+          "refutation": 0.8553777166944418,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.185522484163978,
+          "source_tokens_processed": 265
+        },
+        {
+          "token": 32,
+          "support": 0.4791193407506059,
+          "refutation": 0.5702588587966659,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.0841234950945529,
+          "source_tokens_processed": 266
+        },
+        {
+          "token": 101,
+          "support": 0.37588620989203436,
+          "refutation": -0.7020493109847866,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.0249032709393302,
+          "source_tokens_processed": 267
+        },
+        {
+          "token": 32,
+          "support": 2.4532736317937847,
+          "refutation": 2.5974601527121077,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4532736317937847,
+          "source_tokens_processed": 268
+        },
+        {
+          "token": 97,
+          "support": 0.9935550685697426,
+          "refutation": -1.4263507748659578,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.9935550685697426,
+          "source_tokens_processed": 269
+        },
+        {
+          "token": 111,
+          "support": 0.7307646419628293,
+          "refutation": -4.412718385942228,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.29432926074223,
+          "source_tokens_processed": 270
+        },
+        {
+          "token": 110,
+          "support": 3.153723842921065,
+          "refutation": -3.7623411164079954,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.153723842921065,
+          "source_tokens_processed": 271
+        },
+        {
+          "token": 32,
+          "support": 2.761261097430576,
+          "refutation": 0.9655250100367839,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 272
+        },
+        {
+          "token": 114,
+          "support": 0.5501022402776194,
+          "refutation": -3.353647252076688,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.004972869756885,
+          "source_tokens_processed": 273
+        },
+        {
+          "token": 97,
+          "support": 2.1313568582330067,
+          "refutation": -1.689647631429274,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7670955225455365,
+          "source_tokens_processed": 274
+        },
+        {
+          "token": 118,
+          "support": -0.551776658725376,
+          "refutation": -2.7348215468126593,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.592622465183787,
+          "source_tokens_processed": 275
+        },
+        {
+          "token": 111,
+          "support": 2.7752658146685065,
+          "refutation": -4.009227352625527,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.6182688523875504,
+          "source_tokens_processed": 276
+        },
+        {
+          "token": 116,
+          "support": 1.2701263050362424,
+          "refutation": -6.096648908882645,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.693781204783985,
+          "source_tokens_processed": 277
+        },
+        {
+          "token": 32,
+          "support": 2.5249418078941392,
+          "refutation": 1.3901064160991168,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.191991352925247,
+          "source_tokens_processed": 278
+        },
+        {
+          "token": 100,
+          "support": -0.2063556081427043,
+          "refutation": 0.1244681510621737,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.9831623496744433,
+          "source_tokens_processed": 279
+        },
+        {
+          "token": 111,
+          "support": 1.1512749475420396,
+          "refutation": -5.0988332130841565,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.496165292909174,
+          "source_tokens_processed": 280
+        },
+        {
+          "token": 114,
+          "support": 2.0488942881927343,
+          "refutation": -3.3868825385091883,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.728088246277031,
+          "source_tokens_processed": 281
+        },
+        {
+          "token": 108,
+          "support": 0.7318643481300324,
+          "refutation": -3.5832503143950953,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.833327647568629,
+          "source_tokens_processed": 282
+        },
+        {
+          "token": 115,
+          "support": 1.1358547653056914,
+          "refutation": -2.6403380559192455,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.975051206092818,
+          "source_tokens_processed": 283
+        },
+        {
+          "token": 32,
+          "support": 2.0261484368786644,
+          "refutation": 2.367451383075264,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.367451383075264,
+          "source_tokens_processed": 284
+        },
+        {
+          "token": 99,
+          "support": 0.18343069202811693,
+          "refutation": -0.46523105230920914,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.9419035353628229,
+          "source_tokens_processed": 285
+        },
+        {
+          "token": 116,
+          "support": 3.362708176479978,
+          "refutation": -2.35972700494681,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8817616494412788,
+          "source_tokens_processed": 286
+        },
+        {
+          "token": 32,
+          "support": 2.6876862104998653,
+          "refutation": -0.9072904330889471,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.7145472303998359,
+          "source_tokens_processed": 287
+        },
+        {
+          "token": 119,
+          "support": -0.3487402227840938,
+          "refutation": -3.98842290578171,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.46727201528891804,
+          "source_tokens_processed": 288
+        },
+        {
+          "token": 105,
+          "support": 2.33651882396149,
+          "refutation": -2.8731656551903155,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.33651882396149,
+          "source_tokens_processed": 289
+        },
+        {
+          "token": 100,
+          "support": 0.7275994870731088,
+          "refutation": -0.5695031413894933,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.074423375502671,
+          "source_tokens_processed": 290
+        },
+        {
+          "token": 47,
+          "support": -3.6505919778586176,
+          "refutation": -2.2607758749922024,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.447206887031971,
+          "source_tokens_processed": 291
+        },
+        {
+          "token": 116,
+          "support": 0.6924389025970563,
+          "refutation": -5.396639026193341,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.426350429498,
+          "source_tokens_processed": 292
+        },
+        {
+          "token": 110,
+          "support": -0.20986218481635366,
+          "refutation": -2.7418459904951966,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.404555193231145,
+          "source_tokens_processed": 293
+        },
+        {
+          "token": 111,
+          "support": 0.303261516526414,
+          "refutation": -3.7784372677610074,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.5021284910674613,
+          "source_tokens_processed": 294
+        },
+        {
+          "token": 109,
+          "support": 0.7105272416769197,
+          "refutation": -2.3531760479602726,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.0784583258345686,
+          "source_tokens_processed": 295
+        },
+        {
+          "token": 115,
+          "support": 1.3989854110655309,
+          "refutation": -1.930558170495138,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.166212343091705,
+          "source_tokens_processed": 296
+        },
+        {
+          "token": 32,
+          "support": 1.7559082778724449,
+          "refutation": 1.9049470848285943,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.3417475564128445,
+          "source_tokens_processed": 297
+        },
+        {
+          "token": 114,
+          "support": 0.20457294763139777,
+          "refutation": -2.763572882898054,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.39390273741885706,
+          "source_tokens_processed": 298
+        },
+        {
+          "token": 101,
+          "support": 2.222357460300372,
+          "refutation": -1.2483991131603847,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.222357460300372,
+          "source_tokens_processed": 299
+        },
+        {
+          "token": 97,
+          "support": 0.5466361418563501,
+          "refutation": -0.7287584320721875,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.6050710022013377,
+          "source_tokens_processed": 300
+        },
+        {
+          "token": 108,
+          "support": 2.29604015203499,
+          "refutation": -3.0881107803165864,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.895218472690218,
+          "source_tokens_processed": 301
+        },
+        {
+          "token": 109,
+          "support": 0.30685902563217643,
+          "refutation": -2.309292390127812,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 302
+        },
+        {
+          "token": 115,
+          "support": 1.829326837853012,
+          "refutation": -1.9373238539020545,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.8905287263016355,
+          "source_tokens_processed": 303
+        },
+        {
+          "token": 32,
+          "support": 4.1855512751507105,
+          "refutation": 0.8896585073882194,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 304
+        },
+        {
+          "token": 118,
+          "support": -1.017918920609892,
+          "refutation": -2.291924348344975,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.6333129471277885,
+          "source_tokens_processed": 305
+        },
+        {
+          "token": 97,
+          "support": 3.524838333029794,
+          "refutation": -1.3113276403154832,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.5432310147395745,
+          "source_tokens_processed": 306
+        },
+        {
+          "token": 114,
+          "support": 1.9085208550912385,
+          "refutation": -2.6971589042651862,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.3979150348574816,
+          "source_tokens_processed": 307
+        },
+        {
+          "token": 32,
+          "support": 2.0332192498701542,
+          "refutation": 0.449491319993218,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.674582078248417,
+          "source_tokens_processed": 308
+        },
+        {
+          "token": 114,
+          "support": 0.3453376888323356,
+          "refutation": -2.272996125619609,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.46952630683740276,
+          "source_tokens_processed": 309
+        },
+        {
+          "token": 32,
+          "support": 2.2330212087241614,
+          "refutation": 0.45864432766051144,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7093531545074794,
+          "source_tokens_processed": 310
+        },
+        {
+          "token": 101,
+          "support": -0.9595282635954493,
+          "refutation": 0.03424315103547959,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.5415240202558255,
+          "source_tokens_processed": 311
+        },
+        {
+          "token": 32,
+          "support": 2.1597727822045982,
+          "refutation": 3.716028075411825,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1917638690136005,
+          "source_tokens_processed": 312
+        },
+        {
+          "token": 97,
+          "support": 0.0705577234305742,
+          "refutation": -1.0061893239002981,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.6424315635057751,
+          "source_tokens_processed": 313
+        },
+        {
+          "token": 99,
+          "support": 0.9786439522213528,
+          "refutation": -0.5589143598625017,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2828650551595207,
+          "source_tokens_processed": 314
+        },
+        {
+          "token": 116,
+          "support": 2.561663093704745,
+          "refutation": -4.353060925026786,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.561663093704745,
+          "source_tokens_processed": 315
+        },
+        {
+          "token": 32,
+          "support": 3.1683203925905077,
+          "refutation": 0.8105071275315767,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.059010003209279,
+          "source_tokens_processed": 316
+        },
+        {
+          "token": 115,
+          "support": 0.1756786987215003,
+          "refutation": -1.4071515203362064,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.9939442353071439,
+          "source_tokens_processed": 317
+        },
+        {
+          "token": 32,
+          "support": 2.1053618016748503,
+          "refutation": 2.2666781473515347,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.0254262876138514,
+          "source_tokens_processed": 318
+        },
+        {
+          "token": 111,
+          "support": 0.5947247768616346,
+          "refutation": -4.014795119675658,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.0318948454227668,
+          "source_tokens_processed": 319
+        },
+        {
+          "token": 109,
+          "support": 0.21529218692967428,
+          "refutation": -2.5005478673894905,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.9338320280180796,
+          "source_tokens_processed": 320
+        },
+        {
+          "token": 114,
+          "support": 1.4565097632553543,
+          "refutation": -3.8786312949725907,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4685815118191363,
+          "source_tokens_processed": 321
+        },
+        {
+          "token": 118,
+          "support": 0.04535840434998237,
+          "refutation": -3.050297225889814,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.3526777282851006,
+          "source_tokens_processed": 322
+        },
+        {
+          "token": 101,
+          "support": 3.9969315224885076,
+          "refutation": -1.3242941438060503,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.733528233566992,
+          "source_tokens_processed": 323
+        },
+        {
+          "token": 32,
+          "support": 1.9265011086873094,
+          "refutation": 2.802196221190883,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.354619517824741,
+          "source_tokens_processed": 324
+        },
+        {
+          "token": 116,
+          "support": 1.1376092787956578,
+          "refutation": -4.4097098628712805,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.1376092787956578,
+          "source_tokens_processed": 325
+        },
+        {
+          "token": 111,
+          "support": 2.7606497427412133,
+          "refutation": -6.916347830108737,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 4.042344021829103,
+          "source_tokens_processed": 326
+        },
+        {
+          "token": 100,
+          "support": 0.7462622668439562,
+          "refutation": -1.2064528390224203,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.037081238966997,
+          "source_tokens_processed": 327
+        },
+        {
+          "token": 104,
+          "support": 0.09380005593194338,
+          "refutation": -5.842848469394485,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.80179266272583,
+          "source_tokens_processed": 328
+        },
+        {
+          "token": 109,
+          "support": -0.13330116854342883,
+          "refutation": 0.309992612739497,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.4810575869798797,
+          "source_tokens_processed": 329
+        },
+        {
+          "token": 104,
+          "support": 0.9920697595275079,
+          "refutation": -6.797824119663123,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.2579483385436796,
+          "source_tokens_processed": 330
+        },
+        {
+          "token": 101,
+          "support": 4.847981687634179,
+          "refutation": -2.4363468081757875,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 331
+        },
+        {
+          "token": 34,
+          "support": 2.2920613445273315,
+          "refutation": 0.1694902778487008,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 332
+        },
+        {
+          "token": 58,
+          "support": 3.7229114376757004,
+          "refutation": -1.3951692617091531,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.83007287641716,
+          "source_tokens_processed": 333
+        },
+        {
+          "token": 32,
+          "support": 7.285506212589789,
+          "refutation": 0.006788967100522791,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.3995027403090125,
+          "source_tokens_processed": 334
+        },
+        {
+          "token": 91,
+          "support": -0.8705034014152621,
+          "refutation": -5.511094823191323,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5361774966521247,
+          "source_tokens_processed": 335
+        },
+        {
+          "token": 32,
+          "support": -0.44445268684677997,
+          "refutation": -0.6503198791654612,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.21053786722561332,
+          "source_tokens_processed": 336
+        },
+        {
+          "token": 34,
+          "support": 3.4226677285794596,
+          "refutation": -1.3513228507027033,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7900695319187043,
+          "source_tokens_processed": 337
+        },
+        {
+          "token": 32,
+          "support": 0.36835664242308885,
+          "refutation": 0.5163418698362345,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7329038268162023,
+          "source_tokens_processed": 338
+        },
+        {
+          "token": 36,
+          "support": -3.0492213189139155,
+          "refutation": -2.165577938122822,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.8775961839467552,
+          "source_tokens_processed": 339
+        },
+        {
+          "token": 32,
+          "support": 1.8199877513505562,
+          "refutation": 0.1422164326233062,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.7982050011161785,
+          "source_tokens_processed": 340
+        },
+        {
+          "token": 101,
+          "support": 0.29159866683515834,
+          "refutation": -0.5190288548560648,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.5071519057084,
+          "source_tokens_processed": 341
+        },
+        {
+          "token": 32,
+          "support": 2.7016438368859808,
+          "refutation": 2.1775590830393394,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.7016438368859808,
+          "source_tokens_processed": 342
+        },
+        {
+          "token": 116,
+          "support": 0.9797930589107491,
+          "refutation": -4.157061001336022,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.4557567420947897,
+          "source_tokens_processed": 343
+        },
+        {
+          "token": 105,
+          "support": 3.13948982179154,
+          "refutation": -3.1697781189900645,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.617716705842489,
+          "source_tokens_processed": 344
+        },
+        {
+          "token": 110,
+          "support": 2.1612532026031026,
+          "refutation": -3.7046827721345825,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.1612532026031026,
+          "source_tokens_processed": 345
+        },
+        {
+          "token": 99,
+          "support": 1.333050156772852,
+          "refutation": -1.0784557229516158,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 346
+        },
+        {
+          "token": 116,
+          "support": 4.187105199931591,
+          "refutation": -2.832125264192093,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.9076419208569901,
+          "source_tokens_processed": 347
+        },
+        {
+          "token": 104,
+          "support": 2.7200704308134704,
+          "refutation": -7.530958504233427,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.234134256736636,
+          "source_tokens_processed": 348
+        },
+        {
+          "token": 101,
+          "support": 4.133211698420407,
+          "refutation": -2.6514214631652155,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 349
+        },
+        {
+          "token": 101,
+          "support": 1.1299023152658996,
+          "refutation": -1.4112156932997784,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 350
+        },
+        {
+          "token": 105,
+          "support": 0.2348457716777588,
+          "refutation": -2.8595019379080284,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 351
+        },
+        {
+          "token": 111,
+          "support": 3.8925624520151243,
+          "refutation": -4.283147357973409,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.409604509998162,
+          "source_tokens_processed": 352
+        },
+        {
+          "token": 119,
+          "support": -0.07151866703768262,
+          "refutation": -5.664962662280276,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.6375104338979445,
+          "source_tokens_processed": 353
+        },
+        {
+          "token": 105,
+          "support": 2.5490916300251403,
+          "refutation": -4.725520958314381,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 354
+        },
+        {
+          "token": 110,
+          "support": 3.2145398396538822,
+          "refutation": -3.768825372679538,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.5146313092678696,
+          "source_tokens_processed": 355
+        },
+        {
+          "token": 103,
+          "support": 1.4654523603933962,
+          "refutation": -2.4429013522642973,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 356
+        },
+        {
+          "token": 32,
+          "support": 4.776743483799726,
+          "refutation": -0.07279527800231567,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.2035912697789555,
+          "source_tokens_processed": 357
+        },
+        {
+          "token": 99,
+          "support": -0.24743500277082817,
+          "refutation": -0.6929958555725823,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 1.0315197236843374,
+          "source_tokens_processed": 358
+        },
+        {
+          "token": 32,
+          "support": 0.8450930522387687,
+          "refutation": 0.6368432677012692,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.0845299940405666,
+          "source_tokens_processed": 359
+        },
+        {
+          "token": 226,
+          "support": -1.0824390591763806,
+          "refutation": 0.010059215340087468,
+          "state": "Ff",
+          "mass": 0.5,
+          "tension": 0.8730212480754892,
+          "source_tokens_processed": 360
+        },
+        {
+          "token": 128,
+          "support": 3.0251546453679743,
+          "refutation": -12.906774786922835,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 4.021765200970589,
+          "source_tokens_processed": 361
+        },
+        {
+          "token": 226,
+          "support": 3.691527763314925,
+          "refutation": -3.6628933342247723,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.691527763314925,
+          "source_tokens_processed": 362
+        },
+        {
+          "token": 240,
+          "support": 2.6500148677401274,
+          "refutation": 2.2250026852775138,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 3.9444362622482743,
+          "source_tokens_processed": 363
+        },
+        {
+          "token": 144,
+          "support": 2.82552911769758,
+          "refutation": -6.375544395404243,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.8038144742421327,
+          "source_tokens_processed": 364
+        },
+        {
+          "token": 34,
+          "support": 2.311844818620105,
+          "refutation": -2.217752149568259,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 1.497124580074835,
+          "source_tokens_processed": 365
+        },
+        {
+          "token": 125,
+          "support": 4.646547345607402,
+          "refutation": -5.501101913701457,
+          "state": "TFtf",
+          "mass": 1.0,
+          "tension": 2.403529284775877,
+          "source_tokens_processed": 366
+        },
+        {
+          "token": 258,
+          "support": 5.292516801022393,
+          "refutation": 3.453830726232165,
+          "state": "Tt",
+          "mass": 0.5,
+          "tension": 0.0,
+          "source_tokens_processed": 367
+        }
+      ]
+    }
+  ]
+}
